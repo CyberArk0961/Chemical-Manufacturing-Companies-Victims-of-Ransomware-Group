@@ -10,8 +10,9 @@ import os
 from datetime import datetime
 
 API_URL = "https://api.ransomware.live/v2/recentvictims"
-API_KEY = os.getenv("RANSOMWARE_LIVE_API_KEY")  # pulled securely
+API_KEY = os.getenv("RANSOMWARE_LIVE_API_KEY")
 KEYWORD = "chemical"
+INDUSTRY = "Chemical"
 OUTPUT_DIR = "output"
 
 if not API_KEY:
@@ -29,6 +30,16 @@ def fetch_data():
     response.raise_for_status()
     return response.json()
 
+def extract_domain(item):
+    """
+    Try best-effort domain extraction
+    """
+    return (
+        item.get("domain")
+        or item.get("website")
+        or "N/A"
+    )
+
 def filter_chemical(data):
     results = []
 
@@ -37,7 +48,9 @@ def filter_chemical(data):
             results.append({
                 "date": item.get("discovered", "")[:10],
                 "victim": item.get("victim", "N/A"),
+                "domain": extract_domain(item),
                 "country": item.get("country", "N/A"),
+                "industry": INDUSTRY,
                 "ransomware_group": item.get("group", "N/A")
             })
 
@@ -53,7 +66,14 @@ def save_csv(rows):
     with open(filename, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["date", "victim", "country", "ransomware_group"]
+            fieldnames=[
+                "date",
+                "victim",
+                "domain",
+                "country",
+                "industry",
+                "ransomware_group"
+            ]
         )
         writer.writeheader()
         writer.writerows(rows)
