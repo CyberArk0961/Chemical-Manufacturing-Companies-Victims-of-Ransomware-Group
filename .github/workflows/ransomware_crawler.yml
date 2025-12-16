@@ -1,0 +1,37 @@
+name: Chemical Ransomware Crawler
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs every 24 hours (UTC)
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run crawler
+        env:
+          RANSOMWARE_LIVE_API_KEY: ${{ secrets.RANSOMWARE_LIVE_API_KEY }}
+        run: |
+          python crawler/chemical_ransomware_crawler.py
+
+      - name: Commit and push results
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add output/*.csv
+          git commit -m "Daily chemical ransomware update" || echo "No changes"
+          git push
