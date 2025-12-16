@@ -1,2 +1,2 @@
-date,victim,country,ransomware_group
-2025-12-15,International Standard Valve,US,akira
+date,victim,domain,country,industry,ransomware_group
+2025-12-15,International Standard Valve,N/A,US,Chemical,akira
