@@ -27,7 +27,7 @@ jobs:
       - name: Run crawler
         env:
           RANSOMWARE_LIVE_API_KEY: ${{ secrets.RANSOMWARE_LIVE_API_KEY }}
-        run: python chemical_ransomware_crawler.py
+        run: python crawler/chemical_ransomware_crawler.py
 
       - name: Commit and push results
         run: |
