@@ -1,0 +1,5 @@
+date,victim,domain,country,industry,ransomware_group
+2026-02-01,Hosowaka Micron Group,N/A,JP,Chemical,everest
+2026-01-31,PureStream Water Corp,N/A,US,Chemical,0apt
+2026-01-30,GreenValley Agriculture,N/A,,Chemical,0apt
+2026-01-30,Abatix,www.zoominfo.com,US,Chemical,thegentlemen
