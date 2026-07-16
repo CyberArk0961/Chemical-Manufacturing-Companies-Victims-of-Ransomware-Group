@@ -1,0 +1,6 @@
+date,victim,domain,country,industry,ransomware_group
+2026-07-14,spectrumchemical.com,spectrumchemical.com,US,Chemical,chaos
+2026-07-15,Isegen South Africa (Pty) Ltd,www.isegen.co.za,ZA,Chemical,dragonforce
+2026-07-13,www.twtci.com Trans World Trading,twtci.com,PH,Chemical,dragonforce
+2026-07-12,Al - Saidi Factory,alsaidi.com,SA,Chemical,dragonforce
+2026-07-10,Werken Química Brasil S.A.,www.werken.com.br,BR,Chemical,Deadlock
