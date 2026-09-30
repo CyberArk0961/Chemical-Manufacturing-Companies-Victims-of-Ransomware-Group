@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-09-30T14:15:20.915Z",
+ "last_updated": "2026-09-30T19:27:48.684Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1851,
+ "count": 1853,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 173,
  "victims": [
+  {
+   "victim": "Orth Automobile",
+   "group": "play",
+   "discovered": "2026-09-30T17:36:17.500405+00:00",
+   "attackdate": "2026-09-30T17:35:58.892957+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "www.orth-automobile.de",
+   "description": "Germany",
+   "permalink": "https://www.ransomware.live/id/T3J0aCBBdXRvbW9iaWxlQHBsYXk=",
+   "press": "",
+   "infostealer": false,
+   "id": "T3J0aCBBdXRvbW9iaWxlQHBsYXk=",
+   "chemical": false
+  },
+  {
+   "victim": "Buford-Thompson Company, LTD",
+   "group": "aurora",
+   "discovered": "2026-09-30T16:55:16.586789+00:00",
+   "attackdate": "2026-09-30T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "Buford-Thompson Company, LTD",
+   "description": "[construction] Buford-Thompson Company, LTD, a Texas construction general contractor with 30+ years of history building schools for K-12 districts across the state.\n\nThe exposed dataset totals 1.707 TB and includes:\n\n5 years of W-2 EFW2 files (2021–2025) containing plaintext Social Security numbers, wages, and addresses for 350+ current and former employees — every SSN readable without any decryption.\n9.3 GB of attorney-client privileged files from the Stanton ISD v. BTC litigation — legal strategy, discovery responses, and counsel communications.\nComplete Frost Bank infrastructure — four acco",
+   "permalink": "https://www.ransomware.live/id/QnVmb3JkLVRob21wc29uIENvbXBhbnksIExUREBhdXJvcmE=",
+   "press": "",
+   "infostealer": false,
+   "id": "QnVmb3JkLVRob21wc29uIENvbXBhbnksIExUREBhdXJvcmE=",
+   "chemical": false
+  },
   {
    "victim": "Astidental di Sabbione",
    "group": "lamashtu",
