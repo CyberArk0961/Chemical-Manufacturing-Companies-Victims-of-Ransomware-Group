@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-01T16:28:42.522Z",
+ "last_updated": "2026-10-01T21:24:33.703Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Hospital Hermilio Valdizán",
+   "group": "ransomhouse",
+   "discovered": "2026-10-01T21:05:18.872506+00:00",
+   "attackdate": "2026-08-21T00:00:00+00:00",
+   "country": "PE",
+   "activity": "Healthcare",
+   "website": "www.hhv.gob.pe",
+   "description": "HHV public psychiatric hospital in Lima, Peru, operated by MINSA. It provides specialized mental health services, including inpatient and outpatient psychiatric care, psychotherapy, rehabilitation, and neurology. Its main clients are low-income patients, many covered by SIS. ",
+   "permalink": "https://www.ransomware.live/id/SG9zcGl0YWwgSGVybWlsaW8gVmFsZGl6w6FuQHJhbnNvbWhvdXNl",
+   "press": "",
+   "infostealer": false,
+   "id": "SG9zcGl0YWwgSGVybWlsaW8gVmFsZGl6w6FuQHJhbnNvbWhvdXNl"
+  },
+  {
+   "victim": "Slate Valley Unified School District",
+   "group": "kairos",
+   "discovered": "2026-10-01T19:00:23.598688+00:00",
+   "attackdate": "2026-10-01T00:00:00+00:00",
+   "country": "US",
+   "activity": "Education",
+   "website": "",
+   "description": "The Slate Valley Unified Union School District is a public school district located in Fair Haven, Vermont, serving the communities of Benson, Castleton, Fair Haven, Hubbardton, Orwell, and West Haven. The data also includes 647 GB of SQL databases containing personal and medical information about students and employees.",
+   "permalink": "https://www.ransomware.live/id/U2xhdGUgVmFsbGV5IFVuaWZpZWQgU2Nob29sIERpc3RyaWN0QGthaXJvcw==",
+   "press": "",
+   "infostealer": false,
+   "id": "U2xhdGUgVmFsbGV5IFVuaWZpZWQgU2Nob29sIERpc3RyaWN0QGthaXJvcw=="
+  },
   {
    "victim": "steelco",
    "group": "AuditTeam",
@@ -889,9 +917,9 @@
    "victim": "Solaria",
    "group": "thegentlemen",
    "discovered": "2026-09-30T03:39:40.566854+00:00",
-   "attackdate": "2026-09-29T15:01:15+00:00",
+   "attackdate": "2026-09-29T00:00:00+00:00",
    "country": "ID",
-   "activity": "Energy & Utilities",
+   "activity": "Agriculture and Food Production",
    "website": "solariaresto.co.id",
    "description": "solariaresto.co.id zoominfo.com/c/solaria-restaurant/547046417 Solaria (founded 1991 in Cikarang by Aliuyanto, a UGM economics graduate) is one of Indonesia's biggest family restaurant chains — 200+ outlets in 55 cities across 31 provinces, employing thousands of people. It serves affordable Asian-Indonesian comfort food (fried rice, noodles, kwetiau, chicken and seafood dishes) famous for huge \"jumbo\" portions at Rp23k–55k, targeting middle-class families and mall shoppers. Its key differentiator is that it is 100% company-owned under PT Sinar Solaria — no franchises at all — which keeps tast",
    "permalink": "https://www.ransomware.live/id/U29sYXJpYUB0aGVnZW50bGVtZW4=",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "QUhlYWRTdGFydCBUdXRvcmluZ0BHYW1tYXg="
-  },
-  {
-   "victim": "Crowder Industries, Inc",
-   "group": "Gammax",
-   "discovered": "2026-09-29T16:22:06.036328+00:00",
-   "attackdate": "2026-09-29T15:39:33+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "crowderindustries.com",
-   "description": "Crowder Industries, Inc was established in 1969. Its mission is to provide meaningful and dignified work for disabled members of the community. It has...",
-   "permalink": "https://www.ransomware.live/id/Q3Jvd2RlciBJbmR1c3RyaWVzLCBJbmNAR2FtbWF4",
-   "press": "",
-   "infostealer": false,
-   "id": "Q3Jvd2RlciBJbmR1c3RyaWVzLCBJbmNAR2FtbWF4"
-  },
-  {
-   "victim": "latitudesubro.com",
-   "group": "BrainCipher",
-   "discovered": "2026-09-29T15:51:06.957366+00:00",
-   "attackdate": "2026-09-29T15:50:32.418437+00:00",
-   "country": "BR",
-   "activity": "Manufacturing",
-   "website": "latitudesubro.com",
-   "description": "[AI generated] N/A",
-   "permalink": "https://www.ransomware.live/id/bGF0aXR1ZGVzdWJyby5jb21AQnJhaW5DaXBoZXI=",
-   "press": "",
-   "infostealer": false,
-   "id": "bGF0aXR1ZGVzdWJyby5jb21AQnJhaW5DaXBoZXI="
   }
  ]
 }
