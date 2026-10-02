@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-10-02T01:05:50.050Z",
+ "last_updated": "2026-10-02T13:54:02.756Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1690,
+ "count": 1693,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 155,
+ "chemical_matches": 156,
  "victims": [
+  {
+   "victim": "Tronex A/S",
+   "group": "Wallstreet",
+   "discovered": "2026-10-02T11:55:03.245906+00:00",
+   "attackdate": "2026-10-02T11:34:12+00:00",
+   "country": "DK",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Tronex A/S is a Danish Electronics Manufacturing Services (EMS) company headquartered in Fredensborg, Denmark. Founded in 1988, Tronex provides electronics manufacturing, assembly, testing, procurement, prototyping, and technical production solutions for industrial customers",
+   "permalink": "https://www.ransomware.live/id/VHJvbmV4IEEvU0BXYWxsc3RyZWV0",
+   "press": "",
+   "infostealer": false,
+   "id": "VHJvbmV4IEEvU0BXYWxsc3RyZWV0",
+   "chemical": false
+  },
+  {
+   "victim": "mcpolymers.com",
+   "group": "settra",
+   "discovered": "2026-10-02T09:03:48.846623+00:00",
+   "attackdate": "2026-09-23T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "mcpolymers.com",
+   "description": "MCPolymers.com: 27 Years of Corporate Secrets PROLOGUE This article contains only a portion of the d...",
+   "permalink": "https://www.ransomware.live/id/bWNwb2x5bWVycy5jb21Ac2V0dHJh",
+   "press": "",
+   "infostealer": false,
+   "id": "bWNwb2x5bWVycy5jb21Ac2V0dHJh",
+   "chemical": true
+  },
+  {
+   "victim": "Far West Contractors",
+   "group": "Deadlock",
+   "discovered": "2026-10-02T07:50:37.065816+00:00",
+   "attackdate": "2026-10-02T07:50:35.643191+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "farwestcontractors.com",
+   "description": "Far West Contractors is a commercial construction company and general contractor headquartered in Placentia, California Founded in 2009, the company specializes in SCIF(Sensitive Compartmented Information Facilities) construction projects for high-security facilities, as well as tenant improvements in the aerospace and defense industry. Their well-known project partners and clients include Boeing, Jet Propulsion Laboratory (JPL), and Northrop Grumman [url=farwestcontractors.com]farwestcontractors.com[/url]",
+   "permalink": "https://www.ransomware.live/id/RmFyIFdlc3QgQ29udHJhY3RvcnNARGVhZGxvY2s=",
+   "press": "",
+   "infostealer": false,
+   "id": "RmFyIFdlc3QgQ29udHJhY3RvcnNARGVhZGxvY2s=",
+   "chemical": false
+  },
   {
    "victim": "steelco",
    "group": "AuditTeam",
