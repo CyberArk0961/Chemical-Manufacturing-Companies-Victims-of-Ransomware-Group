@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-02T01:05:50.008Z",
+ "last_updated": "2026-10-02T07:02:03.448Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Automovil Club del Ecuador ANETA",
+   "group": "Barracuda",
+   "discovered": "2026-10-02T04:50:21.376543+00:00",
+   "attackdate": "2026-10-02T04:50:16.222177+00:00",
+   "country": "EC",
+   "activity": "Transportation",
+   "website": "",
+   "description": "We have a database of all the car club's customers and applications, photos of customers, financial documents, and a complete dump of emails from the mail server for the entire year:\n\naanaluisa@aneta.org.ec.tgz\nabenavides@aneta.org.ec.tgz\nabermudez@aneta.org.ec.tgz\nabonilla@aneta.org.ec.tgz\nabozzano@aneta.org.ec.tgz\nacademicobabahoyo@aneta.org.ec.tgz\nacademicomachala@aneta.org.ec.tgz\nacademico_biloxi@aneta.org.ec.tgz\nacademico_gaspar@aneta.org.ec.tgz\nacademico_latacunga@aneta.org.ec.tgz\nachamchay@aneta.org.ec.tgz\nadavila@aneta.org.ec.tgz\nadelhy@aneta.org.ec.tgz\nalicto@aneta.org.ec.tgz\nambiente",
+   "permalink": "https://www.ransomware.live/id/QXV0b21vdmlsIENsdWIgZGVsIEVjdWFkb3IgQU5FVEFAQmFycmFjdWRh",
+   "press": "",
+   "infostealer": false,
+   "id": "QXV0b21vdmlsIENsdWIgZGVsIEVjdWFkb3IgQU5FVEFAQmFycmFjdWRh"
+  },
+  {
+   "victim": "Sangre de Cristo Electric Association",
+   "group": "incransom",
+   "discovered": "2026-10-02T01:33:07.817519+00:00",
+   "attackdate": "2026-10-01T00:00:00+00:00",
+   "country": "US",
+   "activity": "Energy & Utilities",
+   "website": "",
+   "description": "Sangre de Cristo Electric Association (SDCEA) has been informed that a substantial volume of sensitive information has been compromised. The affected information includes customer personally identifiable information, financial and payment data, utility account information, and information associated with the organization’s energy infrastructure and operational technology environment.\r \r The information includes details concerning electrical distribution infrastructure, substations, transformers, feeders, operational systems, renewable-generation assets, outage information, and SCADA/EMS-relate",
+   "permalink": "https://www.ransomware.live/id/U2FuZ3JlIGRlIENyaXN0byBFbGVjdHJpYyBBc3NvY2lhdGlvbkBpbmNyYW5zb20=",
+   "press": "",
+   "infostealer": false,
+   "id": "U2FuZ3JlIGRlIENyaXN0byBFbGVjdHJpYyBBc3NvY2lhdGlvbkBpbmNyYW5zb20="
+  },
   {
    "victim": "Main Place Mall",
    "group": "netrunner",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "YWR2YW50ZWNoLmNvbUBjaGFvcw=="
-  },
-  {
-   "victim": "Tekko Enterprises, Inc",
-   "group": "interlock",
-   "discovered": "2026-09-29T17:02:08.326207+00:00",
-   "attackdate": "2026-09-29T17:01:51.551262+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "https:tekkoinc.com",
-   "description": "Tekko Enterprises, Inc., a Tooele, Utah-based prime contractor with a U.S. Air Force contract at Mountain Home Air Force Base (worth over $5 million), an $829,227 U.S. Army Corps of Engineers contract for cranes in Sacramento, and recent projects in Jacob City ($1.21 million), DFCM ($3.5 million), and the Youth Center Boiler House ($138,000), as a result of security negligence, leaked confidential information, including drawings/diagrams/specifications for utility systems (fuel systems, HVAC systems), cranes, employee personal and identifying information, security clearances/ID cards, confiden",
-   "permalink": "https://www.ransomware.live/id/VGVra28gRW50ZXJwcmlzZXMsIEluY0BpbnRlcmxvY2s=",
-   "press": "",
-   "infostealer": false,
-   "id": "VGVra28gRW50ZXJwcmlzZXMsIEluY0BpbnRlcmxvY2s="
-  },
-  {
-   "victim": "Gibson Area Hospital & Health Services",
-   "group": "Wallstreet",
-   "discovered": "2026-09-29T16:52:55.484639+00:00",
-   "attackdate": "2026-09-29T16:51:35+00:00",
-   "country": "US",
-   "activity": "Healthcare",
-   "website": "gibsonhospital.org",
-   "description": "Gibson Area Hospital & Health Services is a nonprofit community hospital located in Gibson City, Illinois. It provides a range of healthcare services, including emergency care, inpatient and outpatient treatment, diagnostic testing, rehabilitation, primary care, and services for women and newborns",
-   "permalink": "https://www.ransomware.live/id/R2lic29uIEFyZWEgSG9zcGl0YWwgJiBIZWFsdGggU2VydmljZXNAV2FsbHN0cmVldA==",
-   "press": "",
-   "infostealer": true,
-   "id": "R2lic29uIEFyZWEgSG9zcGl0YWwgJiBIZWFsdGggU2VydmljZXNAV2FsbHN0cmVldA=="
   }
  ]
 }
