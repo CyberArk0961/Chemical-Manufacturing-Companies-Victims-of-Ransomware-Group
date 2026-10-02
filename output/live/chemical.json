@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-02T13:54:02.756Z",
+ "last_updated": "2026-10-02T19:21:43.543Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1693,
+ "count": 1694,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 156,
  "victims": [
+  {
+   "victim": "Inova Semiconductors GmbH",
+   "group": "qilin",
+   "discovered": "2026-10-02T14:04:15.039524+00:00",
+   "attackdate": "2026-10-02T14:03:54.179376+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "inova-semiconductors.de",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/SW5vdmEgU2VtaWNvbmR1Y3RvcnMgR21iSEBxaWxpbg==",
+   "press": "",
+   "infostealer": true,
+   "id": "SW5vdmEgU2VtaWNvbmR1Y3RvcnMgR21iSEBxaWxpbg==",
+   "chemical": false
+  },
   {
    "victim": "Tronex A/S",
    "group": "Wallstreet",
