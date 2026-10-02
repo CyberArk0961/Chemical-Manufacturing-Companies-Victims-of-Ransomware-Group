@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-02T19:21:43.522Z",
+ "last_updated": "2026-10-02T23:16:58.402Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Thai Lion Air",
+   "group": "qilin",
+   "discovered": "2026-10-02T21:04:55.711379+00:00",
+   "attackdate": "2026-10-02T21:04:33.694921+00:00",
+   "country": "TH",
+   "activity": "Transportation",
+   "website": "www.lionairthai.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/VGhhaSBMaW9uIEFpckBxaWxpbg==",
+   "press": "",
+   "infostealer": false,
+   "id": "VGhhaSBMaW9uIEFpckBxaWxpbg=="
+  },
+  {
+   "victim": "Mat Bao Corporation",
+   "group": "rhysida",
+   "discovered": "2026-10-02T20:04:32.336783+00:00",
+   "attackdate": "2026-10-02T20:04:06.819776+00:00",
+   "country": "VN",
+   "activity": "Technology",
+   "website": "",
+   "description": "Mat Bao Corporation Mat Bao Corporation offers a range of services including domain registration, cloud hosting, professional email solutions, and cloud server storage. Files: 746,108Data volume: 106.8 GBGovernment inspection materials - NEAC inspection decision No. 61/QD (29.04.2025) against the certification authority, working minutes naming state inspectors and company staff (through December 2025).Corporate core - GPKD business-registration documents bearing the owner's signature, shareholder records, tax commitments (January 2026).Personal data - national ID cards (CCCD) and employee pass",
+   "permalink": "https://www.ransomware.live/id/TWF0IEJhbyBDb3Jwb3JhdGlvbkByaHlzaWRh",
+   "press": "",
+   "infostealer": false,
+   "id": "TWF0IEJhbyBDb3Jwb3JhdGlvbkByaHlzaWRh"
+  },
   {
    "victim": "Paessolucoes",
    "group": "Panzer",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "UVVBTElUWSBTUE9SVCBUb3BzcG9ydCBJdGFsaWFAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Europrim",
-   "group": "thegentlemen",
-   "discovered": "2026-09-30T03:39:04.968151+00:00",
-   "attackdate": "2026-09-29T15:17:47+00:00",
-   "country": "FR",
-   "activity": "Healthcare",
-   "website": "euro-prim.com",
-   "description": "euro-prim.com zoominfo.com/c/europrim/1128488637 EURO-PRIM (founded 1998, Grenoble, France) is a local digital printing and reprographics company working together with its sister firm CINRA (est. 2003) as \"Europrim & CINRA\" — two production sites, ~25 staff, serving students, SMEs, large regional companies and property-management firms. Services cover digital color/B&W printing up to A3+, large-format scanning up to A0, graphic design, finishing, personalized mass mailings (including for homeowners' association meetings) and prefecture-approved numbered event tickets. The business was taken ov",
-   "permalink": "https://www.ransomware.live/id/RXVyb3ByaW1AdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": true,
-   "id": "RXVyb3ByaW1AdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Telrad Networks",
-   "group": "thegentlemen",
-   "discovered": "2026-09-30T03:38:58.778606+00:00",
-   "attackdate": "2026-09-29T15:22:28+00:00",
-   "country": "IL",
-   "activity": "Technology",
-   "website": "telrad.com",
-   "description": "telrad.com zoominfo.com/c/telrad-networks-ltd/131956879 Telrad Networks (founded 1951 in Israel as The Consolidated Telephone & Radio Company) is a 75-year-old developer of wireless broadband equipment — TD-LTE/5G base stations, subscriber CPE, point-to-multipoint backhaul radios and private-network solutions for WISPs, telcos, industry and governments in 100+ countries. Its flagship BreezeCOMPACT base stations use software-defined radio (upgradable from WiMAX to LTE, 2×2 to 4×4 without new hardware) and its \"LTE-in-a-Box\" puts a full core network inside one compact unit; the newer BreezeAIR A",
-   "permalink": "https://www.ransomware.live/id/VGVscmFkIE5ldHdvcmtzQHRoZWdlbnRsZW1lbg==",
-   "press": "",
-   "infostealer": true,
-   "id": "VGVscmFkIE5ldHdvcmtzQHRoZWdlbnRsZW1lbg=="
   }
  ]
 }
