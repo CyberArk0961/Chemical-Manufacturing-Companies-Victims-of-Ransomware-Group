@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-01T21:24:33.703Z",
+ "last_updated": "2026-10-02T01:05:50.008Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Main Place Mall",
+   "group": "netrunner",
+   "discovered": "2026-10-02T00:05:15.514808+00:00",
+   "attackdate": "2026-10-02T00:05:01.704986+00:00",
+   "country": "MY",
+   "activity": "Retail & E-Commerce",
+   "website": "www.mainplace.com.my",
+   "description": "Main Place is part of a mixed development that combines residence, leisure, retail and dining to bring you the ultimate city-suburban lifestyle.",
+   "permalink": "https://www.ransomware.live/id/TWFpbiBQbGFjZSBNYWxsQG5ldHJ1bm5lcg==",
+   "press": "",
+   "infostealer": false,
+   "id": "TWFpbiBQbGFjZSBNYWxsQG5ldHJ1bm5lcg=="
+  },
+  {
+   "victim": "EURODITEL/RESOTELECOM",
+   "group": "krybit",
+   "discovered": "2026-10-01T21:33:33.216829+00:00",
+   "attackdate": "2026-10-01T21:33:19.844246+00:00",
+   "country": "",
+   "activity": "Technology",
+   "website": "EURODITEL/RESOTELECOM",
+   "description": "Euroditel is a French managed services provider (MSP) specializing in\ntelephony and unified communications. Based in th...",
+   "permalink": "https://www.ransomware.live/id/RVVST0RJVEVML1JFU09URUxFQ09NQGtyeWJpdA==",
+   "press": "",
+   "infostealer": false,
+   "id": "RVVST0RJVEVML1JFU09URUxFQ09NQGtyeWJpdA=="
+  },
   {
    "victim": "Hospital Hermilio Valdizán",
    "group": "ransomhouse",
@@ -497,7 +525,7 @@
    "victim": "Orth Automobile",
    "group": "play",
    "discovered": "2026-09-30T17:36:17.500405+00:00",
-   "attackdate": "2026-09-30T17:35:58.892957+00:00",
+   "attackdate": "2024-03-06T00:00:00+00:00",
    "country": "DE",
    "activity": "Manufacturing",
    "website": "www.orth-automobile.de",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "R2lic29uIEFyZWEgSG9zcGl0YWwgJiBIZWFsdGggU2VydmljZXNAV2FsbHN0cmVldA=="
-  },
-  {
-   "victim": "Polikem",
-   "group": "emperador",
-   "discovered": "2026-09-29T16:51:27.538790+00:00",
-   "attackdate": "2026-09-29T16:30:00+00:00",
-   "country": "TR",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "Polikem is a Colombian company dedicated to the development, manufacture, and marketing of chemical products for industrial and automotive applications. With decades of experience, the company provides practical and reliable solutions tailored to the needs of various industries and consumers.\n\nThis leak includes sensitive information, such as the company’s financial status, inventory records, and other internal data. [Sector: Manufacturing]",
-   "permalink": "https://www.ransomware.live/id/UG9saWtlbUBlbXBlcmFkb3I=",
-   "press": "",
-   "infostealer": false,
-   "id": "UG9saWtlbUBlbXBlcmFkb3I="
-  },
-  {
-   "victim": "AHeadStart Tutoring",
-   "group": "Gammax",
-   "discovered": "2026-09-29T16:22:45.183378+00:00",
-   "attackdate": "2026-09-29T15:38:50+00:00",
-   "country": "NZ",
-   "activity": "Education",
-   "website": "aheadstart.co.nz",
-   "description": "AHeadStart is a Christchurch-based tutoring company in New Zealand that provides personalized instruction for primary, secondary, and adult learners. ...",
-   "permalink": "https://www.ransomware.live/id/QUhlYWRTdGFydCBUdXRvcmluZ0BHYW1tYXg=",
-   "press": "",
-   "infostealer": false,
-   "id": "QUhlYWRTdGFydCBUdXRvcmluZ0BHYW1tYXg="
   }
  ]
 }
