@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-03T13:25:50.473Z",
+ "last_updated": "2026-10-03T17:38:17.894Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Genesis Credit Management",
+   "group": "qilin",
+   "discovered": "2026-10-03T14:05:35.886097+00:00",
+   "attackdate": "2026-10-03T14:05:09.977974+00:00",
+   "country": "US",
+   "activity": "Financial Services",
+   "website": "www.genesiscred.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/R2VuZXNpcyBDcmVkaXQgTWFuYWdlbWVudEBxaWxpbg==",
+   "press": "",
+   "infostealer": false,
+   "id": "R2VuZXNpcyBDcmVkaXQgTWFuYWdlbWVudEBxaWxpbg=="
+  },
+  {
+   "victim": "Precon Marine Inc",
+   "group": "netrunner",
+   "discovered": "2026-10-03T14:04:39.862559+00:00",
+   "attackdate": "2026-10-03T14:04:24.490253+00:00",
+   "country": "",
+   "activity": "Transportation",
+   "website": "preconmarine.com",
+   "description": "Precon Marine, Inc. is a diversified marine contractor specializing in heavy marine construction and advanced subsea services.",
+   "permalink": "https://www.ransomware.live/id/UHJlY29uIE1hcmluZSBJbmNAbmV0cnVubmVy",
+   "press": "",
+   "infostealer": false,
+   "id": "UHJlY29uIE1hcmluZSBJbmNAbmV0cnVubmVy"
+  },
   {
    "victim": "Skaff Group",
    "group": "rhysida",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "RklEVUNJQUxAbGFtYXNodHU="
-  },
-  {
-   "victim": "Virtual Ideas",
-   "group": "lamashtu",
-   "discovered": "2026-09-30T13:04:17.038760+00:00",
-   "attackdate": "2026-09-30T13:04:00.358561+00:00",
-   "country": "AU",
-   "activity": "Technology",
-   "website": "virtualideas.com.au",
-   "description": "Virtual Ideas is an Australian 3D visualisation and digital content studio based in\r\nSydney. It specialises in architectural visualisation (CGI), 3D animation, marketing\r\nfilms, product visualisation, shadow and visual-impact studies etc.",
-   "permalink": "https://www.ransomware.live/id/VmlydHVhbCBJZGVhc0BsYW1hc2h0dQ==",
-   "press": "",
-   "infostealer": true,
-   "id": "VmlydHVhbCBJZGVhc0BsYW1hc2h0dQ=="
-  },
-  {
-   "victim": "PROJAHN",
-   "group": "lamashtu",
-   "discovered": "2026-09-30T13:03:39.906954+00:00",
-   "attackdate": "2026-09-30T13:03:18.792764+00:00",
-   "country": "DE",
-   "activity": "Other",
-   "website": "projahn.de",
-   "description": "German manufacturer and distributor of professional precision\r\nand hand tools (drill bits, masonry/wood/steel tools, thread tools, measuring tools, sockets, wrenches, screwdrivers, pliers, flashlights, workbenches).",
-   "permalink": "https://www.ransomware.live/id/UFJPSkFITkBsYW1hc2h0dQ==",
-   "press": "",
-   "infostealer": false,
-   "id": "UFJPSkFITkBsYW1hc2h0dQ=="
   }
  ]
 }
