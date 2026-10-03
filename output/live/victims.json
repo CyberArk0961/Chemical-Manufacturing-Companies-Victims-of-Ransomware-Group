@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-02T23:16:58.402Z",
+ "last_updated": "2026-10-03T02:06:39.351Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Forma Therapeutics Holdings, Inc.",
+   "group": "nightspire",
+   "discovered": "2026-10-03T01:33:09.591144+00:00",
+   "attackdate": "2026-09-21T00:00:00+00:00",
+   "country": "US",
+   "activity": "Healthcare",
+   "website": "www.novonordisk.com",
+   "description": "- Clinical Trial & Statistical Data- Electronic Lab Notebooks & Research IP- Drug Discovery & Pipeline Data- Biological Research & Genomic Data",
+   "permalink": "https://www.ransomware.live/id/Rm9ybWEgVGhlcmFwZXV0aWNzIEhvbGRpbmdzLCBJbmMuQG5pZ2h0c3BpcmU=",
+   "press": "https://databreaches.net/2026/06/15/scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid/",
+   "infostealer": false,
+   "id": "Rm9ybWEgVGhlcmFwZXV0aWNzIEhvbGRpbmdzLCBJbmMuQG5pZ2h0c3BpcmU="
+  },
+  {
+   "victim": "seven seas group",
+   "group": "Spirals",
+   "discovered": "2026-10-03T00:53:20.745035+00:00",
+   "attackdate": "2026-10-03T00:53:19.229486+00:00",
+   "country": "GB",
+   "activity": "Other",
+   "website": "sevenseasgroup.com",
+   "description": "Seven Seas is a global maritime services group that specializes in providing general ship supplies, stores, spare parts & leading technical maritime brands through its extensive global network.",
+   "permalink": "https://www.ransomware.live/id/c2V2ZW4gc2VhcyBncm91cEBTcGlyYWxz",
+   "press": "",
+   "infostealer": true,
+   "id": "c2V2ZW4gc2VhcyBncm91cEBTcGlyYWxz"
+  },
   {
    "victim": "Thai Lion Air",
    "group": "qilin",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "U29sYXJpYUB0aGVnZW50bGVtZW4="
-  },
-  {
-   "victim": "Auren",
-   "group": "thegentlemen",
-   "discovered": "2026-09-30T03:39:25.753475+00:00",
-   "attackdate": "2026-09-29T15:08:32+00:00",
-   "country": "ES",
-   "activity": "Professional Services",
-   "website": "auren.es",
-   "description": "auren.es zoominfo.com/c/auren/1115886722 AUREN (founded 1998, Madrid) is Spain's leading home-grown multidisciplinary professional-services firm — audit, legal/tax advisory, consulting and corporate finance — with €104 million revenue in Spain and 1,100+ staff in 15 offices (2,500+ people and 62 offices worldwide). Founded and chaired by Mario Alonso Ayala, it sells an integrated \"Big Four-style\" service portfolio to mid-market companies with a \"humanist, close-to-client\" culture, plus standout niches in forensic/expert-witness work, public-sector audit and M&A. In March 2025, Dutch private eq",
-   "permalink": "https://www.ransomware.live/id/QXVyZW5AdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": true,
-   "id": "QXVyZW5AdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "QUALITY SPORT Topsport Italia",
-   "group": "thegentlemen",
-   "discovered": "2026-09-30T03:39:19.790514+00:00",
-   "attackdate": "2026-09-29T15:13:52+00:00",
-   "country": "IT",
-   "activity": "Retail & E-Commerce",
-   "website": "topsportitalia.it",
-   "description": "topsportitalia.it qualitysport.com Topsport Italia (founded 1972, Savigliano, Piedmont) and Quality Sport Italia S.r.l. (registered 2009, same address) are two sides of one B2B sports-equipment operator in Italy, run today by director Dario Valsania after being spun out of the larger Bongiovanni Sport group. Topsport designs and installs sports facilities \"turnkey\" — courts, suspended ceilings, partitions, bleachers and lighting — while Quality Sport sells and services fitness machines, gymnastics gear and accessories to sports schools, associations and public bodies via its qualitysport.com p",
-   "permalink": "https://www.ransomware.live/id/UVVBTElUWSBTUE9SVCBUb3BzcG9ydCBJdGFsaWFAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": true,
-   "id": "UVVBTElUWSBTUE9SVCBUb3BzcG9ydCBJdGFsaWFAdGhlZ2VudGxlbWVu"
   }
  ]
 }

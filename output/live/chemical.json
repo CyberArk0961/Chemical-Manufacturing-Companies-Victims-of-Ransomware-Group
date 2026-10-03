@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-10-02T19:21:43.543Z",
+ "last_updated": "2026-10-03T02:06:39.369Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 1694,
  "months": 12,
@@ -537,7 +537,7 @@
    "victim": "cromados.com",
    "group": "safepay",
    "discovered": "2026-09-28T08:32:52.143553+00:00",
-   "attackdate": "2026-09-28T08:32:36.094757+00:00",
+   "attackdate": "2026-08-10T00:00:00+00:00",
    "country": "ES",
    "activity": "Manufacturing",
    "website": "cromados.com",
