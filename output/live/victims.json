@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-03T08:10:53.692Z",
+ "last_updated": "2026-10-03T13:25:50.473Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Skaff Group",
+   "group": "rhysida",
+   "discovered": "2026-10-03T13:02:56.759867+00:00",
+   "attackdate": "2026-10-03T13:02:32.599704+00:00",
+   "country": "",
+   "activity": "Other",
+   "website": "",
+   "description": "Skaff Group SKAFF is a leader in Lebanon in the field of decorative fabrics. Files: 139,377Data volume: ~268 GB**Full HR dossiers - ~40 scans of Lebanese national ID cards (both sides + photos), a director's passport, civil-status extracts.Banking data - employee account files at Byblos Bank (named per person), Cedrus Bank corporate card program with banker contacts, account statements.Payroll violations - unpaid-salary analysis file, payroll module source code, staff leave requests.Employees' private lives - family photo archives on the work server.Commerce � price lists, Four Seasons and Les",
+   "permalink": "https://www.ransomware.live/id/U2thZmYgR3JvdXBAcmh5c2lkYQ==",
+   "press": "",
+   "infostealer": false,
+   "id": "U2thZmYgR3JvdXBAcmh5c2lkYQ=="
+  },
+  {
+   "victim": "St. Francis Healthcare Systems of Hawaii",
+   "group": "Wallstreet",
+   "discovered": "2026-10-03T12:24:31.897105+00:00",
+   "attackdate": "2026-10-03T12:09:08+00:00",
+   "country": "US",
+   "activity": "Healthcare",
+   "website": "",
+   "description": "St. Francis Healthcare System of Hawaiʻi is a Catholic, nonprofit healthcare organization that has served Hawaiʻi families since 1927",
+   "permalink": "https://www.ransomware.live/id/U3QuIEZyYW5jaXMgSGVhbHRoY2FyZSBTeXN0ZW1zIG9mIEhhd2FpaUBXYWxsc3RyZWV0",
+   "press": "",
+   "infostealer": false,
+   "id": "U3QuIEZyYW5jaXMgSGVhbHRoY2FyZSBTeXN0ZW1zIG9mIEhhd2FpaUBXYWxsc3RyZWV0"
+  },
+  {
+   "victim": "World Cup 2034",
+   "group": "Wallstreet",
+   "discovered": "2026-10-03T11:54:05.389560+00:00",
+   "attackdate": "2026-10-03T11:25:00+00:00",
+   "country": "SA",
+   "activity": "Other",
+   "website": "",
+   "description": "We compromised the network of the China Railway Construction Corporation\nSaudi Branch / Sama Construction consortium, the MAIN CONTRACTOR building\nthe Jeddah Central Stadium for the FIFA World Cup 2034.\n\n17 TB / 1.5M files exfiltrated, including:\n  - Main contract documents, interim payment certificates, and claims\n    against the owner (Jeddah Central Development Company, PIF)\n  - Active dispute and suspension claim records\n  - Personal data of 150,000+ employees, incl. Saudi employees\n  - IFC design documentation for the stadium\n  - Supplier and subcontractor commercial data (bid tabulations",
+   "permalink": "https://www.ransomware.live/id/V29ybGQgQ3VwIDIwMzRAV2FsbHN0cmVldA==",
+   "press": "",
+   "infostealer": false,
+   "id": "V29ybGQgQ3VwIDIwMzRAV2FsbHN0cmVldA=="
+  },
   {
    "victim": "States Industries",
    "group": "Storm",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "UFJPSkFITkBsYW1hc2h0dQ=="
-  },
-  {
-   "victim": "Altmannshofer Sicherheits-Videotechnik",
-   "group": "lamashtu",
-   "discovered": "2026-09-30T13:02:58.768381+00:00",
-   "attackdate": "2026-09-30T13:02:40.019982+00:00",
-   "country": "DE",
-   "activity": "Manufacturing",
-   "website": "altmannshofer.de",
-   "description": "Altmannshofer Sicherheits-Videotechnik OHG is a German installer of electronic security systems from Affing near Augsburg, Bavaria. Since 1999 it plans and installs CCTV, burglar alarms (EMA), access control, electronic locks, fingerprint scanners",
-   "permalink": "https://www.ransomware.live/id/QWx0bWFubnNob2ZlciBTaWNoZXJoZWl0cy1WaWRlb3RlY2huaWtAbGFtYXNodHU=",
-   "press": "",
-   "infostealer": false,
-   "id": "QWx0bWFubnNob2ZlciBTaWNoZXJoZWl0cy1WaWRlb3RlY2huaWtAbGFtYXNodHU="
-  },
-  {
-   "victim": "MCAP — MortgageHub commercial lending platform",
-   "group": "N0n",
-   "discovered": "2026-09-30T12:52:16.238414+00:00",
-   "attackdate": "2026-09-30T12:52:01.133192+00:00",
-   "country": "CA",
-   "activity": "Financial Services",
-   "website": "",
-   "description": "Mortgage securitization and servicing (Canada) · Canada | The complete MortgageHub borrower database of a major Canadian mortgage company: seven years of records with social insurance numbers, dates of birth, full addresses, and complete loan and payment histories; The daily commercial servicing book: the full national portfolio of active commercial mortgages with balances, interest rates, credit scores, insurer policy numbers, arrears, and investor reporting fields; The full backup archive of the platform, 2019 through today | [ACTIVE: deadline 2026-10-03 15:00 UTC]",
-   "permalink": "https://www.ransomware.live/id/TUNBUCDigJQgTW9ydGdhZ2VIdWIgY29tbWVyY2lhbCBsZW5kaW5nIHBsYXRmb3JtQE4wbg==",
-   "press": "",
-   "infostealer": false,
-   "id": "TUNBUCDigJQgTW9ydGdhZ2VIdWIgY29tbWVyY2lhbCBsZW5kaW5nIHBsYXRmb3JtQE4wbg=="
-  },
-  {
-   "victim": "GERLON",
-   "group": "lamashtu",
-   "discovered": "2026-09-30T12:34:03.584289+00:00",
-   "attackdate": "2026-09-30T12:33:40.019637+00:00",
-   "country": "DE",
-   "activity": "Not Found",
-   "website": "gerlon.com",
-   "description": "GERLON is a French company (SAS, SIREN 349008284) based in Abbeville (Somme, Hauts-de-France) manufacturing and selling steel wool (laine d'acier), brushes, abrasives, tools (outillage) and cleaning products. ",
-   "permalink": "https://www.ransomware.live/id/R0VSTE9OQGxhbWFzaHR1",
-   "press": "",
-   "infostealer": false,
-   "id": "R0VSTE9OQGxhbWFzaHR1"
   }
  ]
 }
