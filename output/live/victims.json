@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-04T18:39:27.119Z",
+ "last_updated": "2026-10-04T21:58:20.277Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Bold Spring Nursery",
+   "group": "play",
+   "discovered": "2026-10-04T19:37:06.566868+00:00",
+   "attackdate": "2026-10-04T19:36:51.287628+00:00",
+   "country": "US",
+   "activity": "Agriculture and Food Production",
+   "website": "www.boldspring.com",
+   "description": "United States",
+   "permalink": "https://www.ransomware.live/id/Qm9sZCBTcHJpbmcgTnVyc2VyeUBwbGF5",
+   "press": "",
+   "infostealer": false,
+   "id": "Qm9sZCBTcHJpbmcgTnVyc2VyeUBwbGF5"
+  },
+  {
+   "victim": "Silicon Valley Glass",
+   "group": "play",
+   "discovered": "2026-10-04T19:36:32.595512+00:00",
+   "attackdate": "2026-10-04T19:36:12.633895+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.siliconvalleyglass.com",
+   "description": "United States",
+   "permalink": "https://www.ransomware.live/id/U2lsaWNvbiBWYWxsZXkgR2xhc3NAcGxheQ==",
+   "press": "",
+   "infostealer": false,
+   "id": "U2lsaWNvbiBWYWxsZXkgR2xhc3NAcGxheQ=="
+  },
   {
    "victim": "OMUR HIRDAVAT LTD",
    "group": "emperador",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "TGUgQ2VudHJlIE5hdGlvbmFsIGRlIGwnRXhwZXJ0aXNlIEhvc3BpdGFsacOocmUgKENORUgpQGthaXJvcw=="
-  },
-  {
-   "victim": "Titus",
-   "group": "play",
-   "discovered": "2026-09-30T17:37:25.753375+00:00",
-   "attackdate": "2026-09-30T17:37:10.222095+00:00",
-   "country": "DE",
-   "activity": "Technology",
-   "website": "www.titus.de",
-   "description": "Germany",
-   "permalink": "https://www.ransomware.live/id/VGl0dXNAcGxheQ==",
-   "press": "",
-   "infostealer": false,
-   "id": "VGl0dXNAcGxheQ=="
-  },
-  {
-   "victim": "Airtech Mechanical Services",
-   "group": "play",
-   "discovered": "2026-09-30T17:36:51.772932+00:00",
-   "attackdate": "2026-09-30T17:36:36.012434+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "www.airtechnc.com",
-   "description": "United States",
-   "permalink": "https://www.ransomware.live/id/QWlydGVjaCBNZWNoYW5pY2FsIFNlcnZpY2VzQHBsYXk=",
-   "press": "",
-   "infostealer": false,
-   "id": "QWlydGVjaCBNZWNoYW5pY2FsIFNlcnZpY2VzQHBsYXk="
   }
  ]
 }

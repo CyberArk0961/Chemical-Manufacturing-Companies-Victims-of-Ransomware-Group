@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-04T18:39:27.183Z",
+ "last_updated": "2026-10-04T21:58:20.297Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1704,
+ "count": 1705,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 155,
  "victims": [
+  {
+   "victim": "Silicon Valley Glass",
+   "group": "play",
+   "discovered": "2026-10-04T19:36:32.595512+00:00",
+   "attackdate": "2026-10-04T19:36:12.633895+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.siliconvalleyglass.com",
+   "description": "United States",
+   "permalink": "https://www.ransomware.live/id/U2lsaWNvbiBWYWxsZXkgR2xhc3NAcGxheQ==",
+   "press": "",
+   "infostealer": false,
+   "id": "U2lsaWNvbiBWYWxsZXkgR2xhc3NAcGxheQ==",
+   "chemical": false
+  },
   {
    "victim": "OMUR HIRDAVAT LTD",
    "group": "emperador",
