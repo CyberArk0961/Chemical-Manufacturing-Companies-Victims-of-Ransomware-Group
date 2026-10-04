@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-03T08:10:53.720Z",
+ "last_updated": "2026-10-04T14:48:13.681Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1698,
+ "count": 1700,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 155,
  "victims": [
+  {
+   "victim": "Mutsumi Group",
+   "group": "qilin",
+   "discovered": "2026-10-04T14:10:25.770300+00:00",
+   "attackdate": "2026-10-04T00:00:00+00:00",
+   "country": "JP",
+   "activity": "Manufacturing",
+   "website": "www.mutsumi-g.co.jp",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/TXV0c3VtaSBHcm91cEBxaWxpbg==",
+   "press": "",
+   "infostealer": false,
+   "id": "TXV0c3VtaSBHcm91cEBxaWxpbg==",
+   "chemical": false
+  },
+  {
+   "victim": "Center State Engineering",
+   "group": "thegentlemen",
+   "discovered": "2026-10-04T13:17:23.826222+00:00",
+   "attackdate": "2026-10-03T15:54:29+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "centerstateengineering.com",
+   "description": "centerstateengineering.com zoominfo.com/c/center-state-engineering/368448599 340GB Center State Engineering is a privately held civil engineering consultancy founded in 1997 and based in Monroe Township, New Jersey.\nIt serves municipal and private clients with engineering, surveying, land planning, inspection, and construction management.\nIts work includes roads, drainage, stormwater systems, utilities, parks, public facilities, and land development.\nPublic records show recurring municipal assignments in Monroe Township, South Plainfield, and South Brunswick.\nThird-party company profiles estim",
+   "permalink": "https://www.ransomware.live/id/Q2VudGVyIFN0YXRlIEVuZ2luZWVyaW5nQHRoZWdlbnRsZW1lbg==",
+   "press": "",
+   "infostealer": false,
+   "id": "Q2VudGVyIFN0YXRlIEVuZ2luZWVyaW5nQHRoZWdlbnRsZW1lbg==",
+   "chemical": false
+  },
   {
    "victim": "States Industries",
    "group": "Storm",
