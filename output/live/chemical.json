@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-05T16:04:38.183Z",
+ "last_updated": "2026-10-05T22:40:41.219Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1710,
+ "count": 1711,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 155,
+ "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "Sims Vibration Laboratory",
+   "group": "VYPR",
+   "discovered": "2026-10-05T21:03:46.037702+00:00",
+   "attackdate": "2026-09-05T14:35:52+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.simsvibrationlab.com",
+   "description": "At Sims Vibration Laboratory, we pride ourselves on being industry leaders in providing the ultimate shock and vibration dampening products for your bow. We design and engineer our products to be the absolute best in the world. The industry-changing revolutionary designs of our products outperform our competition, producing products that deliver you the quietest shot possible when it really counts! We create \"Products That Work!\".",
+   "permalink": "https://www.ransomware.live/id/U2ltcyBWaWJyYXRpb24gTGFib3JhdG9yeUBWWVBS",
+   "press": "",
+   "infostealer": false,
+   "id": "U2ltcyBWaWJyYXRpb24gTGFib3JhdG9yeUBWWVBS",
+   "chemical": false
+  },
+  {
+   "victim": "Circulating Air",
+   "group": "VYPR",
+   "discovered": "2026-10-05T21:03:25.688124+00:00",
+   "attackdate": "2026-09-05T14:35:52+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.circulatingair.com",
+   "description": "Circulating Air, Inc. specializes in HVAC services in Los Angeles and surrounding areas, offering quality repair, installation, and maintenance for heating and cooling systems. They provide a comprehensive range of services including air conditioning, heating, indoor air quality, and commercial HVAC solutions. The company caters to both residential and commercial clients, ensuring efficient and reliable service for various HVAC systems. With a commitment to customer satisfaction, Circulating Air, Inc. is dedicated to improving indoor comfort and air quality.",
+   "permalink": "https://www.ransomware.live/id/Q2lyY3VsYXRpbmcgQWlyQFZZUFI=",
+   "press": "",
+   "infostealer": false,
+   "id": "Q2lyY3VsYXRpbmcgQWlyQFZZUFI=",
+   "chemical": false
+  },
   {
    "victim": "H&L Manufacturing",
    "group": "interlock",
@@ -352,21 +382,6 @@
    "infostealer": false,
    "id": "RElTSyBQUkVDSVNJT04gR1JPVVAgLSBkaXNrcHJlY2lzaW9uLmNvbUBrcnliaXQ=",
    "chemical": false
-  },
-  {
-   "victim": "Terca",
-   "group": "ransomhouse",
-   "discovered": "2026-10-01T14:30:43.822473+00:00",
-   "attackdate": "2026-08-21T00:00:00+00:00",
-   "country": "BR",
-   "activity": "Other",
-   "website": "www.terca.com.br",
-   "description": "TERCA Zilli is a leading logistics operator in Espírito Santo, Brazil, offering innovative solutions and synonymous with logistical efficiency. The company provides a wide range of services including general warehousing, customs areas, and specialized storage for hazardous chemicals and vehicles. With a rich history and extensive experience, TERCA Zilli caters to diverse client needs while optimizing operations to reduce costs.",
-   "permalink": "https://www.ransomware.live/id/VGVyY2FAcmFuc29taG91c2U=",
-   "press": "",
-   "infostealer": false,
-   "id": "VGVyY2FAcmFuc29taG91c2U=",
-   "chemical": true
   },
   {
    "victim": "Superior Plating Technology CO",
