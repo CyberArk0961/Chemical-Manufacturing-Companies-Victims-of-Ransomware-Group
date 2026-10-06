@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-06T02:31:59.594Z",
+ "last_updated": "2026-10-06T09:26:50.710Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "CORBY ROCK MILL",
+   "group": "qilin",
+   "discovered": "2026-10-06T09:03:34.702486+00:00",
+   "attackdate": "2026-10-06T09:03:13.441419+00:00",
+   "country": "IE",
+   "activity": "Manufacturing",
+   "website": "www.corbyrock.ie",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/Q09SQlkgUk9DSyBNSUxMQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q09SQlkgUk9DSyBNSUxMQHFpbGlu"
+  },
+  {
+   "victim": "Delta Marine",
+   "group": "qilin",
+   "discovered": "2026-10-06T09:02:53.702819+00:00",
+   "attackdate": "2026-10-06T09:02:34.560360+00:00",
+   "country": "FI",
+   "activity": "Transportation",
+   "website": "www.deltamarine.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/RGVsdGEgTWFyaW5lQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "RGVsdGEgTWFyaW5lQHFpbGlu"
+  },
+  {
+   "victim": "J&D Financial",
+   "group": "qilin",
+   "discovered": "2026-10-06T09:02:14.467599+00:00",
+   "attackdate": "2026-10-06T00:00:00+00:00",
+   "country": "",
+   "activity": "Financial Services",
+   "website": "www.jdfinancial.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/SiZEIEZpbmFuY2lhbEBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "SiZEIEZpbmFuY2lhbEBxaWxpbg"
+  },
+  {
+   "victim": "Philander Smith University",
+   "group": "EndZone",
+   "discovered": "2026-10-06T07:50:52.821133+00:00",
+   "attackdate": "2026-10-06T07:50:51.490545+00:00",
+   "country": "US",
+   "activity": "Education",
+   "website": "",
+   "description": "Revenue: $25.3 million annual\n\nPhilander Smith University is a private, historically Black liberal arts institution in Little Rock, Arkansas, founded in 1877 and affiliated with the United Methodist Church. They provide undergraduate and graduate education with a focus on academic excellence, social justice, and leadership development for a diverse student body. We successfully exfiltrated 500GB+ worth of data which includes VERY confidential information about students and staff, as well as financial information. Alongside, we have encrypted files across the entire network.",
+   "permalink": "https://www.ransomware.live/id/UGhpbGFuZGVyIFNtaXRoIFVuaXZlcnNpdHlARW5kWm9uZQ",
+   "press": "",
+   "infostealer": false,
+   "id": "UGhpbGFuZGVyIFNtaXRoIFVuaXZlcnNpdHlARW5kWm9uZQ"
+  },
   {
    "victim": "A...n",
    "group": "SilentRansomGroup",
@@ -12,10 +68,10 @@
    "activity": "Not Found",
    "website": "",
    "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
-   "permalink": "https://www.ransomware.live/id/QS4uLm5AU2lsZW50UmFuc29tR3JvdXA=",
+   "permalink": "https://www.ransomware.live/id/QS4uLm5AU2lsZW50UmFuc29tR3JvdXA",
    "press": "",
    "infostealer": false,
-   "id": "QS4uLm5AU2lsZW50UmFuc29tR3JvdXA="
+   "id": "QS4uLm5AU2lsZW50UmFuc29tR3JvdXA"
   },
   {
    "victim": "M** A******* G********** O******* a** P***** S****** A*********",
@@ -26,10 +82,10 @@
    "activity": "Not Found",
    "website": "w**.m******.c**",
    "description": "",
-   "permalink": "https://www.ransomware.live/id/TSoqIEEqKioqKioqIEcqKioqKioqKioqIE8qKioqKioqIGEqKiBQKioqKiogUyoqKioqKiBBKioqKioqKioqQG5ldHJ1bm5lcg==",
+   "permalink": "https://www.ransomware.live/id/TSoqIEEqKioqKioqIEcqKioqKioqKioqIE8qKioqKioqIGEqKiBQKioqKiogUyoqKioqKiBBKioqKioqKioqQG5ldHJ1bm5lcg",
    "press": "",
    "infostealer": false,
-   "id": "TSoqIEEqKioqKioqIEcqKioqKioqKioqIE8qKioqKioqIGEqKiBQKioqKiogUyoqKioqKiBBKioqKioqKioqQG5ldHJ1bm5lcg=="
+   "id": "TSoqIEEqKioqKioqIEcqKioqKioqKioqIE8qKioqKioqIGEqKiBQKioqKiogUyoqKioqKiBBKioqKioqKioqQG5ldHJ1bm5lcg"
   },
   {
    "victim": "Global Security Concepts",
@@ -54,10 +110,10 @@
    "activity": "Healthcare",
    "website": "www.tsgpc.com",
    "description": "Technical Solutions Group, located in the heart of Mid-Michigan, is dedicated to assisting small businesses with their technology, advertising, and networking requirements. Their mission is to equip offices with top-quality computers, technology services, advertising solutions, and networking solutions to enhance workflow efficiency and cost-effectiveness. They offer PC and hardware sales, IT networking solutions, IT management and technical support, and server hosting services. With a focus on client satisfaction, they have a proven track record of delivering reliable support and solutions to",
-   "permalink": "https://www.ransomware.live/id/TWVkaWNhbCBEYXRhIFJ4QFZZUFI=",
+   "permalink": "https://www.ransomware.live/id/TWVkaWNhbCBEYXRhIFJ4QFZZUFI",
    "press": "",
    "infostealer": false,
-   "id": "TWVkaWNhbCBEYXRhIFJ4QFZZUFI="
+   "id": "TWVkaWNhbCBEYXRhIFJ4QFZZUFI"
   },
   {
    "victim": "Agio International",
@@ -68,10 +124,10 @@
    "activity": "Financial Services",
    "website": "www.agio-usa.com",
    "description": "Agio International specializes in distinctive outdoor furniture designs that merge beauty, quality, and affordability, catering to homeowners who enjoy entertaining in their outdoor spaces. The company embodies the art of living well with innovative designs and durable materials crafted over years of expertise. Agio's offerings include various collections and accessories, aimed at enhancing outdoor living experiences. Additionally, Agio provides services for retail partnerships and outdoor lifestyle inspiration.",
-   "permalink": "https://www.ransomware.live/id/QWdpbyBJbnRlcm5hdGlvbmFsQFZZUFI=",
+   "permalink": "https://www.ransomware.live/id/QWdpbyBJbnRlcm5hdGlvbmFsQFZZUFI",
    "press": "",
    "infostealer": false,
-   "id": "QWdpbyBJbnRlcm5hdGlvbmFsQFZZUFI="
+   "id": "QWdpbyBJbnRlcm5hdGlvbmFsQFZZUFI"
   },
   {
    "victim": "Sims Vibration Laboratory",
@@ -96,10 +152,10 @@
    "activity": "Manufacturing",
    "website": "www.circulatingair.com",
    "description": "Circulating Air, Inc. specializes in HVAC services in Los Angeles and surrounding areas, offering quality repair, installation, and maintenance for heating and cooling systems. They provide a comprehensive range of services including air conditioning, heating, indoor air quality, and commercial HVAC solutions. The company caters to both residential and commercial clients, ensuring efficient and reliable service for various HVAC systems. With a commitment to customer satisfaction, Circulating Air, Inc. is dedicated to improving indoor comfort and air quality.",
-   "permalink": "https://www.ransomware.live/id/Q2lyY3VsYXRpbmcgQWlyQFZZUFI=",
+   "permalink": "https://www.ransomware.live/id/Q2lyY3VsYXRpbmcgQWlyQFZZUFI",
    "press": "",
    "infostealer": false,
-   "id": "Q2lyY3VsYXRpbmcgQWlyQFZZUFI="
+   "id": "Q2lyY3VsYXRpbmcgQWlyQFZZUFI"
   },
   {
    "victim": "Gen3",
@@ -124,10 +180,10 @@
    "activity": "Healthcare",
    "website": "www.jpshealthnet.org",
    "description": "John Peter Smith Hospital, JPS Surgical Center - Arlington, a network of community-based health centers, school-based health centers and psychiatric services at Trinity Springs Pavilion - a stand-alone facility.",
-   "permalink": "https://www.ransomware.live/id/SlBTIEhlYWx0aCBOZXR3b3JrQFZZUFI=",
+   "permalink": "https://www.ransomware.live/id/SlBTIEhlYWx0aCBOZXR3b3JrQFZZUFI",
    "press": "",
    "infostealer": false,
-   "id": "SlBTIEhlYWx0aCBOZXR3b3JrQFZZUFI="
+   "id": "SlBTIEhlYWx0aCBOZXR3b3JrQFZZUFI"
   },
   {
    "victim": "Champaign Unit 4 School District",
@@ -138,10 +194,10 @@
    "activity": "Education",
    "website": "www.champaignschools.org",
    "description": "Champaign Unit 4 School District is dedicated to empowering each learner to thrive in a diverse and changing world. The district offers a positive and supportive school culture, focusing on safe and dynamic learning environments. It provides exceptional learning opportunities and communicates essential information to community stakeholders. The intended clients are students and their families within the Champaign area.",
-   "permalink": "https://www.ransomware.live/id/Q2hhbXBhaWduIFVuaXQgNCBTY2hvb2wgRGlzdHJpY3RAVllQUg==",
+   "permalink": "https://www.ransomware.live/id/Q2hhbXBhaWduIFVuaXQgNCBTY2hvb2wgRGlzdHJpY3RAVllQUg",
    "press": "",
    "infostealer": false,
-   "id": "Q2hhbXBhaWduIFVuaXQgNCBTY2hvb2wgRGlzdHJpY3RAVllQUg=="
+   "id": "Q2hhbXBhaWduIFVuaXQgNCBTY2hvb2wgRGlzdHJpY3RAVllQUg"
   },
   {
    "victim": "Praxis EMR",
@@ -152,10 +208,10 @@
    "activity": "Healthcare",
    "website": "www.praxisemr.com",
    "description": "Praxis EMR is a highly rated EHR for physicians and medical providers, using AI to boost efficiency and accuracy. It lets clinicians document in their own words, improving usability, satisfaction, and time spent on patient care.",
-   "permalink": "https://www.ransomware.live/id/UHJheGlzIEVNUkBpbnNvbW5pYQ==",
+   "permalink": "https://www.ransomware.live/id/UHJheGlzIEVNUkBpbnNvbW5pYQ",
    "press": "",
    "infostealer": false,
-   "id": "UHJheGlzIEVNUkBpbnNvbW5pYQ=="
+   "id": "UHJheGlzIEVNUkBpbnNvbW5pYQ"
   },
   {
    "victim": "Standpointe / Trinite Solutions",
@@ -194,10 +250,10 @@
    "activity": "Retail & E-Commerce",
    "website": "stuecheli.ch",
    "description": "The firm was founded by architect Werner Stücheli in 1946 and has developed into a third-generation architectural practice. It is …",
-   "permalink": "https://www.ransomware.live/id/c3R1ZWNoZWxpLmNoQHNhZmVwYXk=",
+   "permalink": "https://www.ransomware.live/id/c3R1ZWNoZWxpLmNoQHNhZmVwYXk",
    "press": "",
    "infostealer": false,
-   "id": "c3R1ZWNoZWxpLmNoQHNhZmVwYXk="
+   "id": "c3R1ZWNoZWxpLmNoQHNhZmVwYXk"
   },
   {
    "victim": "bwi-bau.de",
@@ -236,10 +292,10 @@
    "activity": "Retail & E-Commerce",
    "website": "grundens.com",
    "description": "The company's origins can be traced to 1911, when Carl A. Grundén, the son of a fisherman from Grundsund on …",
-   "permalink": "https://www.ransomware.live/id/Z3J1bmRlbnMuY29tQHNhZmVwYXk=",
+   "permalink": "https://www.ransomware.live/id/Z3J1bmRlbnMuY29tQHNhZmVwYXk",
    "press": "",
    "infostealer": true,
-   "id": "Z3J1bmRlbnMuY29tQHNhZmVwYXk="
+   "id": "Z3J1bmRlbnMuY29tQHNhZmVwYXk"
   },
   {
    "victim": "t-systems.com",
@@ -264,10 +320,10 @@
    "activity": "Professional Services",
    "website": "",
    "description": "Data is not available now.",
-   "permalink": "https://www.ransomware.live/id/UioqKmUgUGEqKioqKipAbmlnaHRzcGlyZQ==",
+   "permalink": "https://www.ransomware.live/id/UioqKmUgUGEqKioqKipAbmlnaHRzcGlyZQ",
    "press": "",
    "infostealer": false,
-   "id": "UioqKmUgUGEqKioqKipAbmlnaHRzcGlyZQ=="
+   "id": "UioqKmUgUGEqKioqKipAbmlnaHRzcGlyZQ"
   },
   {
    "victim": "Nelson Mullins Riley & Scarborough",
@@ -278,10 +334,10 @@
    "activity": "Professional Services",
    "website": "",
    "description": "They offered $8.000.000 to keep the data from being published.",
-   "permalink": "https://www.ransomware.live/id/TmVsc29uIE11bGxpbnMgUmlsZXkgJiBTY2FyYm9yb3VnaEBTaWxlbnRSYW5zb21Hcm91cA==",
+   "permalink": "https://www.ransomware.live/id/TmVsc29uIE11bGxpbnMgUmlsZXkgJiBTY2FyYm9yb3VnaEBTaWxlbnRSYW5zb21Hcm91cA",
    "press": "",
    "infostealer": false,
-   "id": "TmVsc29uIE11bGxpbnMgUmlsZXkgJiBTY2FyYm9yb3VnaEBTaWxlbnRSYW5zb21Hcm91cA=="
+   "id": "TmVsc29uIE11bGxpbnMgUmlsZXkgJiBTY2FyYm9yb3VnaEBTaWxlbnRSYW5zb21Hcm91cA"
   },
   {
    "victim": "Sheppard, Mullin, Richter & Hampton",
@@ -292,10 +348,10 @@
    "activity": "Professional Services",
    "website": "",
    "description": "They offered $4.900.000 to keep the data from being published.",
-   "permalink": "https://www.ransomware.live/id/U2hlcHBhcmQsIE11bGxpbiwgUmljaHRlciAmIEhhbXB0b25AU2lsZW50UmFuc29tR3JvdXA=",
+   "permalink": "https://www.ransomware.live/id/U2hlcHBhcmQsIE11bGxpbiwgUmljaHRlciAmIEhhbXB0b25AU2lsZW50UmFuc29tR3JvdXA",
    "press": "",
    "infostealer": false,
-   "id": "U2hlcHBhcmQsIE11bGxpbiwgUmljaHRlciAmIEhhbXB0b25AU2lsZW50UmFuc29tR3JvdXA="
+   "id": "U2hlcHBhcmQsIE11bGxpbiwgUmljaHRlciAmIEhhbXB0b25AU2lsZW50UmFuc29tR3JvdXA"
   },
   {
    "victim": "Turn5",
@@ -306,10 +362,10 @@
    "activity": "Other",
    "website": "turn5.com",
    "description": "Country: Pennsylvania 19301, US |\nWebsite: turn5.com |\nRevenue: $84.4 Million |\nIndustry: Automotive Aftermarket, Auto Parts |\nEmployees: 300-500 |\nProperties: 328 GB (26,503 Files, 446 Folders)",
-   "permalink": "https://www.ransomware.live/id/VHVybjVAR2xvYmFsIFNlY3JldCBHcm91cA==",
+   "permalink": "https://www.ransomware.live/id/VHVybjVAR2xvYmFsIFNlY3JldCBHcm91cA",
    "press": "",
    "infostealer": true,
-   "id": "VHVybjVAR2xvYmFsIFNlY3JldCBHcm91cA=="
+   "id": "VHVybjVAR2xvYmFsIFNlY3JldCBHcm91cA"
   },
   {
    "victim": "anwo.cl",
@@ -334,24 +390,24 @@
    "activity": "Other",
    "website": "duhaas.sk",
    "description": "The company was subsequently transformed into a limited liability company in 1992 and established as a joint-stock company in 1994. …",
-   "permalink": "https://www.ransomware.live/id/ZHVoYWFzLnNrQHNhZmVwYXk=",
+   "permalink": "https://www.ransomware.live/id/ZHVoYWFzLnNrQHNhZmVwYXk",
    "press": "",
    "infostealer": true,
-   "id": "ZHVoYWFzLnNrQHNhZmVwYXk="
+   "id": "ZHVoYWFzLnNrQHNhZmVwYXk"
   },
   {
    "victim": "ikhasas.com",
    "group": "safepay",
    "discovered": "2026-10-05T18:26:55.334277+00:00",
    "attackdate": "2026-10-05T18:26:40.055634+00:00",
-   "country": "KE",
+   "country": "MY",
    "activity": "Not Found",
    "website": "ikhasas.com",
    "description": "The group was incorporated as iKHASAS Sdn. Bhd. in 2008 and subsequently expanded beyond construction into property development, hospitality, plantation, …",
-   "permalink": "https://www.ransomware.live/id/aWtoYXNhcy5jb21Ac2FmZXBheQ==",
+   "permalink": "https://www.ransomware.live/id/aWtoYXNhcy5jb21Ac2FmZXBheQ",
    "press": "",
    "infostealer": true,
-   "id": "aWtoYXNhcy5jb21Ac2FmZXBheQ=="
+   "id": "aWtoYXNhcy5jb21Ac2FmZXBheQ"
   },
   {
    "victim": "sterrer.net",
@@ -362,10 +418,10 @@
    "activity": "Technology",
    "website": "sterrer.net",
    "description": "The company has operated since 1979 and combines agricultural production with technical services for commercial poultry farms. Its activities include …",
-   "permalink": "https://www.ransomware.live/id/c3RlcnJlci5uZXRAc2FmZXBheQ==",
+   "permalink": "https://www.ransomware.live/id/c3RlcnJlci5uZXRAc2FmZXBheQ",
    "press": "",
    "infostealer": false,
-   "id": "c3RlcnJlci5uZXRAc2FmZXBheQ=="
+   "id": "c3RlcnJlci5uZXRAc2FmZXBheQ"
   },
   {
    "victim": "H&L Manufacturing",
@@ -390,17 +446,17 @@
    "activity": "Technology",
    "website": "part02.simplexengg.in",
    "description": "[AI generated] N/A",
-   "permalink": "https://www.ransomware.live/id/cGFydDAyLnNpbXBsZXhlbmdnLmluQEVjbGlwc2U=",
+   "permalink": "https://www.ransomware.live/id/cGFydDAyLnNpbXBsZXhlbmdnLmluQEVjbGlwc2U",
    "press": "",
    "infostealer": false,
-   "id": "cGFydDAyLnNpbXBsZXhlbmdnLmluQEVjbGlwc2U="
+   "id": "cGFydDAyLnNpbXBsZXhlbmdnLmluQEVjbGlwc2U"
   },
   {
    "victim": "Asia Era One",
    "group": "qilin",
    "discovered": "2026-10-05T15:09:14.903290+00:00",
    "attackdate": "2026-10-05T00:00:00+00:00",
-   "country": "MY",
+   "country": "TH",
    "activity": "Not Found",
    "website": "",
    "description": "N/A",
@@ -418,10 +474,10 @@
    "activity": "Healthcare",
    "website": "o2smiles.com",
    "description": "O2 Dental Group of Wilmington makes your dental care easy by providing a variety of family dentistry services under one roof! As a dental provider, O2 Dental Group is subject to strict privacy protections, primarily the Health Insurance Portability and Accountability Act (HIPAA) in the United States, but they have not complied with security measures, resulting in compromised patient health records (PHI), billing and insurance documents, consent and authorization forms.",
-   "permalink": "https://www.ransomware.live/id/TzIgRGVudGFsIEdyb3VwQGludGVybG9jaw==",
+   "permalink": "https://www.ransomware.live/id/TzIgRGVudGFsIEdyb3VwQGludGVybG9jaw",
    "press": "",
    "infostealer": false,
-   "id": "TzIgRGVudGFsIEdyb3VwQGludGVybG9jaw=="
+   "id": "TzIgRGVudGFsIEdyb3VwQGludGVybG9jaw"
   },
   {
    "victim": "windor.com",
@@ -432,10 +488,10 @@
    "activity": "Not Found",
    "website": "windor.com",
    "description": "Documents: Windor Supply &amp; Manufacturing, Inc. PROLOGUE Sales representative Mark Brewster, on D...",
-   "permalink": "https://www.ransomware.live/id/d2luZG9yLmNvbUBzZXR0cmE=",
+   "permalink": "https://www.ransomware.live/id/d2luZG9yLmNvbUBzZXR0cmE",
    "press": "",
    "infostealer": false,
-   "id": "d2luZG9yLmNvbUBzZXR0cmE="
+   "id": "d2luZG9yLmNvbUBzZXR0cmE"
   },
   {
    "victim": "Onsemi",
@@ -460,10 +516,10 @@
    "activity": "Education",
    "website": "enka.k12.tr",
    "description": "Status: upcoming | Deadline: 2026-10-15T00:00:00Z",
-   "permalink": "https://www.ransomware.live/id/RU5LQSBTY2hvb2xzQERvb21tYWdlZGRvbg==",
+   "permalink": "https://www.ransomware.live/id/RU5LQSBTY2hvb2xzQERvb21tYWdlZGRvbg",
    "press": "",
    "infostealer": true,
-   "id": "RU5LQSBTY2hvb2xzQERvb21tYWdlZGRvbg=="
+   "id": "RU5LQSBTY2hvb2xzQERvb21tYWdlZGRvbg"
   },
   {
    "victim": "Cam Group LLC",
@@ -474,10 +530,10 @@
    "activity": "Other",
    "website": "",
    "description": "Status: upcoming | Deadline: 2026-10-15T00:00:00Z",
-   "permalink": "https://www.ransomware.live/id/Q2FtIEdyb3VwIExMQ0BEb29tbWFnZWRkb24=",
+   "permalink": "https://www.ransomware.live/id/Q2FtIEdyb3VwIExMQ0BEb29tbWFnZWRkb24",
    "press": "",
    "infostealer": false,
-   "id": "Q2FtIEdyb3VwIExMQ0BEb29tbWFnZWRkb24="
+   "id": "Q2FtIEdyb3VwIExMQ0BEb29tbWFnZWRkb24"
   },
   {
    "victim": "Franklin Empire",
@@ -488,10 +544,10 @@
    "activity": "Other",
    "website": "franklinempire.com",
    "description": "You know we have over 700GB of Data, AWS Keys to your buckets, (which we dumped), Moonshot AI API keys, SMTP credentials, Packaging Slips, invoices, PDFs, Business Information, Customer PII, Inventory stash and SO much more. Your team knows how serious the breach is, hence why everything got rotated FAST, you also know how bad it can get if it gets posted in every corner of the dark web, Either reach out to us using the Contact methods listed on our site or face the consequences. Make the right decision, it's only you who can save yourselves. Anyways, you know where to find us (contact tab). W",
-   "permalink": "https://www.ransomware.live/id/RnJhbmtsaW4gRW1waXJlQEJZT0Q=",
+   "permalink": "https://www.ransomware.live/id/RnJhbmtsaW4gRW1waXJlQEJZT0Q",
    "press": "",
    "infostealer": true,
-   "id": "RnJhbmtsaW4gRW1waXJlQEJZT0Q="
+   "id": "RnJhbmtsaW4gRW1waXJlQEJZT0Q"
   },
   {
    "victim": "Infomedia A/S",
@@ -502,10 +558,10 @@
    "activity": "Technology",
    "website": "",
    "description": "[monitoring] Infomedia A/S — Denmark's premier media monitoring company, co-owned by the country's two largest media conglomerates (JP/Politikens Hus and Berlingske Media).\n\nInfomedia sits at the heart of Nordic media. It monitors newspapers, broadcasts, and digital sources for hundreds of corporate and government clients — including the EU Parliament, A.P. Møller-Mærsk, and major Nordic media groups (Schibsted, Polaris, NRK, Amedia).\n\nThe exposed material spans:\n\n<redacted>\n<redacted>\nSQL Server sysadmin credentials — sa / ballmer for the Opoint CRM database at crmdb.opoint.com.\nAn RSA privat",
-   "permalink": "https://www.ransomware.live/id/SW5mb21lZGlhIEEvU0BhdXJvcmE=",
+   "permalink": "https://www.ransomware.live/id/SW5mb21lZGlhIEEvU0BhdXJvcmE",
    "press": "",
    "infostealer": false,
-   "id": "SW5mb21lZGlhIEEvU0BhdXJvcmE="
+   "id": "SW5mb21lZGlhIEEvU0BhdXJvcmE"
   },
   {
    "victim": "Millensys",
@@ -516,10 +572,10 @@
    "activity": "Technology",
    "website": "millensys.com",
    "description": "Organization with 2 emails extracted. Domain: millensys.com",
-   "permalink": "https://www.ransomware.live/id/TWlsbGVuc3lzQG1lZHVzYWxvY2tlcg==",
+   "permalink": "https://www.ransomware.live/id/TWlsbGVuc3lzQG1lZHVzYWxvY2tlcg",
    "press": "",
    "infostealer": true,
-   "id": "TWlsbGVuc3lzQG1lZHVzYWxvY2tlcg=="
+   "id": "TWlsbGVuc3lzQG1lZHVzYWxvY2tlcg"
   },
   {
    "victim": "Rueegseggerag",
@@ -530,10 +586,10 @@
    "activity": "Not Found",
    "website": "rueegseggerag.ch",
    "description": "Organization with 1 emails extracted. Domain: rueegseggerag.ch",
-   "permalink": "https://www.ransomware.live/id/UnVlZWdzZWdnZXJhZ0BtZWR1c2Fsb2NrZXI=",
+   "permalink": "https://www.ransomware.live/id/UnVlZWdzZWdnZXJhZ0BtZWR1c2Fsb2NrZXI",
    "press": "",
    "infostealer": false,
-   "id": "UnVlZWdzZWdnZXJhZ0BtZWR1c2Fsb2NrZXI="
+   "id": "UnVlZWdzZWdnZXJhZ0BtZWR1c2Fsb2NrZXI"
   },
   {
    "victim": "PANCARIBBEAN LOGISTICS GROUP",
@@ -544,10 +600,10 @@
    "activity": "Transportation",
    "website": "",
    "description": "Panamanian logistics company operating \nin the field of international cargo transportation.\nFinancial documents, personal and customer data. [Sector: Transportation]",
-   "permalink": "https://www.ransomware.live/id/UEFOQ0FSSUJCRUFOIExPR0lTVElDUyBHUk9VUEBlbXBlcmFkb3I=",
+   "permalink": "https://www.ransomware.live/id/UEFOQ0FSSUJCRUFOIExPR0lTVElDUyBHUk9VUEBlbXBlcmFkb3I",
    "press": "",
    "infostealer": false,
-   "id": "UEFOQ0FSSUJCRUFOIExPR0lTVElDUyBHUk9VUEBlbXBlcmFkb3I="
+   "id": "UEFOQ0FSSUJCRUFOIExPR0lTVElDUyBHUk9VUEBlbXBlcmFkb3I"
   },
   {
    "victim": "Company #3",
@@ -558,10 +614,10 @@
    "activity": "Technology",
    "website": "",
    "description": "IT managed services · United States | [PENDING EXPOSURE: data publishes 2026-10-07 00:46 UTC]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjM0BOMG4=",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjM0BOMG4",
    "press": "",
    "infostealer": false,
-   "id": "Q29tcGFueSAjM0BOMG4="
+   "id": "Q29tcGFueSAjM0BOMG4"
   },
   {
    "victim": "Company #2",
@@ -572,10 +628,10 @@
    "activity": "Financial Services",
    "website": "",
    "description": "Financial services · Canada | [PENDING EXPOSURE: data publishes 2026-10-06 15:00 UTC]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMkBOMG4=",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMkBOMG4",
    "press": "",
    "infostealer": false,
-   "id": "Q29tcGFueSAjMkBOMG4="
+   "id": "Q29tcGFueSAjMkBOMG4"
   },
   {
    "victim": "Company #1",
@@ -586,10 +642,10 @@
    "activity": "Healthcare",
    "website": "",
    "description": "data publishes 2026-10-06 12:00 UTC",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMUBOMG4=",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMUBOMG4",
    "press": "",
    "infostealer": false,
-   "id": "Q29tcGFueSAjMUBOMG4="
+   "id": "Q29tcGFueSAjMUBOMG4"
   },
   {
    "victim": "METROCOLOR S.A.",
@@ -600,10 +656,10 @@
    "activity": "Manufacturing",
    "website": "",
    "description": "A Peruvian company from the printing industry.\nCommercial printing, packaging, labels, boxes, books, \nmagazines, booklets and promotional products.\nThe archives contain several thousand documents with personnel and customer data. [Sector: Manufacturing, Technology]",
-   "permalink": "https://www.ransomware.live/id/TUVUUk9DT0xPUiBTLkEuQGVtcGVyYWRvcg==",
+   "permalink": "https://www.ransomware.live/id/TUVUUk9DT0xPUiBTLkEuQGVtcGVyYWRvcg",
    "press": "",
    "infostealer": false,
-   "id": "TUVUUk9DT0xPUiBTLkEuQGVtcGVyYWRvcg=="
+   "id": "TUVUUk9DT0xPUiBTLkEuQGVtcGVyYWRvcg"
   },
   {
    "victim": "Thomas Y. Pickett & Co., Inc.",
@@ -642,10 +698,10 @@
    "activity": "Technology",
    "website": "",
    "description": "Eteam was informed they had been breached, just ignored us, we are not giving any more chances, Enjoy their full BPO list EXTREME PII (some of the most sensitive shit any company has). Feel free to take a gander at it yourself, don't be shy, we (and them) certainly aren't stopping you.",
-   "permalink": "https://www.ransomware.live/id/RXRlYW1AQllPRA==",
+   "permalink": "https://www.ransomware.live/id/RXRlYW1AQllPRA",
    "press": "",
    "infostealer": false,
-   "id": "RXRlYW1AQllPRA=="
+   "id": "RXRlYW1AQllPRA"
   },
   {
    "victim": "Royal Selangor",
@@ -656,10 +712,10 @@
    "activity": "Manufacturing",
    "website": "royalselangor.com",
    "description": "Both, your Registered Users & Customer list have been affected. 300K Lines Total, Includes: Names, Emails, Phone Numbers, Addresses, Purchase Amount, Payment Method, Pretty Juicy stuff you don't want getting out there. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours.",
-   "permalink": "https://www.ransomware.live/id/Um95YWwgU2VsYW5nb3JAQllPRA==",
+   "permalink": "https://www.ransomware.live/id/Um95YWwgU2VsYW5nb3JAQllPRA",
    "press": "",
    "infostealer": true,
-   "id": "Um95YWwgU2VsYW5nb3JAQllPRA=="
+   "id": "Um95YWwgU2VsYW5nb3JAQllPRA"
   },
   {
    "victim": "Fluge Audiovisuales",
@@ -670,10 +726,10 @@
    "activity": "Other",
    "website": "fluge.es",
    "description": "Fluge Audiovisuales is a Spanish company and market leader in AV equipment rental (sound, lighting, video, staging) for concerts, festivals, corporate events, TV and film. It operates across Spain (Madrid, Barcelona, Bilbao, Valencia, Ibiza, Galicia)",
-   "permalink": "https://www.ransomware.live/id/Rmx1Z2UgQXVkaW92aXN1YWxlc0BsYW1hc2h0dQ==",
+   "permalink": "https://www.ransomware.live/id/Rmx1Z2UgQXVkaW92aXN1YWxlc0BsYW1hc2h0dQ",
    "press": "",
    "infostealer": true,
-   "id": "Rmx1Z2UgQXVkaW92aXN1YWxlc0BsYW1hc2h0dQ=="
+   "id": "Rmx1Z2UgQXVkaW92aXN1YWxlc0BsYW1hc2h0dQ"
   },
   {
    "victim": "Bender Tribunenbau",
@@ -698,10 +754,10 @@
    "activity": "Transportation",
    "website": "translo.es",
    "description": "TRANS-LOGROÑO, S.A. is a Spanish road freight\r\nand logistics company based in Logroño (La Rioja). It provides road haulage\r\n(CNAE 4941), freight forwarding, and warehouse services including storage,\r\norder picking, and tank cleaning.",
-   "permalink": "https://www.ransomware.live/id/VFJBTlMgTE9HUk/DkU8gU09DSUVEQUQgQU5PTklNQUBsYW1hc2h0dQ==",
+   "permalink": "https://www.ransomware.live/id/VFJBTlMgTE9HUk/DkU8gU09DSUVEQUQgQU5PTklNQUBsYW1hc2h0dQ",
    "press": "",
    "infostealer": false,
-   "id": "VFJBTlMgTE9HUk/DkU8gU09DSUVEQUQgQU5PTklNQUBsYW1hc2h0dQ=="
+   "id": "VFJBTlMgTE9HUk/DkU8gU09DSUVEQUQgQU5PTklNQUBsYW1hc2h0dQ"
   },
   {
    "victim": "Grupo Industrial Tauro",
@@ -712,10 +768,10 @@
    "activity": "Manufacturing",
    "website": "grupotauro.com",
    "description": "is a Mexican steel-products manufacturer based in Monterrey (Nuevo León): perimeter protection and mesh (brands Euroreja®, Reja Tauro®, Tauro®, Serpentina®), high-security/anti-glare mesh, razor coil, industrial railings and bollards;",
-   "permalink": "https://www.ransomware.live/id/R3J1cG8gSW5kdXN0cmlhbCBUYXVyb0BsYW1hc2h0dQ==",
+   "permalink": "https://www.ransomware.live/id/R3J1cG8gSW5kdXN0cmlhbCBUYXVyb0BsYW1hc2h0dQ",
    "press": "",
    "infostealer": true,
-   "id": "R3J1cG8gSW5kdXN0cmlhbCBUYXVyb0BsYW1hc2h0dQ=="
+   "id": "R3J1cG8gSW5kdXN0cmlhbCBUYXVyb0BsYW1hc2h0dQ"
   },
   {
    "victim": "Bold Spring Nursery",
@@ -740,10 +796,10 @@
    "activity": "Manufacturing",
    "website": "www.siliconvalleyglass.com",
    "description": "United States",
-   "permalink": "https://www.ransomware.live/id/U2lsaWNvbiBWYWxsZXkgR2xhc3NAcGxheQ==",
+   "permalink": "https://www.ransomware.live/id/U2lsaWNvbiBWYWxsZXkgR2xhc3NAcGxheQ",
    "press": "",
    "infostealer": false,
-   "id": "U2lsaWNvbiBWYWxsZXkgR2xhc3NAcGxheQ=="
+   "id": "U2lsaWNvbiBWYWxsZXkgR2xhc3NAcGxheQ"
   },
   {
    "victim": "OMUR HIRDAVAT LTD",
@@ -768,10 +824,10 @@
    "activity": "Healthcare",
    "website": "www.morselife.org",
    "description": "Hospitals and Health Care Stolen data: 344 GB.",
-   "permalink": "https://www.ransomware.live/id/TW9yc2VMaWZlIEhlYWx0aCBTeXN0ZW0sIEluYy5AQm9vYmEgUHJvamVjdA==",
+   "permalink": "https://www.ransomware.live/id/TW9yc2VMaWZlIEhlYWx0aCBTeXN0ZW0sIEluYy5AQm9vYmEgUHJvamVjdA",
    "press": "",
    "infostealer": false,
-   "id": "TW9yc2VMaWZlIEhlYWx0aCBTeXN0ZW0sIEluYy5AQm9vYmEgUHJvamVjdA=="
+   "id": "TW9yc2VMaWZlIEhlYWx0aCBTeXN0ZW0sIEluYy5AQm9vYmEgUHJvamVjdA"
   },
   {
    "victim": "Nipigon District Memorial Hospital",
@@ -782,10 +838,10 @@
    "activity": "Healthcare",
    "website": "",
    "description": "Nipigon District Memorial Hospital offers a range of healthcare services including diagnostic imaging, lab services, physiotherapy, and an assisted living program. The hospital aims to serve patients and residents in the Nipigon district, focusing on community health and well-being. They also provide specialized services such as Ontario Telemedicine Services and Meals on Wheels. The hospital is committed to strategic planning for future healthcare needs, as outlined in their CARE 2030 initiative. \nThe company headquarters is located in 125 Hogan Road, Nipigon, ON P0T 2J0, Canada. 51-200 Employ",
-   "permalink": "https://www.ransomware.live/id/TmlwaWdvbiBEaXN0cmljdCBNZW1vcmlhbCBIb3NwaXRhbEBTdG9ybQ==",
+   "permalink": "https://www.ransomware.live/id/TmlwaWdvbiBEaXN0cmljdCBNZW1vcmlhbCBIb3NwaXRhbEBTdG9ybQ",
    "press": "",
    "infostealer": false,
-   "id": "TmlwaWdvbiBEaXN0cmljdCBNZW1vcmlhbCBIb3NwaXRhbEBTdG9ybQ=="
+   "id": "TmlwaWdvbiBEaXN0cmljdCBNZW1vcmlhbCBIb3NwaXRhbEBTdG9ybQ"
   },
   {
    "victim": "Unident Group",
@@ -796,10 +852,10 @@
    "activity": "Other",
    "website": "www.unidentgroup.net",
    "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/VW5pZGVudCBHcm91cEBxaWxpbg==",
+   "permalink": "https://www.ransomware.live/id/VW5pZGVudCBHcm91cEBxaWxpbg",
    "press": "",
    "infostealer": false,
-   "id": "VW5pZGVudCBHcm91cEBxaWxpbg=="
+   "id": "VW5pZGVudCBHcm91cEBxaWxpbg"
   },
   {
    "victim": "Chadwick Switchboards",
@@ -824,10 +880,10 @@
    "activity": "Manufacturing",
    "website": "www.emser.es",
    "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/RW1zZXJAcWlsaW4=",
+   "permalink": "https://www.ransomware.live/id/RW1zZXJAcWlsaW4",
    "press": "",
    "infostealer": false,
-   "id": "RW1zZXJAcWlsaW4="
+   "id": "RW1zZXJAcWlsaW4"
   },
   {
    "victim": "Cotesma",
@@ -838,10 +894,10 @@
    "activity": "Manufacturing",
    "website": "www.cotesma.coop",
    "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/Q290ZXNtYUBxaWxpbg==",
+   "permalink": "https://www.ransomware.live/id/Q290ZXNtYUBxaWxpbg",
    "press": "",
    "infostealer": false,
-   "id": "Q290ZXNtYUBxaWxpbg=="
+   "id": "Q290ZXNtYUBxaWxpbg"
   },
   {
    "victim": "Softruck",
@@ -852,10 +908,10 @@
    "activity": "Technology",
    "website": "softruck.com",
    "description": "Software",
-   "permalink": "https://www.ransomware.live/id/U29mdHJ1Y2tAZGlyZXdvbGY=",
+   "permalink": "https://www.ransomware.live/id/U29mdHJ1Y2tAZGlyZXdvbGY",
    "press": "",
    "infostealer": true,
-   "id": "U29mdHJ1Y2tAZGlyZXdvbGY="
+   "id": "U29mdHJ1Y2tAZGlyZXdvbGY"
   },
   {
    "victim": "Mutsumi Group",
@@ -866,10 +922,10 @@
    "activity": "Manufacturing",
    "website": "www.mutsumi-g.co.jp",
    "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/TXV0c3VtaSBHcm91cEBxaWxpbg==",
+   "permalink": "https://www.ransomware.live/id/TXV0c3VtaSBHcm91cEBxaWxpbg",
    "press": "",
    "infostealer": false,
-   "id": "TXV0c3VtaSBHcm91cEBxaWxpbg=="
+   "id": "TXV0c3VtaSBHcm91cEBxaWxpbg"
   },
   {
    "victim": "M****C",
@@ -894,10 +950,10 @@
    "activity": "Manufacturing",
    "website": "centerstateengineering.com",
    "description": "centerstateengineering.com zoominfo.com/c/center-state-engineering/368448599 340GB Center State Engineering is a privately held civil engineering consultancy founded in 1997 and based in Monroe Township, New Jersey.\nIt serves municipal and private clients with engineering, surveying, land planning, inspection, and construction management.\nIts work includes roads, drainage, stormwater systems, utilities, parks, public facilities, and land development.\nPublic records show recurring municipal assignments in Monroe Township, South Plainfield, and South Brunswick.\nThird-party company profiles estim",
-   "permalink": "https://www.ransomware.live/id/Q2VudGVyIFN0YXRlIEVuZ2luZWVyaW5nQHRoZWdlbnRsZW1lbg==",
+   "permalink": "https://www.ransomware.live/id/Q2VudGVyIFN0YXRlIEVuZ2luZWVyaW5nQHRoZWdlbnRsZW1lbg",
    "press": "",
    "infostealer": false,
-   "id": "Q2VudGVyIFN0YXRlIEVuZ2luZWVyaW5nQHRoZWdlbnRsZW1lbg=="
+   "id": "Q2VudGVyIFN0YXRlIEVuZ2luZWVyaW5nQHRoZWdlbnRsZW1lbg"
   },
   {
    "victim": "euroditel.com",
@@ -908,10 +964,10 @@
    "activity": "Technology",
    "website": "euroditel.com",
    "description": "Groupe Euroditel is a French telecommunications and IT systems integrator founded in 1966, headquartered in Bagneux, Îl...",
-   "permalink": "https://www.ransomware.live/id/ZXVyb2RpdGVsLmNvbUBrcnliaXQ=",
+   "permalink": "https://www.ransomware.live/id/ZXVyb2RpdGVsLmNvbUBrcnliaXQ",
    "press": "",
    "infostealer": false,
-   "id": "ZXVyb2RpdGVsLmNvbUBrcnliaXQ="
+   "id": "ZXVyb2RpdGVsLmNvbUBrcnliaXQ"
   },
   {
    "victim": "superpack.com.co",
@@ -922,10 +978,10 @@
    "activity": "Retail & E-Commerce",
    "website": "superpack.com.co",
    "description": "Empaques y Servicios Superiores S.A.S. (SUPERPACK) is a Colombian medium-sized company founded on January 12, 1999, head...",
-   "permalink": "https://www.ransomware.live/id/c3VwZXJwYWNrLmNvbS5jb0BrcnliaXQ=",
+   "permalink": "https://www.ransomware.live/id/c3VwZXJwYWNrLmNvbS5jb0BrcnliaXQ",
    "press": "",
    "infostealer": true,
-   "id": "c3VwZXJwYWNrLmNvbS5jb0BrcnliaXQ="
+   "id": "c3VwZXJwYWNrLmNvbS5jb0BrcnliaXQ"
   },
   {
    "victim": "daralteb.com",
@@ -936,10 +992,10 @@
    "activity": "Healthcare",
    "website": "daralteb.com",
    "description": "Dar Al-Tib is one of Egypt's and the Middle East's first and leading centers specializing in infertility treatment and a...",
-   "permalink": "https://www.ransomware.live/id/ZGFyYWx0ZWIuY29tQGtyeWJpdA==",
+   "permalink": "https://www.ransomware.live/id/ZGFyYWx0ZWIuY29tQGtyeWJpdA",
    "press": "",
    "infostealer": true,
-   "id": "ZGFyYWx0ZWIuY29tQGtyeWJpdA=="
+   "id": "ZGFyYWx0ZWIuY29tQGtyeWJpdA"
   },
   {
    "victim": "Genesis Credit Management",
@@ -950,10 +1006,10 @@
    "activity": "Financial Services",
    "website": "www.genesiscred.com",
    "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/R2VuZXNpcyBDcmVkaXQgTWFuYWdlbWVudEBxaWxpbg==",
+   "permalink": "https://www.ransomware.live/id/R2VuZXNpcyBDcmVkaXQgTWFuYWdlbWVudEBxaWxpbg",
    "press": "",
    "infostealer": false,
-   "id": "R2VuZXNpcyBDcmVkaXQgTWFuYWdlbWVudEBxaWxpbg=="
+   "id": "R2VuZXNpcyBDcmVkaXQgTWFuYWdlbWVudEBxaWxpbg"
   },
   {
    "victim": "Precon Marine Inc",
@@ -978,10 +1034,10 @@
    "activity": "Other",
    "website": "skaffgroup.com",
    "description": "Skaff Group SKAFF is a leader in Lebanon in the field of decorative fabrics. Files: 139,377Data volume: ~268 GB**Full HR dossiers - ~40 scans of Lebanese national ID cards (both sides + photos), a director's passport, civil-status extracts.Banking data - employee account files at Byblos Bank (named per person), Cedrus Bank corporate card program with banker contacts, account statements.Payroll violations - unpaid-salary analysis file, payroll module source code, staff leave requests.Employees' private lives - family photo archives on the work server.Commerce � price lists, Four Seasons and Les",
-   "permalink": "https://www.ransomware.live/id/U2thZmYgR3JvdXBAcmh5c2lkYQ==",
+   "permalink": "https://www.ransomware.live/id/U2thZmYgR3JvdXBAcmh5c2lkYQ",
    "press": "",
    "infostealer": false,
-   "id": "U2thZmYgR3JvdXBAcmh5c2lkYQ=="
+   "id": "U2thZmYgR3JvdXBAcmh5c2lkYQ"
   },
   {
    "victim": "St. Francis Healthcare Systems of Hawaii",
@@ -1006,10 +1062,10 @@
    "activity": "Other",
    "website": "",
    "description": "We compromised the network of the China Railway Construction Corporation\nSaudi Branch / Sama Construction consortium, the MAIN CONTRACTOR building\nthe Jeddah Central Stadium for the FIFA World Cup 2034.\n\n17 TB / 1.5M files exfiltrated, including:\n  - Main contract documents, interim payment certificates, and claims\n    against the owner (Jeddah Central Development Company, PIF)\n  - Active dispute and suspension claim records\n  - Personal data of 150,000+ employees, incl. Saudi employees\n  - IFC design documentation for the stadium\n  - Supplier and subcontractor commercial data (bid tabulations",
-   "permalink": "https://www.ransomware.live/id/V29ybGQgQ3VwIDIwMzRAV2FsbHN0cmVldA==",
+   "permalink": "https://www.ransomware.live/id/V29ybGQgQ3VwIDIwMzRAV2FsbHN0cmVldA",
    "press": "",
    "infostealer": false,
-   "id": "V29ybGQgQ3VwIDIwMzRAV2FsbHN0cmVldA=="
+   "id": "V29ybGQgQ3VwIDIwMzRAV2FsbHN0cmVldA"
   },
   {
    "victim": "States Industries",
@@ -1020,10 +1076,10 @@
    "activity": "Manufacturing",
    "website": "statesind.com",
    "description": "States Industries is a privately held American manufacturer specializing in premium hardwood plywood, custom wood veneer panels, prefinished panels, and specialty components. Founded in Eugene, Oregon, in 1966, the company serves woodworkers, architects, designers, cabinetmakers, furniture manufacturers, and commercial fabricators across North America. Its products include custom hardwood panels, ApplePlyÂ®, NOVA prefinished panels, wall paneling, and precision-manufactured components. States Industries emphasizes innovation, quality, and environmentally responsible manufacturing, offering cus",
-   "permalink": "https://www.ransomware.live/id/U3RhdGVzIEluZHVzdHJpZXNAU3Rvcm0=",
+   "permalink": "https://www.ransomware.live/id/U3RhdGVzIEluZHVzdHJpZXNAU3Rvcm0",
    "press": "",
    "infostealer": true,
-   "id": "U3RhdGVzIEluZHVzdHJpZXNAU3Rvcm0="
+   "id": "U3RhdGVzIEluZHVzdHJpZXNAU3Rvcm0"
   },
   {
    "victim": "Aware",
@@ -1048,10 +1104,10 @@
    "activity": "Manufacturing",
    "website": "alliedmachine.com",
    "description": "Allied Machine & Engineering is a family-owned American manufacturer specializing in precision holemaking and finishing cutting tools for metalworking industries. Founded in 1941 and headquartered in Dover, Ohio, the company develops advanced tooling solutions for drilling, boring, reaming, threading, burnishing, porting, and other machining applications. Its product portfolio includes replaceable-insert and solid-carbide drills, boring systems, thread mills, PCD tools, reamers, and specialized tooling. Allied serves customers across aerospace, automotive, agriculture, heavy equipment, medical",
-   "permalink": "https://www.ransomware.live/id/QWxsaWVkIE1hY2hpbmUgJiBFbmdpbmVlcmluZ0BTdG9ybQ==",
+   "permalink": "https://www.ransomware.live/id/QWxsaWVkIE1hY2hpbmUgJiBFbmdpbmVlcmluZ0BTdG9ybQ",
    "press": "",
    "infostealer": true,
-   "id": "QWxsaWVkIE1hY2hpbmUgJiBFbmdpbmVlcmluZ0BTdG9ybQ=="
+   "id": "QWxsaWVkIE1hY2hpbmUgJiBFbmdpbmVlcmluZ0BTdG9ybQ"
   },
   {
    "victim": "WOOSHIN SAFETY SYSTEMS CO LTD",
@@ -1090,10 +1146,10 @@
    "activity": "Not Found",
    "website": "zelham.com",
    "description": "zelham.com rocketreach.co/zelham-inc-profile_b580fe5ef66e1a3f Zelham, Inc. is a U.S. hospitality renovation general contractor headquartered in Boise, Idaho, founded in 2000 and owned since 2023 by President & CEO Stephen Horel. The company specializes in hotel remodeling, rebranding, and ADA conversions, with 500+ completed projects and licenses in 47 states. It employs approximately 55–57 people across 15 states, generating an estimated annual revenue of $9.6M–$41.6M (sources vary). Zelham works with 20+ major hotel brands (Marriott, Hilton, IHG, Sonesta, Four Seasons), offering pre-construc",
-   "permalink": "https://www.ransomware.live/id/WmVsaGFtQHRoZWdlbnRsZW1lbg==",
+   "permalink": "https://www.ransomware.live/id/WmVsaGFtQHRoZWdlbnRsZW1lbg",
    "press": "",
    "infostealer": false,
-   "id": "WmVsaGFtQHRoZWdlbnRsZW1lbg=="
+   "id": "WmVsaGFtQHRoZWdlbnRsZW1lbg"
   },
   {
    "victim": "Hospital de la Santa Creu i Sant Pau",
@@ -1104,10 +1160,10 @@
    "activity": "Healthcare",
    "website": "santpau.cat",
    "description": "santpau.cat zoominfo.com/c/hospital-de-la-santa-creu-i-sant-pau/372615247 Hospital de la Santa Creu i Sant Pau is a 625-year-old Barcelona medical institution (founded 1401) and a UNESCO World Heritage Site since 1997. It combines a major academic hospital (2009) with the Recinte Modernista, a masterpiece of Catalan Modernism designed by Lluís Domènech i Montaner. The hospital employs ~4,965 people, runs on a ~€490M annual budget, and has 600 beds and 25 operating rooms, serving 400,000+ patients a year. Its research institute (IR Sant Pau, founded 1992) employs 1,632 staff with 1,058+ publica",
-   "permalink": "https://www.ransomware.live/id/SG9zcGl0YWwgZGUgbGEgU2FudGEgQ3JldSBpIFNhbnQgUGF1QHRoZWdlbnRsZW1lbg==",
+   "permalink": "https://www.ransomware.live/id/SG9zcGl0YWwgZGUgbGEgU2FudGEgQ3JldSBpIFNhbnQgUGF1QHRoZWdlbnRsZW1lbg",
    "press": "",
    "infostealer": true,
-   "id": "SG9zcGl0YWwgZGUgbGEgU2FudGEgQ3JldSBpIFNhbnQgUGF1QHRoZWdlbnRsZW1lbg=="
+   "id": "SG9zcGl0YWwgZGUgbGEgU2FudGEgQ3JldSBpIFNhbnQgUGF1QHRoZWdlbnRsZW1lbg"
   },
   {
    "victim": "Rotamac",
@@ -1118,10 +1174,10 @@
    "activity": "Manufacturing",
    "website": "rotamac.ca",
    "description": "rotamac.ca Rotamac Inc. is a privately held industrial equipment distributor founded in November 2019 and based in Rosemère/Montreal, Quebec, Canada (283 rue de Normandie, Rosemère, QC J7A 1T4). It is a micro company of 1–10 employees, essentially built around owner-founder Joey Desrosiers (HEC Montréal, 20+ years in compressed air and rotating equipment). Revenue is not publicly disclosed (small private company), but its e-commerce arm canadacompressorparts.com carries ~43,675 SKUs of non-OEM compressor parts (Atlas Copco, Ingersoll Rand, CompAir compatible) shipping across Canada. Core busin",
-   "permalink": "https://www.ransomware.live/id/Um90YW1hY0B0aGVnZW50bGVtZW4=",
+   "permalink": "https://www.ransomware.live/id/Um90YW1hY0B0aGVnZW50bGVtZW4",
    "press": "",
    "infostealer": false,
-   "id": "Um90YW1hY0B0aGVnZW50bGVtZW4="
+   "id": "Um90YW1hY0B0aGVnZW50bGVtZW4"
   },
   {
    "victim": "Mandurah State Emergency Service",
@@ -1160,10 +1216,10 @@
    "activity": "Manufacturing",
    "website": "gerritystone.com",
    "description": "gerritystone.com zoominfo.com/c/gerrity-stone-inc/48615647 GerrityStone, Inc. is a family-owned stone fabrication and installation company founded in 1997 (part of the Gerrity family business dynasty dating back to 1906), based in Wilmington, Massachusetts, with a state-of-the-art 44,400 sq ft fabrication facility opened in 2022. It is a private, self-funded company with estimated annual revenue of ~$4.4M (range $1–10M) and 43–53 employees. GerrityStone operates the largest natural stone inventory in New England — 2,000+ slabs across 300+ colors, imported mainly from Italy and Brazil. The comp",
-   "permalink": "https://www.ransomware.live/id/R2Vycml0eSBTdG9uZUB0aGVnZW50bGVtZW4=",
+   "permalink": "https://www.ransomware.live/id/R2Vycml0eSBTdG9uZUB0aGVnZW50bGVtZW4",
    "press": "",
    "infostealer": false,
-   "id": "R2Vycml0eSBTdG9uZUB0aGVnZW50bGVtZW4="
+   "id": "R2Vycml0eSBTdG9uZUB0aGVnZW50bGVtZW4"
   },
   {
    "victim": "The Official Collegeof Architects of León (COAL)",
@@ -1174,10 +1230,10 @@
    "activity": "Professional Services",
    "website": "",
    "description": "The Official College of Architects of León (COAL) was established on July 12, 1931, encompassi\nng the regions of León, Asturias, and Galicia. The College of Galicia was legally separated in\n1973 and the College of Asturias in 1981.\n\nHere is the access to 77gb of corporate data. Detailed personal information (passports), finan\ncials, students and clients information and so on.\n\nClick the download button.\n\nYou will find several password-free archives. Click on any of them to start the download.\n",
-   "permalink": "https://www.ransomware.live/id/VGhlIE9mZmljaWFsIENvbGxlZ2VvZiBBcmNoaXRlY3RzIG9mIExlw7NuIChDT0FMKUBha2lyYQ==",
+   "permalink": "https://www.ransomware.live/id/VGhlIE9mZmljaWFsIENvbGxlZ2VvZiBBcmNoaXRlY3RzIG9mIExlw7NuIChDT0FMKUBha2lyYQ",
    "press": "",
    "infostealer": false,
-   "id": "VGhlIE9mZmljaWFsIENvbGxlZ2VvZiBBcmNoaXRlY3RzIG9mIExlw7NuIChDT0FMKUBha2lyYQ=="
+   "id": "VGhlIE9mZmljaWFsIENvbGxlZ2VvZiBBcmNoaXRlY3RzIG9mIExlw7NuIChDT0FMKUBha2lyYQ"
   },
   {
    "victim": "Forma Therapeutics Holdings, Inc.",
@@ -1188,10 +1244,10 @@
    "activity": "Healthcare",
    "website": "www.novonordisk.com",
    "description": "- Clinical Trial & Statistical Data- Electronic Lab Notebooks & Research IP- Drug Discovery & Pipeline Data- Biological Research & Genomic Data",
-   "permalink": "https://www.ransomware.live/id/Rm9ybWEgVGhlcmFwZXV0aWNzIEhvbGRpbmdzLCBJbmMuQG5pZ2h0c3BpcmU=",
+   "permalink": "https://www.ransomware.live/id/Rm9ybWEgVGhlcmFwZXV0aWNzIEhvbGRpbmdzLCBJbmMuQG5pZ2h0c3BpcmU",
    "press": "https://databreaches.net/2026/06/15/scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid/",
    "infostealer": false,
-   "id": "Rm9ybWEgVGhlcmFwZXV0aWNzIEhvbGRpbmdzLCBJbmMuQG5pZ2h0c3BpcmU="
+   "id": "Rm9ybWEgVGhlcmFwZXV0aWNzIEhvbGRpbmdzLCBJbmMuQG5pZ2h0c3BpcmU"
   },
   {
    "victim": "seven seas group",
@@ -1216,10 +1272,10 @@
    "activity": "Transportation",
    "website": "www.lionairthai.com",
    "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/VGhhaSBMaW9uIEFpckBxaWxpbg==",
+   "permalink": "https://www.ransomware.live/id/VGhhaSBMaW9uIEFpckBxaWxpbg",
    "press": "",
    "infostealer": false,
-   "id": "VGhhaSBMaW9uIEFpckBxaWxpbg=="
+   "id": "VGhhaSBMaW9uIEFpckBxaWxpbg"
   },
   {
    "victim": "Mat Bao Corporation",
@@ -1244,10 +1300,10 @@
    "activity": "Other",
    "website": "",
    "description": "paessolucoes.com.br is the website of Paes Soluções, a Brazilian IT company offering business software, hosting, cloud backup, VPS, and technical support, based in Campo Mourão, Paraná.",
-   "permalink": "https://www.ransomware.live/id/UGFlc3NvbHVjb2VzQFBhbnplcg==",
+   "permalink": "https://www.ransomware.live/id/UGFlc3NvbHVjb2VzQFBhbnplcg",
    "press": "",
    "infostealer": false,
-   "id": "UGFlc3NvbHVjb2VzQFBhbnplcg=="
+   "id": "UGFlc3NvbHVjb2VzQFBhbnplcg"
   },
   {
    "victim": "Electro Heat Sweden AB",
@@ -1272,10 +1328,10 @@
    "activity": "Hospitality",
    "website": "sportsevents365.com",
    "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/U3BvcnRzIEV2ZW50czM2NUBxaWxpbg==",
+   "permalink": "https://www.ransomware.live/id/U3BvcnRzIEV2ZW50czM2NUBxaWxpbg",
    "press": "",
    "infostealer": true,
-   "id": "U3BvcnRzIEV2ZW50czM2NUBxaWxpbg=="
+   "id": "U3BvcnRzIEV2ZW50czM2NUBxaWxpbg"
   },
   {
    "victim": "hollypoultry.com",
@@ -1286,10 +1342,10 @@
    "activity": "Agriculture and Food Production",
    "website": "hollypoultry.com",
    "description": "Holly Poultry: 435 Gigabytes from the Inside Baltimore, Maryland · FEIN 25-1434395 · October 2026 Pr...",
-   "permalink": "https://www.ransomware.live/id/aG9sbHlwb3VsdHJ5LmNvbUBzZXR0cmE=",
+   "permalink": "https://www.ransomware.live/id/aG9sbHlwb3VsdHJ5LmNvbUBzZXR0cmE",
    "press": "",
    "infostealer": false,
-   "id": "aG9sbHlwb3VsdHJ5LmNvbUBzZXR0cmE="
+   "id": "aG9sbHlwb3VsdHJ5LmNvbUBzZXR0cmE"
   },
   {
    "victim": "www.windor.com",
@@ -1314,10 +1370,10 @@
    "activity": "Technology",
    "website": "",
    "description": "",
-   "permalink": "https://www.ransomware.live/id/QWQqKipuZ0BBdWRpdFRlYW0=",
+   "permalink": "https://www.ransomware.live/id/QWQqKipuZ0BBdWRpdFRlYW0",
    "press": "",
    "infostealer": false,
-   "id": "QWQqKipuZ0BBdWRpdFRlYW0="
+   "id": "QWQqKipuZ0BBdWRpdFRlYW0"
   },
   {
    "victim": "The Official College of Architects of León (COAL)",
@@ -1328,10 +1384,10 @@
    "activity": "Professional Services",
    "website": "",
    "description": "The Official College of Architects of León (COAL) was established on July 12, 1931, encompassin\ng the regions of León, Asturias, and Galicia. The College of Galicia was legally separated in 1\n973 and the College of Asturias in 1981.\n\nWe will upload 77gb of corporate data soon. Detailed personal information (passports), financia\nls, students and clients information and so on.\n",
-   "permalink": "https://www.ransomware.live/id/VGhlIE9mZmljaWFsIENvbGxlZ2Ugb2YgQXJjaGl0ZWN0cyBvZiBMZcOzbiAoQ09BTClAYWtpcmE=",
+   "permalink": "https://www.ransomware.live/id/VGhlIE9mZmljaWFsIENvbGxlZ2Ugb2YgQXJjaGl0ZWN0cyBvZiBMZcOzbiAoQ09BTClAYWtpcmE",
    "press": "",
    "infostealer": false,
-   "id": "VGhlIE9mZmljaWFsIENvbGxlZ2Ugb2YgQXJjaGl0ZWN0cyBvZiBMZcOzbiAoQ09BTClAYWtpcmE="
+   "id": "VGhlIE9mZmljaWFsIENvbGxlZ2Ugb2YgQXJjaGl0ZWN0cyBvZiBMZcOzbiAoQ09BTClAYWtpcmE"
   },
   {
    "victim": "Jampac Alimentos",
@@ -1342,66 +1398,10 @@
    "activity": "Agriculture and Food Production",
    "website": "jampac.com.br",
    "description": "Jampac Alimentos is a leading producer and distributor of food products in Brazil, with over 20\nyears of experience and a commitment to quality and efficiency. The company serves more than 6\n,500 clients, including restaurants, supermarkets, and industrial kitchens, delivering a wide r\nange of products such as poultry, beef, pork, dairy, and fish.\n\nWe will upload 35gb of corporate data soon. Personal information (passports, payment informatio\nn and other information), financials, clients information and so on.\n",
-   "permalink": "https://www.ransomware.live/id/SmFtcGFjIEFsaW1lbnRvc0Bha2lyYQ==",
+   "permalink": "https://www.ransomware.live/id/SmFtcGFjIEFsaW1lbnRvc0Bha2lyYQ",
    "press": "",
    "infostealer": true,
-   "id": "SmFtcGFjIEFsaW1lbnRvc0Bha2lyYQ=="
-  },
-  {
-   "victim": "translarity.com",
-   "group": "settra",
-   "discovered": "2026-10-02T14:44:46.928778+00:00",
-   "attackdate": "2026-09-03T00:00:00+00:00",
-   "country": "US",
-   "activity": "Technology",
-   "website": "translarity.com",
-   "description": "Closed Circuit The company that probes semiconductors for Boeing and the U.S. military concealed its...",
-   "permalink": "https://www.ransomware.live/id/dHJhbnNsYXJpdHkuY29tQHNldHRyYQ==",
-   "press": "",
-   "infostealer": true,
-   "id": "dHJhbnNsYXJpdHkuY29tQHNldHRyYQ=="
-  },
-  {
-   "victim": "Pacific Tank Lines",
-   "group": "akira",
-   "discovered": "2026-10-02T14:24:13.728851+00:00",
-   "attackdate": "2026-09-26T00:00:00+00:00",
-   "country": "US",
-   "activity": "Transportation",
-   "website": "pacifictanklines.com",
-   "description": "Pacific Tank Lines, Inc. is a premier full-service petroleum carrier focused on safety and cust\nomer service. They offer reliable petroleum cargo services with a professional team of drivers \nand efficient dispatchers. The company operates a modern fleet aimed at reducing their carbon f\nootprint and has received multiple awards for their service excellence.\n\nWe will upload 13gb of corporate data soon. Detailed personal information of 118 employees (pas\nsports, DLs, addresses, phones, payment details and so on), financials, clients and so on.\n",
-   "permalink": "https://www.ransomware.live/id/UGFjaWZpYyBUYW5rIExpbmVzQGFraXJh",
-   "press": "",
-   "infostealer": false,
-   "id": "UGFjaWZpYyBUYW5rIExpbmVzQGFraXJh"
-  },
-  {
-   "victim": "Inova Semiconductors GmbH",
-   "group": "qilin",
-   "discovered": "2026-10-02T14:04:15.039524+00:00",
-   "attackdate": "2026-10-02T14:03:54.179376+00:00",
-   "country": "DE",
-   "activity": "Manufacturing",
-   "website": "inova-semiconductors.de",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/SW5vdmEgU2VtaWNvbmR1Y3RvcnMgR21iSEBxaWxpbg==",
-   "press": "",
-   "infostealer": true,
-   "id": "SW5vdmEgU2VtaWNvbmR1Y3RvcnMgR21iSEBxaWxpbg=="
-  },
-  {
-   "victim": "PT Indo Tambangraya Megah",
-   "group": "ransomhouse",
-   "discovered": "2026-10-02T13:14:39.049589+00:00",
-   "attackdate": "2026-09-12T00:00:00+00:00",
-   "country": "ID",
-   "activity": "Energy & Utilities",
-   "website": "www.itmg.co.id",
-   "description": "PT Indo Tambangraya Megah, founded in 1987, is a leading coal producer based in Asia. The company focuses on maintaining high standards in corporate governance, environmental practices, and workplace safety. PT Indo Tambangraya Megah operates with a commitment to collaboration with local communities and stakeholders. The company has established a diverse customer base in the mining industry and offers various services related to coal production.",
-   "permalink": "https://www.ransomware.live/id/UFQgSW5kbyBUYW1iYW5ncmF5YSBNZWdhaEByYW5zb21ob3VzZQ==",
-   "press": "",
-   "infostealer": false,
-   "id": "UFQgSW5kbyBUYW1iYW5ncmF5YSBNZWdhaEByYW5zb21ob3VzZQ=="
+   "id": "SmFtcGFjIEFsaW1lbnRvc0Bha2lyYQ"
   }
  ]
 }
