@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-06T09:26:50.710Z",
+ "last_updated": "2026-10-06T16:17:28.943Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Four Hands LLC",
+   "group": "UmBra",
+   "discovered": "2026-10-06T14:54:04.731220+00:00",
+   "attackdate": "2026-10-06T14:53:48.032389+00:00",
+   "country": "US",
+   "activity": "Other",
+   "website": "fourhands.com",
+   "description": "Four Hands LLC is a global leader in lifestyle home furnishings, designing and wholesaling innovative, artisanal furniture and decor to top retailers and designers worldwide.",
+   "permalink": "https://www.ransomware.live/id/Rm91ciBIYW5kcyBMTENAVW1CcmE",
+   "press": "",
+   "infostealer": true,
+   "id": "Rm91ciBIYW5kcyBMTENAVW1CcmE"
+  },
+  {
+   "victim": "Michael K Shelby, CPA",
+   "group": "akira",
+   "discovered": "2026-10-06T14:52:35.235760+00:00",
+   "attackdate": "2026-10-06T00:00:00+00:00",
+   "country": "",
+   "activity": "Professional Services",
+   "website": "mkshelbycpa.com",
+   "description": "Michael K. Shelby, CPA, LLC is a CPA firm based in Annapolis, MD, specializing in a comprehensi\nve range of tax and accounting services. They provide individual tax preparation, estate and tr\nust tax services, and business tax services, ensuring clients meet their tax obligations effici\nently.\n\nWe will upload 18gb of corporate data soon. Personal information of clients and employees (SSNs\n, payment information), projects, client internal information and so on.\n",
+   "permalink": "https://www.ransomware.live/id/TWljaGFlbCBLIFNoZWxieSwgQ1BBQGFraXJh",
+   "press": "",
+   "infostealer": false,
+   "id": "TWljaGFlbCBLIFNoZWxieSwgQ1BBQGFraXJh"
+  },
+  {
+   "victim": "Hygrade",
+   "group": "akira",
+   "discovered": "2026-10-06T14:52:15.712125+00:00",
+   "attackdate": "2026-10-06T00:00:00+00:00",
+   "country": "US",
+   "activity": "Agriculture and Food Production",
+   "website": "",
+   "description": "Hyggrade Safety is a manufacturer and direct importer specializing in safety and industrial pro\nducts. Established in 1949, the company serves the construction and industrial markets.\n\nWe will upload corporate data soon. Employee information (name, addresses, phones and so on), p\nrojects and specifications, NDA and so on.\n",
+   "permalink": "https://www.ransomware.live/id/SHlncmFkZUBha2lyYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "SHlncmFkZUBha2lyYQ"
+  },
   {
    "victim": "CORBY ROCK MILL",
    "group": "qilin",
@@ -52,11 +94,11 @@
    "attackdate": "2026-10-06T07:50:51.490545+00:00",
    "country": "US",
    "activity": "Education",
-   "website": "",
+   "website": "philander.edu",
    "description": "Revenue: $25.3 million annual\n\nPhilander Smith University is a private, historically Black liberal arts institution in Little Rock, Arkansas, founded in 1877 and affiliated with the United Methodist Church. They provide undergraduate and graduate education with a focus on academic excellence, social justice, and leadership development for a diverse student body. We successfully exfiltrated 500GB+ worth of data which includes VERY confidential information about students and staff, as well as financial information. Alongside, we have encrypted files across the entire network.",
    "permalink": "https://www.ransomware.live/id/UGhpbGFuZGVyIFNtaXRoIFVuaXZlcnNpdHlARW5kWm9uZQ",
    "press": "",
-   "infostealer": false,
+   "infostealer": true,
    "id": "UGhpbGFuZGVyIFNtaXRoIFVuaXZlcnNpdHlARW5kWm9uZQ"
   },
   {
@@ -685,7 +727,7 @@
    "website": "trumpmobile.com",
    "description": "Trump mobile was informed they had been breached, they then replied with \"We have no team to handle this\" and that anyone who hacks them are a terrorist. Well unfortunately for them, all 3615 customers and their PII, alongside telecom details are now up for grabs. Feel free to take a gander at it yourself, don't be shy, we (and them) certainly aren't stopping you.",
    "permalink": "https://www.ransomware.live/id/VHJ1bXAgTW9iaWxlIFdpcmVsZXNzIChUZWxlY29tKUBCWU9E",
-   "press": "",
+   "press": "https://san.com/cc/trump-mobiles-latest-problem-hackers-just-released-customer-information/",
    "infostealer": true,
    "id": "VHJ1bXAgTW9iaWxlIFdpcmVsZXNzIChUZWxlY29tKUBCWU9E"
   },
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "d3d3LndpbmRvci5jb21Ac2V0dHJh"
-  },
-  {
-   "victim": "Ad***ng",
-   "group": "AuditTeam",
-   "discovered": "2026-10-02T16:50:28.255012+00:00",
-   "attackdate": "2026-10-02T00:00:00+00:00",
-   "country": "AE",
-   "activity": "Technology",
-   "website": "",
-   "description": "",
-   "permalink": "https://www.ransomware.live/id/QWQqKipuZ0BBdWRpdFRlYW0",
-   "press": "",
-   "infostealer": false,
-   "id": "QWQqKipuZ0BBdWRpdFRlYW0"
-  },
-  {
-   "victim": "The Official College of Architects of León (COAL)",
-   "group": "akira",
-   "discovered": "2026-10-02T14:59:23.740946+00:00",
-   "attackdate": "2026-10-02T00:00:00+00:00",
-   "country": "MX",
-   "activity": "Professional Services",
-   "website": "",
-   "description": "The Official College of Architects of León (COAL) was established on July 12, 1931, encompassin\ng the regions of León, Asturias, and Galicia. The College of Galicia was legally separated in 1\n973 and the College of Asturias in 1981.\n\nWe will upload 77gb of corporate data soon. Detailed personal information (passports), financia\nls, students and clients information and so on.\n",
-   "permalink": "https://www.ransomware.live/id/VGhlIE9mZmljaWFsIENvbGxlZ2Ugb2YgQXJjaGl0ZWN0cyBvZiBMZcOzbiAoQ09BTClAYWtpcmE",
-   "press": "",
-   "infostealer": false,
-   "id": "VGhlIE9mZmljaWFsIENvbGxlZ2Ugb2YgQXJjaGl0ZWN0cyBvZiBMZcOzbiAoQ09BTClAYWtpcmE"
-  },
-  {
-   "victim": "Jampac Alimentos",
-   "group": "akira",
-   "discovered": "2026-10-02T14:59:03.626043+00:00",
-   "attackdate": "2026-08-18T00:00:00+00:00",
-   "country": "BR",
-   "activity": "Agriculture and Food Production",
-   "website": "jampac.com.br",
-   "description": "Jampac Alimentos is a leading producer and distributor of food products in Brazil, with over 20\nyears of experience and a commitment to quality and efficiency. The company serves more than 6\n,500 clients, including restaurants, supermarkets, and industrial kitchens, delivering a wide r\nange of products such as poultry, beef, pork, dairy, and fish.\n\nWe will upload 35gb of corporate data soon. Personal information (passports, payment informatio\nn and other information), financials, clients information and so on.\n",
-   "permalink": "https://www.ransomware.live/id/SmFtcGFjIEFsaW1lbnRvc0Bha2lyYQ",
-   "press": "",
-   "infostealer": true,
-   "id": "SmFtcGFjIEFsaW1lbnRvc0Bha2lyYQ"
   }
  ]
 }
