@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-06T21:16:07.336Z",
+ "last_updated": "2026-10-07T00:48:21.919Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1714,
+ "count": 1715,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "EDFelectronics",
+   "group": "Panzer",
+   "discovered": "2026-10-06T22:55:53.652676+00:00",
+   "attackdate": "2026-10-06T22:07:13+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "EDFelectronics.com is a Polish engineering company that develops specialized electronics and plasma technology for industrial and research applications.",
+   "permalink": "https://www.ransomware.live/id/RURGZWxlY3Ryb25pY3NAUGFuemVy",
+   "press": "",
+   "infostealer": false,
+   "id": "RURGZWxlY3Ryb25pY3NAUGFuemVy",
+   "chemical": false
+  },
   {
    "victim": "Ciftay Insaat Taahhut Ve Ticaret Anonim Sirketi",
    "group": "qilin",

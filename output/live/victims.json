@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-06T21:16:07.322Z",
+ "last_updated": "2026-10-07T00:48:21.904Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "EPTISA",
+   "group": "qilin",
+   "discovered": "2026-10-07T00:10:58.269068+00:00",
+   "attackdate": "2026-10-07T00:10:39.005522+00:00",
+   "country": "ES",
+   "activity": "Professional Services",
+   "website": "www.eptisa.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/RVBUSVNBQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "RVBUSVNBQHFpbGlu"
+  },
+  {
+   "victim": "Andersen Group",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-10-06T23:52:26.171128+00:00",
+   "attackdate": "2026-10-06T23:52:24.080097+00:00",
+   "country": "",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "[AI generated] N/A",
+   "permalink": "https://www.ransomware.live/id/QW5kZXJzZW4gR3JvdXBAU2lsZW50UmFuc29tR3JvdXA",
+   "press": "",
+   "infostealer": false,
+   "id": "QW5kZXJzZW4gR3JvdXBAU2lsZW50UmFuc29tR3JvdXA"
+  },
+  {
+   "victim": "EDFelectronics",
+   "group": "Panzer",
+   "discovered": "2026-10-06T22:55:53.652676+00:00",
+   "attackdate": "2026-10-06T22:07:13+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "EDFelectronics.com is a Polish engineering company that develops specialized electronics and plasma technology for industrial and research applications.",
+   "permalink": "https://www.ransomware.live/id/RURGZWxlY3Ryb25pY3NAUGFuemVy",
+   "press": "",
+   "infostealer": false,
+   "id": "RURGZWxlY3Ryb25pY3NAUGFuemVy"
+  },
+  {
+   "victim": "Beni Suef Technological University – BTU",
+   "group": "UmBra",
+   "discovered": "2026-10-06T22:24:17.238937+00:00",
+   "attackdate": "2026-10-06T22:23:59.841502+00:00",
+   "country": "EG",
+   "activity": "Education",
+   "website": "",
+   "description": "Beni Suef Technological University (BTU) is Egypt’s first technological university, offering industry-focused programs in ICT, Mechatronics, Renewable Energy, Autotronics, Railway Technology, and other applied technology fields, with international cooperation and ABEEK-accredited programs.",
+   "permalink": "https://www.ransomware.live/id/QmVuaSBTdWVmIFRlY2hub2xvZ2ljYWwgVW5pdmVyc2l0eSDigJMgQlRVQFVtQnJh",
+   "press": "",
+   "infostealer": false,
+   "id": "QmVuaSBTdWVmIFRlY2hub2xvZ2ljYWwgVW5pdmVyc2l0eSDigJMgQlRVQFVtQnJh"
+  },
   {
    "victim": "KOOKABARRA JUICE",
    "group": "Vexy Ransomware",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "WmVsaGFtQHRoZWdlbnRsZW1lbg"
-  },
-  {
-   "victim": "Hospital de la Santa Creu i Sant Pau",
-   "group": "thegentlemen",
-   "discovered": "2026-10-03T06:26:33.138762+00:00",
-   "attackdate": "2026-10-02T07:39:51+00:00",
-   "country": "ES",
-   "activity": "Healthcare",
-   "website": "santpau.cat",
-   "description": "santpau.cat zoominfo.com/c/hospital-de-la-santa-creu-i-sant-pau/372615247 Hospital de la Santa Creu i Sant Pau is a 625-year-old Barcelona medical institution (founded 1401) and a UNESCO World Heritage Site since 1997. It combines a major academic hospital (2009) with the Recinte Modernista, a masterpiece of Catalan Modernism designed by Lluís Domènech i Montaner. The hospital employs ~4,965 people, runs on a ~€490M annual budget, and has 600 beds and 25 operating rooms, serving 400,000+ patients a year. Its research institute (IR Sant Pau, founded 1992) employs 1,632 staff with 1,058+ publica",
-   "permalink": "https://www.ransomware.live/id/SG9zcGl0YWwgZGUgbGEgU2FudGEgQ3JldSBpIFNhbnQgUGF1QHRoZWdlbnRsZW1lbg",
-   "press": "",
-   "infostealer": true,
-   "id": "SG9zcGl0YWwgZGUgbGEgU2FudGEgQ3JldSBpIFNhbnQgUGF1QHRoZWdlbnRsZW1lbg"
-  },
-  {
-   "victim": "Rotamac",
-   "group": "thegentlemen",
-   "discovered": "2026-10-03T06:26:12.222236+00:00",
-   "attackdate": "2026-10-02T07:44:38+00:00",
-   "country": "CA",
-   "activity": "Manufacturing",
-   "website": "rotamac.ca",
-   "description": "rotamac.ca Rotamac Inc. is a privately held industrial equipment distributor founded in November 2019 and based in Rosemère/Montreal, Quebec, Canada (283 rue de Normandie, Rosemère, QC J7A 1T4). It is a micro company of 1–10 employees, essentially built around owner-founder Joey Desrosiers (HEC Montréal, 20+ years in compressed air and rotating equipment). Revenue is not publicly disclosed (small private company), but its e-commerce arm canadacompressorparts.com carries ~43,675 SKUs of non-OEM compressor parts (Atlas Copco, Ingersoll Rand, CompAir compatible) shipping across Canada. Core busin",
-   "permalink": "https://www.ransomware.live/id/Um90YW1hY0B0aGVnZW50bGVtZW4",
-   "press": "",
-   "infostealer": false,
-   "id": "Um90YW1hY0B0aGVnZW50bGVtZW4"
-  },
-  {
-   "victim": "Mandurah State Emergency Service",
-   "group": "thegentlemen",
-   "discovered": "2026-10-03T06:25:51.608513+00:00",
-   "attackdate": "2026-10-02T07:50:49+00:00",
-   "country": "AU",
-   "activity": "Government & Defense",
-   "website": "mandurahses.org.au",
-   "description": "mandurahses.org.au Mandurah State Emergency Service is a volunteer emergency rescue unit (part of DFES Western Australia), founded in 1976/78 and celebrating its 50th anniversary in 2026, based at 31 Education Drive, Greenfields, WA 6210. It is a non-profit organization — there is no revenue; funding comes from DFES (WA Government) and community donations. The unit has ~80+ active volunteers and 60–90 cadets (ages 12–17), one of the largest SES cadet programs in WA (26 years running), led by Local Manager Chris Stickland ESM (volunteer since 1986, unit leader since 2010). It responds 24/7/365 ",
-   "permalink": "https://www.ransomware.live/id/TWFuZHVyYWggU3RhdGUgRW1lcmdlbmN5IFNlcnZpY2VAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": false,
-   "id": "TWFuZHVyYWggU3RhdGUgRW1lcmdlbmN5IFNlcnZpY2VAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Westrop Primary & Nursery School",
-   "group": "thegentlemen",
-   "discovered": "2026-10-03T06:25:30.930959+00:00",
-   "attackdate": "2026-10-02T07:57:01+00:00",
-   "country": "GB",
-   "activity": "Education",
-   "website": "westropprimaryschool.co.uk",
-   "description": "westropprimaryschool.co.uk Westrop Primary & Nursery School is a state-funded community school in Highworth, Swindon (Wiltshire, UK), founded in 1969, serving children aged 2–11. It currently has ~380 enrolled students (capacity 495), with 18.6% on free school meals and 16.3% on SEN support. The school employs ~47 staff (15 teachers + 32 teaching assistants, 20:1 student-teacher ratio) under Headteacher Cindy Acres (since 2018). Annual income is approximately £2 million (~£5,461 per pupil), with a healthy £75K surplus and ~£100K reserves. Rated \"Good\" by Ofsted (October 2022, maintained since ",
-   "permalink": "https://www.ransomware.live/id/V2VzdHJvcCBQcmltYXJ5ICYgTnVyc2VyeSBTY2hvb2xAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": false,
-   "id": "V2VzdHJvcCBQcmltYXJ5ICYgTnVyc2VyeSBTY2hvb2xAdGhlZ2VudGxlbWVu"
   }
  ]
 }
