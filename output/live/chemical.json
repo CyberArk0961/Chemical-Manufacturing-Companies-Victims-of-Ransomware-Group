@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-07T00:48:21.919Z",
+ "last_updated": "2026-10-07T07:17:05.771Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1715,
+ "count": 1716,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "acmestamping.com",
+   "group": "incransom",
+   "discovered": "2026-10-07T05:08:14.160618+00:00",
+   "attackdate": "2026-10-06T21:07:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "acmestamping.com",
+   "description": "Acme Stamping & Wire Forming Co. specializes in metal stamping, CNC machining, precision wire forming, and tool & die services. They offer a range of capabilities including progressive blanking, deep draw, and single station compound processes. The company caters to clients requiring high-quality manufacturing solutions with advanced equipment and precision engineering. Located in Pittsburgh, PA, Acme Stamping & Wire Forming is equipped to handle various production needs.\r Employees: 20\r Revenue: $5 Million\r Phone Number: (412) 771-5720",
+   "permalink": "https://www.ransomware.live/id/YWNtZXN0YW1waW5nLmNvbUBpbmNyYW5zb20",
+   "press": "",
+   "infostealer": false,
+   "id": "YWNtZXN0YW1waW5nLmNvbUBpbmNyYW5zb20",
+   "chemical": false
+  },
   {
    "victim": "EDFelectronics",
    "group": "Panzer",
