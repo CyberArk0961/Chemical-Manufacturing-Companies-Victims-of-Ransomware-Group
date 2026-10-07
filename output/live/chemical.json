@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-07T07:17:05.771Z",
+ "last_updated": "2026-10-07T14:36:05.735Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1716,
+ "count": 1717,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "Tharisa",
+   "group": "UmBra",
+   "discovered": "2026-10-07T08:23:30.103540+00:00",
+   "attackdate": "2026-10-07T08:23:13.450489+00:00",
+   "country": "ZA",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Tharisa is a Cyprus-based mining group focused on the production and processing of platinum group metals (PGMs) and chrome, with major operations in South Africa and development projects in Zimbabwe.",
+   "permalink": "https://www.ransomware.live/id/VGhhcmlzYUBVbUJyYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "VGhhcmlzYUBVbUJyYQ",
+   "chemical": false
+  },
   {
    "victim": "acmestamping.com",
    "group": "incransom",
