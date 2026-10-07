@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-07T14:36:05.735Z",
+ "last_updated": "2026-10-07T20:12:17.829Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1717,
+ "count": 1718,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "Leadec",
+   "group": "anubis",
+   "discovered": "2026-10-07T16:54:20.040745+00:00",
+   "attackdate": "2026-10-07T16:53:59.421347+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Will they allow this leak to happen?",
+   "permalink": "https://www.ransomware.live/id/TGVhZGVjQGFudWJpcw",
+   "press": "",
+   "infostealer": false,
+   "id": "TGVhZGVjQGFudWJpcw",
+   "chemical": false
+  },
   {
    "victim": "Tharisa",
    "group": "UmBra",
