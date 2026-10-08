@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-08T06:13:21.977Z",
+ "last_updated": "2026-10-08T13:37:47.977Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Global AirFreight International",
+   "group": "Eclipse",
+   "discovered": "2026-10-08T13:22:17.469894+00:00",
+   "attackdate": "2026-10-08T00:00:00+00:00",
+   "country": "SG",
+   "activity": "Transportation",
+   "website": "www.globalair.com.sg",
+   "description": "Global Airfreight International is a logistics solution provider specializing in air freight, ocean freight, cross-border trucking, and contract logistics. They cater to various industries including aerospace, healthcare, technology, and general cargo, offering services such as temperature-controlled solutions and project cargo management. The company focuses on delivering high standards of service and innovative solutions to meet customer requirements. Their clients include businesses in need of reliable and efficient supply chain solutions for critical shipments.",
+   "permalink": "https://www.ransomware.live/id/R2xvYmFsIEFpckZyZWlnaHQgSW50ZXJuYXRpb25hbEBFY2xpcHNl",
+   "press": "",
+   "infostealer": false,
+   "id": "R2xvYmFsIEFpckZyZWlnaHQgSW50ZXJuYXRpb25hbEBFY2xpcHNl"
+  },
+  {
+   "victim": "Morton LTC Pharmacy",
+   "group": "RunSomeWares",
+   "discovered": "2026-10-08T11:54:06.766447+00:00",
+   "attackdate": "2026-10-08T11:53:42.058625+00:00",
+   "country": "US",
+   "activity": "Healthcare",
+   "website": "",
+   "description": "Morton LTC is an independent fourth-generation family-owned Wisconsin pharmacy.",
+   "permalink": "https://www.ransomware.live/id/TW9ydG9uIExUQyBQaGFybWFjeUBSdW5Tb21lV2FyZXM",
+   "press": "",
+   "infostealer": false,
+   "id": "TW9ydG9uIExUQyBQaGFybWFjeUBSdW5Tb21lV2FyZXM"
+  },
+  {
+   "victim": "Some semi-samples Of Liberty X TMO cause we got yappatrons on twitter",
+   "group": "BYOD",
+   "discovered": "2026-10-08T10:20:28.422066+00:00",
+   "attackdate": "2026-10-08T00:00:00+00:00",
+   "country": "",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Lmao. Amusing tweet. However, nobody cares about Trump Mobile anymore, but you're mistaken if you think that is all we have or if they didn't get breached, or if that's what we were talking about. Sneak peek we guess, Knock yourself out.",
+   "permalink": "https://www.ransomware.live/id/U29tZSBzZW1pLXNhbXBsZXMgT2YgTGliZXJ0eSBYIFRNTyBjYXVzZSB3ZSBnb3QgeWFwcGF0cm9ucyBvbiB0d2l0dGVyQEJZT0Q",
+   "press": "",
+   "infostealer": false,
+   "id": "U29tZSBzZW1pLXNhbXBsZXMgT2YgTGliZXJ0eSBYIFRNTyBjYXVzZSB3ZSBnb3QgeWFwcGF0cm9ucyBvbiB0d2l0dGVyQEJZT0Q"
+  },
   {
    "victim": "Cooperative Des Techniciens Ambulanciers De La Monte",
    "group": "Storm",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "SW5mb21lZGlhIEEvU0BhdXJvcmE"
-  },
-  {
-   "victim": "Millensys",
-   "group": "medusalocker",
-   "discovered": "2026-10-05T11:08:22.464562+00:00",
-   "attackdate": "2026-10-05T11:08:10.055055+00:00",
-   "country": "BR",
-   "activity": "Technology",
-   "website": "millensys.com",
-   "description": "Organization with 2 emails extracted. Domain: millensys.com",
-   "permalink": "https://www.ransomware.live/id/TWlsbGVuc3lzQG1lZHVzYWxvY2tlcg",
-   "press": "",
-   "infostealer": true,
-   "id": "TWlsbGVuc3lzQG1lZHVzYWxvY2tlcg"
-  },
-  {
-   "victim": "Rueegseggerag",
-   "group": "medusalocker",
-   "discovered": "2026-10-05T11:07:51.010196+00:00",
-   "attackdate": "2026-10-05T11:07:37.412776+00:00",
-   "country": "CH",
-   "activity": "Not Found",
-   "website": "rueegseggerag.ch",
-   "description": "Organization with 1 emails extracted. Domain: rueegseggerag.ch",
-   "permalink": "https://www.ransomware.live/id/UnVlZWdzZWdnZXJhZ0BtZWR1c2Fsb2NrZXI",
-   "press": "",
-   "infostealer": false,
-   "id": "UnVlZWdzZWdnZXJhZ0BtZWR1c2Fsb2NrZXI"
-  },
-  {
-   "victim": "PANCARIBBEAN LOGISTICS GROUP",
-   "group": "emperador",
-   "discovered": "2026-10-05T10:52:41.591060+00:00",
-   "attackdate": "2026-10-05T10:03:00+00:00",
-   "country": "TT",
-   "activity": "Transportation",
-   "website": "",
-   "description": "Panamanian logistics company operating \nin the field of international cargo transportation.\nFinancial documents, personal and customer data. [Sector: Transportation]",
-   "permalink": "https://www.ransomware.live/id/UEFOQ0FSSUJCRUFOIExPR0lTVElDUyBHUk9VUEBlbXBlcmFkb3I",
-   "press": "",
-   "infostealer": false,
-   "id": "UEFOQ0FSSUJCRUFOIExPR0lTVElDUyBHUk9VUEBlbXBlcmFkb3I"
   }
  ]
 }
