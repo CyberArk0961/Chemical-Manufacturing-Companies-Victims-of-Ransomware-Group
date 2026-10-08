@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-08T13:37:47.977Z",
+ "last_updated": "2026-10-08T19:29:30.820Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "simplexengg.in",
+   "group": "Eclipse",
+   "discovered": "2026-10-08T17:53:39.641217+00:00",
+   "attackdate": "2026-10-08T00:00:00+00:00",
+   "country": "IN",
+   "activity": "Manufacturing",
+   "website": "simplexengg.in",
+   "description": "[AI generated] N/A",
+   "permalink": "https://www.ransomware.live/id/c2ltcGxleGVuZ2cuaW5ARWNsaXBzZQ",
+   "press": "",
+   "infostealer": true,
+   "id": "c2ltcGxleGVuZ2cuaW5ARWNsaXBzZQ"
+  },
+  {
+   "victim": "sanjoseattorneys.com",
+   "group": "Eclipse",
+   "discovered": "2026-10-08T17:52:47.896965+00:00",
+   "attackdate": "2026-10-08T00:00:00+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "sanjoseattorneys.com",
+   "description": "[AI generated] N/A\n\nBased on the domain name alone, I cannot reliably verify specific details about this website, such as its actual operating status, business legitimacy, ownership, or operational history. The name suggests a legal services website potentially related to attorneys in San Jose, California, USA, but I don't have verified, factual information about this specific entity to provide an accurate threat intelligence assessment.",
+   "permalink": "https://www.ransomware.live/id/c2Fuam9zZWF0dG9ybmV5cy5jb21ARWNsaXBzZQ",
+   "press": "",
+   "infostealer": false,
+   "id": "c2Fuam9zZWF0dG9ybmV5cy5jb21ARWNsaXBzZQ"
+  },
+  {
+   "victim": "Andersen Group Inc.",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-10-08T16:26:51.947000+00:00",
+   "attackdate": "2026-10-08T16:26:50.754614+00:00",
+   "country": "",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "(NYSE: ANDG) reported $217.7 million in revenue for the second quarter of 2026 and $838.7 million in f…",
+   "permalink": "https://www.ransomware.live/id/QW5kZXJzZW4gR3JvdXAgSW5jLkBTaWxlbnRSYW5zb21Hcm91cA",
+   "press": "",
+   "infostealer": false,
+   "id": "QW5kZXJzZW4gR3JvdXAgSW5jLkBTaWxlbnRSYW5zb21Hcm91cA"
+  },
+  {
+   "victim": "DIPECARR",
+   "group": "Eclipse",
+   "discovered": "2026-10-08T14:22:39.888264+00:00",
+   "attackdate": "2026-10-08T00:00:00+00:00",
+   "country": "BR",
+   "activity": "Other",
+   "website": "www.dipecarr.com.br",
+   "description": "Dipecarr is Brazil's top truck parts distributor, founded in 1994 by Adilson José de Almeida. With over 10,000 items ready to ship and partnerships with world-known brands, they serve 80,000 customers across seven branches in key Brazilian states. The company offers everything a truck owner needs, focusing on quality service and continuous growth.",
+   "permalink": "https://www.ransomware.live/id/RElQRUNBUlJARWNsaXBzZQ",
+   "press": "",
+   "infostealer": false,
+   "id": "RElQRUNBUlJARWNsaXBzZQ"
+  },
   {
    "victim": "Global AirFreight International",
    "group": "Eclipse",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "T25zZW1pQHFpbGlu"
-  },
-  {
-   "victim": "ENKA Schools",
-   "group": "Doommageddon",
-   "discovered": "2026-10-05T11:53:59.659960+00:00",
-   "attackdate": "2026-10-05T11:53:42.888844+00:00",
-   "country": "TR",
-   "activity": "Education",
-   "website": "enka.k12.tr",
-   "description": "Status: upcoming | Deadline: 2026-10-15T00:00:00Z",
-   "permalink": "https://www.ransomware.live/id/RU5LQSBTY2hvb2xzQERvb21tYWdlZGRvbg",
-   "press": "",
-   "infostealer": true,
-   "id": "RU5LQSBTY2hvb2xzQERvb21tYWdlZGRvbg"
-  },
-  {
-   "victim": "Cam Group LLC",
-   "group": "Doommageddon",
-   "discovered": "2026-10-05T11:53:24.326488+00:00",
-   "attackdate": "2026-10-05T11:53:07.698304+00:00",
-   "country": "",
-   "activity": "Other",
-   "website": "",
-   "description": "Status: upcoming | Deadline: 2026-10-15T00:00:00Z",
-   "permalink": "https://www.ransomware.live/id/Q2FtIEdyb3VwIExMQ0BEb29tbWFnZWRkb24",
-   "press": "",
-   "infostealer": false,
-   "id": "Q2FtIEdyb3VwIExMQ0BEb29tbWFnZWRkb24"
-  },
-  {
-   "victim": "Franklin Empire",
-   "group": "BYOD",
-   "discovered": "2026-10-05T11:50:23.875197+00:00",
-   "attackdate": "2026-10-04T00:00:00+00:00",
-   "country": "",
-   "activity": "Other",
-   "website": "franklinempire.com",
-   "description": "You know we have over 700GB of Data, AWS Keys to your buckets, (which we dumped), Moonshot AI API keys, SMTP credentials, Packaging Slips, invoices, PDFs, Business Information, Customer PII, Inventory stash and SO much more. Your team knows how serious the breach is, hence why everything got rotated FAST, you also know how bad it can get if it gets posted in every corner of the dark web, Either reach out to us using the Contact methods listed on our site or face the consequences. Make the right decision, it's only you who can save yourselves. Anyways, you know where to find us (contact tab). W",
-   "permalink": "https://www.ransomware.live/id/RnJhbmtsaW4gRW1waXJlQEJZT0Q",
-   "press": "",
-   "infostealer": true,
-   "id": "RnJhbmtsaW4gRW1waXJlQEJZT0Q"
-  },
-  {
-   "victim": "Infomedia A/S",
-   "group": "aurora",
-   "discovered": "2026-10-05T11:26:41.159312+00:00",
-   "attackdate": "2026-10-05T00:00:00+00:00",
-   "country": "DK",
-   "activity": "Technology",
-   "website": "",
-   "description": "[monitoring] Infomedia A/S — Denmark's premier media monitoring company, co-owned by the country's two largest media conglomerates (JP/Politikens Hus and Berlingske Media).\n\nInfomedia sits at the heart of Nordic media. It monitors newspapers, broadcasts, and digital sources for hundreds of corporate and government clients — including the EU Parliament, A.P. Møller-Mærsk, and major Nordic media groups (Schibsted, Polaris, NRK, Amedia).\n\nThe exposed material spans:\n\n<redacted>\n<redacted>\nSQL Server sysadmin credentials — sa / ballmer for the Opoint CRM database at crmdb.opoint.com.\nAn RSA privat",
-   "permalink": "https://www.ransomware.live/id/SW5mb21lZGlhIEEvU0BhdXJvcmE",
-   "press": "",
-   "infostealer": false,
-   "id": "SW5mb21lZGlhIEEvU0BhdXJvcmE"
   }
  ]
 }
