@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-07T20:12:17.829Z",
+ "last_updated": "2026-10-08T06:13:22.001Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1718,
+ "count": 1720,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "Lumabuilt",
+   "group": "nightspire",
+   "discovered": "2026-10-08T02:02:34.272497+00:00",
+   "attackdate": "2026-07-08T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "lumabuilt.com",
+   "description": "[AI generated] N/A\n\nI don't have reliable, verified information about a company called \"Lumabuilt.\" Rather than provide potentially fabricated details about its industry, operations, or country, I'm flagging this as unknown. If you have additional context (website, location, sector) or if this is a fictional/test entity, please share details and I can help frame a description accordingly.",
+   "permalink": "https://www.ransomware.live/id/THVtYWJ1aWx0QG5pZ2h0c3BpcmU",
+   "press": "",
+   "infostealer": false,
+   "id": "THVtYWJ1aWx0QG5pZ2h0c3BpcmU",
+   "chemical": false
+  },
+  {
+   "victim": "KSL Dirtworks",
+   "group": "nightspire",
+   "discovered": "2026-10-08T02:01:27.138214+00:00",
+   "attackdate": "2026-07-13T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.ksldirtworks.com",
+   "description": "[AI generated] N/A\n\nI do not have reliable, verified information about a specific company called \"KSL Dirtworks.\" Rather than provide potentially inaccurate details about its operations, industry classification, or country of operation, I'm flagging this as unknown. If you have additional context (location, industry sector, or related business names), I can help refine the search or you can verify through official business registries.",
+   "permalink": "https://www.ransomware.live/id/S1NMIERpcnR3b3Jrc0BuaWdodHNwaXJl",
+   "press": "",
+   "infostealer": false,
+   "id": "S1NMIERpcnR3b3Jrc0BuaWdodHNwaXJl",
+   "chemical": false
+  },
   {
    "victim": "Leadec",
    "group": "anubis",
