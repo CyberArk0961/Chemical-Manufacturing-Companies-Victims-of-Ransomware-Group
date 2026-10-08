@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-08T19:29:30.835Z",
+ "last_updated": "2026-10-08T23:58:27.678Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1721,
+ "count": 1722,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "dipecarr.com.br",
+   "group": "Eclipse",
+   "discovered": "2026-10-08T21:21:19.222767+00:00",
+   "attackdate": "2026-10-08T00:00:00+00:00",
+   "country": "BR",
+   "activity": "Manufacturing",
+   "website": "dipecarr.com.br",
+   "description": "[AI generated] N/A\n\nI don't have reliable, verifiable information about a company operating at \"dipecarr.com.br.\" I'm unable to confirm its business activities, industry classification, or operational details with confidence. Providing fabricated details about an unfamiliar domain could result in inaccurate threat intelligence. If you have additional context or source material about this entity, I'd be glad to help analyze it.",
+   "permalink": "https://www.ransomware.live/id/ZGlwZWNhcnIuY29tLmJyQEVjbGlwc2U",
+   "press": "",
+   "infostealer": true,
+   "id": "ZGlwZWNhcnIuY29tLmJyQEVjbGlwc2U",
+   "chemical": false
+  },
   {
    "victim": "simplexengg.in",
    "group": "Eclipse",
