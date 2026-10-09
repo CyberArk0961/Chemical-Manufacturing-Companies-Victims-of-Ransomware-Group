@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-08T23:58:27.678Z",
+ "last_updated": "2026-10-09T06:13:27.497Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1722,
+ "count": 1724,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "Mäntelhaus Kaiser GmbH & Co. KG",
+   "group": "nightspire",
+   "discovered": "2026-10-09T02:06:40.364801+00:00",
+   "attackdate": "2026-07-21T00:00:00+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "maentelhaus-kaiser.de",
+   "description": "[AI generated] N/A\n\nI don't have reliable, verifiable information about a company called \"Mäntelhaus Kaiser GmbH & Co. KG\" in my knowledge base. Rather than provide fabricated details about its operations, industry specifics, or founding history, I'm flagging this as unverifiable. If you have source material or context about this company, please share it and I can help analyze or summarize that information instead.",
+   "permalink": "https://www.ransomware.live/id/TcOkbnRlbGhhdXMgS2Fpc2VyIEdtYkggJiBDby4gS0dAbmlnaHRzcGlyZQ",
+   "press": "",
+   "infostealer": false,
+   "id": "TcOkbnRlbGhhdXMgS2Fpc2VyIEdtYkggJiBDby4gS0dAbmlnaHRzcGlyZQ",
+   "chemical": false
+  },
+  {
+   "victim": "Valvorobica Industirale S.p.A",
+   "group": "nightspire",
+   "discovered": "2026-10-09T00:11:31.421012+00:00",
+   "attackdate": "2026-07-13T00:00:00+00:00",
+   "country": "IT",
+   "activity": "Manufacturing",
+   "website": "www.valvorobica.eu",
+   "description": "[AI generated] N/A\n\nI don't have reliable, verifiable information about a company by this name (\"Valvorobica Industriale S.p.A\"). Rather than fabricate details about its operations, industry specifics, or location, I'm flagging this as unknown. If you have source documents or additional context about this company, please share them and I can help analyze that material.",
+   "permalink": "https://www.ransomware.live/id/VmFsdm9yb2JpY2EgSW5kdXN0aXJhbGUgUy5wLkFAbmlnaHRzcGlyZQ",
+   "press": "",
+   "infostealer": false,
+   "id": "VmFsdm9yb2JpY2EgSW5kdXN0aXJhbGUgUy5wLkFAbmlnaHRzcGlyZQ",
+   "chemical": false
+  },
   {
    "victim": "dipecarr.com.br",
    "group": "Eclipse",
