@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-09T13:23:53.083Z",
+ "last_updated": "2026-10-09T19:01:46.881Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1725,
+ "count": 1727,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "Melchioni Spa",
+   "group": "qilin",
+   "discovered": "2026-10-09T14:15:33.839294+00:00",
+   "attackdate": "2026-10-09T14:14:47.332385+00:00",
+   "country": "IT",
+   "activity": "Manufacturing",
+   "website": "www.melchioni.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/TWVsY2hpb25pIFNwYUBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "TWVsY2hpb25pIFNwYUBxaWxpbg",
+   "chemical": false
+  },
+  {
+   "victim": "Ladrillera Mecanizada",
+   "group": "arcusmedia",
+   "discovered": "2026-10-09T13:30:13.573522+00:00",
+   "attackdate": "2026-10-09T12:51:50+00:00",
+   "country": "MX",
+   "activity": "Manufacturing",
+   "website": "ladrillera.mx",
+   "description": "ladrillera.mx/—Ladrillera Mecanizada is the largest producer and exporter of 100% natural Deadline: 2026-10-16 12:44:00.000000",
+   "permalink": "https://www.ransomware.live/id/TGFkcmlsbGVyYSBNZWNhbml6YWRhQGFyY3VzbWVkaWE",
+   "press": "",
+   "infostealer": true,
+   "id": "TGFkcmlsbGVyYSBNZWNhbml6YWRhQGFyY3VzbWVkaWE",
+   "chemical": false
+  },
   {
    "victim": "Design Electric",
    "group": "akira",
