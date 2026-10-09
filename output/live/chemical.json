@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-09T06:13:27.497Z",
+ "last_updated": "2026-10-09T13:23:53.083Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1724,
+ "count": 1725,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "Design Electric",
+   "group": "akira",
+   "discovered": "2026-10-09T12:35:35.763382+00:00",
+   "attackdate": "2026-10-09T00:00:00+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Design Electric is a company specializing in industrial, government & transportation electrical\nin St. Cloud, MN.\n\nWe will upload 15gb of corporate data soon. Detailed employee information (passports, DLs of mo\nre than 100 employees, about 350 SSN numbers, addresses, phones and so on), projects, lots of c\nontacts, client info, NDA and so on.\n",
+   "permalink": "https://www.ransomware.live/id/RGVzaWduIEVsZWN0cmljQGFraXJh",
+   "press": "",
+   "infostealer": false,
+   "id": "RGVzaWduIEVsZWN0cmljQGFraXJh",
+   "chemical": false
+  },
   {
    "victim": "Mäntelhaus Kaiser GmbH & Co. KG",
    "group": "nightspire",
@@ -198,7 +213,7 @@
    "website": "www.corbyrock.ie",
    "description": "N/A",
    "permalink": "https://www.ransomware.live/id/Q09SQlkgUk9DSyBNSUxMQHFpbGlu",
-   "press": "",
+   "press": "https://www.farmersjournal.ie/news/news/cyber-attack-on-corby-rock-mill-hits-production-935873",
    "infostealer": false,
    "id": "Q09SQlkgUk9DSyBNSUxMQHFpbGlu",
    "chemical": false
