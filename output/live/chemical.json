@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-09T23:17:54.700Z",
+ "last_updated": "2026-10-10T15:53:12.431Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1735,
+ "count": 1737,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 155,
  "victims": [
+  {
+   "victim": "KOIKE Sanso Kogoyo Co. Ltd.",
+   "group": "exitium",
+   "discovered": "2026-10-10T14:31:50.448423+00:00",
+   "attackdate": "2026-10-10T14:31:32.355306+00:00",
+   "country": "JP",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Website: koike-japan.com\nYou have time until Tuesday(10.13.2026). If you wouldn't contact us we will start selling data.\nWe have 5.8 TB of data: \nagreements\nconfidential data \ncorrespondence files\nall customers and clients data\nengineering drawings \nAND MUCH MORE...\n\nContact us until your time runs out.",
+   "permalink": "https://www.ransomware.live/id/S09JS0UgU2Fuc28gS29nb3lvIENvLiBMdGQuQGV4aXRpdW0",
+   "press": "",
+   "infostealer": false,
+   "id": "S09JS0UgU2Fuc28gS29nb3lvIENvLiBMdGQuQGV4aXRpdW0",
+   "chemical": false
+  },
+  {
+   "victim": "LD Constructora",
+   "group": "qilin",
+   "discovered": "2026-10-10T12:45:10.486069+00:00",
+   "attackdate": "2026-10-10T12:44:37.847387+00:00",
+   "country": "CL",
+   "activity": "Manufacturing",
+   "website": "www.ldconstructora.cl",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/TEQgQ29uc3RydWN0b3JhQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "TEQgQ29uc3RydWN0b3JhQHFpbGlu",
+   "chemical": false
+  },
   {
    "victim": "DW McMillan Memorial Hospital",
    "group": "thegentlemen",

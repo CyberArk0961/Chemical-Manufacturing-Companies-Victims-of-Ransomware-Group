@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-09T23:17:54.682Z",
+ "last_updated": "2026-10-10T15:53:12.242Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "KOIKE Sanso Kogoyo Co. Ltd.",
+   "group": "exitium",
+   "discovered": "2026-10-10T14:31:50.448423+00:00",
+   "attackdate": "2026-10-10T14:31:32.355306+00:00",
+   "country": "JP",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Website: koike-japan.com\nYou have time until Tuesday(10.13.2026). If you wouldn't contact us we will start selling data.\nWe have 5.8 TB of data: \nagreements\nconfidential data \ncorrespondence files\nall customers and clients data\nengineering drawings \nAND MUCH MORE...\n\nContact us until your time runs out.",
+   "permalink": "https://www.ransomware.live/id/S09JS0UgU2Fuc28gS29nb3lvIENvLiBMdGQuQGV4aXRpdW0",
+   "press": "",
+   "infostealer": false,
+   "id": "S09JS0UgU2Fuc28gS29nb3lvIENvLiBMdGQuQGV4aXRpdW0"
+  },
+  {
+   "victim": "Gress Clark Young & Schoepper",
+   "group": "rhysida",
+   "discovered": "2026-10-10T12:46:50.865750+00:00",
+   "attackdate": "2026-10-10T12:46:25.165608+00:00",
+   "country": "",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Gress Clark Young & Schoepper 167,804 files / ~166.4 GBBanking details - of the firm and its clients.SSNs + signatures of clients/witnesses; W-9, I-9 forms with DL/SSN card copies; W-4 forms.BIIA case-management procedures (Board of Industrial Insurance Appeals): default orders (Order of Default), internal 'Conference Questions', consulting-fee payments to experts.Firm finances: the firm's QuickBooks company file, VOID checks bearing signatures, expert-payment records, SaaS invoices.Medical photos and imaging; hundreds of pages of PHI/APF (Activity Prescription Forms) - X-rays, complete medica",
+   "permalink": "https://www.ransomware.live/id/R3Jlc3MgQ2xhcmsgWW91bmcgJiBTY2hvZXBwZXJAcmh5c2lkYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "R3Jlc3MgQ2xhcmsgWW91bmcgJiBTY2hvZXBwZXJAcmh5c2lkYQ"
+  },
+  {
+   "victim": "Glenhardie Country Club",
+   "group": "qilin",
+   "discovered": "2026-10-10T12:45:59.206369+00:00",
+   "attackdate": "2026-10-10T12:45:30.756183+00:00",
+   "country": "US",
+   "activity": "Hospitality",
+   "website": "www.glenhardiecc.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/R2xlbmhhcmRpZSBDb3VudHJ5IENsdWJAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "R2xlbmhhcmRpZSBDb3VudHJ5IENsdWJAcWlsaW4"
+  },
+  {
+   "victim": "LD Constructora",
+   "group": "qilin",
+   "discovered": "2026-10-10T12:45:10.486069+00:00",
+   "attackdate": "2026-10-10T12:44:37.847387+00:00",
+   "country": "CL",
+   "activity": "Manufacturing",
+   "website": "www.ldconstructora.cl",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/TEQgQ29uc3RydWN0b3JhQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "TEQgQ29uc3RydWN0b3JhQHFpbGlu"
+  },
   {
    "victim": "Saber1",
    "group": "Deadlock",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "RElQRUNBUlJARWNsaXBzZQ"
-  },
-  {
-   "victim": "Global AirFreight International",
-   "group": "Eclipse",
-   "discovered": "2026-10-08T13:22:17.469894+00:00",
-   "attackdate": "2026-10-08T00:00:00+00:00",
-   "country": "SG",
-   "activity": "Transportation",
-   "website": "www.globalair.com.sg",
-   "description": "Global Airfreight International is a logistics solution provider specializing in air freight, ocean freight, cross-border trucking, and contract logistics. They cater to various industries including aerospace, healthcare, technology, and general cargo, offering services such as temperature-controlled solutions and project cargo management. The company focuses on delivering high standards of service and innovative solutions to meet customer requirements. Their clients include businesses in need of reliable and efficient supply chain solutions for critical shipments.",
-   "permalink": "https://www.ransomware.live/id/R2xvYmFsIEFpckZyZWlnaHQgSW50ZXJuYXRpb25hbEBFY2xpcHNl",
-   "press": "",
-   "infostealer": false,
-   "id": "R2xvYmFsIEFpckZyZWlnaHQgSW50ZXJuYXRpb25hbEBFY2xpcHNl"
-  },
-  {
-   "victim": "Morton LTC Pharmacy",
-   "group": "RunSomeWares",
-   "discovered": "2026-10-08T11:54:06.766447+00:00",
-   "attackdate": "2026-10-08T11:53:42.058625+00:00",
-   "country": "US",
-   "activity": "Healthcare",
-   "website": "",
-   "description": "Morton LTC is an independent fourth-generation family-owned Wisconsin pharmacy.",
-   "permalink": "https://www.ransomware.live/id/TW9ydG9uIExUQyBQaGFybWFjeUBSdW5Tb21lV2FyZXM",
-   "press": "",
-   "infostealer": false,
-   "id": "TW9ydG9uIExUQyBQaGFybWFjeUBSdW5Tb21lV2FyZXM"
-  },
-  {
-   "victim": "Cooperative Des Techniciens Ambulanciers De La Monte",
-   "group": "Storm",
-   "discovered": "2026-10-08T05:25:57.714492+00:00",
-   "attackdate": "2026-10-07T14:13:47+00:00",
-   "country": "CA",
-   "activity": "Healthcare",
-   "website": "",
-   "description": "CETAM is the largest employer in prehospital care in Montérégie, comprising over 400 ambulance technicians and paramedics. Founded in 1988, it operates on a cooperative model where all workers are members, allowing them to participate in decision-making and benefit from annual financial returns. The organization serves a wide territory, responding to nearly 20,000 calls annually across multiple municipalities. CETAM is dedicated to providing high-quality emergency medical services to the local population. \nThe company headquarters is located in 310 Rue Lawrence, Greenfield Park, QC J4V 2Z6, Ca",
-   "permalink": "https://www.ransomware.live/id/Q29vcGVyYXRpdmUgRGVzIFRlY2huaWNpZW5zIEFtYnVsYW5jaWVycyBEZSBMYSBNb250ZUBTdG9ybQ",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29vcGVyYXRpdmUgRGVzIFRlY2huaWNpZW5zIEFtYnVsYW5jaWVycyBEZSBMYSBNb250ZUBTdG9ybQ"
-  },
-  {
-   "victim": "TheraCare",
-   "group": "Storm",
-   "discovered": "2026-10-08T05:25:26.782110+00:00",
-   "attackdate": "2026-10-06T05:31:31+00:00",
-   "country": "US",
-   "activity": "Healthcare",
-   "website": "",
-   "description": "TheraCare is a multi-service healthcare, rehabilitation, developmental, and educational organization founded in 1991 and headquartered in New York. The company provides clinical and educational services for children, families, and clients of different ages across New York, New Jersey, Connecticut, and Maryland. Its key services include early intervention, autism services, preschool and school-age programs, speech-language therapy, occupational therapy, physical therapy, special education, behavioral services, and school district staffing. TheraCare focuses on helping children reach their devel",
-   "permalink": "https://www.ransomware.live/id/VGhlcmFDYXJlQFN0b3Jt",
-   "press": "",
-   "infostealer": false,
-   "id": "VGhlcmFDYXJlQFN0b3Jt"
   }
  ]
 }
