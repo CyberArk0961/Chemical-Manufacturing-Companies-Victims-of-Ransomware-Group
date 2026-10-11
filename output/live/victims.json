@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-11T19:44:57.389Z",
+ "last_updated": "2026-10-11T23:13:17.167Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Spelman Logistics",
+   "group": "emperador",
+   "discovered": "2026-10-11T22:21:27.370329+00:00",
+   "attackdate": "2026-10-11T21:40:00+00:00",
+   "country": "",
+   "activity": "Transportation",
+   "website": "",
+   "description": "Dear Spelman Logistics,\n\nWe are now in possession of 1.2M contact records (emails and phone numbers), 245K carrier profiles complete with EIN and SSN, 57K bank accounts including routing numbers, 334K live document URLs, and 4.5M carrier registry entries pulled from your MVMNT TMS.\n\nYour exposure extends well beyond your own walls. We have also reached into the systems of your partners, including:\n\n    ALG Canada Inc\n    Line Transportation Inc\n    Maverick Acquisition Ventures Inc\n    Reliable Freight Solutions\n    Rhode Sense\n\nand more.\n\nIf you would rather not have us contact your partners ",
+   "permalink": "https://www.ransomware.live/id/U3BlbG1hbiBMb2dpc3RpY3NAZW1wZXJhZG9y",
+   "press": "",
+   "infostealer": false,
+   "id": "U3BlbG1hbiBMb2dpc3RpY3NAZW1wZXJhZG9y"
+  },
+  {
+   "victim": "Company #24",
+   "group": "N0n",
+   "discovered": "2026-10-11T20:53:02.237588+00:00",
+   "attackdate": "2026-10-11T20:52:42.954520+00:00",
+   "country": "",
+   "activity": "Not Found",
+   "website": "",
+   "description": "smart building & surveillance integration · California, USA | [PENDING EXPOSURE: data publishes 2026-10-14 18:00 UTC]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMjRATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjMjRATjBu"
+  },
+  {
+   "victim": "huntcompanies.com",
+   "group": "BrainCipher",
+   "discovered": "2026-10-11T20:21:17.589236+00:00",
+   "attackdate": "2026-10-11T20:20:58.934540+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "huntcompanies.com",
+   "description": "[AI generated] N/A\n\nI don't have verified, reliable information about a specific company at \"huntcompanies.com\" to describe accurately. Providing fabricated details about a company's operations, industry, or location would risk spreading misinformation in a threat intelligence context, where factual accuracy is critical. If you can share additional context or verified source material about this company, I can help analyze or summarize that information instead.",
+   "permalink": "https://www.ransomware.live/id/aHVudGNvbXBhbmllcy5jb21AQnJhaW5DaXBoZXI",
+   "press": "",
+   "infostealer": true,
+   "id": "aHVudGNvbXBhbmllcy5jb21AQnJhaW5DaXBoZXI"
+  },
   {
    "victim": "Company #23",
    "group": "N0n",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "V2F0ZXJtYXJrIFJldGlyZW1lbnQgQ29tbXVuaXRpZXNAcGF5b3V0c2tpbmc"
-  },
-  {
-   "victim": "bayer",
-   "group": "Black X",
-   "discovered": "2026-10-09T19:14:00.205357+00:00",
-   "attackdate": "2026-10-09T12:22:49.310000+00:00",
-   "country": "DE",
-   "activity": "Healthcare",
-   "website": "www.bayer.com/en",
-   "description": "Bayer is a global life science company with more than 160 years of innovation behind us. Operating at the intersection of health and nutrition, we are committed to addressing some of society's most pressing challenges and creating lasting value for people, communities, and the world around us.",
-   "permalink": "https://www.ransomware.live/id/YmF5ZXJAQmxhY2sgWA",
-   "press": "",
-   "infostealer": false,
-   "id": "YmF5ZXJAQmxhY2sgWA"
-  },
-  {
-   "victim": "enTouch",
-   "group": "Black X",
-   "discovered": "2026-10-09T19:13:19.588979+00:00",
-   "attackdate": "2026-10-09T13:58:20.640000+00:00",
-   "country": "JP",
-   "activity": "Technology",
-   "website": "entouch.jp",
-   "description": "enTouch is a Japanese IT company specializing in the medical and pharmaceutical sectors, providing services for online consultations, sales activities, and customer data management between pharmaceutical companies and medical institutions. We possess the entire database from data.entouch.jp, the data analysis system used by enTouch. The database contains sensitive customer information, including names, contact details, consultation schedules and records, and sales activity data categorized by pharmaceutical company.",
-   "permalink": "https://www.ransomware.live/id/ZW5Ub3VjaEBCbGFjayBY",
-   "press": "",
-   "infostealer": true,
-   "id": "ZW5Ub3VjaEBCbGFjayBY"
-  },
-  {
-   "victim": "lopay",
-   "group": "Black X",
-   "discovered": "2026-10-09T19:12:37.596311+00:00",
-   "attackdate": "2026-10-09T15:59:04.035000+00:00",
-   "country": "GB",
-   "activity": "Financial Services",
-   "website": "lopay.com",
-   "description": "Lopay is a UK-based fintech company that provides a payment platform enabling small and medium-sized enterprises (SMEs) and sole traders to accept credit card and mobile payments, as well as manage their sales and settlements. This includes financial information belonging to client companies, such as customer payment details, card information, banking data, transaction history, and payment terminal information.",
-   "permalink": "https://www.ransomware.live/id/bG9wYXlAQmxhY2sgWA",
-   "press": "",
-   "infostealer": true,
-   "id": "bG9wYXlAQmxhY2sgWA"
   }
  ]
 }
