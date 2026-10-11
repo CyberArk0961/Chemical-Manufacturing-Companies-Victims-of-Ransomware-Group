@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-10T23:35:41.070Z",
+ "last_updated": "2026-10-11T08:59:38.428Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1740,
+ "count": 1741,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 156,
+ "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "TQC S.A.",
+   "group": "dragonforce",
+   "discovered": "2026-10-11T05:00:46.698408+00:00",
+   "attackdate": "2026-10-11T04:53:59.051214+00:00",
+   "country": "PE",
+   "activity": "Manufacturing",
+   "website": "tqc.com.pe",
+   "description": "(A release of 750 GB of data, compressed into archives for convenience.) TQC Tecnología Química Comercio S. A. specializes in providing high-quality solutions for the agricultural, veterinary, and environmental health sectors, promoting sustainable agriculture. The company aims to support the development and well-being of these sectors by offering a wide range of products tailored to their needs. With a commitment to excellence, TQC seeks to be a leading provider in Peru and other markets in South America. They work closely with farmers to exceed expectations and contribute to community growth",
+   "permalink": "https://www.ransomware.live/id/VFFDIFMuQS5AZHJhZ29uZm9yY2U",
+   "press": "",
+   "infostealer": true,
+   "id": "VFFDIFMuQS5AZHJhZ29uZm9yY2U",
+   "chemical": true
+  },
   {
    "victim": "SCHMITZ & NITTENWILM",
    "group": "Majinahanashi",
