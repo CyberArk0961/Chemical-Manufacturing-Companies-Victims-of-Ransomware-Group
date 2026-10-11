@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-10T23:35:41.042Z",
+ "last_updated": "2026-10-11T02:13:48.367Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "hsc.mb.ca",
+   "group": "incransom",
+   "discovered": "2026-10-11T01:14:06.099529+00:00",
+   "attackdate": "2026-10-10T10:00:00+00:00",
+   "country": "CA",
+   "activity": "Healthcare",
+   "website": "hsc.mb.ca",
+   "description": "The Health Sciences Centre in Winnipeg, one of the largest medical institutions, was targeted by us that resulted in the largest data breach among healthcare institutions. Our group chose not to completely disrupt the facility’s operations, recognizing the potentially devastating consequences that such an action could have had on patients’ lives and health.\r Nevertheless, Health Sciences Centre management stated that no sensitive data had been affected, despite having been informed otherwise.\r The data included, but was not limited to, the following information:\r Patient medical records:\r Full",
+   "permalink": "https://www.ransomware.live/id/aHNjLm1iLmNhQGluY3JhbnNvbQ",
+   "press": "https://ca.news.yahoo.com/ransomware-attack-health-sciences-centre-224238098.html",
+   "infostealer": true,
+   "id": "aHNjLm1iLmNhQGluY3JhbnNvbQ"
+  },
   {
    "victim": "PIO PIO",
    "group": "Majinahanashi",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Rm9uZHkgRm9vZCBQYW50cnlAbmlnaHRzcGlyZQ"
-  },
-  {
-   "victim": "The Bernard Osher Foundation",
-   "group": "nightspire",
-   "discovered": "2026-10-09T06:04:03.131333+00:00",
-   "attackdate": "2026-10-04T00:00:00+00:00",
-   "country": "US",
-   "activity": "Education",
-   "website": "",
-   "description": "Data is not available now.",
-   "permalink": "https://www.ransomware.live/id/VGhlIEJlcm5hcmQgT3NoZXIgRm91bmRhdGlvbkBuaWdodHNwaXJl",
-   "press": "",
-   "infostealer": false,
-   "id": "VGhlIEJlcm5hcmQgT3NoZXIgRm91bmRhdGlvbkBuaWdodHNwaXJl"
   }
  ]
 }
