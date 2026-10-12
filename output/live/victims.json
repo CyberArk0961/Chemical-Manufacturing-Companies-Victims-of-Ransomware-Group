@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-11T23:13:17.167Z",
+ "last_updated": "2026-10-12T02:27:37.683Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "MGT Lojistik AŞ",
+   "group": "nightspire",
+   "discovered": "2026-10-12T01:18:12.550271+00:00",
+   "attackdate": "2026-07-22T00:00:00+00:00",
+   "country": "TR",
+   "activity": "Transportation",
+   "website": "www.mgtlog.com",
+   "description": "[AI generated] N/A\n\nI don't have verified, reliable information about a company called \"MGT Lojistik AŞ\" in my knowledge base. While \"Lojistik\" suggests a Turkish logistics company (AŞ being a common Turkish corporate suffix for \"Anonim Şirketi,\" or joint-stock company), I cannot confirm specific details about this entity's operations, services, founding, or business activities with confidence. Providing fabricated details would be inappropriate for threat intelligence purposes, where accuracy is critical. If you have additional context, source documents, or details about this company, I'd be ",
+   "permalink": "https://www.ransomware.live/id/TUdUIExvamlzdGlrIEHFnkBuaWdodHNwaXJl",
+   "press": "",
+   "infostealer": false,
+   "id": "TUdUIExvamlzdGlrIEHFnkBuaWdodHNwaXJl"
+  },
+  {
+   "victim": "KP Industries",
+   "group": "nightspire",
+   "discovered": "2026-10-12T01:17:49.237806+00:00",
+   "attackdate": "2026-07-23T00:00:00+00:00",
+   "country": "GB",
+   "activity": "Not Found",
+   "website": "",
+   "description": "[AI generated] N/A\n\nI don't have verified, reliable information about a specific company named \"KP Industries.\" This is a generic-sounding business name that could refer to multiple unrelated companies across different industries and countries, and I cannot confirm details for any specific entity without risking inaccurate or fabricated information.",
+   "permalink": "https://www.ransomware.live/id/S1AgSW5kdXN0cmllc0BuaWdodHNwaXJl",
+   "press": "",
+   "infostealer": false,
+   "id": "S1AgSW5kdXN0cmllc0BuaWdodHNwaXJl"
+  },
   {
    "victim": "Spelman Logistics",
    "group": "emperador",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "RGVsb2l0dGVAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Merrill Iron & Steel",
-   "group": "payoutsking",
-   "discovered": "2026-10-09T19:21:09.828445+00:00",
-   "attackdate": "2026-08-13T00:00:00+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "merrillsteel.com",
-   "description": "[AI generated] N/A",
-   "permalink": "https://www.ransomware.live/id/TWVycmlsbCBJcm9uICYgU3RlZWxAcGF5b3V0c2tpbmc",
-   "press": "",
-   "infostealer": true,
-   "id": "TWVycmlsbCBJcm9uICYgU3RlZWxAcGF5b3V0c2tpbmc"
-  },
-  {
-   "victim": "Watermark Retirement Communities",
-   "group": "payoutsking",
-   "discovered": "2026-10-09T19:20:09.750265+00:00",
-   "attackdate": "2026-08-24T00:00:00+00:00",
-   "country": "US",
-   "activity": "Healthcare",
-   "website": "watermarkcommunities.com",
-   "description": "[AI generated] Watermark Retirement Communities is a U.S.-based senior living company that develops, manages, and operates retirement communities offering independent living, assisted living, memory care, and skilled nursing services. Headquartered in Tucson, Arizona, it operates numerous communities across the United States. The company belongs to the senior care and hospitality-adjacent real estate industry, focusing on resident-centered lifestyle programming and care.",
-   "permalink": "https://www.ransomware.live/id/V2F0ZXJtYXJrIFJldGlyZW1lbnQgQ29tbXVuaXRpZXNAcGF5b3V0c2tpbmc",
-   "press": "",
-   "infostealer": true,
-   "id": "V2F0ZXJtYXJrIFJldGlyZW1lbnQgQ29tbXVuaXRpZXNAcGF5b3V0c2tpbmc"
   }
  ]
 }
