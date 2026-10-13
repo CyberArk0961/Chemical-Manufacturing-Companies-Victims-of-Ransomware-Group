@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-13T17:09:12.996Z",
+ "last_updated": "2026-10-13T21:52:14.766Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1751,
+ "count": 1752,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 156,
+ "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "IGPL",
+   "group": "HYFLOCK",
+   "discovered": "2026-10-13T17:14:21.163722+00:00",
+   "attackdate": "2026-10-10T18:23:10+00:00",
+   "country": "NG",
+   "activity": "Energy & Utilities",
+   "website": "igpetro.com",
+   "description": "Company Profile & Core Business • Overview: Established in 1988 and headquartered in Mumbai, India, IGPL operates its core manufacturing facility within the Taloja chemical industrial corridor in Maharashtra. The company is a publicly traded, international petrochemical products manufacturer listed on both the National Stock Exchange of India (NSE) and the Bombay Stock Exchange (BSE). • Core Products: The company primarily specializes in the production of Phthalic Anhydride (PAN). Leveraging economies of scale, it also recovers valuable by-products such as Maleic Anhydride and Benzoic Acid, an",
+   "permalink": "https://www.ransomware.live/id/SUdQTEBIWUZMT0NL",
+   "press": "",
+   "infostealer": true,
+   "id": "SUdQTEBIWUZMT0NL",
+   "chemical": true
+  },
   {
    "victim": "Fab Support AB",
    "group": "Wallstreet",
