@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-12T19:49:33.439Z",
+ "last_updated": "2026-10-13T02:02:43.049Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1747,
+ "count": 1749,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "Saddlers Court MFG",
+   "group": "play",
+   "discovered": "2026-10-13T00:36:48.095988+00:00",
+   "attackdate": "2026-10-13T00:36:32.588329+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "www.saddlerscourtmfg.com",
+   "description": "United States",
+   "permalink": "https://www.ransomware.live/id/U2FkZGxlcnMgQ291cnQgTUZHQHBsYXk",
+   "press": "",
+   "infostealer": false,
+   "id": "U2FkZGxlcnMgQ291cnQgTUZHQHBsYXk",
+   "chemical": false
+  },
+  {
+   "victim": "AAA Architectural Hardware",
+   "group": "akira",
+   "discovered": "2026-10-12T20:55:17.859506+00:00",
+   "attackdate": "2026-10-12T00:00:00+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "AAA Architectural Hardware Co. has been a leader in architectural hardware for over 80 years, o\nffering a wide range of products and services including keying systems, electronic security, an\nd custom design requests.\n\nWe will upload 64gb of corporate data soon. Employee information (name, address and so on), pro\njects, clients and partners info, NDAs and so on.\n",
+   "permalink": "https://www.ransomware.live/id/QUFBIEFyY2hpdGVjdHVyYWwgSGFyZHdhcmVAYWtpcmE",
+   "press": "",
+   "infostealer": false,
+   "id": "QUFBIEFyY2hpdGVjdHVyYWwgSGFyZHdhcmVAYWtpcmE",
+   "chemical": false
+  },
   {
    "victim": "Aeroklas Duys / Duys Engineering Group",
    "group": "Deadlock",
