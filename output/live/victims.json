@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-13T02:02:43.030Z",
+ "last_updated": "2026-10-13T09:28:09.946Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "The Buckner Company, Inc.",
+   "group": "aurora",
+   "discovered": "2026-10-13T07:27:11.241612+00:00",
+   "attackdate": "2026-10-13T00:00:00+00:00",
+   "country": "US",
+   "activity": "Other",
+   "website": "The Buckner Company, Inc.",
+   "description": "[insurance] The Buckner Company, Inc. is a commercial property & casualty insurance brokerage headquartered in Salt Lake City, Utah, with a second office in Denver, Colorado.\n\nThe exfiltrated dataset includes:\n\n1,500+ plaintext credentials — Chrome, Edge, and Google password exports from 8+ employees, plus 20+ password spreadsheets. Verified: kbennett’s file alone contains 503 entries covering Hartford, Travelers, Chubb, Progressive, Sedgwick, mortgage portals, banking, and personal accounts.\nEmployee SSNs for 150–250 individuals — W-2 reports across three entities (TBC, TBI, COL) spanning fou",
+   "permalink": "https://www.ransomware.live/id/VGhlIEJ1Y2tuZXIgQ29tcGFueSwgSW5jLkBhdXJvcmE",
+   "press": "",
+   "infostealer": false,
+   "id": "VGhlIEJ1Y2tuZXIgQ29tcGFueSwgSW5jLkBhdXJvcmE"
+  },
   {
    "victim": "The Innovation Group",
    "group": "play",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "VFFDIFMuQS5AZHJhZ29uZm9yY2U"
-  },
-  {
-   "victim": "Confipetrol",
-   "group": "qilin",
-   "discovered": "2026-10-11T02:58:30.613472+00:00",
-   "attackdate": "2026-10-11T02:58:06.534513+00:00",
-   "country": "CO",
-   "activity": "Energy & Utilities",
-   "website": "www.confipetrol.com",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/Q29uZmlwZXRyb2xAcWlsaW4",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29uZmlwZXRyb2xAcWlsaW4"
   }
  ]
 }
