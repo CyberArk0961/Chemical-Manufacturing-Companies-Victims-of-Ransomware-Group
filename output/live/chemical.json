@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-10-13T02:02:43.049Z",
+ "last_updated": "2026-10-13T17:09:12.996Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1749,
+ "count": 1751,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 157,
+ "chemical_matches": 156,
  "victims": [
+  {
+   "victim": "Fab Support AB",
+   "group": "Wallstreet",
+   "discovered": "2026-10-13T16:53:57.244489+00:00",
+   "attackdate": "2026-10-13T16:43:02+00:00",
+   "country": "SE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Swedish supplier of electronic components and telecommunications equipment; also provides installation and technical support related to industrial equipment.",
+   "permalink": "https://www.ransomware.live/id/RmFiIFN1cHBvcnQgQUJAV2FsbHN0cmVldA",
+   "press": "",
+   "infostealer": false,
+   "id": "RmFiIFN1cHBvcnQgQUJAV2FsbHN0cmVldA",
+   "chemical": false
+  },
+  {
+   "victim": "Durga Bearings",
+   "group": "Orova",
+   "discovered": "2026-10-13T14:57:30.066827+00:00",
+   "attackdate": "2026-10-13T00:00:00+00:00",
+   "country": "IN",
+   "activity": "Manufacturing",
+   "website": "www.durgabrgs.com",
+   "description": "Today Durga Bearings, we're proud to be the leading supplier of top-quality bearings in the country. With a wide range of products from world-renowned brands like NSK-RHP, INA,FAG, THK, BMD, GRW and many more we ensure our customers have access to over 150,000 types of bearings.",
+   "permalink": "https://www.ransomware.live/id/RHVyZ2EgQmVhcmluZ3NAT3JvdmE",
+   "press": "",
+   "infostealer": false,
+   "id": "RHVyZ2EgQmVhcmluZ3NAT3JvdmE",
+   "chemical": false
+  },
+  {
+   "victim": "Wolf & Sofsky GmbH",
+   "group": "incransom",
+   "discovered": "2026-10-13T13:18:39.930519+00:00",
+   "attackdate": "2025-12-10T05:06:00+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Wolf & Sofsky GmbH is a construction company with a 75-year history, based in Zweibrücken, Germany. The company operates on highly complex projects and maintains a significant financial position.\r \r Critical Information We Possess\r Financial Data: Complete spectrum of financial information (reports, budgets, cost estimates), revealing project profitability, total revenue, cost structure, and financial stability of the company.\r \r Commercial Information: Contracts with clients, commercial offers, contract terms — these form the foundation of Wolf & Sofsky's competitive advantage.\r \r Personal Da",
+   "permalink": "https://www.ransomware.live/id/V29sZiAmIFNvZnNreSBHbWJIQGluY3JhbnNvbQ",
+   "press": "",
+   "infostealer": false,
+   "id": "V29sZiAmIFNvZnNreSBHbWJIQGluY3JhbnNvbQ",
+   "chemical": false
+  },
   {
    "victim": "Saddlers Court MFG",
    "group": "play",
@@ -142,21 +187,6 @@
    "infostealer": false,
    "id": "RG9uZ2t1ayBTdGVlbCAoc3RlZWwgbWFudWZhY3R1cmluZylATjBu",
    "chemical": false
-  },
-  {
-   "victim": "PIC GROUP, INC",
-   "group": "akira",
-   "discovered": "2026-10-12T12:57:20.264235+00:00",
-   "attackdate": "2026-10-12T00:00:00+00:00",
-   "country": "US",
-   "activity": "Other",
-   "website": "",
-   "description": "PIC Group, Inc. is dedicated to delivering value by providing Operation & Maintenance, Commissi\noning and Startup, Documentation & Training and Staffing services to the power generation, oil \nand gas, petrochemical, pulp and paper and manufacturing industries globally.\n\nWe will upload 8gb of corporate data soon. Employee information, projects (drawings, specificat\nions), clients info, contracts and agreements and so on.\n",
-   "permalink": "https://www.ransomware.live/id/UElDIEdST1VQLCBJTkNAYWtpcmE",
-   "press": "",
-   "infostealer": false,
-   "id": "UElDIEdST1VQLCBJTkNAYWtpcmE",
-   "chemical": true
   },
   {
    "victim": "TQC S.A.",
