@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-14T20:45:40.786Z",
+ "last_updated": "2026-10-14T23:29:34.032Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Interior Technologies",
+   "group": "N0n",
+   "discovered": "2026-10-14T22:59:09.912069+00:00",
+   "attackdate": "2026-10-14T22:58:37.421862+00:00",
+   "country": "",
+   "activity": "Technology",
+   "website": "",
+   "description": "smart building & surveillance integration (US) · California, USA | The complete gateway configuration of a smart building and surveillance integration company: every client site, device, user and credential; Client site surveillance feeds: dark until settlement; Administrator access to the company's own management infrastructure: reset by us | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/SW50ZXJpb3IgVGVjaG5vbG9naWVzQE4wbg",
+   "press": "",
+   "infostealer": false,
+   "id": "SW50ZXJpb3IgVGVjaG5vbG9naWVzQE4wbg"
+  },
   {
    "victim": "Taiwan Otsuka Pharmaceutical",
    "group": "Eclipse",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "VklBVGVjaG5pa0BtZXRhZW5jcnlwdG9y"
-  },
-  {
-   "victim": "GlobalNet LCL (port agency operations)",
-   "group": "N0n",
-   "discovered": "2026-10-12T14:16:22.522356+00:00",
-   "attackdate": "2026-10-12T14:16:06.737223+00:00",
-   "country": "ID",
-   "activity": "Transportation",
-   "website": "",
-   "description": "Port agency / logistics · Indonesia | Container gate movement and damage management records | [NOT PAID — EXPOSED: files publish 2026-10-19 13:27 UTC]",
-   "permalink": "https://www.ransomware.live/id/R2xvYmFsTmV0IExDTCAocG9ydCBhZ2VuY3kgb3BlcmF0aW9ucylATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "R2xvYmFsTmV0IExDTCAocG9ydCBhZ2VuY3kgb3BlcmF0aW9ucylATjBu"
   }
  ]
 }
