@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-13T21:52:14.707Z",
+ "last_updated": "2026-10-14T01:15:13.939Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Lane Equipment",
+   "group": "dragonforce",
+   "discovered": "2026-10-14T00:30:19.672653+00:00",
+   "attackdate": "2026-10-14T00:11:07.208408+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "laneequipment.com",
+   "description": "Lane Equipment Company has been a trusted food service partner in Texas since 1966, specializing in the sales, leasing, repairs, and parts for commercial kitchen equipment. They offer a wide range of products including soft serve machines, frozen beverage machines, ice machines, and refrigeration solutions. With four locations in Houston, San Antonio, Austin, and the Rio Grande Valley, they cater to restaurant professionals and commercial kitchen needs. Their services also include maintenance and parts support, ensuring comprehensive solutions for their clients.",
+   "permalink": "https://www.ransomware.live/id/TGFuZSBFcXVpcG1lbnRAZHJhZ29uZm9yY2U",
+   "press": "",
+   "infostealer": false,
+   "id": "TGFuZSBFcXVpcG1lbnRAZHJhZ29uZm9yY2U"
+  },
+  {
+   "victim": "Company #65",
+   "group": "N0n",
+   "discovered": "2026-10-13T23:22:05.398765+00:00",
+   "attackdate": "2026-10-13T23:21:46.926266+00:00",
+   "country": "BR",
+   "activity": "Not Found",
+   "website": "",
+   "description": "packaging manufacturing (extrusion) · Brazil | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNjVATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjNjVATjBu"
+  },
   {
    "victim": "The Golden Legacy Financing",
    "group": "qilin",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "U2FtdWRlcmEgKGNvYXN0YWwgc2hpcHBpbmcgb3BlcmF0aW9ucylATjBu"
-  },
-  {
-   "victim": "Dongkuk Steel (steel manufacturing)",
-   "group": "N0n",
-   "discovered": "2026-10-12T14:04:34.417540+00:00",
-   "attackdate": "2026-10-12T14:04:15.496206+00:00",
-   "country": "KR",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "Steel manufacturing · South Korea | Internal financial systems material (invoice and settlement records) | [NOT PAID — EXPOSED: files publish 2026-10-19 13:27 UTC]",
-   "permalink": "https://www.ransomware.live/id/RG9uZ2t1ayBTdGVlbCAoc3RlZWwgbWFudWZhY3R1cmluZylATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "RG9uZ2t1ayBTdGVlbCAoc3RlZWwgbWFudWZhY3R1cmluZylATjBu"
-  },
-  {
-   "victim": "NCT Kandla (container terminal operations)",
-   "group": "N0n",
-   "discovered": "2026-10-12T14:03:56.988627+00:00",
-   "attackdate": "2026-10-12T14:03:41.343309+00:00",
-   "country": "IN",
-   "activity": "Transportation",
-   "website": "",
-   "description": "Port terminal operations · India | Operational EDI correspondence and internal systems logs | [NOT PAID — EXPOSED: files publish 2026-10-19 13:27 UTC]",
-   "permalink": "https://www.ransomware.live/id/TkNUIEthbmRsYSAoY29udGFpbmVyIHRlcm1pbmFsIG9wZXJhdGlvbnMpQE4wbg",
-   "press": "",
-   "infostealer": false,
-   "id": "TkNUIEthbmRsYSAoY29udGFpbmVyIHRlcm1pbmFsIG9wZXJhdGlvbnMpQE4wbg"
   }
  ]
 }

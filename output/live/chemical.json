@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-13T21:52:14.766Z",
+ "last_updated": "2026-10-14T01:15:13.958Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1752,
+ "count": 1753,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "Lane Equipment",
+   "group": "dragonforce",
+   "discovered": "2026-10-14T00:30:19.672653+00:00",
+   "attackdate": "2026-10-14T00:11:07.208408+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "laneequipment.com",
+   "description": "Lane Equipment Company has been a trusted food service partner in Texas since 1966, specializing in the sales, leasing, repairs, and parts for commercial kitchen equipment. They offer a wide range of products including soft serve machines, frozen beverage machines, ice machines, and refrigeration solutions. With four locations in Houston, San Antonio, Austin, and the Rio Grande Valley, they cater to restaurant professionals and commercial kitchen needs. Their services also include maintenance and parts support, ensuring comprehensive solutions for their clients.",
+   "permalink": "https://www.ransomware.live/id/TGFuZSBFcXVpcG1lbnRAZHJhZ29uZm9yY2U",
+   "press": "",
+   "infostealer": false,
+   "id": "TGFuZSBFcXVpcG1lbnRAZHJhZ29uZm9yY2U",
+   "chemical": false
+  },
   {
    "victim": "IGPL",
    "group": "HYFLOCK",
