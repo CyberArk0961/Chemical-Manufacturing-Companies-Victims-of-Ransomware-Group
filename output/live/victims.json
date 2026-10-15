@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-15T21:26:32.059Z",
+ "last_updated": "2026-10-15T23:53:51.770Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "fairfeelegalservices.com",
+   "group": "incransom",
+   "discovered": "2026-10-15T22:59:23.132719+00:00",
+   "attackdate": "2026-10-15T21:45:20.741000+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "fairfeelegalservices.com",
+   "description": "proof",
+   "permalink": "https://www.ransomware.live/id/ZmFpcmZlZWxlZ2Fsc2VydmljZXMuY29tQGluY3JhbnNvbQ",
+   "press": "",
+   "infostealer": false,
+   "id": "ZmFpcmZlZWxlZ2Fsc2VydmljZXMuY29tQGluY3JhbnNvbQ"
+  },
+  {
+   "victim": "verveba.com \\ www.att.com",
+   "group": "incransom",
+   "discovered": "2026-10-15T22:58:44.927730+00:00",
+   "attackdate": "2026-10-15T22:21:02.972000+00:00",
+   "country": "US",
+   "activity": "Technology",
+   "website": "",
+   "description": "2tb",
+   "permalink": "https://www.ransomware.live/id/dmVydmViYS5jb20gXCB3d3cuYXR0LmNvbUBpbmNyYW5zb20",
+   "press": "",
+   "infostealer": false,
+   "id": "dmVydmViYS5jb20gXCB3d3cuYXR0LmNvbUBpbmNyYW5zb20"
+  },
+  {
+   "victim": "www.coopecaja.fi.cr",
+   "group": "incransom",
+   "discovered": "2026-10-15T22:03:58.025799+00:00",
+   "attackdate": "2026-10-15T21:28:57.522000+00:00",
+   "country": "CR",
+   "activity": "Financial Services",
+   "website": "www.coopecaja.fi.cr",
+   "description": "/",
+   "permalink": "https://www.ransomware.live/id/d3d3LmNvb3BlY2FqYS5maS5jckBpbmNyYW5zb20",
+   "press": "",
+   "infostealer": false,
+   "id": "d3d3LmNvb3BlY2FqYS5maS5jckBpbmNyYW5zb20"
+  },
+  {
+   "victim": "nowaszkola.com",
+   "group": "incransom",
+   "discovered": "2026-10-15T22:03:22.348956+00:00",
+   "attackdate": "2026-10-15T21:38:33.669000+00:00",
+   "country": "PL",
+   "activity": "Education",
+   "website": "nowaszkola.com",
+   "description": "/",
+   "permalink": "https://www.ransomware.live/id/bm93YXN6a29sYS5jb21AaW5jcmFuc29t",
+   "press": "",
+   "infostealer": true,
+   "id": "bm93YXN6a29sYS5jb21AaW5jcmFuc29t"
+  },
   {
    "victim": "Keio Corporation",
    "group": "qilin",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "SHVudGVyIE5ldXJvbG9neUBOMG4"
-  },
-  {
-   "victim": "Milstein Siegel, LLC",
-   "group": "qilin",
-   "discovered": "2026-10-13T14:22:40.933215+00:00",
-   "attackdate": "2026-10-13T00:00:00+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "milsteinfamilylaw.com",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/TWlsc3RlaW4gU2llZ2VsLCBMTENAcWlsaW4",
-   "press": "",
-   "infostealer": false,
-   "id": "TWlsc3RlaW4gU2llZ2VsLCBMTENAcWlsaW4"
-  },
-  {
-   "victim": "Comisión Municipal de Agua Potable y Alcantarillado de Victoria",
-   "group": "qilin",
-   "discovered": "2026-10-13T14:21:42.263176+00:00",
-   "attackdate": "2026-10-13T00:00:00+00:00",
-   "country": "MX",
-   "activity": "Energy & Utilities",
-   "website": "comapavictoria.gob.mx",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/Q29taXNpw7NuIE11bmljaXBhbCBkZSBBZ3VhIFBvdGFibGUgeSBBbGNhbnRhcmlsbGFkbyBkZSBWaWN0b3JpYUBxaWxpbg",
-   "press": "",
-   "infostealer": true,
-   "id": "Q29taXNpw7NuIE11bmljaXBhbCBkZSBBZ3VhIFBvdGFibGUgeSBBbGNhbnRhcmlsbGFkbyBkZSBWaWN0b3JpYUBxaWxpbg"
-  },
-  {
-   "victim": "Interseguro",
-   "group": "direwolf",
-   "discovered": "2026-10-13T13:57:53.833959+00:00",
-   "attackdate": "2026-10-13T13:36:48.437000+00:00",
-   "country": "PE",
-   "activity": "Financial Services",
-   "website": "interseguro.pe",
-   "description": "Insurance",
-   "permalink": "https://www.ransomware.live/id/SW50ZXJzZWd1cm9AZGlyZXdvbGY",
-   "press": "https://www.infobae.com/peru/2026/10/13/interseguro-enfrenta-una-alerta-por-presunta-filtracion-de-datos-reportan-dni-informacion-financiera-y-archivos-internos-en-la-dark-web/?outputType=amp-type",
-   "infostealer": true,
-   "id": "SW50ZXJzZWd1cm9AZGlyZXdvbGY"
-  },
-  {
-   "victim": "Excess Baggage",
-   "group": "ransomhouse",
-   "discovered": "2026-10-13T13:26:28.621574+00:00",
-   "attackdate": "2026-10-05T00:00:00+00:00",
-   "country": "GB",
-   "activity": "Transportation",
-   "website": "www.excess-baggage.com",
-   "description": "Baggage Express is a dynamic national and international excess baggage shipping company with a heritage stretching back some 25 years. We're dedicated to the task of moving the holdalls, cartons, computers, bikes, luggage and material lives of students, backpackers, expats and anyone else who has found themselves in the UK needing their belongings sent elsewhere. Flexibility is the key to the company's success, tailoring the company's baggage shipping services to the specific individual needs of the company's customers. ",
-   "permalink": "https://www.ransomware.live/id/RXhjZXNzIEJhZ2dhZ2VAcmFuc29taG91c2U",
-   "press": "",
-   "infostealer": false,
-   "id": "RXhjZXNzIEJhZ2dhZ2VAcmFuc29taG91c2U"
   }
  ]
 }
