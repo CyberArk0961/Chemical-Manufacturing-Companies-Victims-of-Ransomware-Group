@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-15T17:47:37.640Z",
+ "last_updated": "2026-10-15T21:26:32.059Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Keio Corporation",
+   "group": "qilin",
+   "discovered": "2026-10-15T21:04:57.648192+00:00",
+   "attackdate": "2026-10-15T21:04:37.380571+00:00",
+   "country": "JP",
+   "activity": "Transportation",
+   "website": "Keio Corporation",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/S2VpbyBDb3Jwb3JhdGlvbkBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "S2VpbyBDb3Jwb3JhdGlvbkBxaWxpbg"
+  },
+  {
+   "victim": "Kemlows Diecasting Products Limited",
+   "group": "qilin",
+   "discovered": "2026-10-15T21:04:17.395354+00:00",
+   "attackdate": "2026-10-15T00:00:00+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "kemlows.co.uk",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/S2VtbG93cyBEaWVjYXN0aW5nIFByb2R1Y3RzIExpbWl0ZWRAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "S2VtbG93cyBEaWVjYXN0aW5nIFByb2R1Y3RzIExpbWl0ZWRAcWlsaW4"
+  },
+  {
+   "victim": "Telcoe Federal Credit Union",
+   "group": "qilin",
+   "discovered": "2026-10-15T20:03:53.217281+00:00",
+   "attackdate": "2026-10-15T20:03:20.781445+00:00",
+   "country": "US",
+   "activity": "Financial Services",
+   "website": "www.telcoe.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/VGVsY29lIEZlZGVyYWwgQ3JlZGl0IFVuaW9uQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "VGVsY29lIEZlZGVyYWwgQ3JlZGl0IFVuaW9uQHFpbGlu"
+  },
+  {
+   "victim": "TGM Manufacturing, Inc",
+   "group": "Wallstreet",
+   "discovered": "2026-10-15T19:23:13.230279+00:00",
+   "attackdate": "2026-10-15T19:08:37+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "TGM Manufacturing provides machining services, including automobile machine-shop work.",
+   "permalink": "https://www.ransomware.live/id/VEdNIE1hbnVmYWN0dXJpbmcsIEluY0BXYWxsc3RyZWV0",
+   "press": "",
+   "infostealer": false,
+   "id": "VEdNIE1hbnVmYWN0dXJpbmcsIEluY0BXYWxsc3RyZWV0"
+  },
   {
    "victim": "Segres Systec",
    "group": "qilin",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "RXhjZXNzIEJhZ2dhZ2VAcmFuc29taG91c2U"
-  },
-  {
-   "victim": "Wolf & Sofsky GmbH",
-   "group": "incransom",
-   "discovered": "2026-10-13T13:18:39.930519+00:00",
-   "attackdate": "2025-12-10T05:06:00+00:00",
-   "country": "DE",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "Wolf & Sofsky GmbH is a construction company with a 75-year history, based in Zweibrücken, Germany. The company operates on highly complex projects and maintains a significant financial position.\r \r Critical Information We Possess\r Financial Data: Complete spectrum of financial information (reports, budgets, cost estimates), revealing project profitability, total revenue, cost structure, and financial stability of the company.\r \r Commercial Information: Contracts with clients, commercial offers, contract terms — these form the foundation of Wolf & Sofsky's competitive advantage.\r \r Personal Da",
-   "permalink": "https://www.ransomware.live/id/V29sZiAmIFNvZnNreSBHbWJIQGluY3JhbnNvbQ",
-   "press": "",
-   "infostealer": false,
-   "id": "V29sZiAmIFNvZnNreSBHbWJIQGluY3JhbnNvbQ"
-  },
-  {
-   "victim": "Guarufilme",
-   "group": "Vexy Ransomware",
-   "discovered": "2026-10-13T12:31:50.327875+00:00",
-   "attackdate": "2026-10-13T11:59:04+00:00",
-   "country": "BR",
-   "activity": "Other",
-   "website": "www.guarufilme.com.br",
-   "description": "The company has operated in the packaging sector since 2006, manufacturing PVC and polyethylene films for domestic and industrial applications.",
-   "permalink": "https://www.ransomware.live/id/R3VhcnVmaWxtZUBWZXh5IFJhbnNvbXdhcmU",
-   "press": "",
-   "infostealer": false,
-   "id": "R3VhcnVmaWxtZUBWZXh5IFJhbnNvbXdhcmU"
-  },
-  {
-   "victim": "Admirals Trading",
-   "group": "AuditTeam",
-   "discovered": "2026-10-13T12:22:00.166589+00:00",
-   "attackdate": "2026-10-02T00:00:00+00:00",
-   "country": "AE",
-   "activity": "Financial Services",
-   "website": "",
-   "description": "Admirals Trading LLC (admirals.ae) is a Dubai-based food and beverage company under the Saudi conglomerate Rashed Abdul Rahman Al Rashed & Sons Group, with over 20 years of experience in the UAE market, specializing in the distribution of 60+ international and local F&B brands, food manufacturing and processing, and third-party logistics services across retail, food service, van sales, and wholesale channels, having recently expanded its operations from the UAE into Saudi Arabia while also running an online store called \"Buy Like Chefs.\"",
-   "permalink": "https://www.ransomware.live/id/QWRtaXJhbHMgVHJhZGluZ0BBdWRpdFRlYW0",
-   "press": "",
-   "infostealer": false,
-   "id": "QWRtaXJhbHMgVHJhZGluZ0BBdWRpdFRlYW0"
-  },
-  {
-   "victim": "AD***ed",
-   "group": "AuditTeam",
-   "discovered": "2026-10-13T12:21:27.455941+00:00",
-   "attackdate": "2026-10-13T00:00:00+00:00",
-   "country": "GB",
-   "activity": "Not Found",
-   "website": "",
-   "description": "",
-   "permalink": "https://www.ransomware.live/id/QUQqKiplZEBBdWRpdFRlYW0",
-   "press": "",
-   "infostealer": false,
-   "id": "QUQqKiplZEBBdWRpdFRlYW0"
   }
  ]
 }

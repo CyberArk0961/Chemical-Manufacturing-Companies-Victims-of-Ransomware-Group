@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-15T17:47:37.660Z",
+ "last_updated": "2026-10-15T21:26:32.078Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1757,
+ "count": 1759,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "Kemlows Diecasting Products Limited",
+   "group": "qilin",
+   "discovered": "2026-10-15T21:04:17.395354+00:00",
+   "attackdate": "2026-10-15T00:00:00+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "kemlows.co.uk",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/S2VtbG93cyBEaWVjYXN0aW5nIFByb2R1Y3RzIExpbWl0ZWRAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "S2VtbG93cyBEaWVjYXN0aW5nIFByb2R1Y3RzIExpbWl0ZWRAcWlsaW4",
+   "chemical": false
+  },
+  {
+   "victim": "TGM Manufacturing, Inc",
+   "group": "Wallstreet",
+   "discovered": "2026-10-15T19:23:13.230279+00:00",
+   "attackdate": "2026-10-15T19:08:37+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "TGM Manufacturing provides machining services, including automobile machine-shop work.",
+   "permalink": "https://www.ransomware.live/id/VEdNIE1hbnVmYWN0dXJpbmcsIEluY0BXYWxsc3RyZWV0",
+   "press": "",
+   "infostealer": false,
+   "id": "VEdNIE1hbnVmYWN0dXJpbmcsIEluY0BXYWxsc3RyZWV0",
+   "chemical": false
+  },
   {
    "victim": "neweramachines.com",
    "group": "lockbit5",
