@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-10-15T12:52:37.426Z",
+ "last_updated": "2026-10-15T17:47:37.660Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1754,
+ "count": 1757,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "neweramachines.com",
+   "group": "lockbit5",
+   "discovered": "2026-10-15T16:06:43.781520+00:00",
+   "attackdate": "2026-10-15T14:31:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "neweramachines.com",
+   "description": "New Era Machines is a leading manufacturer of biscuit and cookie production lines, recognized for it...",
+   "permalink": "https://www.ransomware.live/id/bmV3ZXJhbWFjaGluZXMuY29tQGxvY2tiaXQ1",
+   "press": "",
+   "infostealer": false,
+   "id": "bmV3ZXJhbWFjaGluZXMuY29tQGxvY2tiaXQ1",
+   "chemical": false
+  },
+  {
+   "victim": "grupoabg.com",
+   "group": "lockbit5",
+   "discovered": "2026-10-15T16:04:44.914875+00:00",
+   "attackdate": "2026-10-15T14:32:00+00:00",
+   "country": "MX",
+   "activity": "Manufacturing",
+   "website": "grupoabg.com",
+   "description": "Grupo ABG specializes in providing comprehensive solutions for organizations, focusing on business p...",
+   "permalink": "https://www.ransomware.live/id/Z3J1cG9hYmcuY29tQGxvY2tiaXQ1",
+   "press": "",
+   "infostealer": true,
+   "id": "Z3J1cG9hYmcuY29tQGxvY2tiaXQ1",
+   "chemical": false
+  },
+  {
+   "victim": "middleby",
+   "group": "iah6477",
+   "discovered": "2026-10-15T13:02:42.864506+00:00",
+   "attackdate": "2026-10-15T13:02:26.007255+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "[AI generated] Middleby Corporation is a U.S.-based manufacturer of commercial and residential kitchen equipment, food processing machinery, and related technology solutions. It operates in the industrial and commercial foodservice equipment industry, serving restaurants, food processors, and residential customers worldwide. Headquartered in Elgin, Illinois, Middleby designs, builds, and markets a broad portfolio of cooking, refrigeration, and food preparation brands.",
+   "permalink": "https://www.ransomware.live/id/bWlkZGxlYnlAaWFoNjQ3Nw",
+   "press": "",
+   "infostealer": false,
+   "id": "bWlkZGxlYnlAaWFoNjQ3Nw",
+   "chemical": false
+  },
   {
    "victim": "MPI LTDA",
    "group": "emperador",
