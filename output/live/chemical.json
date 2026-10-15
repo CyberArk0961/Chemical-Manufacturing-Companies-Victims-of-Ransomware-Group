@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-14T01:15:13.958Z",
+ "last_updated": "2026-10-15T12:52:37.426Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1753,
+ "count": 1754,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 157,
+ "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "MPI LTDA",
+   "group": "emperador",
+   "discovered": "2026-10-15T08:51:31.393271+00:00",
+   "attackdate": "2026-10-15T08:34:00+00:00",
+   "country": "BR",
+   "activity": "Other",
+   "website": "",
+   "description": "Colombian asphalt company.\nThe company has been operating \nin the field of asphalt materials since 1974.\nIt produces ordinary bitumen, asphalt with polymer additives \nand asphalt modified with rubber crumb.\nThe archives contain several thousand documents with personnel and customer data. [Sector: Manufacturing]",
+   "permalink": "https://www.ransomware.live/id/TVBJIExUREFAZW1wZXJhZG9y",
+   "press": "",
+   "infostealer": false,
+   "id": "TVBJIExUREFAZW1wZXJhZG9y",
+   "chemical": true
+  },
   {
    "victim": "Lane Equipment",
    "group": "dragonforce",
