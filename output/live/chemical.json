@@ -1,13 +1,73 @@
 {
- "last_updated": "2026-10-15T21:26:32.078Z",
+ "last_updated": "2026-10-16T14:19:19.591Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1759,
+ "count": 1762,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 158,
+ "chemical_matches": 159,
  "victims": [
+  {
+   "victim": "Caretaker Landscape and Tree Management",
+   "group": "pear",
+   "discovered": "2026-10-16T11:52:28.182476+00:00",
+   "attackdate": "2026-10-14T00:00:00+00:00",
+   "country": "US",
+   "activity": "Agriculture and Food Production",
+   "website": "caretakerlandscape.com",
+   "description": "Full-service commercial landscape and development services such as pruning, fertilization, mowing, renovation, and aeration",
+   "permalink": "https://www.ransomware.live/id/Q2FyZXRha2VyIExhbmRzY2FwZSBhbmQgVHJlZSBNYW5hZ2VtZW50QHBlYXI",
+   "press": "",
+   "infostealer": false,
+   "id": "Q2FyZXRha2VyIExhbmRzY2FwZSBhbmQgVHJlZSBNYW5hZ2VtZW50QHBlYXI",
+   "chemical": true
+  },
+  {
+   "victim": "Inovar Packaging Group",
+   "group": "thegentlemen",
+   "discovered": "2026-10-16T09:36:01.932691+00:00",
+   "attackdate": "2026-10-14T17:01:45+00:00",
+   "country": "AU",
+   "activity": "Manufacturing",
+   "website": "inovarpackaging.com",
+   "description": "inovarpackaging.com Inovar Packaging Group (Irving, TX) is a PE-backed buy-and-build platform producing pressure-sensitive labels, shrink sleeves, flexible packaging, and RFID — 14 US plants, 12+ acquisitions since 2016 (latest: Kiliper Corp, Feb 2026). Owned by Kelso & Company since May 2022 (previously AEA Investors); CEO/Chairman Jeff Brezek leads, with deal advisors Milbank and Mesirow confirming real M&A scale. Revenue is private and undisclosed — realistic estimates put it at $100–250M, with ~500–750 employees (Form 5500 filings show plan participants growing 121→743 in 2020–2024). Certi",
+   "permalink": "https://www.ransomware.live/id/SW5vdmFyIFBhY2thZ2luZyBHcm91cEB0aGVnZW50bGVtZW4",
+   "press": "",
+   "infostealer": false,
+   "id": "SW5vdmFyIFBhY2thZ2luZyBHcm91cEB0aGVnZW50bGVtZW4",
+   "chemical": false
+  },
+  {
+   "victim": "CAS Paper Mill",
+   "group": "thegentlemen",
+   "discovered": "2026-10-16T09:33:57.113454+00:00",
+   "attackdate": "2026-10-14T19:34:59+00:00",
+   "country": "CA",
+   "activity": "Manufacturing",
+   "website": "caspapermill.com",
+   "description": "caspapermill.com C.A.S. Paper Mill Co., Ltd. is a Thai paper manufacturer in Singburi (est. 1990, operating since 1994), part of the Charoen Aksorn Group — Thailand's largest paper distributor, backed by Bangkok Bank and Vacharaphol. It produces 130,000 MT/yr of newsprint, printing and kraft paper plus 30,000 MT/yr of tissue (Toscotec line, 2022), from 100% recycled US/Canadian waste paper. Zero-liquid-discharge since 1994, 10 MWp floating solar; ISO 9001/14001/45001, TIS 758, FSC C125297. Exports: Vietnam, Philippines, Pakistan. Revenue est. $80–150M (~300 staff), but fell ~10% in 2025 as new",
+   "permalink": "https://www.ransomware.live/id/Q0FTIFBhcGVyIE1pbGxAdGhlZ2VudGxlbWVu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q0FTIFBhcGVyIE1pbGxAdGhlZ2VudGxlbWVu",
+   "chemical": false
+  },
+  {
+   "victim": "Pantanal Agricola",
+   "group": "thegentlemen",
+   "discovered": "2026-10-16T09:33:15.232714+00:00",
+   "attackdate": "2026-10-14T19:46:57+00:00",
+   "country": "BR",
+   "activity": "Agriculture and Food Production",
+   "website": "pantanalagricola.com.br",
+   "description": "pantanalagricola.com.br Pantanal Agrícola S.A. is a Brazilian agri-input distributor (crop protection, fertilizers, seeds) founded in 2001 in São Gabriel do Oeste, Mato Grosso do Sul — 19 legal units, 15-16 stores across MS/MT/GO, ~300 employees, serving 64+ municipalities and 5 million hectares of farmland. Partners include BASF, Corteva, FMC, Sumitomo, ICL, and Brevant; the business model centers on barter (inputs repaid with grain) plus agronomic advisory. The headline event: Bunge signed an MOU in Nov 2021 to acquire a minority stake, adding grain-storage and trading muscle. It finances he",
+   "permalink": "https://www.ransomware.live/id/UGFudGFuYWwgQWdyaWNvbGFAdGhlZ2VudGxlbWVu",
+   "press": "",
+   "infostealer": true,
+   "id": "UGFudGFuYWwgQWdyaWNvbGFAdGhlZ2VudGxlbWVu",
+   "chemical": true
+  },
   {
    "victim": "Kemlows Diecasting Products Limited",
    "group": "qilin",
@@ -112,21 +172,6 @@
    "infostealer": false,
    "id": "TGFuZSBFcXVpcG1lbnRAZHJhZ29uZm9yY2U",
    "chemical": false
-  },
-  {
-   "victim": "IGPL",
-   "group": "HYFLOCK",
-   "discovered": "2026-10-13T17:14:21.163722+00:00",
-   "attackdate": "2026-10-10T18:23:10+00:00",
-   "country": "NG",
-   "activity": "Energy & Utilities",
-   "website": "igpetro.com",
-   "description": "Company Profile & Core Business • Overview: Established in 1988 and headquartered in Mumbai, India, IGPL operates its core manufacturing facility within the Taloja chemical industrial corridor in Maharashtra. The company is a publicly traded, international petrochemical products manufacturer listed on both the National Stock Exchange of India (NSE) and the Bombay Stock Exchange (BSE). • Core Products: The company primarily specializes in the production of Phthalic Anhydride (PAN). Leveraging economies of scale, it also recovers valuable by-products such as Maleic Anhydride and Benzoic Acid, an",
-   "permalink": "https://www.ransomware.live/id/SUdQTEBIWUZMT0NL",
-   "press": "",
-   "infostealer": true,
-   "id": "SUdQTEBIWUZMT0NL",
-   "chemical": true
   },
   {
    "victim": "Fab Support AB",
