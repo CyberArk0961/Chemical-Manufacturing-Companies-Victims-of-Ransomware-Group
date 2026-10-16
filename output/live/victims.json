@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-16T04:36:09.453Z",
+ "last_updated": "2026-10-16T09:19:03.402Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Via Credit Union",
+   "group": "qilin",
+   "discovered": "2026-10-16T07:15:02.268084+00:00",
+   "attackdate": "2026-10-16T07:14:43.111420+00:00",
+   "country": "US",
+   "activity": "Financial Services",
+   "website": "www.viacu.org",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/VmlhIENyZWRpdCBVbmlvbkBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "VmlhIENyZWRpdCBVbmlvbkBxaWxpbg"
+  },
   {
    "victim": "Company #75",
    "group": "N0n",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q29kYXIgKFB0ZSkgTHRkQE9yb3Zh"
-  },
-  {
-   "victim": "Alfameli Group",
-   "group": "Orova",
-   "discovered": "2026-10-13T14:56:23.090356+00:00",
-   "attackdate": "2026-10-13T00:00:00+00:00",
-   "country": "MY",
-   "activity": "Other",
-   "website": "alfameli.com",
-   "description": "Alfa-Meli Sdn Bhd (Alfameli Group) is a Malaysian privately owned company specializing in oil and gas support services, particularly offshore catering, facilities management, manpower supply, and industrial services.",
-   "permalink": "https://www.ransomware.live/id/QWxmYW1lbGkgR3JvdXBAT3JvdmE",
-   "press": "",
-   "infostealer": true,
-   "id": "QWxmYW1lbGkgR3JvdXBAT3JvdmE"
   }
  ]
 }
