@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-10-16T14:19:19.591Z",
+ "last_updated": "2026-10-16T18:25:35.628Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1762,
+ "count": 1764,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 159,
+ "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "Parker-Hannifin Corporation",
+   "group": "Redact",
+   "discovered": "2026-10-16T15:01:15.176403+00:00",
+   "attackdate": "2026-10-16T15:00:58.866816+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "parker.com",
+   "description": "Sector: Industrial Machinery | Revenue: $21.5B USD",
+   "permalink": "https://www.ransomware.live/id/UGFya2VyLUhhbm5pZmluIENvcnBvcmF0aW9uQFJlZGFjdA",
+   "press": "",
+   "infostealer": true,
+   "id": "UGFya2VyLUhhbm5pZmluIENvcnBvcmF0aW9uQFJlZGFjdA",
+   "chemical": false
+  },
+  {
+   "victim": "Xinos Construction Corp and its accounting group",
+   "group": "N0n",
+   "discovered": "2026-10-16T14:55:46.387311+00:00",
+   "attackdate": "2026-10-16T14:55:23.965319+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "construction and accounting (US) · New York, USA | Employee W-2 forms with Social Security numbers and quarterly payroll tax filings of a New York construction group; 2024 partnership tax returns with schedules K-1 and the QuickBooks Enterprise archive; Court, lawsuit and city hearing records, and the complete 2024 New York State sales tax audit file; Client financial records and employee personal files | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/WGlub3MgQ29uc3RydWN0aW9uIENvcnAgYW5kIGl0cyBhY2NvdW50aW5nIGdyb3VwQE4wbg",
+   "press": "",
+   "infostealer": false,
+   "id": "WGlub3MgQ29uc3RydWN0aW9uIENvcnAgYW5kIGl0cyBhY2NvdW50aW5nIGdyb3VwQE4wbg",
+   "chemical": false
+  },
+  {
+   "victim": "BladeTech Inc",
+   "group": "N0n",
+   "discovered": "2026-10-16T14:55:05.345246+00:00",
+   "attackdate": "2026-10-16T14:54:33.137615+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "bladetechinc.com",
+   "description": "dental laboratory (CAD/CAM manufacturing) · Missouri, USA | Patient case designs of a dental laboratory with full patient names, tooth numbers and material/shade codes; CNC milling toolpaths and MillBox production job files for crowns, bridges and templates, September to October 2026 production; The complete 4.4 GB production archive of the lab | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/QmxhZGVUZWNoIEluY0BOMG4",
+   "press": "",
+   "infostealer": false,
+   "id": "QmxhZGVUZWNoIEluY0BOMG4",
+   "chemical": false
+  },
   {
    "victim": "Caretaker Landscape and Tree Management",
    "group": "pear",
@@ -142,21 +187,6 @@
    "infostealer": false,
    "id": "bWlkZGxlYnlAaWFoNjQ3Nw",
    "chemical": false
-  },
-  {
-   "victim": "MPI LTDA",
-   "group": "emperador",
-   "discovered": "2026-10-15T08:51:31.393271+00:00",
-   "attackdate": "2026-10-15T08:34:00+00:00",
-   "country": "BR",
-   "activity": "Other",
-   "website": "",
-   "description": "Colombian asphalt company.\nThe company has been operating \nin the field of asphalt materials since 1974.\nIt produces ordinary bitumen, asphalt with polymer additives \nand asphalt modified with rubber crumb.\nThe archives contain several thousand documents with personnel and customer data. [Sector: Manufacturing]",
-   "permalink": "https://www.ransomware.live/id/TVBJIExUREFAZW1wZXJhZG9y",
-   "press": "",
-   "infostealer": false,
-   "id": "TVBJIExUREFAZW1wZXJhZG9y",
-   "chemical": true
   },
   {
    "victim": "Lane Equipment",
