@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-15T23:53:51.770Z",
+ "last_updated": "2026-10-16T04:36:09.453Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Company #75",
+   "group": "N0n",
+   "discovered": "2026-10-16T01:23:41.272921+00:00",
+   "attackdate": "2026-10-16T01:23:25.695217+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "",
+   "description": "fintech payments · US | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNzVATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjNzVATjBu"
+  },
+  {
+   "victim": "Company #74",
+   "group": "N0n",
+   "discovered": "2026-10-16T01:23:06.889496+00:00",
+   "attackdate": "2026-10-16T01:22:51.267437+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "",
+   "description": "media technology / broadcast playout · United States | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNzRATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjNzRATjBu"
+  },
+  {
+   "victim": "Evolution Spine / All Labs",
+   "group": "N0n",
+   "discovered": "2026-10-16T00:22:58.465900+00:00",
+   "attackdate": "2026-10-16T00:22:35.221004+00:00",
+   "country": "",
+   "activity": "Healthcare",
+   "website": "",
+   "description": "Medical device manufacturing (US) · Texas, USA | FDA quality system records of a Texas spinal implant manufacturer: CAPAs, device history records for implant lots, management reviews, design drawings and audit files; The complete inventory database of the business, 317 tables, with hospital and surgical-center customers, purchase orders and implant lot shipping records; Finance records: purchase orders, tax forms and payroll timesheets; Hospital product packets for spinal fusion systems and staff mailbox exports | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/RXZvbHV0aW9uIFNwaW5lIC8gQWxsIExhYnNATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "RXZvbHV0aW9uIFNwaW5lIC8gQWxsIExhYnNATjBu"
+  },
   {
    "victim": "fairfeelegalservices.com",
    "group": "incransom",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "QWxmYW1lbGkgR3JvdXBAT3JvdmE"
-  },
-  {
-   "victim": "Company #63",
-   "group": "N0n",
-   "discovered": "2026-10-13T14:55:31.267967+00:00",
-   "attackdate": "2026-10-13T14:54:57.165991+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "construction and accounting (US) · New York, USA | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNjNATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjNjNATjBu"
-  },
-  {
-   "victim": "Company #64",
-   "group": "N0n",
-   "discovered": "2026-10-13T14:54:37.581804+00:00",
-   "attackdate": "2026-10-13T14:54:12.716963+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "dental laboratory (CAD/CAM) · Missouri, USA | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNjRATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjNjRATjBu"
-  },
-  {
-   "victim": "Hunter Neurology",
-   "group": "N0n",
-   "discovered": "2026-10-13T14:53:52.596324+00:00",
-   "attackdate": "2026-10-13T14:53:14.878464+00:00",
-   "country": "",
-   "activity": "Healthcare",
-   "website": "",
-   "description": "Healthcare - Neurology (AU) · New South Wales, Australia | Patient records of an Australian neurology practice: 15,252 patient images and scans, 11,819 patient letters and reports, 439 laboratory results and 839 patient records system files; Four complete weekly backups of the practice medical records system; Protected health information including patient names, dates of birth and clinical data | [NOT PAID — EXPOSED]",
-   "permalink": "https://www.ransomware.live/id/SHVudGVyIE5ldXJvbG9neUBOMG4",
-   "press": "",
-   "infostealer": false,
-   "id": "SHVudGVyIE5ldXJvbG9neUBOMG4"
   }
  ]
 }
