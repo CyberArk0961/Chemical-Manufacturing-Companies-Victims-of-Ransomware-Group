@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-16T21:44:31.298Z",
+ "last_updated": "2026-10-16T23:56:39.646Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1765,
+ "count": 1766,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "Prafesta Ind. e Com. de Embalagens Ltda",
+   "group": "N0n",
+   "discovered": "2026-10-16T21:53:44.751763+00:00",
+   "attackdate": "2026-10-16T21:53:22.565417+00:00",
+   "country": "BR",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "packaging manufacturing (extrusion) · Brazil | Senior Sapiens ERP and Vetorh HR payroll platform; eSocial government payroll filings September and October 2026; Thousands of electronic invoices with customer and supplier data; Worker and partner CPF identification numbers; Bank integration certificates and financial records | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/UHJhZmVzdGEgSW5kLiBlIENvbS4gZGUgRW1iYWxhZ2VucyBMdGRhQE4wbg",
+   "press": "",
+   "infostealer": false,
+   "id": "UHJhZmVzdGEgSW5kLiBlIENvbS4gZGUgRW1iYWxhZ2VucyBMdGRhQE4wbg",
+   "chemical": false
+  },
   {
    "victim": "New Tec Tool Limited",
    "group": "play",
