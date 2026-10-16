@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-16T18:25:35.628Z",
+ "last_updated": "2026-10-16T21:44:31.298Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1764,
+ "count": 1765,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "New Tec Tool Limited",
+   "group": "play",
+   "discovered": "2026-10-16T20:40:05.254581+00:00",
+   "attackdate": "2026-10-16T20:39:48.963918+00:00",
+   "country": "HK",
+   "activity": "Manufacturing",
+   "website": "www.newtectool.com",
+   "description": "Canada",
+   "permalink": "https://www.ransomware.live/id/TmV3IFRlYyBUb29sIExpbWl0ZWRAcGxheQ",
+   "press": "",
+   "infostealer": false,
+   "id": "TmV3IFRlYyBUb29sIExpbWl0ZWRAcGxheQ",
+   "chemical": false
+  },
   {
    "victim": "Parker-Hannifin Corporation",
    "group": "Redact",
