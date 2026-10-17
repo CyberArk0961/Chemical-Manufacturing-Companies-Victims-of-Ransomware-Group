@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-17T18:52:00.665Z",
+ "last_updated": "2026-10-17T21:29:30.053Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "oakgrovetech",
+   "group": "dragonforce",
+   "discovered": "2026-10-17T21:04:36.813928+00:00",
+   "attackdate": "2026-10-02T20:19:30.159469+00:00",
+   "country": "US",
+   "activity": "Technology",
+   "website": "oakgrovetech.com",
+   "description": "The company specializes in multi-domain training, unmanned systems & robotics, cyber/space operations, learning/courseware development, staff augmentation, intelligence analysis, and operates a Test & Training Center near Fort Bragg/Hoffman, NC. It primarily serves DoD clients including USASOC and 1st Special Forces Command.\n\nCorporate email archive of CEO and executive management (12 PST files, 35.14 GB) — forwarded credentials, NDAs, negotiations with the DoD/FBI and other companies.\nDeltek GCS payroll module: banking details of all vendors and contractors.\nAccounting system backup.\nCompany ",
+   "permalink": "https://www.ransomware.live/id/b2FrZ3JvdmV0ZWNoQGRyYWdvbmZvcmNl",
+   "press": "",
+   "infostealer": true,
+   "id": "b2FrZ3JvdmV0ZWNoQGRyYWdvbmZvcmNl"
+  },
+  {
+   "victim": "First Brothers Co., Ltd",
+   "group": "qilin",
+   "discovered": "2026-10-17T20:16:07.976121+00:00",
+   "attackdate": "2026-10-17T00:00:00+00:00",
+   "country": "TH",
+   "activity": "Other",
+   "website": "firstbrothers.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/Rmlyc3QgQnJvdGhlcnMgQ28uLCBMdGRAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "Rmlyc3QgQnJvdGhlcnMgQ28uLCBMdGRAcWlsaW4"
+  },
+  {
+   "victim": "Company #88",
+   "group": "N0n",
+   "discovered": "2026-10-17T19:24:26.787601+00:00",
+   "attackdate": "2026-10-17T19:24:10.739943+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "",
+   "description": "home healthcare services · United States | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjODhATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjODhATjBu"
+  },
   {
    "victim": "polisee Inc",
    "group": "Vexy Ransomware",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "VGVsY29lIEZlZGVyYWwgQ3JlZGl0IFVuaW9uQHFpbGlu"
-  },
-  {
-   "victim": "TGM Manufacturing, Inc",
-   "group": "Wallstreet",
-   "discovered": "2026-10-15T19:23:13.230279+00:00",
-   "attackdate": "2026-10-15T19:08:37+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "TGM Manufacturing provides machining services, including automobile machine-shop work.",
-   "permalink": "https://www.ransomware.live/id/VEdNIE1hbnVmYWN0dXJpbmcsIEluY0BXYWxsc3RyZWV0",
-   "press": "",
-   "infostealer": false,
-   "id": "VEdNIE1hbnVmYWN0dXJpbmcsIEluY0BXYWxsc3RyZWV0"
-  },
-  {
-   "victim": "Segres Systec",
-   "group": "qilin",
-   "discovered": "2026-10-15T17:05:23.014609+00:00",
-   "attackdate": "2026-10-15T17:05:02.973475+00:00",
-   "country": "ES",
-   "activity": "Technology",
-   "website": "www.segres.com",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/U2VncmVzIFN5c3RlY0BxaWxpbg",
-   "press": "",
-   "infostealer": false,
-   "id": "U2VncmVzIFN5c3RlY0BxaWxpbg"
-  },
-  {
-   "victim": "Shield Wall Systems of Florida",
-   "group": "qilin",
-   "discovered": "2026-10-15T17:04:43.294707+00:00",
-   "attackdate": "2026-10-15T00:00:00+00:00",
-   "country": "US",
-   "activity": "Government & Defense",
-   "website": "shieldwsfl.com",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/U2hpZWxkIFdhbGwgU3lzdGVtcyBvZiBGbG9yaWRhQHFpbGlu",
-   "press": "",
-   "infostealer": false,
-   "id": "U2hpZWxkIFdhbGwgU3lzdGVtcyBvZiBGbG9yaWRhQHFpbGlu"
   }
  ]
 }
