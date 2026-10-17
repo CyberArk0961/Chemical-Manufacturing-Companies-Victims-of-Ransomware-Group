@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-17T04:32:03.642Z",
+ "last_updated": "2026-10-17T08:50:38.220Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Company #86",
+   "group": "N0n",
+   "discovered": "2026-10-17T06:53:37.963927+00:00",
+   "attackdate": "2026-10-17T06:53:18.140414+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "",
+   "description": "real estate and land development · United States | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjODZATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjODZATjBu"
+  },
+  {
+   "victim": "Company #85",
+   "group": "N0n",
+   "discovered": "2026-10-17T05:25:56.633167+00:00",
+   "attackdate": "2026-10-17T05:25:39.098122+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "",
+   "description": "IT services · USA | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjODVATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjODVATjBu"
+  },
+  {
+   "victim": "Company #84",
+   "group": "N0n",
+   "discovered": "2026-10-17T05:25:20.201640+00:00",
+   "attackdate": "2026-10-17T05:24:58.276239+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "",
+   "description": "construction (custom homes) · USA | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjODRATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjODRATjBu"
+  },
   {
    "victim": "Kissei Shoji",
    "group": "everest",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "Z3J1cG9hYmcuY29tQGxvY2tiaXQ1"
-  },
-  {
-   "victim": "KD Corp",
-   "group": "qilin",
-   "discovered": "2026-10-15T15:02:16.037759+00:00",
-   "attackdate": "2026-10-15T15:01:55.410155+00:00",
-   "country": "KR",
-   "activity": "Not Found",
-   "website": "kdcorporation.co.kr",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/S0QgQ29ycEBxaWxpbg",
-   "press": "",
-   "infostealer": false,
-   "id": "S0QgQ29ycEBxaWxpbg"
-  },
-  {
-   "victim": "Videk",
-   "group": "akira",
-   "discovered": "2026-10-15T13:24:36.306200+00:00",
-   "attackdate": "2026-10-15T00:00:00+00:00",
-   "country": "GB",
-   "activity": "Technology",
-   "website": "",
-   "description": "Videk is a leading global provider of vision-based print verification systems, inserter input a\nnd output scanning systems, and data management software.\n\nWe will upload 8gb of corporate data soon. Employee information, customer information, contract\ns, financials, NDA, and so on.\n",
-   "permalink": "https://www.ransomware.live/id/VmlkZWtAYWtpcmE",
-   "press": "",
-   "infostealer": false,
-   "id": "VmlkZWtAYWtpcmE"
-  },
-  {
-   "victim": "Boyle, Pecharich, Cline, Whittington and Stallings",
-   "group": "akira",
-   "discovered": "2026-10-15T13:24:16.748706+00:00",
-   "attackdate": "2026-10-15T00:00:00+00:00",
-   "country": "",
-   "activity": "Professional Services",
-   "website": "",
-   "description": "This law firm has been serving clients in Arizona since 1950, specializing in various legal are\nas including business law, real estate law, probate, trusts, estate administration, and estate \nplanning. They are dedicated to assisting individuals and businesses in Prescott and Yavapai Co\nunty with their legal challenges.\n\nWe will upload 24gb of corporate data soon. Detailed client information (SSN numbers, passports\n, DLs), court files, contracts, financials, lots of confidential files,  NDA, and so on.\n",
-   "permalink": "https://www.ransomware.live/id/Qm95bGUsIFBlY2hhcmljaCwgQ2xpbmUsIFdoaXR0aW5ndG9uIGFuZCBTdGFsbGluZ3NAYWtpcmE",
-   "press": "",
-   "infostealer": false,
-   "id": "Qm95bGUsIFBlY2hhcmljaCwgQ2xpbmUsIFdoaXR0aW5ndG9uIGFuZCBTdGFsbGluZ3NAYWtpcmE"
   }
  ]
 }
