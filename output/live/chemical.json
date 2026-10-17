@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-16T23:56:39.646Z",
+ "last_updated": "2026-10-17T04:32:03.661Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1766,
+ "count": 1768,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "Kissei Shoji",
+   "group": "everest",
+   "discovered": "2026-10-17T03:07:45.468139+00:00",
+   "attackdate": "2026-10-16T18:57:20.672993+00:00",
+   "country": "JP",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "[AI generated] N/A\n\nI don't have reliable, verified information about a specific company called \"Kissei Shoji\" to provide an accurate factual description of its operations, industry, and country. Providing details without verification could result in inaccurate or fabricated information. If you have additional context or source material about this company, I'd be happy to help analyze it.",
+   "permalink": "https://www.ransomware.live/id/S2lzc2VpIFNob2ppQGV2ZXJlc3Q",
+   "press": "",
+   "infostealer": false,
+   "id": "S2lzc2VpIFNob2ppQGV2ZXJlc3Q",
+   "chemical": false
+  },
+  {
+   "victim": "Chugoku Bend",
+   "group": "everest",
+   "discovered": "2026-10-17T03:07:09.380455+00:00",
+   "attackdate": "2026-10-17T00:57:20.672993+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "[AI generated] N/A\n\nI don't have reliable, verifiable information about a company specifically named \"Chugoku Bend.\" This does not correspond to a company I can confidently identify in my knowledge base. If you have additional context—such as an alternate spelling, parent company, industry sector, or location—I would be glad to help clarify or research further based on that information.",
+   "permalink": "https://www.ransomware.live/id/Q2h1Z29rdSBCZW5kQGV2ZXJlc3Q",
+   "press": "",
+   "infostealer": false,
+   "id": "Q2h1Z29rdSBCZW5kQGV2ZXJlc3Q",
+   "chemical": false
+  },
   {
    "victim": "Prafesta Ind. e Com. de Embalagens Ltda",
    "group": "N0n",

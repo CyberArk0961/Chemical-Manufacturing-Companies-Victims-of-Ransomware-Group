@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-16T23:56:39.628Z",
+ "last_updated": "2026-10-17T04:32:03.642Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Kissei Shoji",
+   "group": "everest",
+   "discovered": "2026-10-17T03:07:45.468139+00:00",
+   "attackdate": "2026-10-16T18:57:20.672993+00:00",
+   "country": "JP",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "[AI generated] N/A\n\nI don't have reliable, verified information about a specific company called \"Kissei Shoji\" to provide an accurate factual description of its operations, industry, and country. Providing details without verification could result in inaccurate or fabricated information. If you have additional context or source material about this company, I'd be happy to help analyze it.",
+   "permalink": "https://www.ransomware.live/id/S2lzc2VpIFNob2ppQGV2ZXJlc3Q",
+   "press": "",
+   "infostealer": false,
+   "id": "S2lzc2VpIFNob2ppQGV2ZXJlc3Q"
+  },
+  {
+   "victim": "Chugoku Bend",
+   "group": "everest",
+   "discovered": "2026-10-17T03:07:09.380455+00:00",
+   "attackdate": "2026-10-17T00:57:20.672993+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "[AI generated] N/A\n\nI don't have reliable, verifiable information about a company specifically named \"Chugoku Bend.\" This does not correspond to a company I can confidently identify in my knowledge base. If you have additional context—such as an alternate spelling, parent company, industry sector, or location—I would be glad to help clarify or research further based on that information.",
+   "permalink": "https://www.ransomware.live/id/Q2h1Z29rdSBCZW5kQGV2ZXJlc3Q",
+   "press": "",
+   "infostealer": false,
+   "id": "Q2h1Z29rdSBCZW5kQGV2ZXJlc3Q"
+  },
+  {
+   "victim": "Taekwang Network",
+   "group": "everest",
+   "discovered": "2026-10-17T03:06:33.600895+00:00",
+   "attackdate": "2026-10-17T00:57:20.672993+00:00",
+   "country": "KR",
+   "activity": "Technology",
+   "website": "",
+   "description": "[AI generated] N/A",
+   "permalink": "https://www.ransomware.live/id/VGFla3dhbmcgTmV0d29ya0BldmVyZXN0",
+   "press": "",
+   "infostealer": false,
+   "id": "VGFla3dhbmcgTmV0d29ya0BldmVyZXN0"
+  },
+  {
+   "victim": "Brenner Base Tunnel",
+   "group": "everest",
+   "discovered": "2026-10-17T03:05:58.919242+00:00",
+   "attackdate": "2026-10-17T00:57:20.672993+00:00",
+   "country": "AT",
+   "activity": "Transportation",
+   "website": "",
+   "description": "[AI generated] The Brenner Base Tunnel (Brennerbasistunnel, BBT) is a major railway infrastructure project, not a company in the traditional sense, though it is managed by Brenner Base Tunnel BBT SE, a joint venture between Austria and Italy. It operates in the construction and transportation infrastructure industry, building a 55-kilometer rail tunnel beneath the Alps connecting Innsbruck, Austria, and Fortezza, Italy, to improve freight and passenger rail links across Europe.",
+   "permalink": "https://www.ransomware.live/id/QnJlbm5lciBCYXNlIFR1bm5lbEBldmVyZXN0",
+   "press": "",
+   "infostealer": false,
+   "id": "QnJlbm5lciBCYXNlIFR1bm5lbEBldmVyZXN0"
+  },
   {
    "victim": "Prafesta Ind. e Com. de Embalagens Ltda",
    "group": "N0n",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Qm95bGUsIFBlY2hhcmljaCwgQ2xpbmUsIFdoaXR0aW5ndG9uIGFuZCBTdGFsbGluZ3NAYWtpcmE"
-  },
-  {
-   "victim": "bienestarempresarial",
-   "group": "0x00",
-   "discovered": "2026-10-15T13:20:22.223705+00:00",
-   "attackdate": "2026-10-15T13:20:06.474131+00:00",
-   "country": "MX",
-   "activity": "Professional Services",
-   "website": "bienestarempresarial.mx",
-   "description": "bienestarempresarial.mx",
-   "permalink": "https://www.ransomware.live/id/YmllbmVzdGFyZW1wcmVzYXJpYWxAMHgwMA",
-   "press": "",
-   "infostealer": true,
-   "id": "YmllbmVzdGFyZW1wcmVzYXJpYWxAMHgwMA"
-  },
-  {
-   "victim": "middleby",
-   "group": "iah6477",
-   "discovered": "2026-10-15T13:02:42.864506+00:00",
-   "attackdate": "2026-10-15T13:02:26.007255+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "[AI generated] Middleby Corporation is a U.S.-based manufacturer of commercial and residential kitchen equipment, food processing machinery, and related technology solutions. It operates in the industrial and commercial foodservice equipment industry, serving restaurants, food processors, and residential customers worldwide. Headquartered in Elgin, Illinois, Middleby designs, builds, and markets a broad portfolio of cooking, refrigeration, and food preparation brands.",
-   "permalink": "https://www.ransomware.live/id/bWlkZGxlYnlAaWFoNjQ3Nw",
-   "press": "",
-   "infostealer": false,
-   "id": "bWlkZGxlYnlAaWFoNjQ3Nw"
-  },
-  {
-   "victim": "sunshine-mills",
-   "group": "iah6477",
-   "discovered": "2026-10-15T13:02:07.424558+00:00",
-   "attackdate": "2026-10-15T13:01:48.062939+00:00",
-   "country": "",
-   "activity": "Agriculture and Food Production",
-   "website": "",
-   "description": "[AI generated] Sunshine Mills, Inc. is a United States-based company operating in the pet food manufacturing industry. Headquartered in Red Bay, Alabama, it produces dry pet food products, including dog and cat food, for retail brands and private label customers. The company operates manufacturing facilities across several states and has been involved in the food and agribusiness sector for decades, serving grocery, mass merchandise, and specialty pet retail channels.",
-   "permalink": "https://www.ransomware.live/id/c3Vuc2hpbmUtbWlsbHNAaWFoNjQ3Nw",
-   "press": "",
-   "infostealer": false,
-   "id": "c3Vuc2hpbmUtbWlsbHNAaWFoNjQ3Nw"
-  },
-  {
-   "victim": "Svd (Sun Valley Dairy)",
-   "group": "akira",
-   "discovered": "2026-10-15T12:54:02.357864+00:00",
-   "attackdate": "2026-10-15T00:00:00+00:00",
-   "country": "US",
-   "activity": "Agriculture and Food Production",
-   "website": "",
-   "description": "Sun Valley Dairy is a Truck Transportation, Grocery, and Retail company located in Keizer, Oreg\non with $65.2 million in revenue and 19 employees.\n\nWe will upload corporate data soon. Employee information (passport scans, w-9 forms), customer \ninformation, contracts and agreements, internal confidential financials, etc.\n",
-   "permalink": "https://www.ransomware.live/id/U3ZkIChTdW4gVmFsbGV5IERhaXJ5KUBha2lyYQ",
-   "press": "",
-   "infostealer": false,
-   "id": "U3ZkIChTdW4gVmFsbGV5IERhaXJ5KUBha2lyYQ"
   }
  ]
 }
