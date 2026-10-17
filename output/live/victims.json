@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-17T21:29:30.053Z",
+ "last_updated": "2026-10-17T23:28:13.356Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Personify Health",
+   "group": "Helix",
+   "discovered": "2026-10-17T22:23:45.502451+00:00",
+   "attackdate": "2026-10-17T22:23:43.139536+00:00",
+   "country": "US",
+   "activity": "Healthcare",
+   "website": "",
+   "description": "Personify Health records. Yearly revenue ~$500 million. GoFile links and passwords unlock in 12 hours.",
+   "permalink": "https://www.ransomware.live/id/UGVyc29uaWZ5IEhlYWx0aEBIZWxpeA",
+   "press": "",
+   "infostealer": false,
+   "id": "UGVyc29uaWZ5IEhlYWx0aEBIZWxpeA"
+  },
+  {
+   "victim": "Bay Alarm",
+   "group": "Helix",
+   "discovered": "2026-10-17T22:23:24.581079+00:00",
+   "attackdate": "2026-10-17T22:23:22.592696+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Bay Alarm records. Yearly revenue ~$256 million. GoFile links and passwords unlock in 12 hours.",
+   "permalink": "https://www.ransomware.live/id/QmF5IEFsYXJtQEhlbGl4",
+   "press": "",
+   "infostealer": false,
+   "id": "QmF5IEFsYXJtQEhlbGl4"
+  },
+  {
+   "victim": "Smith Douglas Homes",
+   "group": "Helix",
+   "discovered": "2026-10-17T22:23:03.451277+00:00",
+   "attackdate": "2026-10-17T22:23:01.459938+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Smith Douglas Homes records. Yearly revenue ~$971 million. GoFile links and passwords unlock in 12 hours.",
+   "permalink": "https://www.ransomware.live/id/U21pdGggRG91Z2xhcyBIb21lc0BIZWxpeA",
+   "press": "",
+   "infostealer": false,
+   "id": "U21pdGggRG91Z2xhcyBIb21lc0BIZWxpeA"
+  },
+  {
+   "victim": "PART2 Global AirFreight International",
+   "group": "Eclipse",
+   "discovered": "2026-10-17T22:21:40.458651+00:00",
+   "attackdate": "2026-10-17T00:00:00+00:00",
+   "country": "SG",
+   "activity": "Transportation",
+   "website": "www.globalair.com.sg",
+   "description": "PART 2 Global Airfreight International is a logistics solution provider specializing in air freight, ocean freight, cross-border trucking, and contract logistics. They cater to various industries including aerospace, healthcare, technology, and general cargo, offering services such as temperature-controlled solutions and project cargo management. The company focuses on delivering high standards of service and innovative solutions to meet customer requirements. Their clients include businesses in need of reliable and efficient supply chain solutions for critical shipments.",
+   "permalink": "https://www.ransomware.live/id/UEFSVDIgR2xvYmFsIEFpckZyZWlnaHQgSW50ZXJuYXRpb25hbEBFY2xpcHNl",
+   "press": "",
+   "infostealer": false,
+   "id": "UEFSVDIgR2xvYmFsIEFpckZyZWlnaHQgSW50ZXJuYXRpb25hbEBFY2xpcHNl"
+  },
   {
    "victim": "oakgrovetech",
    "group": "dragonforce",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "d3d3LmNvb3BlY2FqYS5maS5jckBpbmNyYW5zb20"
-  },
-  {
-   "victim": "nowaszkola.com",
-   "group": "incransom",
-   "discovered": "2026-10-15T22:03:22.348956+00:00",
-   "attackdate": "2026-10-15T21:38:33.669000+00:00",
-   "country": "PL",
-   "activity": "Education",
-   "website": "nowaszkola.com",
-   "description": "/",
-   "permalink": "https://www.ransomware.live/id/bm93YXN6a29sYS5jb21AaW5jcmFuc29t",
-   "press": "",
-   "infostealer": true,
-   "id": "bm93YXN6a29sYS5jb21AaW5jcmFuc29t"
-  },
-  {
-   "victim": "Keio Corporation",
-   "group": "qilin",
-   "discovered": "2026-10-15T21:04:57.648192+00:00",
-   "attackdate": "2026-10-15T21:04:37.380571+00:00",
-   "country": "JP",
-   "activity": "Transportation",
-   "website": "Keio Corporation",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/S2VpbyBDb3Jwb3JhdGlvbkBxaWxpbg",
-   "press": "",
-   "infostealer": false,
-   "id": "S2VpbyBDb3Jwb3JhdGlvbkBxaWxpbg"
-  },
-  {
-   "victim": "Kemlows Diecasting Products Limited",
-   "group": "qilin",
-   "discovered": "2026-10-15T21:04:17.395354+00:00",
-   "attackdate": "2026-10-15T00:00:00+00:00",
-   "country": "GB",
-   "activity": "Manufacturing",
-   "website": "kemlows.co.uk",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/S2VtbG93cyBEaWVjYXN0aW5nIFByb2R1Y3RzIExpbWl0ZWRAcWlsaW4",
-   "press": "",
-   "infostealer": false,
-   "id": "S2VtbG93cyBEaWVjYXN0aW5nIFByb2R1Y3RzIExpbWl0ZWRAcWlsaW4"
-  },
-  {
-   "victim": "Telcoe Federal Credit Union",
-   "group": "qilin",
-   "discovered": "2026-10-15T20:03:53.217281+00:00",
-   "attackdate": "2026-10-15T20:03:20.781445+00:00",
-   "country": "US",
-   "activity": "Financial Services",
-   "website": "www.telcoe.com",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/VGVsY29lIEZlZGVyYWwgQ3JlZGl0IFVuaW9uQHFpbGlu",
-   "press": "",
-   "infostealer": false,
-   "id": "VGVsY29lIEZlZGVyYWwgQ3JlZGl0IFVuaW9uQHFpbGlu"
   }
  ]
 }

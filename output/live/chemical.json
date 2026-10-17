@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-17T18:52:00.749Z",
+ "last_updated": "2026-10-17T23:28:13.375Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1769,
+ "count": 1770,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "Smith Douglas Homes",
+   "group": "Helix",
+   "discovered": "2026-10-17T22:23:03.451277+00:00",
+   "attackdate": "2026-10-17T22:23:01.459938+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Smith Douglas Homes records. Yearly revenue ~$971 million. GoFile links and passwords unlock in 12 hours.",
+   "permalink": "https://www.ransomware.live/id/U21pdGggRG91Z2xhcyBIb21lc0BIZWxpeA",
+   "press": "",
+   "infostealer": false,
+   "id": "U21pdGggRG91Z2xhcyBIb21lc0BIZWxpeA",
+   "chemical": false
+  },
   {
    "victim": "Rheem Global",
    "group": "Helix",
