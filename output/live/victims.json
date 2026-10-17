@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-17T08:50:38.220Z",
+ "last_updated": "2026-10-17T12:59:37.875Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "ock.com.my",
+   "group": "lockbit5",
+   "discovered": "2026-10-17T11:32:47.829699+00:00",
+   "attackdate": "2026-10-16T13:08:00+00:00",
+   "country": "MY",
+   "activity": "Not Found",
+   "website": "ock.com.my",
+   "description": "OCK Group Berhad specializes in telco network services and infrastructure in Malaysia, offering solu...",
+   "permalink": "https://www.ransomware.live/id/b2NrLmNvbS5teUBsb2NrYml0NQ",
+   "press": "",
+   "infostealer": false,
+   "id": "b2NrLmNvbS5teUBsb2NrYml0NQ"
+  },
   {
    "victim": "Company #86",
    "group": "N0n",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "bmV3ZXJhbWFjaGluZXMuY29tQGxvY2tiaXQ1"
-  },
-  {
-   "victim": "grupoabg.com",
-   "group": "lockbit5",
-   "discovered": "2026-10-15T16:04:44.914875+00:00",
-   "attackdate": "2026-10-15T14:32:00+00:00",
-   "country": "MX",
-   "activity": "Manufacturing",
-   "website": "grupoabg.com",
-   "description": "Grupo ABG specializes in providing comprehensive solutions for organizations, focusing on business p...",
-   "permalink": "https://www.ransomware.live/id/Z3J1cG9hYmcuY29tQGxvY2tiaXQ1",
-   "press": "",
-   "infostealer": true,
-   "id": "Z3J1cG9hYmcuY29tQGxvY2tiaXQ1"
   }
  ]
 }
