@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-17T23:28:13.375Z",
+ "last_updated": "2026-10-18T06:37:46.595Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1770,
+ "count": 1771,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "Quikrete",
+   "group": "Helix",
+   "discovered": "2026-10-18T02:51:45.862874+00:00",
+   "attackdate": "2026-10-18T02:51:43.513744+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Quikrete records. GoFile links and passwords unlock in 6 hours.",
+   "permalink": "https://www.ransomware.live/id/UXVpa3JldGVASGVsaXg",
+   "press": "",
+   "infostealer": false,
+   "id": "UXVpa3JldGVASGVsaXg",
+   "chemical": false
+  },
   {
    "victim": "Smith Douglas Homes",
    "group": "Helix",
