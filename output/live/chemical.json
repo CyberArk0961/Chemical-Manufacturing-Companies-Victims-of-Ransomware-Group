@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-10-18T18:08:44.113Z",
+ "last_updated": "2026-10-18T20:47:45.448Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1775,
+ "count": 1774,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 158,
+ "chemical_matches": 157,
  "victims": [
   {
    "victim": "SMIC US Company (Sunnyvale, CA — US arm of Semiconductor Manufacturing International Corpo...",
@@ -262,21 +262,6 @@
    "infostealer": false,
    "id": "Q0FTIFBhcGVyIE1pbGxAdGhlZ2VudGxlbWVu",
    "chemical": false
-  },
-  {
-   "victim": "Pantanal Agricola",
-   "group": "thegentlemen",
-   "discovered": "2026-10-16T09:33:15.232714+00:00",
-   "attackdate": "2026-10-14T19:46:57+00:00",
-   "country": "BR",
-   "activity": "Agriculture and Food Production",
-   "website": "pantanalagricola.com.br",
-   "description": "pantanalagricola.com.br Pantanal Agrícola S.A. is a Brazilian agri-input distributor (crop protection, fertilizers, seeds) founded in 2001 in São Gabriel do Oeste, Mato Grosso do Sul — 19 legal units, 15-16 stores across MS/MT/GO, ~300 employees, serving 64+ municipalities and 5 million hectares of farmland. Partners include BASF, Corteva, FMC, Sumitomo, ICL, and Brevant; the business model centers on barter (inputs repaid with grain) plus agronomic advisory. The headline event: Bunge signed an MOU in Nov 2021 to acquire a minority stake, adding grain-storage and trading muscle. It finances he",
-   "permalink": "https://www.ransomware.live/id/UGFudGFuYWwgQWdyaWNvbGFAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": true,
-   "id": "UGFudGFuYWwgQWdyaWNvbGFAdGhlZ2VudGxlbWVu",
-   "chemical": true
   },
   {
    "victim": "Kemlows Diecasting Products Limited",

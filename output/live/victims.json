@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-18T18:08:44.102Z",
+ "last_updated": "2026-10-18T20:47:45.427Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Company #92",
+   "group": "N0n",
+   "discovered": "2026-10-18T20:25:29.647385+00:00",
+   "attackdate": "2026-10-18T20:25:06.864233+00:00",
+   "country": "KR",
+   "activity": "Not Found",
+   "website": "",
+   "description": "IT services · South Korea | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjOTJATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjOTJATjBu"
+  },
+  {
+   "victim": "********rta.ch",
+   "group": "cloak",
+   "discovered": "2026-10-18T19:06:57.588367+00:00",
+   "attackdate": "2026-10-18T19:06:36.200830+00:00",
+   "country": "CH",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Status: Private | Data size: 87GB | Country: Switzerland",
+   "permalink": "https://www.ransomware.live/id/KioqKioqKipydGEuY2hAY2xvYWs",
+   "press": "",
+   "infostealer": false,
+   "id": "KioqKioqKipydGEuY2hAY2xvYWs"
+  },
+  {
+   "victim": "dac********er.de",
+   "group": "cloak",
+   "discovered": "2026-10-18T19:06:17.465564+00:00",
+   "attackdate": "2026-10-18T19:05:45.353600+00:00",
+   "country": "DE",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Status: Private | Data size: 2TB | Country: germany",
+   "permalink": "https://www.ransomware.live/id/ZGFjKioqKioqKiplci5kZUBjbG9haw",
+   "press": "",
+   "infostealer": false,
+   "id": "ZGFjKioqKioqKiplci5kZUBjbG9haw"
+  },
   {
    "victim": "Telecom Egypt",
    "group": "N0n",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "U3QgUGV0ZXJzIEFuZ2xpY2FuIFByaW1hcnkgU2Nob29sQHRoZWdlbnRsZW1lbg"
-  },
-  {
-   "victim": "Pantanal Agricola",
-   "group": "thegentlemen",
-   "discovered": "2026-10-16T09:33:15.232714+00:00",
-   "attackdate": "2026-10-14T19:46:57+00:00",
-   "country": "BR",
-   "activity": "Agriculture and Food Production",
-   "website": "pantanalagricola.com.br",
-   "description": "pantanalagricola.com.br Pantanal Agrícola S.A. is a Brazilian agri-input distributor (crop protection, fertilizers, seeds) founded in 2001 in São Gabriel do Oeste, Mato Grosso do Sul — 19 legal units, 15-16 stores across MS/MT/GO, ~300 employees, serving 64+ municipalities and 5 million hectares of farmland. Partners include BASF, Corteva, FMC, Sumitomo, ICL, and Brevant; the business model centers on barter (inputs repaid with grain) plus agronomic advisory. The headline event: Bunge signed an MOU in Nov 2021 to acquire a minority stake, adding grain-storage and trading muscle. It finances he",
-   "permalink": "https://www.ransomware.live/id/UGFudGFuYWwgQWdyaWNvbGFAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": true,
-   "id": "UGFudGFuYWwgQWdyaWNvbGFAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Canva",
-   "group": "THE SEVEN DEADLY SINS",
-   "discovered": "2026-10-16T09:33:01.087567+00:00",
-   "attackdate": "2026-10-16T09:32:47.869536+00:00",
-   "country": "AU",
-   "activity": "Technology",
-   "website": "canva.com",
-   "description": "Global design platform; entire Salesforce org plus platform data warehouse export.",
-   "permalink": "https://www.ransomware.live/id/Q2FudmFAVEhFIFNFVkVOIERFQURMWSBTSU5T",
-   "press": "",
-   "infostealer": true,
-   "id": "Q2FudmFAVEhFIFNFVkVOIERFQURMWSBTSU5T"
-  },
-  {
-   "victim": "Sladek Partners",
-   "group": "thegentlemen",
-   "discovered": "2026-10-16T09:32:54.555947+00:00",
-   "attackdate": "2026-10-14T19:53:14+00:00",
-   "country": "CZ",
-   "activity": "Professional Services",
-   "website": "epravo.cz",
-   "description": "ak-sladek_cz Sladek & Partners Prague law firm operating as Mgr. Ivana Sládková, advokát (IČO 66252946), with 24 years of practice since 2002 — specializing in real estate transactions, divorce/family law, and attorney escrow (advokátní úschova). The firm's flagship claim: 500M CZK ($23M) held in escrow annually across 100+ segregated accounts, backed by 500M CZK insurance and 2–5 day payout guarantees. Led by Ivana Sládková (ČAK ev. č. 09496, Charles University, licensed for escrow since 2002, speaks English/German/Russian), with a tiny 3–5 person team (accountant + secretary). Listed in EPRA",
-   "permalink": "https://www.ransomware.live/id/U2xhZGVrIFBhcnRuZXJzQHRoZWdlbnRsZW1lbg",
-   "press": "",
-   "infostealer": true,
-   "id": "U2xhZGVrIFBhcnRuZXJzQHRoZWdlbnRsZW1lbg"
   }
  ]
 }
