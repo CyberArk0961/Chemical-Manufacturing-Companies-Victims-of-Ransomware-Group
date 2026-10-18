@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-10-18T06:37:46.595Z",
+ "last_updated": "2026-10-18T11:45:36.818Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1771,
+ "count": 1774,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "Mastelli S.r.l.",
+   "group": "qilin",
+   "discovered": "2026-10-18T09:46:23.885778+00:00",
+   "attackdate": "2026-10-18T00:00:00+00:00",
+   "country": "IT",
+   "activity": "Manufacturing",
+   "website": "www.mastelli.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/TWFzdGVsbGkgUy5yLmwuQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "TWFzdGVsbGkgUy5yLmwuQHFpbGlu",
+   "chemical": false
+  },
+  {
+   "victim": "Southwire",
+   "group": "Helix",
+   "discovered": "2026-10-18T07:51:55.572286+00:00",
+   "attackdate": "2026-10-18T07:51:53.427732+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Southwire records. Yearly revenue ~$9 billion. GoFile links and passwords unlock in 6 hours.",
+   "permalink": "https://www.ransomware.live/id/U291dGh3aXJlQEhlbGl4",
+   "press": "",
+   "infostealer": false,
+   "id": "U291dGh3aXJlQEhlbGl4",
+   "chemical": false
+  },
+  {
+   "victim": "www.marvinpac.com",
+   "group": "settra",
+   "discovered": "2026-10-18T07:28:29.152676+00:00",
+   "attackdate": "2026-09-25T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.marvinpac.com",
+   "description": "Marvinpac CZ, s.r.o. — the Czech subsidiary of Swiss group Marvinpac SA — specialises in contract packaging and co-packing for some of the world's leading brands: Nespresso, L'Oréal, COTY (Gucci, Hugo Boss, Calvin Klein), air up, LEGO, and others. The company has operated since 2010 at its production facility in Říčany–Jažlovice near Prague, and forms part of an international group with divisions in Switzerland, France, and Italy.",
+   "permalink": "https://www.ransomware.live/id/d3d3Lm1hcnZpbnBhYy5jb21Ac2V0dHJh",
+   "press": "",
+   "infostealer": false,
+   "id": "d3d3Lm1hcnZpbnBhYy5jb21Ac2V0dHJh",
+   "chemical": false
+  },
   {
    "victim": "Quikrete",
    "group": "Helix",
