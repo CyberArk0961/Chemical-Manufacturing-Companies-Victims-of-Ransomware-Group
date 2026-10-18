@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-18T11:45:36.794Z",
+ "last_updated": "2026-10-18T14:52:48.735Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Llano Independent School District",
+   "group": "qilin",
+   "discovered": "2026-10-18T13:49:38.734560+00:00",
+   "attackdate": "2026-10-18T13:49:15.832241+00:00",
+   "country": "US",
+   "activity": "Education",
+   "website": "www.llanoisd.org",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/TGxhbm8gSW5kZXBlbmRlbnQgU2Nob29sIERpc3RyaWN0QHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "TGxhbm8gSW5kZXBlbmRlbnQgU2Nob29sIERpc3RyaWN0QHFpbGlu"
+  },
+  {
+   "victim": "mckenneys",
+   "group": "iah6477",
+   "discovered": "2026-10-18T12:37:04.785040+00:00",
+   "attackdate": "2026-10-18T12:36:46.083672+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "mckenneys.com",
+   "description": "Size: 295.9 GiB",
+   "permalink": "https://www.ransomware.live/id/bWNrZW5uZXlzQGlhaDY0Nzc",
+   "press": "",
+   "infostealer": true,
+   "id": "bWNrZW5uZXlzQGlhaDY0Nzc"
+  },
   {
    "victim": "BRUTRA Logistek",
    "group": "qilin",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "U2VydmljZU1hc3RlciBvZiBPdHRhd2FAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Verano Holdings",
-   "group": "THE SEVEN DEADLY SINS",
-   "discovered": "2026-10-16T09:31:52.669417+00:00",
-   "attackdate": "2026-10-16T09:31:38.620945+00:00",
-   "country": "US",
-   "activity": "Retail & E-Commerce",
-   "website": "verano.com",
-   "description": "Public multi-state cannabis operator (VRNO); Zen Leaf and MÜV retail banners across 14+ U.S. states. Sweed POS and loyalty warehouse.",
-   "permalink": "https://www.ransomware.live/id/VmVyYW5vIEhvbGRpbmdzQFRIRSBTRVZFTiBERUFETFkgU0lOUw",
-   "press": "",
-   "infostealer": true,
-   "id": "VmVyYW5vIEhvbGRpbmdzQFRIRSBTRVZFTiBERUFETFkgU0lOUw"
-  },
-  {
-   "victim": "Entry Systems Garage Doors Gates",
-   "group": "thegentlemen",
-   "discovered": "2026-10-16T09:31:51.487844+00:00",
-   "attackdate": "2026-10-14T20:18:05+00:00",
-   "country": "US",
-   "activity": "Other",
-   "website": "entrysystems.com",
-   "description": "entrysystems.com Entry Systems Garage Doors & Gates 3rd-generation family business in Laguna Hills, CA (with a second design center in Tustin, opened 2024) — servicing garage doors and automated gates across South Orange County since 1972. Legal entity: Laguna Niguel Garage Door Service, Inc.; CA contractor license #916334 (class D28, active through 2028, clear record), bonded and insured. Services: garage door repair/installation (CHI, Amarr, Clopay), openers (Genie, Liftmaster, smart home), swing/slide gates (DoorKing, Elite, Eagle, solar), telephone entry systems, welding, and maintenance —",
-   "permalink": "https://www.ransomware.live/id/RW50cnkgU3lzdGVtcyBHYXJhZ2UgRG9vcnMgR2F0ZXNAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": false,
-   "id": "RW50cnkgU3lzdGVtcyBHYXJhZ2UgRG9vcnMgR2F0ZXNAdGhlZ2VudGxlbWVu"
   }
  ]
 }
