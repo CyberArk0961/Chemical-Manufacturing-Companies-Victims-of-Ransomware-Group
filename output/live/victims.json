@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-18T20:47:45.427Z",
+ "last_updated": "2026-10-18T23:16:17.823Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Amagi Media Labs",
+   "group": "N0n",
+   "discovered": "2026-10-18T22:24:38.779390+00:00",
+   "attackdate": "2026-10-18T22:24:17.034538+00:00",
+   "country": "US",
+   "activity": "Technology",
+   "website": "",
+   "description": "media technology / broadcast playout · United States | Network and device configuration files from a US broadcast playout site; Internal network maps of the site | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/QW1hZ2kgTWVkaWEgTGFic0BOMG4",
+   "press": "",
+   "infostealer": false,
+   "id": "QW1hZ2kgTWVkaWEgTGFic0BOMG4"
+  },
+  {
+   "victim": "Belcorp",
+   "group": "qilin",
+   "discovered": "2026-10-18T21:05:22.505062+00:00",
+   "attackdate": "2026-10-18T21:04:48.545833+00:00",
+   "country": "PE",
+   "activity": "Retail & E-Commerce",
+   "website": "www.belcorp.biz",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/QmVsY29ycEBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "QmVsY29ycEBxaWxpbg"
+  },
   {
    "victim": "Company #92",
    "group": "N0n",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q0FTIFBhcGVyIE1pbGxAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Globeia Inc.",
-   "group": "THE SEVEN DEADLY SINS",
-   "discovered": "2026-10-16T09:33:37.284527+00:00",
-   "attackdate": "2026-10-16T09:33:23.674509+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "globeia.com",
-   "description": "Document-processing platform for FBI clearance, RCMP criminal records, and Canadian corporate screening via portal.globeia.app.",
-   "permalink": "https://www.ransomware.live/id/R2xvYmVpYSBJbmMuQFRIRSBTRVZFTiBERUFETFkgU0lOUw",
-   "press": "",
-   "infostealer": true,
-   "id": "R2xvYmVpYSBJbmMuQFRIRSBTRVZFTiBERUFETFkgU0lOUw"
-  },
-  {
-   "victim": "St Peters Anglican Primary School",
-   "group": "thegentlemen",
-   "discovered": "2026-10-16T09:33:36.133096+00:00",
-   "attackdate": "2026-10-14T19:36:50+00:00",
-   "country": "AU",
-   "activity": "Education",
-   "website": "stpeters.sa.edu.au",
-   "description": "stpeters.sa.edu.au St Peter's Anglican Grammar independent Anglican co-ed school in Campbelltown, NSW (est. 1983, revived parish school), teaching Pre-K to Year 6 (~428 students, ICSEA 1118 — 89th percentile nationally). It's part of the Campbelltown Anglican Schools Council (CASC) alongside Broughton Anglican College (P–12) and St Peter's Heart (special needs). Academics are solid: NAPLAN scores run ~33 points above the national average, SchoolRank rates it 69.3/100 (\"Good\", 129th in NSW), and it's one of only two IB PYP World Schools in the Macarthur region. Fees are modest — $9,400/yr (K–2)",
-   "permalink": "https://www.ransomware.live/id/U3QgUGV0ZXJzIEFuZ2xpY2FuIFByaW1hcnkgU2Nob29sQHRoZWdlbnRsZW1lbg",
-   "press": "",
-   "infostealer": true,
-   "id": "U3QgUGV0ZXJzIEFuZ2xpY2FuIFByaW1hcnkgU2Nob29sQHRoZWdlbnRsZW1lbg"
   }
  ]
 }
