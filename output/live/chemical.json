@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-18T11:45:36.818Z",
+ "last_updated": "2026-10-18T18:08:44.113Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1774,
+ "count": 1775,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "SMIC US Company (Sunnyvale, CA — US arm of Semiconductor Manufacturing International Corpo...",
+   "group": "N0n",
+   "discovered": "2026-10-18T16:27:05.221579+00:00",
+   "attackdate": "2026-10-18T16:26:38.164353+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Semiconductor manufacturing · California, USA | Corporate business records and working files from the company's file servers; Employee and payroll related records; Financial and accounting documents | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/U01JQyBVUyBDb21wYW55IChTdW5ueXZhbGUsIENBIOKAlCBVUyBhcm0gb2YgU2VtaWNvbmR1Y3RvciBNYW51ZmFjdHVyaW5nIEludGVybmF0aW9uYWwgQ29ycG8uLi5ATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "U01JQyBVUyBDb21wYW55IChTdW5ueXZhbGUsIENBIOKAlCBVUyBhcm0gb2YgU2VtaWNvbmR1Y3RvciBNYW51ZmFjdHVyaW5nIEludGVybmF0aW9uYWwgQ29ycG8uLi5ATjBu",
+   "chemical": false
+  },
   {
    "victim": "Mastelli S.r.l.",
    "group": "qilin",
@@ -75,11 +90,11 @@
    "attackdate": "2026-10-17T22:23:01.459938+00:00",
    "country": "US",
    "activity": "Manufacturing",
-   "website": "",
+   "website": "smithdouglas.com",
    "description": "Smith Douglas Homes records. Yearly revenue ~$971 million. GoFile links and passwords unlock in 12 hours.",
    "permalink": "https://www.ransomware.live/id/U21pdGggRG91Z2xhcyBIb21lc0BIZWxpeA",
    "press": "",
-   "infostealer": false,
+   "infostealer": true,
    "id": "U21pdGggRG91Z2xhcyBIb21lc0BIZWxpeA",
    "chemical": false
   },
