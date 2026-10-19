@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-19T01:22:19.100Z",
+ "last_updated": "2026-10-19T06:54:30.486Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "American Campus",
+   "group": "Helix",
+   "discovered": "2026-10-19T02:23:57.872260+00:00",
+   "attackdate": "2026-10-19T02:23:55.677015+00:00",
+   "country": "US",
+   "activity": "Education",
+   "website": "",
+   "description": "American Campus records. Yearly revenue ~$1 billion yearly. GoFile links and passwords unlock in 6 hours.",
+   "permalink": "https://www.ransomware.live/id/QW1lcmljYW4gQ2FtcHVzQEhlbGl4",
+   "press": "",
+   "infostealer": false,
+   "id": "QW1lcmljYW4gQ2FtcHVzQEhlbGl4"
+  },
+  {
+   "victim": "Finzly Corp",
+   "group": "N0n",
+   "discovered": "2026-10-19T01:23:07.372995+00:00",
+   "attackdate": "2026-10-19T01:22:45.785872+00:00",
+   "country": "US",
+   "activity": "Financial Services",
+   "website": "",
+   "description": "fintech payments · US | Network configuration and access secrets for payment infrastructure; Cloud environment topology and access keys | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/Rmluemx5IENvcnBATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Rmluemx5IENvcnBATjBu"
+  },
   {
    "victim": "Company #93",
    "group": "N0n",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "UGV0cm9sZXVtIFRlbGNvbSBDb21tdW5pY2F0aW9uc0B0aGVnZW50bGVtZW4"
-  },
-  {
-   "victim": "Axle Logistics",
-   "group": "thegentlemen",
-   "discovered": "2026-10-16T09:34:17.702819+00:00",
-   "attackdate": "2026-10-14T18:26:07+00:00",
-   "country": "US",
-   "activity": "Transportation",
-   "website": "axlelogistics.com",
-   "description": "axlelogistics.com Axle Logistics non-asset freight brokerage founded in 2012 in Knoxville, Tennessee, by Drew Johnson and Jon Clay — two University of Tennessee grads who started with two people and one trucking software license. It organizes truckload, LTL, intermodal, and port drayage shipments across the US, Canada, and Mexico by matching loads with third-party carriers, focusing on Fortune 500 shippers and mid-market brands. Revenue exploded from $80M (2018) to over $1.2B gross / $159M net (2025), and headcount grew from 2 to roughly 700 — making it one of the fastest-scaling brokers in th",
-   "permalink": "https://www.ransomware.live/id/QXhsZSBMb2dpc3RpY3NAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": true,
-   "id": "QXhsZSBMb2dpc3RpY3NAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Cradlewise Inc.",
-   "group": "THE SEVEN DEADLY SINS",
-   "discovered": "2026-10-16T09:34:09.679356+00:00",
-   "attackdate": "2026-10-16T09:33:56.864339+00:00",
-   "country": "US",
-   "activity": "Technology",
-   "website": "cradlewise.com",
-   "description": "VC-backed smart crib manufacturer; ~$14M/yr DTC revenue plus Nurture subscription layer.",
-   "permalink": "https://www.ransomware.live/id/Q3JhZGxld2lzZSBJbmMuQFRIRSBTRVZFTiBERUFETFkgU0lOUw",
-   "press": "",
-   "infostealer": true,
-   "id": "Q3JhZGxld2lzZSBJbmMuQFRIRSBTRVZFTiBERUFETFkgU0lOUw"
   }
  ]
 }
