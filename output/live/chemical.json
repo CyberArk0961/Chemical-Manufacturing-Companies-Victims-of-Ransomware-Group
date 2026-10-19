@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-19T14:42:55.270Z",
+ "last_updated": "2026-10-19T20:14:21.823Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 1777,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 158,
+ "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "Walbro",
+   "group": "nitrogen",
+   "discovered": "2026-10-19T16:22:53.958077+00:00",
+   "attackdate": "2026-10-12T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.walbro.com",
+   "description": "Walbro is a global market leader in engine management and fuel systems for the Outdoor Power Equipment, Recreational, Marine, and Personal Transportation markets, and a leading supplier of high pressure aluminum die casting to various industries. Walbro manufactures carburetors, electronic fuel injection systems, ignition systems, fuel tanks, fuel pumps, valves and fuel storage and distribution systems, and offers value-added machining, electronics and assembly capabilities.",
+   "permalink": "https://www.ransomware.live/id/V2FsYnJvQG5pdHJvZ2Vu",
+   "press": "",
+   "infostealer": false,
+   "id": "V2FsYnJvQG5pdHJvZ2Vu",
+   "chemical": false
+  },
   {
    "victim": "GTL Concreto e Logística LTDA",
    "group": "emperador",
@@ -262,21 +277,6 @@
    "infostealer": false,
    "id": "QmxhZGVUZWNoIEluY0BOMG4",
    "chemical": false
-  },
-  {
-   "victim": "Caretaker Landscape and Tree Management",
-   "group": "pear",
-   "discovered": "2026-10-16T11:52:28.182476+00:00",
-   "attackdate": "2026-10-14T00:00:00+00:00",
-   "country": "US",
-   "activity": "Agriculture and Food Production",
-   "website": "caretakerlandscape.com",
-   "description": "Full-service commercial landscape and development services such as pruning, fertilization, mowing, renovation, and aeration",
-   "permalink": "https://www.ransomware.live/id/Q2FyZXRha2VyIExhbmRzY2FwZSBhbmQgVHJlZSBNYW5hZ2VtZW50QHBlYXI",
-   "press": "",
-   "infostealer": false,
-   "id": "Q2FyZXRha2VyIExhbmRzY2FwZSBhbmQgVHJlZSBNYW5hZ2VtZW50QHBlYXI",
-   "chemical": true
   },
   {
    "victim": "Inovar Packaging Group",
