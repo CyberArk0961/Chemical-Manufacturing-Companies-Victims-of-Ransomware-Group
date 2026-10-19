@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-10-18T20:47:45.448Z",
+ "last_updated": "2026-10-19T14:42:55.270Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1774,
+ "count": 1777,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 157,
+ "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "GTL Concreto e Logística LTDA",
+   "group": "emperador",
+   "discovered": "2026-10-19T10:22:09.403718+00:00",
+   "attackdate": "2026-10-19T09:53:00+00:00",
+   "country": "BR",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Production and preparation of ready-mixed concrete \nand mortars. Production of cement products for \nconstruction. Construction of buildings and other \nconstruction works. Rental of vehicles and industrial \nequipment without an operator.\nIN THE ARCHIVE FINANCIAL DOCUMENTS, PERSONAL AND CUSTOMER DATA,\nEMPLOYEE CREDENTIALS. [Sector: Manufacturing, Finance, Transportation]",
+   "permalink": "https://www.ransomware.live/id/R1RMIENvbmNyZXRvIGUgTG9nw61zdGljYSBMVERBQGVtcGVyYWRvcg",
+   "press": "",
+   "infostealer": false,
+   "id": "R1RMIENvbmNyZXRvIGUgTG9nw61zdGljYSBMVERBQGVtcGVyYWRvcg",
+   "chemical": false
+  },
+  {
+   "victim": "POWERsonic Industries Inc.",
+   "group": "aurora",
+   "discovered": "2026-10-19T07:27:36.435344+00:00",
+   "attackdate": "2026-10-19T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "POWERsonic Industries Inc.",
+   "description": "[manufacturer] POWERsonic Industries Inc. — a privately held wire harness and cable assembly contract manufacturer founded in 1998 with ~100-150 employees across 7 locations.\n\nThe exposed material spans every entity in the POWERsonic corporate structure:\n\n<redacted>\n<redacted>\nEmployee PII for 93-150 employees — SIN documents, passports, I-20 visas, LMIA immigration approvals, W-2 tax forms, pay stubs, banking information. Plus 8 complete email archives totaling 13.2 GB.\nCustomer proprietary designs — 7.5 GB of Demers Ambulance wiring harness data, 15 GB of CIRRIS cable test results, Mold Mast",
+   "permalink": "https://www.ransomware.live/id/UE9XRVJzb25pYyBJbmR1c3RyaWVzIEluYy5AYXVyb3Jh",
+   "press": "",
+   "infostealer": false,
+   "id": "UE9XRVJzb25pYyBJbmR1c3RyaWVzIEluYy5AYXVyb3Jh",
+   "chemical": false
+  },
+  {
+   "victim": "Baltimore Tank Lines",
+   "group": "Storm",
+   "discovered": "2026-10-19T06:55:52.723280+00:00",
+   "attackdate": "2026-10-19T02:18:04+00:00",
+   "country": "US",
+   "activity": "Transportation",
+   "website": "",
+   "description": "Baltimore Tank Lines is a leading transporter of liquid bulk commodities, including fuel, DEF, motor oils, fertilizer, and food-grade products. With over 75 years of experience, the company serves a diverse clientele across local, regional, and national accounts. They are committed to expanding their operations and client base by adding new service locations and growing their manpower and equipment. Baltimore Tank Lines also offers flexible job opportunities and a comprehensive benefits package for transport drivers. \nThe company headquarters is located in 180 8th Avenue NW, Glen Burnie, MD 21",
+   "permalink": "https://www.ransomware.live/id/QmFsdGltb3JlIFRhbmsgTGluZXNAU3Rvcm0",
+   "press": "",
+   "infostealer": false,
+   "id": "QmFsdGltb3JlIFRhbmsgTGluZXNAU3Rvcm0",
+   "chemical": true
+  },
   {
    "victim": "SMIC US Company (Sunnyvale, CA — US arm of Semiconductor Manufacturing International Corpo...",
    "group": "N0n",
