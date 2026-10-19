@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-18T23:16:17.823Z",
+ "last_updated": "2026-10-19T01:22:19.100Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Company #93",
+   "group": "N0n",
+   "discovered": "2026-10-19T00:22:49.507679+00:00",
+   "attackdate": "2026-10-19T00:22:31.687983+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "",
+   "description": "healthcare support services · United States | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjOTNATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjOTNATjBu"
+  },
   {
    "victim": "Amagi Media Labs",
    "group": "N0n",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "Q3JhZGxld2lzZSBJbmMuQFRIRSBTRVZFTiBERUFETFkgU0lOUw"
-  },
-  {
-   "victim": "CAS Paper Mill",
-   "group": "thegentlemen",
-   "discovered": "2026-10-16T09:33:57.113454+00:00",
-   "attackdate": "2026-10-14T19:34:59+00:00",
-   "country": "CA",
-   "activity": "Manufacturing",
-   "website": "caspapermill.com",
-   "description": "caspapermill.com C.A.S. Paper Mill Co., Ltd. is a Thai paper manufacturer in Singburi (est. 1990, operating since 1994), part of the Charoen Aksorn Group — Thailand's largest paper distributor, backed by Bangkok Bank and Vacharaphol. It produces 130,000 MT/yr of newsprint, printing and kraft paper plus 30,000 MT/yr of tissue (Toscotec line, 2022), from 100% recycled US/Canadian waste paper. Zero-liquid-discharge since 1994, 10 MWp floating solar; ISO 9001/14001/45001, TIS 758, FSC C125297. Exports: Vietnam, Philippines, Pakistan. Revenue est. $80–150M (~300 staff), but fell ~10% in 2025 as new",
-   "permalink": "https://www.ransomware.live/id/Q0FTIFBhcGVyIE1pbGxAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q0FTIFBhcGVyIE1pbGxAdGhlZ2VudGxlbWVu"
   }
  ]
 }
