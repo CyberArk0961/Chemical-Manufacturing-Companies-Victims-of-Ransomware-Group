@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-20T02:10:22.233Z",
+ "last_updated": "2026-10-20T07:38:11.277Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Company #97",
+   "group": "N0n",
+   "discovered": "2026-10-20T05:54:05.013090+00:00",
+   "attackdate": "2026-10-20T05:53:49.345510+00:00",
+   "country": "TN",
+   "activity": "Not Found",
+   "website": "",
+   "description": "textile manufacturing · Tunisia | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjOTdATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjOTdATjBu"
+  },
+  {
+   "victim": "Company #96",
+   "group": "N0n",
+   "discovered": "2026-10-20T05:53:30.847113+00:00",
+   "attackdate": "2026-10-20T05:53:13.615684+00:00",
+   "country": "TT",
+   "activity": "Not Found",
+   "website": "",
+   "description": "medical laboratory and diagnostics · Trinidad and Tobago | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjOTZATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjOTZATjBu"
+  },
+  {
+   "victim": "Company #95",
+   "group": "N0n",
+   "discovered": "2026-10-20T05:52:54.936691+00:00",
+   "attackdate": "2026-10-20T05:52:35.850160+00:00",
+   "country": "CH",
+   "activity": "Not Found",
+   "website": "",
+   "description": "solar energy company · Switzerland | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjOTVATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjOTVATjBu"
+  },
+  {
+   "victim": "Fisher59",
+   "group": "anubis",
+   "discovered": "2026-10-20T03:57:32.679892+00:00",
+   "attackdate": "2026-10-20T03:56:48.983409+00:00",
+   "country": "",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Beverage distributor data breach.",
+   "permalink": "https://www.ransomware.live/id/RmlzaGVyNTlAYW51Ymlz",
+   "press": "",
+   "infostealer": false,
+   "id": "RmlzaGVyNTlAYW51Ymlz"
+  },
   {
    "victim": "BW Office World",
    "group": "payload",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q29tcGFueSAjODBATjBu"
-  },
-  {
-   "victim": "Company #79",
-   "group": "N0n",
-   "discovered": "2026-10-16T15:57:11.465109+00:00",
-   "attackdate": "2026-10-16T15:56:55.299496+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "",
-   "description": "hospitality · United States | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNzlATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjNzlATjBu"
-  },
-  {
-   "victim": "Company #78",
-   "group": "N0n",
-   "discovered": "2026-10-16T15:56:36.722081+00:00",
-   "attackdate": "2026-10-16T15:56:19.690211+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "Healthcare - Ambulatory Surgery Center (US) · Texas, US | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNzhATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjNzhATjBu"
-  },
-  {
-   "victim": "Company #77",
-   "group": "N0n",
-   "discovered": "2026-10-16T15:56:01.252137+00:00",
-   "attackdate": "2026-10-16T15:55:44.789131+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "",
-   "description": "investigations and due diligence · USA | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNzdATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjNzdATjBu"
-  },
-  {
-   "victim": "Company #76",
-   "group": "N0n",
-   "discovered": "2026-10-16T15:55:26.210449+00:00",
-   "attackdate": "2026-10-16T15:55:09.616463+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "",
-   "description": "fintech payments · US | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNzZATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjNzZATjBu"
   }
  ]
 }
