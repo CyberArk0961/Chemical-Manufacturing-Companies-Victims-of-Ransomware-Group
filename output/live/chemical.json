@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-20T02:10:22.253Z",
+ "last_updated": "2026-10-20T18:00:08.024Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1778,
+ "count": 1779,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 157,
+ "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "Aveva",
+   "group": "Mimori",
+   "discovered": "2026-10-20T13:44:30.016847+00:00",
+   "attackdate": "2026-10-20T13:44:05.291454+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "aveva.com",
+   "description": "AVEVA is a British multinational industrial software company headquartered in Cambridge, England, and operating as an autonomous business unit of Schneider Electric. It provides engineering, design, operations management, data visualization, asset performance, and cloud-based industrial intelligence solutions for sectors including oil and gas, power, chemicals, manufacturing, marine, mining, and infrastructure. AVEVA's technology helps thousands of enterprises worldwide optimize industrial processes, improve operational efficiency, and support digital transformation across complex engineering ",
+   "permalink": "https://www.ransomware.live/id/QXZldmFATWltb3Jp",
+   "press": "",
+   "infostealer": true,
+   "id": "QXZldmFATWltb3Jp",
+   "chemical": true
+  },
   {
    "victim": "Brüninghoff Group",
    "group": "payload",
