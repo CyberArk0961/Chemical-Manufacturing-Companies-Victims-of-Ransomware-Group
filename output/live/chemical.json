@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-20T18:00:08.024Z",
+ "last_updated": "2026-10-20T21:39:59.159Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1779,
+ "count": 1780,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "Graves Fireplaces, Inc.",
+   "group": "Global Secret Group",
+   "discovered": "2026-10-20T19:53:23.930848+00:00",
+   "attackdate": "2026-10-20T19:52:32.484483+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.gravesfireplaces.com",
+   "description": "Country: Cumming, Georgia, US |\nWebsite: www.gravesfireplaces.com |\nRevenue: $5.3 Million |\nIndustry: Hearth Products, Fireplace Sales and Installation |\nEmployees: 20-50 |\nProperties: 76.1 GB (77,117 Files, 5,170 Folders)",
+   "permalink": "https://www.ransomware.live/id/R3JhdmVzIEZpcmVwbGFjZXMsIEluYy5AR2xvYmFsIFNlY3JldCBHcm91cA",
+   "press": "",
+   "infostealer": false,
+   "id": "R3JhdmVzIEZpcmVwbGFjZXMsIEluYy5AR2xvYmFsIFNlY3JldCBHcm91cA",
+   "chemical": false
+  },
   {
    "victim": "Aveva",
    "group": "Mimori",
