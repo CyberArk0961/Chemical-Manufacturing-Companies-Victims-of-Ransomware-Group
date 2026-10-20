@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-19T20:14:21.823Z",
+ "last_updated": "2026-10-20T02:10:22.253Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1777,
+ "count": 1778,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "Brüninghoff Group",
+   "group": "payload",
+   "discovered": "2026-10-20T00:07:26.154443+00:00",
+   "attackdate": "2026-10-20T00:06:33.960042+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Brüninghoff Group (brueninghoff.de) is a German construction and manufacturing company headquartered in Heiden, founded in 1974. The company specializes in turnkey project development, engineering, and the prefabrication of hybrid timber, concrete, and steel building systems. With around 700 employees, it strongly emphasizes sustainable, energy-efficient building methods for commercial, residential, and public architecture.",
+   "permalink": "https://www.ransomware.live/id/QnLDvG5pbmdob2ZmIEdyb3VwQHBheWxvYWQ",
+   "press": "",
+   "infostealer": false,
+   "id": "QnLDvG5pbmdob2ZmIEdyb3VwQHBheWxvYWQ",
+   "chemical": false
+  },
   {
    "victim": "Walbro",
    "group": "nitrogen",

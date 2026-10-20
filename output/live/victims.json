@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-19T23:46:39.976Z",
+ "last_updated": "2026-10-20T02:10:22.233Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "BW Office World",
+   "group": "payload",
+   "discovered": "2026-10-20T00:08:36.598547+00:00",
+   "attackdate": "2026-10-20T00:07:45.202057+00:00",
+   "country": "",
+   "activity": "Retail & E-Commerce",
+   "website": "",
+   "description": "BW Office World (bw-officeworld.de) is a German specialized online retailer providing comprehensive workspace and office supply solutions. Their catalog features office furniture, ergonomic chairs, presentation hardware, office technology, and everyday stationery from leading European brands. Serving both corporate B2B clients and individual consumers, the company emphasizes workplace ergonomics, dependable delivery across Germany, and expert support for office fit-outs.",
+   "permalink": "https://www.ransomware.live/id/QlcgT2ZmaWNlIFdvcmxkQHBheWxvYWQ",
+   "press": "",
+   "infostealer": false,
+   "id": "QlcgT2ZmaWNlIFdvcmxkQHBheWxvYWQ"
+  },
+  {
+   "victim": "Brüninghoff Group",
+   "group": "payload",
+   "discovered": "2026-10-20T00:07:26.154443+00:00",
+   "attackdate": "2026-10-20T00:06:33.960042+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Brüninghoff Group (brueninghoff.de) is a German construction and manufacturing company headquartered in Heiden, founded in 1974. The company specializes in turnkey project development, engineering, and the prefabrication of hybrid timber, concrete, and steel building systems. With around 700 employees, it strongly emphasizes sustainable, energy-efficient building methods for commercial, residential, and public architecture.",
+   "permalink": "https://www.ransomware.live/id/QnLDvG5pbmdob2ZmIEdyb3VwQHBheWxvYWQ",
+   "press": "",
+   "infostealer": false,
+   "id": "QnLDvG5pbmdob2ZmIEdyb3VwQHBheWxvYWQ"
+  },
   {
    "victim": "GardaWorld",
    "group": "qilin",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q29tcGFueSAjNzZATjBu"
-  },
-  {
-   "victim": "Company #72",
-   "group": "N0n",
-   "discovered": "2026-10-16T15:54:50.992242+00:00",
-   "attackdate": "2026-10-16T15:54:34.695461+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "Software / fundraising services · California, USA | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNzJATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjNzJATjBu"
-  },
-  {
-   "victim": "Company #71",
-   "group": "N0n",
-   "discovered": "2026-10-16T15:54:15.783656+00:00",
-   "attackdate": "2026-10-16T15:53:58.513309+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "",
-   "description": "manufacturing · USA | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjNzFATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjNzFATjBu"
   }
  ]
 }
