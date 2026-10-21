@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-20T21:39:59.142Z",
+ "last_updated": "2026-10-21T04:53:52.318Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Xylanpicks",
+   "group": "N0n",
+   "discovered": "2026-10-21T04:25:04.144451+00:00",
+   "attackdate": "2026-10-21T04:24:46.072947+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "",
+   "description": "online sports betting analytics · United States | The complete database of a sports betting analysis platform, including 108,781 historical game results; Every model-generated betting pick with model probabilities and outcomes; Live paid API keys for sports data providers | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/WHlsYW5waWNrc0BOMG4",
+   "press": "",
+   "infostealer": false,
+   "id": "WHlsYW5waWNrc0BOMG4"
+  },
+  {
+   "victim": "GSE-M Technology Sdn. Bhd.",
+   "group": "bravox",
+   "discovered": "2026-10-21T02:12:33.335286+00:00",
+   "attackdate": "2026-10-21T02:12:18.035164+00:00",
+   "country": "MY",
+   "activity": "Technology",
+   "website": "www.gse.com.my",
+   "description": "Industrial Engineering, Manufacturing Automation and Custom Machinery Solutions.",
+   "permalink": "https://www.ransomware.live/id/R1NFLU0gVGVjaG5vbG9neSBTZG4uIEJoZC5AYnJhdm94",
+   "press": "",
+   "infostealer": false,
+   "id": "R1NFLU0gVGVjaG5vbG9neSBTZG4uIEJoZC5AYnJhdm94"
+  },
+  {
+   "victim": "Bruin Group LLC",
+   "group": "emperador",
+   "discovered": "2026-10-21T01:55:09.972426+00:00",
+   "attackdate": "2026-10-21T00:16:00+00:00",
+   "country": "US",
+   "activity": "Other",
+   "website": "",
+   "description": "Bruin Group LLC is a telecom expense management (TEM) and communications auditing firm. Companies hand them carrier invoices, circuit inventories, wire instructions, letters of authorization, and internal ticket correspondence so Bruin can audit and recover overcharges. Bruin sits on a concentrated pile of third-party financial and telecom data for every client they serve.\n\nWe have your entire ticket repository. Wire instructions, account numbers, W-9s, EINs, signed LOAs, Tenet patient call traces, all of it, for every client you manage.\n\nTenet. Welltower. USDA. MarineMax. Allegis. Lincare. Sa",
+   "permalink": "https://www.ransomware.live/id/QnJ1aW4gR3JvdXAgTExDQGVtcGVyYWRvcg",
+   "press": "",
+   "infostealer": false,
+   "id": "QnJ1aW4gR3JvdXAgTExDQGVtcGVyYWRvcg"
+  },
   {
    "victim": "M... M...",
    "group": "SilentRansomGroup",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "UmhlZW0gR2xvYmFsQEhlbGl4"
-  },
-  {
-   "victim": "Robert Hitchins Limited",
-   "group": "Majinahanashi",
-   "discovered": "2026-10-17T17:01:24.634743+00:00",
-   "attackdate": "2026-10-08T00:00:00+00:00",
-   "country": "GB",
-   "activity": "Agriculture and Food Production",
-   "website": "",
-   "description": "It is a major private real estate development and investment company founded in the United Kingdom in 1958. The company specializes in land management, construction, and investments in commercial a...",
-   "permalink": "https://www.ransomware.live/id/Um9iZXJ0IEhpdGNoaW5zIExpbWl0ZWRATWFqaW5haGFuYXNoaQ",
-   "press": "",
-   "infostealer": false,
-   "id": "Um9iZXJ0IEhpdGNoaW5zIExpbWl0ZWRATWFqaW5haGFuYXNoaQ"
-  },
-  {
-   "victim": "Wellington College International School Bangkok",
-   "group": "thegentlemen",
-   "discovered": "2026-10-17T16:52:59.457321+00:00",
-   "attackdate": "2026-10-16T16:48:40+00:00",
-   "country": "TH",
-   "activity": "Education",
-   "website": "wellingtoncollege.ac.th",
-   "description": "wellingtoncollege.ac.th Wellington College Bangkok is a British international school for ages 2 to 18, opened in 2018 as part of Wellington College UK, with around 1100 students on a 28 acre campus in eastern Bangkok. The curriculum runs from the English National Curriculum to IGCSE and A Levels, with the first graduating class in 2026. Fees range from about 639000 baht per year in pre nursery up to 1283500 baht in Year 12, plus a 225000 baht registration fee and a 175000 baht refundable deposit. Results are elite level with 80 percent A star or A at IGCSE and every graduate of 2026 admitted t",
-   "permalink": "https://www.ransomware.live/id/V2VsbGluZ3RvbiBDb2xsZWdlIEludGVybmF0aW9uYWwgU2Nob29sIEJhbmdrb2tAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": true,
-   "id": "V2VsbGluZ3RvbiBDb2xsZWdlIEludGVybmF0aW9uYWwgU2Nob29sIEJhbmdrb2tAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Gio Dental Med Spa",
-   "group": "thegentlemen",
-   "discovered": "2026-10-17T16:52:38.572921+00:00",
-   "attackdate": "2026-10-16T16:57:04+00:00",
-   "country": "IT",
-   "activity": "Healthcare",
-   "website": "giodentalspa.com",
-   "description": "giodentalspa.com Gio Dental & Med Spa  private dental and aesthetic clinic founded around 2006 in Ciudad Juárez, Mexico, targeting patients from the US border region of El Paso and Las Cruces. The practice has about 6 employees and estimated annual revenue of roughly 430000 dollars, making it a small self-owned business with no external funding. Its business model is built on cross-border dental tourism, accepting American HMO and PPO insurance and transporting patients from El Paso directly to the clinic. Core services are dental implants, orthodontics, endodontics, veneers and oral surgery, ",
-   "permalink": "https://www.ransomware.live/id/R2lvIERlbnRhbCBNZWQgU3BhQHRoZWdlbnRsZW1lbg",
-   "press": "",
-   "infostealer": false,
-   "id": "R2lvIERlbnRhbCBNZWQgU3BhQHRoZWdlbnRsZW1lbg"
   }
  ]
 }
