@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-21T15:19:31.405Z",
+ "last_updated": "2026-10-21T19:40:15.385Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Coastal Alabama Community College",
+   "group": "interlock",
+   "discovered": "2026-10-21T19:29:49.091231+00:00",
+   "attackdate": "2026-10-21T19:29:40.985621+00:00",
+   "country": "US",
+   "activity": "Education",
+   "website": "coastalalabama.edu",
+   "description": "Coastal Alabama Community College demonstrates an extreme disregard for its own security and the security of its students and makes no attempt to address these deficiencies. Therefore, we are publishing their sensitive information, such as student education records, protected health information, financial aid and loan information, employee personnel files, Social Security numbers, and payment card data. They are also known for their incidents, and we are making this information publicly available to you. As a result, they violate laws such as HIPAA, FERPA, GLBA, and PCI DSS.",
+   "permalink": "https://www.ransomware.live/id/Q29hc3RhbCBBbGFiYW1hIENvbW11bml0eSBDb2xsZWdlQGludGVybG9jaw",
+   "press": "",
+   "infostealer": true,
+   "id": "Q29hc3RhbCBBbGFiYW1hIENvbW11bml0eSBDb2xsZWdlQGludGVybG9jaw"
+  },
+  {
+   "victim": "Porter Hedges LLP",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-10-21T19:03:17.253097+00:00",
+   "attackdate": "2026-10-21T19:03:14.153479+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "[AI generated] Porter Hedges LLP is a full-service business law firm based in Houston, Texas, United States. It operates in the legal services industry, providing counsel in areas such as energy, corporate transactions, finance, litigation, bankruptcy, real estate, and labor and employment law. The firm primarily serves corporate clients, including businesses in the oil and gas sector, and operates within the United States.",
+   "permalink": "https://www.ransomware.live/id/UG9ydGVyIEhlZGdlcyBMTFBAU2lsZW50UmFuc29tR3JvdXA",
+   "press": "",
+   "infostealer": false,
+   "id": "UG9ydGVyIEhlZGdlcyBMTFBAU2lsZW50UmFuc29tR3JvdXA"
+  },
+  {
+   "victim": "Westrock Coffee",
+   "group": "Helix",
+   "discovered": "2026-10-21T17:52:48.926395+00:00",
+   "attackdate": "2026-10-21T17:52:46.839322+00:00",
+   "country": "US",
+   "activity": "Retail & E-Commerce",
+   "website": "",
+   "description": "Westrock Coffee records. Yearly revenue ~$1.2 billion yearly. GoFile links and passwords unlock in 24 hours.",
+   "permalink": "https://www.ransomware.live/id/V2VzdHJvY2sgQ29mZmVlQEhlbGl4",
+   "press": "",
+   "infostealer": false,
+   "id": "V2VzdHJvY2sgQ29mZmVlQEhlbGl4"
+  },
   {
    "victim": "Flextron Circuit Assembly",
    "group": "akira",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "YWNjbGFpbWNvbXBhbmllcy5jb21Ac2V0dHJh"
-  },
-  {
-   "victim": "binsky.com",
-   "group": "settra",
-   "discovered": "2026-10-18T07:26:48.219647+00:00",
-   "attackdate": "2026-09-29T00:00:00+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "binsky.com",
-   "description": "Piscataway, New Jersey. Binsky &amp; Snyder, LLC has been servicing piping, HVAC, and mechanical systems since 1938. Its website tells a story of \"family values\" and \"trust from day one.\" The actual corporate records tell a different story.",
-   "permalink": "https://www.ransomware.live/id/Ymluc2t5LmNvbUBzZXR0cmE",
-   "press": "",
-   "infostealer": true,
-   "id": "Ymluc2t5LmNvbUBzZXR0cmE"
-  },
-  {
-   "victim": "konsis.no",
-   "group": "settra",
-   "discovered": "2026-10-18T07:26:14.129103+00:00",
-   "attackdate": "2026-09-29T00:00:00+00:00",
-   "country": "NO",
-   "activity": "Professional Services",
-   "website": "konsis.no",
-   "description": "We hold a large volume of data from Konsis Grafisk AS — a Norwegian design, marketing and print agency with annual revenue of approximately NOK 100 million.",
-   "permalink": "https://www.ransomware.live/id/a29uc2lzLm5vQHNldHRyYQ",
-   "press": "",
-   "infostealer": false,
-   "id": "a29uc2lzLm5vQHNldHRyYQ"
-  },
-  {
-   "victim": "monroeroadways.com",
-   "group": "settra",
-   "discovered": "2026-10-18T07:25:40.492073+00:00",
-   "attackdate": "2026-09-29T00:00:00+00:00",
-   "country": "US",
-   "activity": "Transportation",
-   "website": "monroeroadways.com",
-   "description": "Rochester, New York. A construction company that goes by Monroe Roadways in bid documents but appears as MRI Contractors of New York, Inc. in banking records. One address: 300 Hogan Road, Fairport. One president: Jeffrey D. Taylor. Two names — and not a single public word about what lies behind them.",
-   "permalink": "https://www.ransomware.live/id/bW9ucm9lcm9hZHdheXMuY29tQHNldHRyYQ",
-   "press": "",
-   "infostealer": false,
-   "id": "bW9ucm9lcm9hZHdheXMuY29tQHNldHRyYQ"
   }
  ]
 }
