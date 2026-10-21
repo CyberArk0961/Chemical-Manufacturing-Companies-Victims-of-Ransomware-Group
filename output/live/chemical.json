@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-21T15:19:31.423Z",
+ "last_updated": "2026-10-21T22:47:59.597Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1784,
+ "count": 1785,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 159,
  "victims": [
+  {
+   "victim": "Allmand-Smith Limited",
+   "group": "aurora",
+   "discovered": "2026-10-21T20:01:09.735914+00:00",
+   "attackdate": "2026-10-21T00:00:00+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "Allmand-Smith Limited",
+   "description": "[distributor, manufacturer] Allmand-Smith Limited (trading as Stormguard) — a UK manufacturer and distributor of building products headquartered in Stoke-on-Trent.\n\nDomain admin credentials in plaintext and a full DC dump — STORMGUARD\\MichaelAdmin / 5t0rmGuard\n\nComplete NatWest banking infrastructure — blfw.db (21.3 MB live Bankline database with account numbers, sort codes, payee details, and transaction logs), plus\nWorldPay payment gateway credentials (WorldPay Account Details.xlsx), plus Sage 200 AR/AP containing bank details for every customer and supplier across all 15\nentities. NatWest h",
+   "permalink": "https://www.ransomware.live/id/QWxsbWFuZC1TbWl0aCBMaW1pdGVkQGF1cm9yYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "QWxsbWFuZC1TbWl0aCBMaW1pdGVkQGF1cm9yYQ",
+   "chemical": false
+  },
   {
    "victim": "Flextron Circuit Assembly",
    "group": "akira",
