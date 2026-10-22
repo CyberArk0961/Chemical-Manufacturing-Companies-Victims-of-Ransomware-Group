@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-22T17:39:24.798Z",
+ "last_updated": "2026-10-22T20:50:39.957Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "M... C...",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-10-22T19:30:40.239379+00:00",
+   "attackdate": "2026-10-22T19:29:49.653510+00:00",
+   "country": "",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
+   "permalink": "https://www.ransomware.live/id/TS4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
+   "press": "",
+   "infostealer": false,
+   "id": "TS4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw"
+  },
+  {
+   "victim": "United Restaurant Supply",
+   "group": "qilin",
+   "discovered": "2026-10-22T18:41:39.974610+00:00",
+   "attackdate": "2026-10-22T18:41:07.754507+00:00",
+   "country": "US",
+   "activity": "Hospitality",
+   "website": "www.coloradokitchens.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/VW5pdGVkIFJlc3RhdXJhbnQgU3VwcGx5QHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "VW5pdGVkIFJlc3RhdXJhbnQgU3VwcGx5QHFpbGlu"
+  },
   {
    "victim": "AMSAM",
    "group": "bravox",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "U2VtaW5vbGUgU2Nob29sc0BHbG9iYWwgU2VjcmV0IEdyb3Vw"
-  },
-  {
-   "victim": "Froggys Fog",
-   "group": "N0n",
-   "discovered": "2026-10-19T19:22:56.788259+00:00",
-   "attackdate": "2026-10-19T19:22:36.366834+00:00",
-   "country": "US",
-   "activity": "Retail & E-Commerce",
-   "website": "",
-   "description": "special-effects fog fluid manufacturer and distributor (order management and shipping operations) · Tennessee, USA | The complete shipping and order management database of a specialty fluid manufacturer, including full nightly backup copies from January 2026 to present; Employee account directory for the company domain; Shipping software and remote access configuration for their warehouse servers | [NOT PAID — EXPOSED]",
-   "permalink": "https://www.ransomware.live/id/RnJvZ2d5cyBGb2dATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "RnJvZ2d5cyBGb2dATjBu"
-  },
-  {
-   "victim": "Seetelhotels.de",
-   "group": "incransom",
-   "discovered": "2026-10-19T17:12:41.834441+00:00",
-   "attackdate": "2026-10-19T03:00:00+00:00",
-   "country": "DE",
-   "activity": "Hospitality",
-   "website": "Seetelhotels.de",
-   "description": "Seetel Hotels (SEETEL Hotel GmbH & Co. Betriebs KG) has been notified that a substantial volume of confidential and internal corporate data has been compromised.\r \r The affected data includes, but is not limited to:\r \r Full guest identity records, government-issued passport and ID numbers, payment card details (credit card numbers, CVVs, and expiration dates), direct booking notes, special requests, dietary restrictions, documented allergies, and medical/health-related accommodation preferences.\r Invoices, payment transaction logs, accounts receivable and payable (Debitorenbuchhaltung / Kredit",
-   "permalink": "https://www.ransomware.live/id/U2VldGVsaG90ZWxzLmRlQGluY3JhbnNvbQ",
-   "press": "",
-   "infostealer": false,
-   "id": "U2VldGVsaG90ZWxzLmRlQGluY3JhbnNvbQ"
   }
  ]
 }
