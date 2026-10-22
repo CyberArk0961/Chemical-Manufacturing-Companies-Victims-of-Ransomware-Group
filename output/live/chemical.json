@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-21T22:47:59.597Z",
+ "last_updated": "2026-10-22T01:33:23.385Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1785,
+ "count": 1787,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 159,
+ "chemical_matches": 160,
  "victims": [
+  {
+   "victim": "MECA-PRECIS",
+   "group": "lamashtu",
+   "discovered": "2026-10-21T23:11:42.083695+00:00",
+   "attackdate": "2026-10-21T23:11:24.885250+00:00",
+   "country": "FR",
+   "activity": "Manufacturing",
+   "website": "mecaprecis.com",
+   "description": "Méca-Précis is a French industrial manufacturer specializing in precision stamping dies, sheet metal stamping, and metal component production. It serves the automotive, construction, and home appliance industries, offering custom tooling ",
+   "permalink": "https://www.ransomware.live/id/TUVDQS1QUkVDSVNAbGFtYXNodHU",
+   "press": "",
+   "infostealer": false,
+   "id": "TUVDQS1QUkVDSVNAbGFtYXNodHU",
+   "chemical": false
+  },
+  {
+   "victim": "WEPOS Chemie",
+   "group": "lamashtu",
+   "discovered": "2026-10-21T23:11:03.071755+00:00",
+   "attackdate": "2026-10-21T23:10:50.335509+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "wepos-chemie.de",
+   "description": "WEPOS Chemie is a German company founded in 2007 that develops, manufactures, and sells specialized cleaning and care products for homes, gardens, floors, tiles, and hygiene, including mold removers. Its products are made in Germany. \r\n",
+   "permalink": "https://www.ransomware.live/id/V0VQT1MgQ2hlbWllQGxhbWFzaHR1",
+   "press": "",
+   "infostealer": true,
+   "id": "V0VQT1MgQ2hlbWllQGxhbWFzaHR1",
+   "chemical": true
+  },
   {
    "victim": "Allmand-Smith Limited",
    "group": "aurora",
@@ -16497,7 +16527,7 @@
    "victim": "Southern Concrete Construction",
    "group": "play",
    "discovered": "2026-03-09T19:22:04.150684+00:00",
-   "attackdate": "2026-02-26T00:00:00+00:00",
+   "attackdate": "2024-03-06T00:00:00+00:00",
    "country": "US",
    "activity": "Manufacturing",
    "website": "www.southern-concrete.com",
