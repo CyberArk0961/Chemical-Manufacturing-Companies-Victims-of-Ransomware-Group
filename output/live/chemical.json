@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-22T12:30:11.057Z",
+ "last_updated": "2026-10-22T17:39:24.819Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1787,
+ "count": 1788,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 159,
  "victims": [
+  {
+   "victim": "DR.SCHNELL GmbH & Co. KGaA",
+   "group": "rhysida",
+   "discovered": "2026-10-22T15:26:05.905806+00:00",
+   "attackdate": "2026-10-22T15:25:34.997028+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "DR.SCHNELL GmbH & Co. KGaA DR.SCHNELL GmbH & Co. KGaA � full network dump. 175,151 files / 2.52 TB.1.2+ TB of Navision/Business Central ERP backups - full commercial history (clients, pricing, procurement).Complete HR & payroll for Germany, Switzerland, Austria: home addresses, personal emails, payslips with social-security and tax IDs, long-term sick lists (GDPR Art. 9 data).Family-office accounting: signed annual statements of dozens of related entities, bank statements, a EUR 35M credit-line agreement.CEO's personal dossier: valid passport, ID card, tax ID, 11 years of signed tax returns.Ac",
+   "permalink": "https://www.ransomware.live/id/RFIuU0NITkVMTCBHbWJIICYgQ28uIEtHYUFAcmh5c2lkYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "RFIuU0NITkVMTCBHbWJIICYgQ28uIEtHYUFAcmh5c2lkYQ",
+   "chemical": false
+  },
   {
    "victim": "Hecker Holzsystembau",
    "group": "lamashtu",
