@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-22T01:33:23.359Z",
+ "last_updated": "2026-10-22T06:37:35.103Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Hecker Holzsystembau",
+   "group": "lamashtu",
+   "discovered": "2026-10-22T05:09:06.343259+00:00",
+   "attackdate": "2026-10-22T05:08:48.444125+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "hecker-hsb.de",
+   "description": "German construction company specializing in custom timber houses, sustainable wood construction, and prefabricated buildings. It offers complete project planning, roofing, extensions, renovations, and turnkey solutions for residential, commercial.",
+   "permalink": "https://www.ransomware.live/id/SGVja2VyIEhvbHpzeXN0ZW1iYXVAbGFtYXNodHU",
+   "press": "",
+   "infostealer": false,
+   "id": "SGVja2VyIEhvbHpzeXN0ZW1iYXVAbGFtYXNodHU"
+  },
+  {
+   "victim": "Linebarger Goggan Blair & Sampson",
+   "group": "everest",
+   "discovered": "2026-10-22T03:36:22.187070+00:00",
+   "attackdate": "2026-10-22T01:36:19.524185+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "[AI generated] Linebarger Goggan Blair & Sampson LLP is a United States law firm specializing in government receivables, particularly delinquent tax collection and debt recovery for municipalities, counties, school districts, and other public entities. Headquartered in Texas, it operates across multiple states, representing public sector clients in collection litigation and related legal services. It is a prominent player in the government collections legal industry.",
+   "permalink": "https://www.ransomware.live/id/TGluZWJhcmdlciBHb2dnYW4gQmxhaXIgJiBTYW1wc29uQGV2ZXJlc3Q",
+   "press": "",
+   "infostealer": false,
+   "id": "TGluZWJhcmdlciBHb2dnYW4gQmxhaXIgJiBTYW1wc29uQGV2ZXJlc3Q"
+  },
+  {
+   "victim": "bereskinparr.com smartbiggar.ca",
+   "group": "incransom",
+   "discovered": "2026-10-22T02:15:06.971498+00:00",
+   "attackdate": "2026-10-21T22:46:34.856000+00:00",
+   "country": "CA",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "database  client case data etc",
+   "permalink": "https://www.ransomware.live/id/YmVyZXNraW5wYXJyLmNvbSBzbWFydGJpZ2dhci5jYUBpbmNyYW5zb20",
+   "press": "",
+   "infostealer": false,
+   "id": "YmVyZXNraW5wYXJyLmNvbSBzbWFydGJpZ2dhci5jYUBpbmNyYW5zb20"
+  },
+  {
+   "victim": "K.r.a. ...s",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-10-22T01:30:31.743420+00:00",
+   "attackdate": "2026-10-22T01:29:41.548617+00:00",
+   "country": "",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
+   "permalink": "https://www.ransomware.live/id/Sy5yLmEuIC4uLnNAU2lsZW50UmFuc29tR3JvdXA",
+   "press": "",
+   "infostealer": false,
+   "id": "Sy5yLmEuIC4uLnNAU2lsZW50UmFuc29tR3JvdXA"
+  },
   {
    "victim": "Gräfliches Hofbrauhaus Freising",
    "group": "lamashtu",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "QW1lcmljYW4gQ2FtcHVzQEhlbGl4"
-  },
-  {
-   "victim": "Finzly Corp",
-   "group": "N0n",
-   "discovered": "2026-10-19T01:23:07.372995+00:00",
-   "attackdate": "2026-10-19T01:22:45.785872+00:00",
-   "country": "US",
-   "activity": "Financial Services",
-   "website": "",
-   "description": "fintech payments · US | Network configuration and access secrets for payment infrastructure; Cloud environment topology and access keys | [NOT PAID — EXPOSED]",
-   "permalink": "https://www.ransomware.live/id/Rmluemx5IENvcnBATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Rmluemx5IENvcnBATjBu"
-  },
-  {
-   "victim": "Company #93",
-   "group": "N0n",
-   "discovered": "2026-10-19T00:22:49.507679+00:00",
-   "attackdate": "2026-10-19T00:22:31.687983+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "",
-   "description": "healthcare support services · United States | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjOTNATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjOTNATjBu"
-  },
-  {
-   "victim": "Amagi Media Labs",
-   "group": "N0n",
-   "discovered": "2026-10-18T22:24:38.779390+00:00",
-   "attackdate": "2026-10-18T22:24:17.034538+00:00",
-   "country": "US",
-   "activity": "Technology",
-   "website": "",
-   "description": "media technology / broadcast playout · United States | Network and device configuration files from a US broadcast playout site; Internal network maps of the site | [NOT PAID — EXPOSED]",
-   "permalink": "https://www.ransomware.live/id/QW1hZ2kgTWVkaWEgTGFic0BOMG4",
-   "press": "",
-   "infostealer": false,
-   "id": "QW1hZ2kgTWVkaWEgTGFic0BOMG4"
-  },
-  {
-   "victim": "Belcorp",
-   "group": "qilin",
-   "discovered": "2026-10-18T21:05:22.505062+00:00",
-   "attackdate": "2026-10-18T21:04:48.545833+00:00",
-   "country": "PE",
-   "activity": "Retail & E-Commerce",
-   "website": "www.belcorp.biz",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/QmVsY29ycEBxaWxpbg",
-   "press": "",
-   "infostealer": false,
-   "id": "QmVsY29ycEBxaWxpbg"
   }
  ]
 }

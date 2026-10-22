@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-22T01:33:23.385Z",
+ "last_updated": "2026-10-22T06:37:35.124Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1787,
+ "count": 1788,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 160,
  "victims": [
+  {
+   "victim": "Hecker Holzsystembau",
+   "group": "lamashtu",
+   "discovered": "2026-10-22T05:09:06.343259+00:00",
+   "attackdate": "2026-10-22T05:08:48.444125+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "hecker-hsb.de",
+   "description": "German construction company specializing in custom timber houses, sustainable wood construction, and prefabricated buildings. It offers complete project planning, roofing, extensions, renovations, and turnkey solutions for residential, commercial.",
+   "permalink": "https://www.ransomware.live/id/SGVja2VyIEhvbHpzeXN0ZW1iYXVAbGFtYXNodHU",
+   "press": "",
+   "infostealer": false,
+   "id": "SGVja2VyIEhvbHpzeXN0ZW1iYXVAbGFtYXNodHU",
+   "chemical": false
+  },
   {
    "victim": "MECA-PRECIS",
    "group": "lamashtu",
