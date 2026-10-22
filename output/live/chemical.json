@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-10-22T06:37:35.124Z",
+ "last_updated": "2026-10-22T12:30:11.057Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1788,
+ "count": 1787,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 160,
+ "chemical_matches": 159,
  "victims": [
   {
    "victim": "Hecker Holzsystembau",
@@ -217,21 +217,6 @@
    "infostealer": false,
    "id": "UE9XRVJzb25pYyBJbmR1c3RyaWVzIEluYy5AYXVyb3Jh",
    "chemical": false
-  },
-  {
-   "victim": "Baltimore Tank Lines",
-   "group": "Storm",
-   "discovered": "2026-10-19T06:55:52.723280+00:00",
-   "attackdate": "2026-10-19T02:18:04+00:00",
-   "country": "US",
-   "activity": "Transportation",
-   "website": "",
-   "description": "Baltimore Tank Lines is a leading transporter of liquid bulk commodities, including fuel, DEF, motor oils, fertilizer, and food-grade products. With over 75 years of experience, the company serves a diverse clientele across local, regional, and national accounts. They are committed to expanding their operations and client base by adding new service locations and growing their manpower and equipment. Baltimore Tank Lines also offers flexible job opportunities and a comprehensive benefits package for transport drivers. \nThe company headquarters is located in 180 8th Avenue NW, Glen Burnie, MD 21",
-   "permalink": "https://www.ransomware.live/id/QmFsdGltb3JlIFRhbmsgTGluZXNAU3Rvcm0",
-   "press": "",
-   "infostealer": false,
-   "id": "QmFsdGltb3JlIFRhbmsgTGluZXNAU3Rvcm0",
-   "chemical": true
   },
   {
    "victim": "SMIC US Company (Sunnyvale, CA — US arm of Semiconductor Manufacturing International Corpo...",
