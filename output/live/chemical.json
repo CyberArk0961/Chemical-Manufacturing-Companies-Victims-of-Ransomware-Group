@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-23T19:17:19.835Z",
+ "last_updated": "2026-10-23T22:39:29.201Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1794,
+ "count": 1795,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 160,
  "victims": [
+  {
+   "victim": "Hensel Elektrik",
+   "group": "Deadlock",
+   "discovered": "2026-10-23T21:50:47.029484+00:00",
+   "attackdate": "2026-10-23T21:50:45.674938+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "www.hensel-electric.de/tr-tr",
+   "description": "Hensel Elektrik is the Turkish subsidiary of the German company Gustav Hensel GmbH & Co. KG, which manufactures electrical installation equipment and power distribution systems. The company was founded in 1931. https://temp.sh/BcIQY/Data_list.txt",
+   "permalink": "https://www.ransomware.live/id/SGVuc2VsIEVsZWt0cmlrQERlYWRsb2Nr",
+   "press": "",
+   "infostealer": false,
+   "id": "SGVuc2VsIEVsZWt0cmlrQERlYWRsb2Nr",
+   "chemical": false
+  },
   {
    "victim": "JS Constructor, INC",
    "group": "emperador",
