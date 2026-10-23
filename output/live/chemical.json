@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-10-23T10:07:52.753Z",
+ "last_updated": "2026-10-23T15:07:47.366Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1789,
+ "count": 1792,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 159,
+ "chemical_matches": 160,
  "victims": [
+  {
+   "victim": "Bravilor Bonamat",
+   "group": "akira",
+   "discovered": "2026-10-23T13:30:32.533907+00:00",
+   "attackdate": "2026-10-23T00:00:00+00:00",
+   "country": "NL",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Bravilor Bonamat is a family-owned manufacturer of professional coffee machines and hot water d\nispensers. The company offers espresso, filter, fresh brew, instant coffee, and bulk brewing so\nlutions designed for offices, restaurants, hotels, retail locations, and other commercial envir\nonments.\n\nWe will upload 100gb of corporate data soon. Employee personal information (passports, drivers \nlicenses and so on), customer information, contracts and agreements, confidential information (\npartners personal documents), lots of NDAs and so on.\n",
+   "permalink": "https://www.ransomware.live/id/QnJhdmlsb3IgQm9uYW1hdEBha2lyYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "QnJhdmlsb3IgQm9uYW1hdEBha2lyYQ",
+   "chemical": false
+  },
+  {
+   "victim": "ADL Lift Services Limited",
+   "group": "AuditTeam",
+   "discovered": "2026-10-23T10:51:25.544760+00:00",
+   "attackdate": "2026-10-13T00:00:00+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "ADL Lift Services Limited is a Scotland-based commercial lift specialist, incorporated in 2010 and now headquartered in Bellshill at Strathclyde Business Park, that under the leadership of Brian Harkin employs around 40 people with assets and shareholders’ funds in the low-millions-of-pounds range, focuses on Glasgow and other major Scottish cities while offering UK-wide 24-hour emergency call-out, and provides full-lifecycle passenger, goods, service, accessibility and bespoke lift design and installation, maintenance, repairs and modernisation for commercial properties, local authorities, he",
+   "permalink": "https://www.ransomware.live/id/QURMIExpZnQgU2VydmljZXMgTGltaXRlZEBBdWRpdFRlYW0",
+   "press": "",
+   "infostealer": false,
+   "id": "QURMIExpZnQgU2VydmljZXMgTGltaXRlZEBBdWRpdFRlYW0",
+   "chemical": false
+  },
+  {
+   "victim": "Line2Line Coatings",
+   "group": "rhysida",
+   "discovered": "2026-10-23T10:20:13.465246+00:00",
+   "attackdate": "2026-10-23T10:19:47.601690+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Line2Line Coatings 796,433 files - 641.0 GB~20 years of email: 34 mailboxes (PST/OST), 107,279 messages, 13,068 contacts - including the president's own mailbox (4.0 GB).The entire QuickBooks history: 1,232 backups (.QBB) + 174 live company files (.QBW) for both entities, 15+ years of revenue.Full banking footprint: Chase statements, Clarkston State Bank, account and routing numbers, credit card numbers with CVV.Personal data: 3,614 Social Security Numbers; 64,907 files containing PII - W-2s of all employees, contractor 1099/W-9s, passport and driver license scans, HR files.77,118 PDFs, 66,691",
+   "permalink": "https://www.ransomware.live/id/TGluZTJMaW5lIENvYXRpbmdzQHJoeXNpZGE",
+   "press": "",
+   "infostealer": false,
+   "id": "TGluZTJMaW5lIENvYXRpbmdzQHJoeXNpZGE",
+   "chemical": true
+  },
   {
    "victim": "PROTEX Confection",
    "group": "N0n",
