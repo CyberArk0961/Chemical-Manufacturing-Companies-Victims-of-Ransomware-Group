@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-22T17:39:24.819Z",
+ "last_updated": "2026-10-23T10:07:52.753Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1788,
+ "count": 1789,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 159,
  "victims": [
+  {
+   "victim": "PROTEX Confection",
+   "group": "N0n",
+   "discovered": "2026-10-23T07:55:08.528891+00:00",
+   "attackdate": "2026-10-23T07:54:36.925641+00:00",
+   "country": "TN",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "textile manufacturing · Tunisia | Client master records of the group's accounting and commercial dossiers: 84 records with client names, addresses, Tunisian tax registration numbers, phones and emails; Supplier master records: 32 records with the same level of detail; Article and inventory data of both confection workshops and the Bizerte branch; Business documents of 2026: quotes, invoices and delivery notes for named clients; Print and production templates of the group | The victim can verify everything in their private negotiation room. | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/UFJPVEVYIENvbmZlY3Rpb25ATjBu",
+   "press": "",
+   "infostealer": false,
+   "id": "UFJPVEVYIENvbmZlY3Rpb25ATjBu",
+   "chemical": false
+  },
   {
    "victim": "DR.SCHNELL GmbH & Co. KGaA",
    "group": "rhysida",
