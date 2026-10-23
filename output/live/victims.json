@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-22T20:50:39.957Z",
+ "last_updated": "2026-10-23T00:00:16.116Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "SEPIVER",
+   "group": "qilin",
+   "discovered": "2026-10-22T23:40:29.746474+00:00",
+   "attackdate": "2026-10-22T23:40:11.771502+00:00",
+   "country": "MX",
+   "activity": "Not Found",
+   "website": "sepiver.com.mx",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/U0VQSVZFUkBxaWxpbg",
+   "press": "",
+   "infostealer": true,
+   "id": "U0VQSVZFUkBxaWxpbg"
+  },
+  {
+   "victim": "istanbultrading.com",
+   "group": "lockbit5",
+   "discovered": "2026-10-22T21:30:20.484598+00:00",
+   "attackdate": "2026-10-22T08:25:00+00:00",
+   "country": "TR",
+   "activity": "Retail & E-Commerce",
+   "website": "istanbultrading.com",
+   "description": "Istanbul Foodstuff Trading Co LLC is a company that operates in the Computer Equipment & Peripherals...",
+   "permalink": "https://www.ransomware.live/id/aXN0YW5idWx0cmFkaW5nLmNvbUBsb2NrYml0NQ",
+   "press": "",
+   "infostealer": true,
+   "id": "aXN0YW5idWx0cmFkaW5nLmNvbUBsb2NrYml0NQ"
+  },
   {
    "victim": "M... C...",
    "group": "SilentRansomGroup",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "QmFrZXIgRG9uZWxzb25AUmVkYWN0"
-  },
-  {
-   "victim": "Vormittag Associates Inc",
-   "group": "N0n",
-   "discovered": "2026-10-19T20:53:43.606863+00:00",
-   "attackdate": "2026-10-19T20:53:12.765821+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "",
-   "description": "ERP software and hosting company · USA | Internal network configurations and security credentials of an ERP hosting company; Administrator and remote access credentials; Network topology of corporate and hosted client environments | [NOT PAID — EXPOSED]",
-   "permalink": "https://www.ransomware.live/id/Vm9ybWl0dGFnIEFzc29jaWF0ZXMgSW5jQE4wbg",
-   "press": "",
-   "infostealer": false,
-   "id": "Vm9ybWl0dGFnIEFzc29jaWF0ZXMgSW5jQE4wbg"
-  },
-  {
-   "victim": "Seminole Schools",
-   "group": "Global Secret Group",
-   "discovered": "2026-10-19T20:52:13.758169+00:00",
-   "attackdate": "2026-10-19T20:51:29.685420+00:00",
-   "country": "US",
-   "activity": "Education",
-   "website": "sps.k12.ok.us",
-   "description": "NameCompany: Seminole Schools |\nDomain: internal.seminole.org |\nCountry: Seminole,Florida,US |\nWebsite: sps.k12.ok.us |\nRevenue: $15.5 Million |\nIndustry: Education General, Education |\nEmployees: 50-100 |\nProperties: 39.6 GB (54,468 Files, 5,495 Folders)",
-   "permalink": "https://www.ransomware.live/id/U2VtaW5vbGUgU2Nob29sc0BHbG9iYWwgU2VjcmV0IEdyb3Vw",
-   "press": "",
-   "infostealer": true,
-   "id": "U2VtaW5vbGUgU2Nob29sc0BHbG9iYWwgU2VjcmV0IEdyb3Vw"
   }
  ]
 }
