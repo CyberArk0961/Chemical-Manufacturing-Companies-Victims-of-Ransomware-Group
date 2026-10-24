@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-10-24T11:06:20.439Z",
+ "last_updated": "2026-10-24T14:35:32.990Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1803,
+ "count": 1805,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 160,
  "victims": [
+  {
+   "victim": "MODON Developments S.A.E",
+   "group": "krybit",
+   "discovered": "2026-10-24T11:21:10.713443+00:00",
+   "attackdate": "2026-10-24T11:20:55.017583+00:00",
+   "country": "EG",
+   "activity": "Manufacturing",
+   "website": "MODON Developments S.A.E",
+   "description": "MODON Developments S.A.E. (MODON For Urban Development) is an innovative Egyptian real estate development and management...",
+   "permalink": "https://www.ransomware.live/id/TU9ET04gRGV2ZWxvcG1lbnRzIFMuQS5FQGtyeWJpdA",
+   "press": "",
+   "infostealer": false,
+   "id": "TU9ET04gRGV2ZWxvcG1lbnRzIFMuQS5FQGtyeWJpdA",
+   "chemical": false
+  },
+  {
+   "victim": "grupoeuro.com.mx",
+   "group": "krybit",
+   "discovered": "2026-10-24T11:19:59.229175+00:00",
+   "attackdate": "2026-10-24T11:19:43.473460+00:00",
+   "country": "MX",
+   "activity": "Manufacturing",
+   "website": "grupoeuro.com.mx",
+   "description": "Grupo Euro Corporativo is a 100% Mexican business conglomerate (corporativo empresarial 100% potosino) founded in 1990, ...",
+   "permalink": "https://www.ransomware.live/id/Z3J1cG9ldXJvLmNvbS5teEBrcnliaXQ",
+   "press": "",
+   "infostealer": true,
+   "id": "Z3J1cG9ldXJvLmNvbS5teEBrcnliaXQ",
+   "chemical": false
+  },
   {
    "victim": "Texcar Inc.",
    "group": "N0n",
