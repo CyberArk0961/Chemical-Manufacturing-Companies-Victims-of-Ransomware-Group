@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-23T22:39:29.179Z",
+ "last_updated": "2026-10-24T01:09:37.374Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Family Planning Association of Pakistan",
+   "group": "Panzer",
+   "discovered": "2026-10-24T00:24:57.173779+00:00",
+   "attackdate": "2026-10-23T23:43:19+00:00",
+   "country": "PK",
+   "activity": "Healthcare",
+   "website": "",
+   "description": "Rahnuma-FPAP is one of the largest and oldest civil society organizations in Pakistan focused on reproductive health and contraceptive care. The organization aims to empower individuals to make informed decisions about their sexual and reproductive health rights. It provides a wide range of services including family planning, HIV/AIDS care, gynecology, and obstetrics, particularly targeting vulnerable and underserved populations. Rahnuma-FPAP operates a network of clinics across Pakistan, ensuring accessible and confidential health services for all individuals.",
+   "permalink": "https://www.ransomware.live/id/RmFtaWx5IFBsYW5uaW5nIEFzc29jaWF0aW9uIG9mIFBha2lzdGFuQFBhbnplcg",
+   "press": "",
+   "infostealer": false,
+   "id": "RmFtaWx5IFBsYW5uaW5nIEFzc29jaWF0aW9uIG9mIFBha2lzdGFuQFBhbnplcg"
+  },
   {
    "victim": "Hensel Elektrik",
    "group": "Deadlock",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "Z2Fib25tZWNhLmNvbSBsZWFrIGluY2lkZW50QEhZRkxPQ0s"
-  },
-  {
-   "victim": "dangvuongcac",
-   "group": "HYFLOCK",
-   "discovered": "2026-10-21T11:52:27.750050+00:00",
-   "attackdate": "2026-10-21T09:56:28+00:00",
-   "country": "VN",
-   "activity": "Not Found",
-   "website": "dangvuongcac.com",
-   "description": "We got their hotel room info and all kinds of chat records.,,dangvuongcac.com (commonly called Teng Wang Ge or Tengwang Pavilion in Chinese) is a very well-known large-scale, male-oriented high-end entertainment club, spa massage, and KTV group in Ho Chi Minh City, Vietnam. In the Chinese 'experienced insider' circles and the local nightlife scene, it’s often referred to as the 'Vietnam Dragon Palace' or as part of the 'Yueyang Tower/Yueyang Tower system' (Hệ Thống Nhạc Dương Lầu). Here’s a brief overview of the company’s background and main business: 1. Business Nature and Positioning It’s no",
-   "permalink": "https://www.ransomware.live/id/ZGFuZ3Z1b25nY2FjQEhZRkxPQ0s",
-   "press": "",
-   "infostealer": false,
-   "id": "ZGFuZ3Z1b25nY2FjQEhZRkxPQ0s"
   }
  ]
 }
