@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-23T22:39:29.201Z",
+ "last_updated": "2026-10-24T05:56:31.284Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1795,
+ "count": 1796,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 160,
  "victims": [
+  {
+   "victim": "Trinity Custom Homes",
+   "group": "Deadlock",
+   "discovered": "2026-10-24T02:53:03.322742+00:00",
+   "attackdate": "2026-10-24T02:53:02.034575+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "trinitycustom.com",
+   "description": "Trinity Custom Homes is a custom home builder that specializes in building 100% custom, solid wood homes directly on the customer’s land across several states in the Southeast, including Georgia, Alabama, North Carolina, South Carolina, and Tennessee.",
+   "permalink": "https://www.ransomware.live/id/VHJpbml0eSBDdXN0b20gSG9tZXNARGVhZGxvY2s",
+   "press": "",
+   "infostealer": false,
+   "id": "VHJpbml0eSBDdXN0b20gSG9tZXNARGVhZGxvY2s",
+   "chemical": false
+  },
   {
    "victim": "Hensel Elektrik",
    "group": "Deadlock",

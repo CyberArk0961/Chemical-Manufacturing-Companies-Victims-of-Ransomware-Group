@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-24T01:09:37.374Z",
+ "last_updated": "2026-10-24T05:56:31.262Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Commonwealth Community Bank",
+   "group": "qilin",
+   "discovered": "2026-10-24T03:30:27.396662+00:00",
+   "attackdate": "2026-10-24T03:30:08.319906+00:00",
+   "country": "US",
+   "activity": "Financial Services",
+   "website": "www.cwcbankhb.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/Q29tbW9ud2VhbHRoIENvbW11bml0eSBCYW5rQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tbW9ud2VhbHRoIENvbW11bml0eSBCYW5rQHFpbGlu"
+  },
+  {
+   "victim": "Trinity Custom Homes",
+   "group": "Deadlock",
+   "discovered": "2026-10-24T02:53:03.322742+00:00",
+   "attackdate": "2026-10-24T02:53:02.034575+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "trinitycustom.com",
+   "description": "Trinity Custom Homes is a custom home builder that specializes in building 100% custom, solid wood homes directly on the customer’s land across several states in the Southeast, including Georgia, Alabama, North Carolina, South Carolina, and Tennessee.",
+   "permalink": "https://www.ransomware.live/id/VHJpbml0eSBDdXN0b20gSG9tZXNARGVhZGxvY2s",
+   "press": "",
+   "infostealer": false,
+   "id": "VHJpbml0eSBDdXN0b20gSG9tZXNARGVhZGxvY2s"
+  },
   {
    "victim": "Family Planning Association of Pakistan",
    "group": "Panzer",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "TGFuaGFtIEFzc29jaWF0ZXNAZXZlcmVzdA"
-  },
-  {
-   "victim": "Adobe Insurance Brokers, LLC",
-   "group": "pear",
-   "discovered": "2026-10-21T12:34:04.961057+00:00",
-   "attackdate": "2026-10-21T12:33:44.435272+00:00",
-   "country": "US",
-   "activity": "Financial Services",
-   "website": "adobebrokers.com",
-   "description": "Independent insurance agency located in Morgan Hill, California",
-   "permalink": "https://www.ransomware.live/id/QWRvYmUgSW5zdXJhbmNlIEJyb2tlcnMsIExMQ0BwZWFy",
-   "press": "",
-   "infostealer": true,
-   "id": "QWRvYmUgSW5zdXJhbmNlIEJyb2tlcnMsIExMQ0BwZWFy"
-  },
-  {
-   "victim": "gabonmeca.com leak incident",
-   "group": "HYFLOCK",
-   "discovered": "2026-10-21T11:53:09.349781+00:00",
-   "attackdate": "2026-10-21T09:53:08+00:00",
-   "country": "GA",
-   "activity": "Manufacturing",
-   "website": "gabonmeca.com",
-   "description": "gabonmeca.com is a large, comprehensive office supplies and IT equipment retail and service company in the African country of Gabon, with the corporate slogan 'La Solution Bureau' (Office Solutions). It’s very well-known locally in Gabon, and its main businesses and features include: • Business scope: Offering over 13,000 products, covering student stationery and school supplies, office furniture, office automation equipment (like Canon printers/copiers), computers and IT digital products, premium leather goods, and copying/printing services. • Rich history: The company has been established in",
-   "permalink": "https://www.ransomware.live/id/Z2Fib25tZWNhLmNvbSBsZWFrIGluY2lkZW50QEhZRkxPQ0s",
-   "press": "",
-   "infostealer": true,
-   "id": "Z2Fib25tZWNhLmNvbSBsZWFrIGluY2lkZW50QEhZRkxPQ0s"
   }
  ]
 }
