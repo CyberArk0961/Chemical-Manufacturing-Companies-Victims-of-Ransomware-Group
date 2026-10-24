@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-24T14:35:32.990Z",
+ "last_updated": "2026-10-24T17:38:03.178Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1805,
+ "count": 1806,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 160,
  "victims": [
+  {
+   "victim": "Phoenix S&S GmbH",
+   "group": "emperador",
+   "discovered": "2026-10-24T14:53:32.619361+00:00",
+   "attackdate": "2026-10-24T13:42:00+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "German company from Frankfurt am Main, \nwhich deals with building maintenance, construction services, \nlogistics and security.\nArchived personal and corporate data of employees and customers.\nHere are the most important documents. [Sector: Manufacturing, Finance, Transportation]",
+   "permalink": "https://www.ransomware.live/id/UGhvZW5peCBTJlMgR21iSEBlbXBlcmFkb3I",
+   "press": "",
+   "infostealer": false,
+   "id": "UGhvZW5peCBTJlMgR21iSEBlbXBlcmFkb3I",
+   "chemical": false
+  },
   {
    "victim": "MODON Developments S.A.E",
    "group": "krybit",
@@ -118,7 +133,7 @@
    "group": "Majinahanashi",
    "discovered": "2026-10-24T09:34:29.308755+00:00",
    "attackdate": "2026-10-08T00:00:00+00:00",
-   "country": "SG",
+   "country": "GB",
    "activity": "Manufacturing",
    "website": "",
    "description": "i2r Packaging Solutions Limited manufactures aluminium packaging and containers for the food industry. HQ: Capital House, Hadley Park East, Telford, Shropshire, TF1 6QJ, UK Phone: +44 845 371 5111...",
