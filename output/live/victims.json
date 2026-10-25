@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-24T17:38:03.164Z",
+ "last_updated": "2026-10-25T00:33:49.982Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Newcomer Cremations, Funerals & Receptions",
+   "group": "anubis",
+   "discovered": "2026-10-25T00:31:56.643577+00:00",
+   "attackdate": "2026-10-25T00:31:20.927348+00:00",
+   "country": "US",
+   "activity": "Healthcare",
+   "website": "",
+   "description": "Customers' personal documents and the company's internal documents.",
+   "permalink": "https://www.ransomware.live/id/TmV3Y29tZXIgQ3JlbWF0aW9ucywgRnVuZXJhbHMgJiBSZWNlcHRpb25zQGFudWJpcw",
+   "press": "",
+   "infostealer": false,
+   "id": "TmV3Y29tZXIgQ3JlbWF0aW9ucywgRnVuZXJhbHMgJiBSZWNlcHRpb25zQGFudWJpcw"
+  },
   {
    "victim": "Castle Howard Estate",
    "group": "qilin",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "U0dMQSAoU2Nod2FydHosIEdpYW5uaW5pLCBMYW50c2JlcmdlciAmIEFkYW1zb24pQHNwYWNlYmVhcnM"
-  },
-  {
-   "victim": "Hecker Holzsystembau",
-   "group": "lamashtu",
-   "discovered": "2026-10-22T05:09:06.343259+00:00",
-   "attackdate": "2026-10-22T05:08:48.444125+00:00",
-   "country": "DE",
-   "activity": "Manufacturing",
-   "website": "hecker-hsb.de",
-   "description": "German construction company specializing in custom timber houses, sustainable wood construction, and prefabricated buildings. It offers complete project planning, roofing, extensions, renovations, and turnkey solutions for residential, commercial.",
-   "permalink": "https://www.ransomware.live/id/SGVja2VyIEhvbHpzeXN0ZW1iYXVAbGFtYXNodHU",
-   "press": "",
-   "infostealer": false,
-   "id": "SGVja2VyIEhvbHpzeXN0ZW1iYXVAbGFtYXNodHU"
   }
  ]
 }
