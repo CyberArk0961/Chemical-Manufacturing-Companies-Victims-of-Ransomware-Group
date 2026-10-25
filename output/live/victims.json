@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-25T17:53:27.326Z",
+ "last_updated": "2026-10-25T20:54:26.524Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Yodingenierie",
+   "group": "Panzer",
+   "discovered": "2026-10-25T17:55:57.455931+00:00",
+   "attackdate": "2026-10-25T12:37:07+00:00",
+   "country": "BJ",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "YOD Engineering is an engineering company computer science, member of the NED&CO Group , a pan-African player committed to transformation digital, information systems governance and innovation by intelligence artificial.",
+   "permalink": "https://www.ransomware.live/id/WW9kaW5nZW5pZXJpZUBQYW56ZXI",
+   "press": "",
+   "infostealer": false,
+   "id": "WW9kaW5nZW5pZXJpZUBQYW56ZXI"
+  },
   {
    "victim": "White & Case",
    "group": "qilin",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "VW5pdGVkIFJlc3RhdXJhbnQgU3VwcGx5QHFpbGlu"
-  },
-  {
-   "victim": "AMSAM",
-   "group": "bravox",
-   "discovered": "2026-10-22T17:03:04.045393+00:00",
-   "attackdate": "2026-10-22T17:02:45.996366+00:00",
-   "country": "FR",
-   "activity": "Not Found",
-   "website": "www.amsam.net",
-   "description": "Social, Healthcare and Home Care Services.",
-   "permalink": "https://www.ransomware.live/id/QU1TQU1AYnJhdm94",
-   "press": "",
-   "infostealer": false,
-   "id": "QU1TQU1AYnJhdm94"
   }
  ]
 }
