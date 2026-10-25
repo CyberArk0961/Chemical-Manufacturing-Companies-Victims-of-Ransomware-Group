@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-25T10:10:50.101Z",
+ "last_updated": "2026-10-25T14:24:33.893Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Aesthetic Dental Designs, P.A",
+   "group": "HYFLOCK",
+   "discovered": "2026-10-25T11:53:17.559073+00:00",
+   "attackdate": "2026-10-25T11:18:53+00:00",
+   "country": "US",
+   "activity": "Healthcare",
+   "website": "dentalartsofatlantis.com",
+   "description": "Aesthetic Dental Designs, P.A. (operating commercially as Dental Arts of Atlantis) is a fully licensed and accredited dental healthcare corporation headquartered at 5057 S Congress Ave, Suite 401, Lake Worth Beach, Florida (NPI: 1235501420). The practice is anchored by a distinguished clinical team, featuring Dr. Colleen Lam, D.M.D. and Dr. Serrano. The organization provides comprehensive clinical infrastructure specializing in advanced restorative, cosmetic, and multi-generational family dentistry. Its core competencies include high-precision digital prosthodontics, advanced smile designs, co",
+   "permalink": "https://www.ransomware.live/id/QWVzdGhldGljIERlbnRhbCBEZXNpZ25zLCBQLkFASFlGTE9DSw",
+   "press": "",
+   "infostealer": false,
+   "id": "QWVzdGhldGljIERlbnRhbCBEZXNpZ25zLCBQLkFASFlGTE9DSw"
+  },
+  {
+   "victim": "ECOM",
+   "group": "qilin",
+   "discovered": "2026-10-25T10:35:02.202543+00:00",
+   "attackdate": "2026-10-25T00:00:00+00:00",
+   "country": "CH",
+   "activity": "Retail & E-Commerce",
+   "website": "www.ecomgroup.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/RUNPTUBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "RUNPTUBxaWxpbg"
+  },
   {
    "victim": "AyT COMPUTERS SRL",
    "group": "emperador",
@@ -122,7 +150,7 @@
    "attackdate": "2026-10-25T01:51:00+00:00",
    "country": "BE",
    "activity": "Agriculture and Food Production",
-   "website": "",
+   "website": "ab-inbev.be",
    "description": "AB InBev is the world's largest brewer, headquartered in Belgium, known for Budweiser, Corona, and Stella Artois .\n\nWe hold 329,244 AB InBev social-listening alerts, 2,510 corporate emails across all subsidiaries, 19K access logs, GBS portal records, internal PKI certificates, and 3.2GB of Azure blob assets.\n\nOur demand is $1,000,000 in BTC. [Sector: Retail, Manufacturing]",
    "permalink": "https://www.ransomware.live/id/QUIgSW5CZXZAZW1wZXJhZG9y",
    "press": "",
@@ -136,7 +164,7 @@
    "attackdate": "2026-10-24T21:33:00+00:00",
    "country": "CN",
    "activity": "Technology",
-   "website": "",
+   "website": "Hisense.com",
    "description": "Hisense is a Chinese multinational electronics and appliance manufacturer, founded in 1969, known globally for televisions and home appliances.\n\nWe hold Hisense's entire GCRM production document store, the full warranty-claims archive for Malaysia/Singapore: customer names, phones, emails, ID numbers, 2,549 suppliers, hundreds of invoices, payments, contracts, RMA forms, claim evidence, plus their internal CRM app binary.\n\nOur demand is $500,000 in BTC. Good luck.\n\nContact: whitearmorrxd@proton.me\nSession: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67",
    "permalink": "https://www.ransomware.live/id/SGlzZW5zZUBXaGl0ZWFybW9y",
    "press": "",
@@ -388,11 +416,11 @@
    "attackdate": "2026-10-24T09:52:30.697870+00:00",
    "country": "US",
    "activity": "Healthcare",
-   "website": "",
+   "website": "thearthritiscenter.com",
    "description": "rheumatology medical practice · Riverside, California, United States | Scanned laboratory requisitions of named patients with dates of birth, home addresses and Medicare subscriber details, April through October 2026; Accounts receivable aging with patient names, account numbers, insurers and balances; Patient billing files and records correspondence of the practice | [NOT PAID — EXPOSED]",
    "permalink": "https://www.ransomware.live/id/QXJ0aHJpdGlzIENlbnRlciBvZiBSaXZlcnNpZGVATjBu",
    "press": "",
-   "infostealer": false,
+   "infostealer": true,
    "id": "QXJ0aHJpdGlzIENlbnRlciBvZiBSaXZlcnNpZGVATjBu"
   },
   {
@@ -430,7 +458,7 @@
    "attackdate": "2026-10-06T00:00:00+00:00",
    "country": "IT",
    "activity": "Energy & Utilities",
-   "website": "",
+   "website": "temaenergy.it",
    "description": "Tema Energy S.r.l. manufactures and processes components and equipment for the oil and gas and power generation industries, including components for gas turbine and power generation systems. HQ: Vi...",
    "permalink": "https://www.ransomware.live/id/VGVtYSBFbmVyZ3kgUy5yLmwuQE1hamluYWhhbmFzaGk",
    "press": "",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "RFIuU0NITkVMTCBHbWJIICYgQ28uIEtHYUFAcmh5c2lkYQ"
-  },
-  {
-   "victim": "Airtificial",
-   "group": "qilin",
-   "discovered": "2026-10-22T15:24:55.724478+00:00",
-   "attackdate": "2026-10-22T15:24:31.939858+00:00",
-   "country": "",
-   "activity": "Technology",
-   "website": "www.airtificial.com",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/QWlydGlmaWNpYWxAcWlsaW4",
-   "press": "",
-   "infostealer": false,
-   "id": "QWlydGlmaWNpYWxAcWlsaW4"
-  },
-  {
-   "victim": "Bathurst RSL",
-   "group": "qilin",
-   "discovered": "2026-10-22T14:40:40.396076+00:00",
-   "attackdate": "2026-10-22T14:40:08.470828+00:00",
-   "country": "AU",
-   "activity": "Hospitality",
-   "website": "www.bathurstrsl.com.au",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/QmF0aHVyc3QgUlNMQHFpbGlu",
-   "press": "",
-   "infostealer": false,
-   "id": "QmF0aHVyc3QgUlNMQHFpbGlu"
   }
  ]
 }
