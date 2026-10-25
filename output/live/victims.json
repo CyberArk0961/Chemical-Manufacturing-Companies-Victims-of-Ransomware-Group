@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-25T00:33:49.982Z",
+ "last_updated": "2026-10-25T05:22:12.425Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "AB InBev",
+   "group": "emperador",
+   "discovered": "2026-10-25T03:22:10.246426+00:00",
+   "attackdate": "2026-10-25T01:51:00+00:00",
+   "country": "BE",
+   "activity": "Agriculture and Food Production",
+   "website": "",
+   "description": "AB InBev is the world's largest brewer, headquartered in Belgium, known for Budweiser, Corona, and Stella Artois .\n\nWe hold 329,244 AB InBev social-listening alerts, 2,510 corporate emails across all subsidiaries, 19K access logs, GBS portal records, internal PKI certificates, and 3.2GB of Azure blob assets.\n\nOur demand is $1,000,000 in BTC. [Sector: Retail, Manufacturing]",
+   "permalink": "https://www.ransomware.live/id/QUIgSW5CZXZAZW1wZXJhZG9y",
+   "press": "",
+   "infostealer": false,
+   "id": "QUIgSW5CZXZAZW1wZXJhZG9y"
+  },
+  {
+   "victim": "Hisense",
+   "group": "Whitearmor",
+   "discovered": "2026-10-25T01:24:13.562658+00:00",
+   "attackdate": "2026-10-24T21:33:00+00:00",
+   "country": "CN",
+   "activity": "Technology",
+   "website": "",
+   "description": "Hisense is a Chinese multinational electronics and appliance manufacturer, founded in 1969, known globally for televisions and home appliances.\n\nWe hold Hisense's entire GCRM production document store, the full warranty-claims archive for Malaysia/Singapore: customer names, phones, emails, ID numbers, 2,549 suppliers, hundreds of invoices, payments, contracts, RMA forms, claim evidence, plus their internal CRM app binary.\n\nOur demand is $500,000 in BTC. Good luck.\n\nContact: whitearmorrxd@proton.me\nSession: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67",
+   "permalink": "https://www.ransomware.live/id/SGlzZW5zZUBXaGl0ZWFybW9y",
+   "press": "",
+   "infostealer": false,
+   "id": "SGlzZW5zZUBXaGl0ZWFybW9y"
+  },
   {
    "victim": "Newcomer Cremations, Funerals & Receptions",
    "group": "anubis",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q29tcGFueSAjMTA1QE4wbg"
-  },
-  {
-   "victim": "Company #104",
-   "group": "N0n",
-   "discovered": "2026-10-22T07:26:14.546647+00:00",
-   "attackdate": "2026-10-22T07:25:56.119935+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "Legal Services - Family Law (US) · California, USA | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMTA0QE4wbg",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjMTA0QE4wbg"
-  },
-  {
-   "victim": "SGLA (Schwartz, Giannini, Lantsberger & Adamson)",
-   "group": "spacebears",
-   "discovered": "2026-10-22T07:02:23.611702+00:00",
-   "attackdate": "2026-10-22T06:02:00.507907+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "www.sglacpas.com",
-   "description": "Schwartz, Giannini, Lantsberger & Adamson (SGLA) Accountancy Corporation is a full-service certified public accounting firm based in Stockton, California, founded in 1988. The firm provides tax planning and compliance, audits, reviews and compilations, bookkeeping, payroll, outsourced CFO support, and business consulting for individuals and companies. It has particular experience with real estate, healthcare, nonprofits, affordable housing, common-interest realty associations, and local government clients. SGLA positions itself as a hands-on local CPA practice that combines traditional account",
-   "permalink": "https://www.ransomware.live/id/U0dMQSAoU2Nod2FydHosIEdpYW5uaW5pLCBMYW50c2JlcmdlciAmIEFkYW1zb24pQHNwYWNlYmVhcnM",
-   "press": "",
-   "infostealer": false,
-   "id": "U0dMQSAoU2Nod2FydHosIEdpYW5uaW5pLCBMYW50c2JlcmdlciAmIEFkYW1zb24pQHNwYWNlYmVhcnM"
   }
  ]
 }
