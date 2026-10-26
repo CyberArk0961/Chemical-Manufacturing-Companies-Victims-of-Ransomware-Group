@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-26T01:47:04.365Z",
+ "last_updated": "2026-10-26T07:04:56.003Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "mahsing.com.my",
+   "group": "Scarlettgroup",
+   "discovered": "2026-10-26T04:56:48.598229+00:00",
+   "attackdate": "2026-10-25T04:00:00+00:00",
+   "country": "MY",
+   "activity": "Hospitality",
+   "website": "mahsing.com.my",
+   "description": "Mah Sing Group is a leading Malaysian property developer specializing in affordable residential and commercial properties, with additional businesses in healthcare and plastics manufacturing.",
+   "permalink": "https://www.ransomware.live/id/bWFoc2luZy5jb20ubXlAU2NhcmxldHRncm91cA",
+   "press": "",
+   "infostealer": true,
+   "id": "bWFoc2luZy5jb20ubXlAU2NhcmxldHRncm91cA"
+  },
+  {
+   "victim": "LoveSac",
+   "group": "Whitearmor",
+   "discovered": "2026-10-26T02:57:17.650976+00:00",
+   "attackdate": "2026-10-26T00:54:00+00:00",
+   "country": "US",
+   "activity": "Retail & E-Commerce",
+   "website": "",
+   "description": "LoveSac (LOVE) is a premium furniture retailer operating more than 250 showrooms across the United States, generating approximately $700 million in annual revenue.\n\nWe have obtained a database containing 1,113,285 order records spanning nearly seven years of transactions, from December 2019 through October 2026, with a combined recorded transaction value exceeding $1.62 billion.\n\nEach record contains detailed customer and transaction information, including full customer names, complete billing and shipping addresses, telephone numbers, order numbers, order dates, order statuses, and order gran",
+   "permalink": "https://www.ransomware.live/id/TG92ZVNhY0BXaGl0ZWFybW9y",
+   "press": "",
+   "infostealer": false,
+   "id": "TG92ZVNhY0BXaGl0ZWFybW9y"
+  },
   {
    "victim": "Glückauf-Vermessung GmbH",
    "group": "payload",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "U3VuVGVjaG5pY3MgRmFicmlzb2xhciBBR0BOMG4"
-  },
-  {
-   "victim": "B2Chat",
-   "group": "emperador",
-   "discovered": "2026-10-23T07:52:10.595001+00:00",
-   "attackdate": "2026-10-23T03:20:00+00:00",
-   "country": "",
-   "activity": "Technology",
-   "website": "",
-   "description": "B2Chat is a multimillion dollar business communication platform based in Spain that provides tools for customer support, sales, and engagement. It allows businesses to interact with customers through various channels, such as live chat, chatbots, and messaging apps (for example, WhatsApp, Facebook Messenger, and Telegram). The platform is designed to help companies streamline communication, improve response times, and enhance customer satisfaction.\n\nThis leak includes sensitive financial information, employees' names, emails, and phone numbers, as well as clients' and partners' data.\n\nIf you d",
-   "permalink": "https://www.ransomware.live/id/QjJDaGF0QGVtcGVyYWRvcg",
-   "press": "",
-   "infostealer": false,
-   "id": "QjJDaGF0QGVtcGVyYWRvcg"
-  },
-  {
-   "victim": "Coop Italia",
-   "group": "qilin",
-   "discovered": "2026-10-23T07:20:02.119870+00:00",
-   "attackdate": "2026-10-23T07:18:59.654071+00:00",
-   "country": "IT",
-   "activity": "Retail & E-Commerce",
-   "website": "www.coop.it",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/Q29vcCBJdGFsaWFAcWlsaW4",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29vcCBJdGFsaWFAcWlsaW4"
   }
  ]
 }

@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-26T01:47:04.393Z",
+ "last_updated": "2026-10-26T07:04:56.016Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1811,
+ "count": 1812,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 161,
+ "chemical_matches": 162,
  "victims": [
+  {
+   "victim": "mahsing.com.my",
+   "group": "Scarlettgroup",
+   "discovered": "2026-10-26T04:56:48.598229+00:00",
+   "attackdate": "2026-10-25T04:00:00+00:00",
+   "country": "MY",
+   "activity": "Hospitality",
+   "website": "mahsing.com.my",
+   "description": "Mah Sing Group is a leading Malaysian property developer specializing in affordable residential and commercial properties, with additional businesses in healthcare and plastics manufacturing.",
+   "permalink": "https://www.ransomware.live/id/bWFoc2luZy5jb20ubXlAU2NhcmxldHRncm91cA",
+   "press": "",
+   "infostealer": true,
+   "id": "bWFoc2luZy5jb20ubXlAU2NhcmxldHRncm91cA",
+   "chemical": true
+  },
   {
    "victim": "Miletic GmbH",
    "group": "payload",
