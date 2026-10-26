@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-25T20:54:26.524Z",
+ "last_updated": "2026-10-26T01:47:04.365Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Glückauf-Vermessung GmbH",
+   "group": "payload",
+   "discovered": "2026-10-26T00:24:26.372363+00:00",
+   "attackdate": "2026-10-26T00:23:31.212693+00:00",
+   "country": "DE",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Glückauf-Vermessung GmbH (glueckauf-vermessung.de) is a German engineering and technical company based in Sondershausen, operating as part of the ERCOSPLAN Group and specializing in surveying and mine surveying (Bergbau-Markscheiderei). Its core business activities include geodetic support for the mining industry, geological exploration, and work related to salt and mineral deposits. The company provides services for surface and underground measurements, deformation monitoring, and the preparation of technical documentation for industrial projects.",
+   "permalink": "https://www.ransomware.live/id/R2zDvGNrYXVmLVZlcm1lc3N1bmcgR21iSEBwYXlsb2Fk",
+   "press": "",
+   "infostealer": false,
+   "id": "R2zDvGNrYXVmLVZlcm1lc3N1bmcgR21iSEBwYXlsb2Fk"
+  },
+  {
+   "victim": "Miletic GmbH",
+   "group": "payload",
+   "discovered": "2026-10-26T00:23:12.630470+00:00",
+   "attackdate": "2026-10-26T00:22:17.335654+00:00",
+   "country": "DE",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Miletic GmbH is a German specialized contractor headquartered in Bad Schönborn that has been operating in the construction sector since 1989. The company's core business focuses on construction and repair work for ecologically sensitive industrial facilities, including gas stations, tank farms, and operations governed by German water protection laws (WHG Class LAU facilities). Its service portfolio includes joint sealing and remediation, the application of chemical-resistant protective coatings, concrete construction, and related earthworks.",
+   "permalink": "https://www.ransomware.live/id/TWlsZXRpYyBHbWJIQHBheWxvYWQ",
+   "press": "",
+   "infostealer": false,
+   "id": "TWlsZXRpYyBHbWJIQHBheWxvYWQ"
+  },
+  {
+   "victim": "Edelstahl-Mechanik GmbH",
+   "group": "payload",
+   "discovered": "2026-10-26T00:21:58.628410+00:00",
+   "attackdate": "2026-10-26T00:21:03.322103+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Edelstahl-Mechanik GmbH is a German manufacturing company based in Göppingen. The company specializes in laser metal processing, including 2D and 3D laser cutting and welding, as well as structural sheet metal fabrication. Its products and services are applied in industries such as mechanical engineering, the automotive sector, construction, medical technology, and the food industry.",
+   "permalink": "https://www.ransomware.live/id/RWRlbHN0YWhsLU1lY2hhbmlrIEdtYkhAcGF5bG9hZA",
+   "press": "",
+   "infostealer": false,
+   "id": "RWRlbHN0YWhsLU1lY2hhbmlrIEdtYkhAcGF5bG9hZA"
+  },
+  {
+   "victim": "J.B Hunt",
+   "group": "Whitearmor",
+   "discovered": "2026-10-26T00:00:24.383724+00:00",
+   "attackdate": "2026-10-25T23:16:00+00:00",
+   "country": "US",
+   "activity": "Transportation",
+   "website": "",
+   "description": "You are so stupid JB Hunt. Instead of getting in contact with us & starting the negotiation process, not only did you not announce the breach, you silently email customers demanding them to update their passwords.. \n\nFuck you... ;/",
+   "permalink": "https://www.ransomware.live/id/Si5CIEh1bnRAV2hpdGVhcm1vcg",
+   "press": "",
+   "infostealer": false,
+   "id": "Si5CIEh1bnRAV2hpdGVhcm1vcg"
+  },
   {
    "victim": "Yodingenierie",
    "group": "Panzer",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q29vcCBJdGFsaWFAcWlsaW4"
-  },
-  {
-   "victim": "SEPIVER",
-   "group": "qilin",
-   "discovered": "2026-10-22T23:40:29.746474+00:00",
-   "attackdate": "2026-10-22T23:40:11.771502+00:00",
-   "country": "MX",
-   "activity": "Not Found",
-   "website": "sepiver.com.mx",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/U0VQSVZFUkBxaWxpbg",
-   "press": "",
-   "infostealer": true,
-   "id": "U0VQSVZFUkBxaWxpbg"
-  },
-  {
-   "victim": "istanbultrading.com",
-   "group": "lockbit5",
-   "discovered": "2026-10-22T21:30:20.484598+00:00",
-   "attackdate": "2026-10-22T08:25:00+00:00",
-   "country": "TR",
-   "activity": "Retail & E-Commerce",
-   "website": "istanbultrading.com",
-   "description": "Istanbul Foodstuff Trading Co LLC is a company that operates in the Computer Equipment & Peripherals...",
-   "permalink": "https://www.ransomware.live/id/aXN0YW5idWx0cmFkaW5nLmNvbUBsb2NrYml0NQ",
-   "press": "",
-   "infostealer": true,
-   "id": "aXN0YW5idWx0cmFkaW5nLmNvbUBsb2NrYml0NQ"
-  },
-  {
-   "victim": "M... C...",
-   "group": "SilentRansomGroup",
-   "discovered": "2026-10-22T19:30:40.239379+00:00",
-   "attackdate": "2026-10-22T19:29:49.653510+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
-   "permalink": "https://www.ransomware.live/id/TS4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-   "press": "",
-   "infostealer": false,
-   "id": "TS4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw"
-  },
-  {
-   "victim": "United Restaurant Supply",
-   "group": "qilin",
-   "discovered": "2026-10-22T18:41:39.974610+00:00",
-   "attackdate": "2026-10-22T18:41:07.754507+00:00",
-   "country": "US",
-   "activity": "Hospitality",
-   "website": "www.coloradokitchens.com",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/VW5pdGVkIFJlc3RhdXJhbnQgU3VwcGx5QHFpbGlu",
-   "press": "",
-   "infostealer": false,
-   "id": "VW5pdGVkIFJlc3RhdXJhbnQgU3VwcGx5QHFpbGlu"
   }
  ]
 }
