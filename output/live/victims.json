@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-26T20:11:01.389Z",
+ "last_updated": "2026-10-26T23:55:34.966Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Morrison Cohen",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-10-26T23:07:56.396007+00:00",
+   "attackdate": "2026-10-26T23:07:53.024727+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "[AI generated] Morrison Cohen LLP is a United States law firm headquartered in New York City. It provides legal services across practice areas including corporate law, litigation, bankruptcy and restructuring, real estate, intellectual property, and white-collar defense. The firm serves corporate clients, financial institutions, and individuals. It operates within the legal services industry, primarily serving businesses in the New York metropolitan area and nationally.",
+   "permalink": "https://www.ransomware.live/id/TW9ycmlzb24gQ29oZW5AU2lsZW50UmFuc29tR3JvdXA",
+   "press": "",
+   "infostealer": false,
+   "id": "TW9ycmlzb24gQ29oZW5AU2lsZW50UmFuc29tR3JvdXA"
+  },
+  {
+   "victim": "Afflelou",
+   "group": "emperador",
+   "discovered": "2026-10-26T21:52:29.796720+00:00",
+   "attackdate": "2026-10-26T20:14:00+00:00",
+   "country": "FR",
+   "activity": "Retail & E-Commerce",
+   "website": "",
+   "description": "Alain Afflelou is a leading European franchisor of optical and hearing aid products, founded in France in 1972. The company operates a robust network of over 1,500 stores across 20 countries, driven by aggressive marketing innovations like its famous \"Tchin-Tchin\" multi-pair offer.\n\nKey Figures\n\n• Network Revenue: €1.13 billion (TTC) for the fiscal year ending July 2025\n• Corporate Revenue: €447.3 million (excl. taxes), generated from corporate stores and franchise fees.\n• Core Segments: Eyewear and audioprosthetics. [Sector: Retail]",
+   "permalink": "https://www.ransomware.live/id/QWZmbGVsb3VAZW1wZXJhZG9y",
+   "press": "",
+   "infostealer": false,
+   "id": "QWZmbGVsb3VAZW1wZXJhZG9y"
+  },
+  {
+   "victim": "University of New Mexico",
+   "group": "BYOD",
+   "discovered": "2026-10-26T20:52:51.596489+00:00",
+   "attackdate": "2026-10-26T00:00:00+00:00",
+   "country": "US",
+   "activity": "Education",
+   "website": "",
+   "description": "36,000 Machines Compromised, both AD forests (Main Campus + Hospital Sector(with appointments, patient information + research)) With GPOs, Two Oracle databases, every student + employee PII (including SSNs), research information, entire Entra Tenant, Oracle HR + Payroll + Banner Student Records, Internal Emails, Cerner EHR rosters. This is your entire network and infrastructure compromised, the entire university COMPLETELY. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours.",
+   "permalink": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBvZiBOZXcgTWV4aWNvQEJZT0Q",
+   "press": "",
+   "infostealer": false,
+   "id": "VW5pdmVyc2l0eSBvZiBOZXcgTWV4aWNvQEJZT0Q"
+  },
+  {
+   "victim": "MISC Group",
+   "group": "rhysida",
+   "discovered": "2026-10-26T20:27:18.651315+00:00",
+   "attackdate": "2026-10-26T20:26:45.941160+00:00",
+   "country": "MY",
+   "activity": "Energy & Utilities",
+   "website": "",
+   "description": "MISC Group Incorporated in 1968, MISC Group is a world leading provider of international energy-related maritime solutions and services.29,841 files , 28.4 GBComplete command workstations: Master, Chief Officer and Bridge user folders - 16,918 files / 15.5 GB, including PST mail archives;Crew personal data (PDPA breach): IMO FAL Form 5 crew lists for ~30 seafarers with passport numbers (Malaysia/Philippines/Indonesia/India), Seafarer Employment Agreements with DOB, home addresses and salaries, a full scan of the 4th Officer's PRC passport;Every ship's password: ECDIS, CCTV, AIS, fire & gas ala",
+   "permalink": "https://www.ransomware.live/id/TUlTQyBHcm91cEByaHlzaWRh",
+   "press": "",
+   "infostealer": false,
+   "id": "TUlTQyBHcm91cEByaHlzaWRh"
+  },
   {
    "victim": "Ingelectus Innovative Electrical Solutions S.L.",
    "group": "N0n",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "bWxoLmNvbS5sYkBsb2NrYml0NQ"
-  },
-  {
-   "victim": "lidoway.com",
-   "group": "lockbit5",
-   "discovered": "2026-10-23T17:16:47.609861+00:00",
-   "attackdate": "2026-10-23T14:03:00+00:00",
-   "country": "LI",
-   "activity": "Not Found",
-   "website": "lidoway.com",
-   "description": "Lido boutique hotel, with 100 rooms, shops, restaurants and gym, creates a comfortable and intimate...",
-   "permalink": "https://www.ransomware.live/id/bGlkb3dheS5jb21AbG9ja2JpdDU",
-   "press": "",
-   "infostealer": false,
-   "id": "bGlkb3dheS5jb21AbG9ja2JpdDU"
-  },
-  {
-   "victim": "zelsior.es",
-   "group": "lockbit5",
-   "discovered": "2026-10-23T17:16:08.418238+00:00",
-   "attackdate": "2026-10-23T15:34:00+00:00",
-   "country": "ES",
-   "activity": "Not Found",
-   "website": "zelsior.es",
-   "description": "Founded in 2015, we have become the leading firm in comprehensive, technology-driven legal debt reco...",
-   "permalink": "https://www.ransomware.live/id/emVsc2lvci5lc0Bsb2NrYml0NQ",
-   "press": "",
-   "infostealer": false,
-   "id": "emVsc2lvci5lc0Bsb2NrYml0NQ"
-  },
-  {
-   "victim": "JS Constructor, INC",
-   "group": "emperador",
-   "discovered": "2026-10-23T16:52:22.826630+00:00",
-   "attackdate": "2026-10-23T16:32:00+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "JS Contractor Inc. is a Philippine recruitment and manpower agency that specializes in recruiting, screening, processing, and deploying Filipino workers for overseas employment. Established in 1977, the company connects qualified applicants with international employers across industries such as manufacturing, engineering, technical services, and skilled labor. Through its website, applicants can explore job opportunities, submit applications, and access information about overseas employment.\n\nWe have all your critical files, encrypted with the strongest encryption, along with over 150,000 resu",
-   "permalink": "https://www.ransomware.live/id/SlMgQ29uc3RydWN0b3IsIElOQ0BlbXBlcmFkb3I",
-   "press": "",
-   "infostealer": false,
-   "id": "SlMgQ29uc3RydWN0b3IsIElOQ0BlbXBlcmFkb3I"
-  },
-  {
-   "victim": "Whirlpool",
-   "group": "Whitearmor",
-   "discovered": "2026-10-23T16:39:37.321397+00:00",
-   "attackdate": "2026-10-21T21:03:00+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "Whirlpool is a global home appliance manufacturer (NYSE: WHR) making washers, fridges, and cooking appliances under brands like KitchenAid and Maytag. Its 2025 annual revenue was about $15.52 billion.\n\nWe hold 4,577 Whirlpool employee records across three plants, names, AD-style usernames, managers, cost centers, shifts, along with 374 corporate emails, ~22,000 SAP invoice records, and the full plant contact infrastructure. Pay, and this stays quiet. Don't, and the data goes public.\n\nWe want $140,000 in BTC or XMR. You will receive an email containing instructions on how to proceed.\n\nSamples:\n",
-   "permalink": "https://www.ransomware.live/id/V2hpcmxwb29sQFdoaXRlYXJtb3I",
-   "press": "",
-   "infostealer": false,
-   "id": "V2hpcmxwb29sQFdoaXRlYXJtb3I"
   }
  ]
 }
