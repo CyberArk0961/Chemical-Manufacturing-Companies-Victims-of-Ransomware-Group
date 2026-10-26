@@ -1,13 +1,88 @@
 {
- "last_updated": "2026-10-26T07:04:56.016Z",
+ "last_updated": "2026-10-26T14:19:08.523Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1812,
+ "count": 1831,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 162,
  "victims": [
+  {
+   "victim": "Bangor Wholesale Laminates",
+   "group": "qilin",
+   "discovered": "2026-10-26T12:03:03.384731+00:00",
+   "attackdate": "2026-10-26T12:02:31.273225+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "www.bangorwholesalelaminates.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/QmFuZ29yIFdob2xlc2FsZSBMYW1pbmF0ZXNAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "QmFuZ29yIFdob2xlc2FsZSBMYW1pbmF0ZXNAcWlsaW4",
+   "chemical": false
+  },
+  {
+   "victim": "Taubensee Steel & Wire",
+   "group": "qilin",
+   "discovered": "2026-10-26T11:51:36.646552+00:00",
+   "attackdate": "2026-10-26T11:50:27.026103+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "www.taubensee.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/VGF1YmVuc2VlIFN0ZWVsICYgV2lyZUBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "VGF1YmVuc2VlIFN0ZWVsICYgV2lyZUBxaWxpbg",
+   "chemical": false
+  },
+  {
+   "victim": "Seufert Construction",
+   "group": "qilin",
+   "discovered": "2026-10-26T11:33:31.875694+00:00",
+   "attackdate": "2026-10-26T11:32:58.464845+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.seufertconstruction.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/U2V1ZmVydCBDb25zdHJ1Y3Rpb25AcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "U2V1ZmVydCBDb25zdHJ1Y3Rpb25AcWlsaW4",
+   "chemical": false
+  },
+  {
+   "victim": "Bi-silque",
+   "group": "Majinahanashi",
+   "discovered": "2026-10-26T10:47:51.702845+00:00",
+   "attackdate": "2026-10-19T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "A Portuguese manufacturing company that produces equipment for offices, schools, and presentations. Its product line includes whiteboards, corkboards, flip charts, information displays, glass board...",
+   "permalink": "https://www.ransomware.live/id/Qmktc2lscXVlQE1hamluYWhhbmFzaGk",
+   "press": "",
+   "infostealer": false,
+   "id": "Qmktc2lscXVlQE1hamluYWhhbmFzaGk",
+   "chemical": false
+  },
+  {
+   "victim": "Ernesto Malvestiti S.p.A.",
+   "group": "aurora",
+   "discovered": "2026-10-26T08:34:49.850595+00:00",
+   "attackdate": "2026-10-26T00:00:00+00:00",
+   "country": "IT",
+   "activity": "Manufacturing",
+   "website": "Ernesto Malvestiti S.p.A.",
+   "description": "[manufacturer] Ernesto Malvestiti S.p.A. — a privately-held Italian manufacturer of precision aluminium die-cast and fine-blanked components, supplying BMW, Valeo, BorgWarner, Schneider Electric, Fiat/Stellantis, and 150+ other automotive OEM.\n\nThe exposed material spans the company's entire operations:\n\nPAGHENET payroll database (1.1 GB SQL Server backup ×7 copies) — every employee's salary, IBAN bank account, codice fiscale (Italian tax ID), home address, and tax withholdings. Plus the INAZMST employee master database (181 MB ×5).\nGDPR Article 9 special-category data — medical fitness record",
+   "permalink": "https://www.ransomware.live/id/RXJuZXN0byBNYWx2ZXN0aXRpIFMucC5BLkBhdXJvcmE",
+   "press": "",
+   "infostealer": false,
+   "id": "RXJuZXN0byBNYWx2ZXN0aXRpIFMucC5BLkBhdXJvcmE",
+   "chemical": false
+  },
   {
    "victim": "mahsing.com.my",
    "group": "Scarlettgroup",
@@ -17529,6 +17604,36 @@
    "chemical": true
   },
   {
+   "victim": "Omesti Berhad",
+   "group": "qilin",
+   "discovered": "2026-03-03T00:00:00+00:00",
+   "attackdate": "2026-03-03T00:00:00+00:00",
+   "country": "MY",
+   "activity": "Manufacturing",
+   "website": "www.omesti.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/T21lc3RpIEJlcmhhZEBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "T21lc3RpIEJlcmhhZEBxaWxpbg",
+   "chemical": false
+  },
+  {
+   "victim": "SMF & E.D.Etnyre & BearCat Mfg (3 companies)",
+   "group": "qilin",
+   "discovered": "2026-03-03T00:00:00+00:00",
+   "attackdate": "2026-03-03T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.smf-inc.com/, https://www.etnyre.com/,  https://www.bearcatmfg.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/U01GICYgRS5ELkV0bnlyZSAmIEJlYXJDYXQgTWZnICgzIGNvbXBhbmllcylAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "U01GICYgRS5ELkV0bnlyZSAmIEJlYXJDYXQgTWZnICgzIGNvbXBhbmllcylAcWlsaW4",
+   "chemical": false
+  },
+  {
    "victim": "Cabka",
    "group": "play",
    "discovered": "2026-03-02T21:50:30.539092+00:00",
@@ -18504,6 +18609,21 @@
    "chemical": false
   },
   {
+   "victim": "Park Printing",
+   "group": "qilin",
+   "discovered": "2026-02-19T00:00:00+00:00",
+   "attackdate": "2026-02-19T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.parkprint.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/UGFyayBQcmludGluZ0BxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "UGFyayBQcmludGluZ0BxaWxpbg",
+   "chemical": false
+  },
+  {
    "victim": "American Piping & Boiler Co",
    "group": "nightspire",
    "discovered": "2026-02-18T18:34:52.851532+00:00",
@@ -18726,6 +18846,21 @@
    "press": "",
    "infostealer": false,
    "id": "Km0qKmkqKm4gKioqaSpnICYgKm8qKmUqIENvQG5pZ2h0c3BpcmU",
+   "chemical": false
+  },
+  {
+   "victim": "BECKER CADCAMCAST",
+   "group": "qilin",
+   "discovered": "2026-02-16T00:00:00+00:00",
+   "attackdate": "2026-02-16T00:00:00+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "www.beckerccc.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/QkVDS0VSIENBRENBTUNBU1RAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "QkVDS0VSIENBRENBTUNBU1RAcWlsaW4",
    "chemical": false
   },
   {
@@ -19209,6 +19344,21 @@
    "chemical": true
   },
   {
+   "victim": "Joyce Manufacturing",
+   "group": "qilin",
+   "discovered": "2026-02-11T00:00:00+00:00",
+   "attackdate": "2026-02-11T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.joycemfg.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/Sm95Y2UgTWFudWZhY3R1cmluZ0BxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "Sm95Y2UgTWFudWZhY3R1cmluZ0BxaWxpbg",
+   "chemical": false
+  },
+  {
    "victim": "Milwaukee Forge",
    "group": "play",
    "discovered": "2026-02-10T18:57:11.231642+00:00",
@@ -19296,6 +19446,21 @@
    "press": "",
    "infostealer": false,
    "id": "QW5hYnVraSBLb3NhbkBxaWxpbg",
+   "chemical": false
+  },
+  {
+   "victim": "Korsmo Construction",
+   "group": "qilin",
+   "discovered": "2026-02-10T00:00:00+00:00",
+   "attackdate": "2026-02-10T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.korsmo.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/S29yc21vIENvbnN0cnVjdGlvbkBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "S29yc21vIENvbnN0cnVjdGlvbkBxaWxpbg",
    "chemical": false
   },
   {
@@ -19884,6 +20049,36 @@
    "chemical": false
   },
   {
+   "victim": "Scranton Label",
+   "group": "qilin",
+   "discovered": "2026-02-03T00:00:00+00:00",
+   "attackdate": "2026-02-03T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.scrantonlabel.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/U2NyYW50b24gTGFiZWxAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "U2NyYW50b24gTGFiZWxAcWlsaW4",
+   "chemical": false
+  },
+  {
+   "victim": "P&B Textiles",
+   "group": "qilin",
+   "discovered": "2026-02-03T00:00:00+00:00",
+   "attackdate": "2026-02-03T00:00:00+00:00",
+   "country": "BR",
+   "activity": "Manufacturing",
+   "website": "www.pbtex.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/UCZCIFRleHRpbGVzQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "UCZCIFRleHRpbGVzQHFpbGlu",
+   "chemical": false
+  },
+  {
    "victim": "JST Power Equipment",
    "group": "akira",
    "discovered": "2026-02-02T15:56:15.851278+00:00",
@@ -20334,6 +20529,21 @@
    "chemical": false
   },
   {
+   "victim": "Westin Automotive",
+   "group": "qilin",
+   "discovered": "2026-01-27T00:00:00+00:00",
+   "attackdate": "2026-01-27T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "www.westinautomotive.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/V2VzdGluIEF1dG9tb3RpdmVAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "V2VzdGluIEF1dG9tb3RpdmVAcWlsaW4",
+   "chemical": false
+  },
+  {
    "victim": "F&B Mfg",
    "group": "play",
    "discovered": "2026-01-26T19:41:58.729370+00:00",
@@ -20676,6 +20886,21 @@
    "press": "",
    "infostealer": false,
    "id": "U1RST05HIFdJTkdTIExMUEB0ZW5ndQ",
+   "chemical": false
+  },
+  {
+   "victim": "County Contractors",
+   "group": "qilin",
+   "discovered": "2026-01-22T00:00:00+00:00",
+   "attackdate": "2026-01-22T00:00:00+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "www.countycontractors.co.uk",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/Q291bnR5IENvbnRyYWN0b3JzQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "Q291bnR5IENvbnRyYWN0b3JzQHFpbGlu",
    "chemical": false
   },
   {
@@ -23034,6 +23259,21 @@
    "chemical": false
   },
   {
+   "victim": "Brisson & Massie Mechanical",
+   "group": "qilin",
+   "discovered": "2025-12-22T00:00:00+00:00",
+   "attackdate": "2025-12-22T00:00:00+00:00",
+   "country": "CA",
+   "activity": "Manufacturing",
+   "website": "brissonmassie.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/QnJpc3NvbiAmIE1hc3NpZSBNZWNoYW5pY2FsQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "QnJpc3NvbiAmIE1hc3NpZSBNZWNoYW5pY2FsQHFpbGlu",
+   "chemical": false
+  },
+  {
    "victim": "Váhostav",
    "group": "dragonforce",
    "discovered": "2025-12-21T20:49:38.659007+00:00",
@@ -24354,6 +24594,21 @@
    "chemical": false
   },
   {
+   "victim": "Tensator",
+   "group": "qilin",
+   "discovered": "2025-12-04T00:00:00+00:00",
+   "attackdate": "2025-12-04T00:00:00+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "www.tensator.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/VGVuc2F0b3JAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "VGVuc2F0b3JAcWlsaW4",
+   "chemical": false
+  },
+  {
    "victim": "Mainetti UK",
    "group": "qilin",
    "discovered": "2025-12-03T16:54:51.610856+00:00",
@@ -24966,6 +25221,21 @@
    "press": "",
    "infostealer": false,
    "id": "TG9uZSBSb2NrIFRpbWJlckBha2lyYQ",
+   "chemical": false
+  },
+  {
+   "victim": "Aceros Ocotlán Group",
+   "group": "qilin",
+   "discovered": "2025-11-28T00:00:00+00:00",
+   "attackdate": "2025-11-28T00:00:00+00:00",
+   "country": "MX",
+   "activity": "Manufacturing",
+   "website": "www.acerosocotlan.mx",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/QWNlcm9zIE9jb3Rsw6FuIEdyb3VwQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "QWNlcm9zIE9jb3Rsw6FuIEdyb3VwQHFpbGlu",
    "chemical": false
   },
   {
@@ -26826,6 +27096,21 @@
    "press": "",
    "infostealer": false,
    "id": "UmV4LUhpZGVAcWlsaW4",
+   "chemical": false
+  },
+  {
+   "victim": "Mecaplast",
+   "group": "qilin",
+   "discovered": "2025-11-07T00:00:00+00:00",
+   "attackdate": "2025-11-07T00:00:00+00:00",
+   "country": "CH",
+   "activity": "Manufacturing",
+   "website": "www.mecaplast.ch",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/TWVjYXBsYXN0QHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "TWVjYXBsYXN0QHFpbGlu",
    "chemical": false
   },
   {
