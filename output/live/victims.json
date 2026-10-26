@@ -1,21 +1,49 @@
 {
- "last_updated": "2026-10-26T14:19:08.510Z",
+ "last_updated": "2026-10-26T20:11:01.389Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
   {
-   "victim": "Montship",
-   "group": "qilin",
-   "discovered": "2026-10-26T14:06:15.161111+00:00",
-   "attackdate": "2025-10-16T00:00:00+00:00",
-   "country": "CA",
-   "activity": "Not Found",
-   "website": "www.montship.ca",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/TW9udHNoaXBAcWlsaW4",
+   "victim": "Ingelectus Innovative Electrical Solutions S.L.",
+   "group": "N0n",
+   "discovered": "2026-10-26T18:57:11.389460+00:00",
+   "attackdate": "2026-10-26T18:56:53.931744+00:00",
+   "country": "ES",
+   "activity": "Energy & Utilities",
+   "website": "",
+   "description": "smart grid engineering firm · Spain | Live electrical telemetry sampled from the plant control network, with voltage, current and energy readings recorded on 23 October 2026; Complete inventory of 49 network devices including substation switches, remote terminal units, power meters and server management controllers, with locations and firmware details; Full maps of the internal control network segments and message broker metrics that carry the plant data | [NOT PAID — EXPOSED]",
+   "permalink": "https://www.ransomware.live/id/SW5nZWxlY3R1cyBJbm5vdmF0aXZlIEVsZWN0cmljYWwgU29sdXRpb25zIFMuTC5ATjBu",
    "press": "",
    "infostealer": false,
-   "id": "TW9udHNoaXBAcWlsaW4"
+   "id": "SW5nZWxlY3R1cyBJbm5vdmF0aXZlIEVsZWN0cmljYWwgU29sdXRpb25zIFMuTC5ATjBu"
+  },
+  {
+   "victim": "Gamdom",
+   "group": "Whitearmor",
+   "discovered": "2026-10-26T18:00:10.433408+00:00",
+   "attackdate": "2026-10-26T16:45:00+00:00",
+   "country": "",
+   "activity": "Other",
+   "website": "",
+   "description": "Gamdom is an unregulated crypto casino and sportsbook founded in 2016. It recently suffered a hot-wallet breach, with founder Felix Romer reporting over $3 million in losses, though on-chain analysts estimate the damage closer to $4.2 million.\n\nWe hold Gamdom's full user database, 15,420,003 accounts with 146 columns, with Gamdom's total combined profit value exceeding $1 billion.\n\nThe way in was something internal, a machine account that was already sitting in their admin side (Metawin). \nIssued years back, nobody ever rotated it. Never meant to leave the building. \nIt had admin reach, and ev",
+   "permalink": "https://www.ransomware.live/id/R2FtZG9tQFdoaXRlYXJtb3I",
+   "press": "",
+   "infostealer": false,
+   "id": "R2FtZG9tQFdoaXRlYXJtb3I"
+  },
+  {
+   "victim": "Beasley Allen Law Firm",
+   "group": "Falcon",
+   "discovered": "2026-10-26T16:54:28.340940+00:00",
+   "attackdate": "2026-10-26T16:53:26.015814+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Plaintiff litigation law firm - Our 214 GB extraction includes executed agreements, final settlement participation agreements, court-signed stipulations regarding net worth, privileged internal memos, detailed litigation strategies, rough trial transcripts, comprehensive staff FAQs and much more.",
+   "permalink": "https://www.ransomware.live/id/QmVhc2xleSBBbGxlbiBMYXcgRmlybUBGYWxjb24",
+   "press": "",
+   "infostealer": false,
+   "id": "QmVhc2xleSBBbGxlbiBMYXcgRmlybUBGYWxjb24"
   },
   {
    "victim": "RaceTrakka",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "V2hpcmxwb29sQFdoaXRlYXJtb3I"
-  },
-  {
-   "victim": "JB Hunt",
-   "group": "Whitearmor",
-   "discovered": "2026-10-23T16:39:22.672105+00:00",
-   "attackdate": "2026-10-23T14:45:00+00:00",
-   "country": "US",
-   "activity": "Transportation",
-   "website": "",
-   "description": "J.B. Hunt is a major North American transportation and logistics company providing intermodal, dedicated, and truckload services via its digital freight marketplace.\n\nWe hold 140,838 employee records with PII and national IDs, 1.7M carrier contacts, 38.2M invoices, 187K RBAC permission records, 3,196 ranked account-takeover targets, 973 M365 mailboxes, 374K organizations.\n\nOur demand: $5,000,000, in BTC or XMR. Instructions to follow by email.\n\nTo verify, samples can be found below.\n\nContact:\nSession: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67\nEmail: whitearmorrxd@proto",
-   "permalink": "https://www.ransomware.live/id/SkIgSHVudEBXaGl0ZWFybW9y",
-   "press": "",
-   "infostealer": false,
-   "id": "SkIgSHVudEBXaGl0ZWFybW9y"
-  },
-  {
-   "victim": "Labaid Cancer Hospital And Super Speciality Center",
-   "group": "qilin",
-   "discovered": "2026-10-23T16:26:27.946648+00:00",
-   "attackdate": "2026-10-23T16:26:10.556813+00:00",
-   "country": "BD",
-   "activity": "Healthcare",
-   "website": "www.labaidcancer.com",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/TGFiYWlkIENhbmNlciBIb3NwaXRhbCBBbmQgU3VwZXIgU3BlY2lhbGl0eSBDZW50ZXJAcWlsaW4",
-   "press": "",
-   "infostealer": false,
-   "id": "TGFiYWlkIENhbmNlciBIb3NwaXRhbCBBbmQgU3VwZXIgU3BlY2lhbGl0eSBDZW50ZXJAcWlsaW4"
   }
  ]
 }

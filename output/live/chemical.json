@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-10-26T14:19:08.523Z",
+ "last_updated": "2026-10-26T20:11:01.416Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1831,
+ "count": 1828,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 162,
+ "chemical_matches": 161,
  "victims": [
   {
    "victim": "Bangor Wholesale Laminates",
@@ -4461,21 +4461,6 @@
    "press": "",
    "infostealer": true,
    "id": "RGlzdHJpYnV0aW9uTk9XIChETk9XIEluYy4pQEZhbGNvbg",
-   "chemical": false
-  },
-  {
-   "victim": "Black Cat Engineering Construction Wll",
-   "group": "qilin",
-   "discovered": "2026-08-30T13:31:32.133234+00:00",
-   "attackdate": "2026-08-30T13:31:08.677544+00:00",
-   "country": "QA",
-   "activity": "Manufacturing",
-   "website": "www.blackcat.com.qa",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/QmxhY2sgQ2F0IEVuZ2luZWVyaW5nIENvbnN0cnVjdGlvbiBXbGxAcWlsaW4",
-   "press": "",
-   "infostealer": false,
-   "id": "QmxhY2sgQ2F0IEVuZ2luZWVyaW5nIENvbnN0cnVjdGlvbiBXbGxAcWlsaW4",
    "chemical": false
   },
   {
@@ -19329,21 +19314,6 @@
    "chemical": false
   },
   {
-   "victim": "Castles Technology UK & Ireland",
-   "group": "qilin",
-   "discovered": "2026-02-11T06:21:10.098369+00:00",
-   "attackdate": "2026-02-11T06:20:55.355174+00:00",
-   "country": "GB",
-   "activity": "Technology",
-   "website": "www.castlestechemea.com",
-   "description": "",
-   "permalink": "https://www.ransomware.live/id/Q2FzdGxlcyBUZWNobm9sb2d5IFVLICYgSXJlbGFuZEBxaWxpbg",
-   "press": "",
-   "infostealer": false,
-   "id": "Q2FzdGxlcyBUZWNobm9sb2d5IFVLICYgSXJlbGFuZEBxaWxpbg",
-   "chemical": true
-  },
-  {
    "victim": "Joyce Manufacturing",
    "group": "qilin",
    "discovered": "2026-02-11T00:00:00+00:00",
@@ -24606,21 +24576,6 @@
    "press": "",
    "infostealer": false,
    "id": "VGVuc2F0b3JAcWlsaW4",
-   "chemical": false
-  },
-  {
-   "victim": "Mainetti UK",
-   "group": "qilin",
-   "discovered": "2025-12-03T16:54:51.610856+00:00",
-   "attackdate": "2025-12-03T16:54:33.059219+00:00",
-   "country": "GB",
-   "activity": "Manufacturing",
-   "website": "www.mainetti.com",
-   "description": "",
-   "permalink": "https://www.ransomware.live/id/TWFpbmV0dGkgVUtAcWlsaW4",
-   "press": "",
-   "infostealer": false,
-   "id": "TWFpbmV0dGkgVUtAcWlsaW4",
    "chemical": false
   },
   {
