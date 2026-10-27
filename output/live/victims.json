@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-27T05:10:25.652Z",
+ "last_updated": "2026-10-27T10:38:04.727Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Company #111",
+   "group": "N0n",
+   "discovered": "2026-10-27T06:24:08.482951+00:00",
+   "attackdate": "2026-10-27T06:23:55.131861+00:00",
+   "country": "AE",
+   "activity": "Not Found",
+   "website": "",
+   "description": "retail and facility services · United Arab Emirates | [PENDING EXPOSURE: · The complete payroll ledger, employee records and identity document archive of a UAE services group are held.]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMTExQE4wbg",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjMTExQE4wbg"
+  },
+  {
+   "victim": "OR Technology",
+   "group": "everest",
+   "discovered": "2026-10-27T05:54:22.393869+00:00",
+   "attackdate": "2026-10-27T04:34:32.471503+00:00",
+   "country": "",
+   "activity": "Technology",
+   "website": "",
+   "description": "[AI generated] N/A",
+   "permalink": "https://www.ransomware.live/id/T1IgVGVjaG5vbG9neUBldmVyZXN0",
+   "press": "",
+   "infostealer": false,
+   "id": "T1IgVGVjaG5vbG9neUBldmVyZXN0"
+  },
   {
    "victim": "Burris & MacOmber",
    "group": "everest",
@@ -1374,34 +1402,6 @@
    "press": "https://dysruptionhub.com/weld-re8-colorado-network-outage/",
    "infostealer": true,
    "id": "V2VsZCBSZSA4IFNjaG9vbCBEaXN0cmljdEB0aGVnZW50bGVtZW4"
-  },
-  {
-   "victim": "Red Oak Technologies",
-   "group": "thegentlemen",
-   "discovered": "2026-10-24T09:28:18.392849+00:00",
-   "attackdate": "2026-10-23T11:29:00+00:00",
-   "country": "US",
-   "activity": "Technology",
-   "website": "redoaktech.com",
-   "description": "redoaktech.com Red Oak Technologies private IT staffing and managed services company founded in 1995 and headquartered in San Jose, California, with offices in Austin and Denver. It has about 250 employees across 5 countries and estimated revenue of roughly 105 million dollars. The company provides contract tech talent, direct hire and full project delivery with offshore and nearshore teams. It specializes in cloud, DevOps, semiconductor and life sciences clients from startups to Fortune 500. Led by President Joel Leege, ex-Randstad Technology, it has completed over 1700 projects in 30 years w",
-   "permalink": "https://www.ransomware.live/id/UmVkIE9hayBUZWNobm9sb2dpZXNAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": true,
-   "id": "UmVkIE9hayBUZWNobm9sb2dpZXNAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Penco Products",
-   "group": "thegentlemen",
-   "discovered": "2026-10-24T09:27:57.291922+00:00",
-   "attackdate": "2026-10-23T16:56:58+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "pencoproducts.com",
-   "description": "pencoproducts.com Penco Products US metal manufacturer founded in 1869, now based in Greenville, North Carolina, making steel lockers, shelving, pallet racks and garment dispensers at its 375,000 square foot ISO certified plant in Hamilton. It is part of the IMC industrial group and has around 200 employees, up to 350 in summer peaks. Its lockers are an American standard in schools, gyms, hospitals and military facilities, with new smart locker lines for contactless pickup. Led by CEO Craig Atwater since 2021, it sells through a national distributor network with QuickShip warehouses across the",
-   "permalink": "https://www.ransomware.live/id/UGVuY28gUHJvZHVjdHNAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": false,
-   "id": "UGVuY28gUHJvZHVjdHNAdGhlZ2VudGxlbWVu"
   }
  ]
 }
