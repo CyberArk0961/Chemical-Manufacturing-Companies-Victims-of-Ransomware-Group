@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-27T20:43:48.869Z",
+ "last_updated": "2026-10-28T00:04:03.184Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "https://t.me/whitearmorxd",
+   "group": "Whitearmor",
+   "discovered": "2026-10-27T23:18:42.871402+00:00",
+   "attackdate": "2026-10-27T21:59:00+00:00",
+   "country": "",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Hi, join our telegram channel for fun.. i guess\n\nhttps://t.me/whitearmorxd",
+   "permalink": "https://www.ransomware.live/id/aHR0cHM6Ly90Lm1lL3doaXRlYXJtb3J4ZEBXaGl0ZWFybW9y",
+   "press": "",
+   "infostealer": false,
+   "id": "aHR0cHM6Ly90Lm1lL3doaXRlYXJtb3J4ZEBXaGl0ZWFybW9y"
+  },
+  {
+   "victim": "Machelen (Belgium)",
+   "group": "rhysida",
+   "discovered": "2026-10-27T22:25:47.522037+00:00",
+   "attackdate": "2026-10-27T22:24:20.267452+00:00",
+   "country": "BE",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Machelen (Belgium) Machelen (Belgium) - municipal and social welfare (OCMW) file servers1.3 million files, ~2.9 TB. Working copy + backup copy (lawer2/lawer3). Language: Dutch, partly French.Contents:Social welfare and migration service client files: passports, ID cards, residence permits, sick notes.WZC nursing home: medical files, staff HR dossiers, workplace accidents.Civil status records (births, marriages) with national register numbers (NISS/RRN).Payslips, financial data.Correspondence (~23k messages), employee home folders.Databases and backups: full OCMW database backup (6 GB, 09/2026)",
+   "permalink": "https://www.ransomware.live/id/TWFjaGVsZW4gKEJlbGdpdW0pQHJoeXNpZGE",
+   "press": "",
+   "infostealer": false,
+   "id": "TWFjaGVsZW4gKEJlbGdpdW0pQHJoeXNpZGE"
+  },
+  {
+   "victim": "TWICE SRL",
+   "group": "emperador",
+   "discovered": "2026-10-27T21:22:05.818826+00:00",
+   "attackdate": "2026-10-27T20:12:00+00:00",
+   "country": "",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Сompany from the Republic of San Marino,\nassociated with the production and sale of fashion clothing and accessories.\nArchived personal and corporate data of employees and customers. [Sector: Manufacturing, Finance]",
+   "permalink": "https://www.ransomware.live/id/VFdJQ0UgU1JMQGVtcGVyYWRvcg",
+   "press": "",
+   "infostealer": false,
+   "id": "VFdJQ0UgU1JMQGVtcGVyYWRvcg"
+  },
   {
    "victim": "Tailormade Logistics",
    "group": "play",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "TmV3Y29tZXIgQ3JlbWF0aW9ucywgRnVuZXJhbHMgJiBSZWNlcHRpb25zQGFudWJpcw"
-  },
-  {
-   "victim": "Castle Howard Estate",
-   "group": "qilin",
-   "discovered": "2026-10-24T16:34:49.360176+00:00",
-   "attackdate": "2026-10-24T16:34:13.768572+00:00",
-   "country": "GB",
-   "activity": "Hospitality",
-   "website": "www.castlehoward.co.uk",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/Q2FzdGxlIEhvd2FyZCBFc3RhdGVAcWlsaW4",
-   "press": "",
-   "infostealer": false,
-   "id": "Q2FzdGxlIEhvd2FyZCBFc3RhdGVAcWlsaW4"
-  },
-  {
-   "victim": "Vins Viallet",
-   "group": "lamashtu",
-   "discovered": "2026-10-24T16:30:40.843615+00:00",
-   "attackdate": "2026-10-24T16:30:21.356818+00:00",
-   "country": "FR",
-   "activity": "Retail & E-Commerce",
-   "website": "vins-viallet.com",
-   "description": "Vins Viallet is a French family-owned wine producer and distributor based in the Savoie region. Founded in 1966, the company produces and markets a range of wines, including white, red, rosé and sparkling varieties, serving retail and wholesale",
-   "permalink": "https://www.ransomware.live/id/VmlucyBWaWFsbGV0QGxhbWFzaHR1",
-   "press": "",
-   "infostealer": false,
-   "id": "VmlucyBWaWFsbGV0QGxhbWFzaHR1"
-  },
-  {
-   "victim": "Heber City, UT",
-   "group": "qilin",
-   "discovered": "2026-10-24T15:26:13.338871+00:00",
-   "attackdate": "2026-10-24T15:25:39.994972+00:00",
-   "country": "US",
-   "activity": "Government & Defense",
-   "website": "www.heberut.gov",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/SGViZXIgQ2l0eSwgVVRAcWlsaW4",
-   "press": "https://dysruptionhub.com/heber-city-utah-cyberattack/",
-   "infostealer": false,
-   "id": "SGViZXIgQ2l0eSwgVVRAcWlsaW4"
   }
  ]
 }
