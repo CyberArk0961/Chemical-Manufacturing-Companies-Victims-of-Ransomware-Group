@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-10-28T11:41:21.560Z",
+ "last_updated": "2026-10-28T17:25:49.426Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1831,
+ "count": 1834,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 161,
+ "chemical_matches": 162,
  "victims": [
+  {
+   "victim": "Hauhinco",
+   "group": "payload",
+   "discovered": "2026-10-28T14:49:50.250850+00:00",
+   "attackdate": "2026-10-28T14:48:54.570512+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Hauhinco is a German manufacturer of high-pressure water hydraulics. The company produces plunger pumps, valves, and pump stations for mining and industry. It also develops rail-bound shunting systems for automated material handling.",
+   "permalink": "https://www.ransomware.live/id/SGF1aGluY29AcGF5bG9hZA",
+   "press": "",
+   "infostealer": false,
+   "id": "SGF1aGluY29AcGF5bG9hZA",
+   "chemical": false
+  },
+  {
+   "victim": "Marbre Design",
+   "group": "payload",
+   "discovered": "2026-10-28T14:48:35.878124+00:00",
+   "attackdate": "2026-10-28T14:47:38.408353+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Marbre Design is a French company specializing in the processing of natural stone, marble, granite, and composite materials. The enterprise custom-manufactures kitchen countertops, bathroom fixtures, fireplace surrounds, and interior architectural elements. Its core operations focus on precision cutting, slab polishing, and the on-site installation of finished products.",
+   "permalink": "https://www.ransomware.live/id/TWFyYnJlIERlc2lnbkBwYXlsb2Fk",
+   "press": "",
+   "infostealer": false,
+   "id": "TWFyYnJlIERlc2lnbkBwYXlsb2Fk",
+   "chemical": false
+  },
+  {
+   "victim": "Broadstreet HEOR",
+   "group": "rhysida",
+   "discovered": "2026-10-28T12:28:36.839608+00:00",
+   "attackdate": "2026-10-28T12:28:11.974277+00:00",
+   "country": "",
+   "activity": "Professional Services",
+   "website": "broadstreetheor.com",
+   "description": "Broadstreet HEOR Broadstreet Health Economics & Outcomes Research (Vancouver, Canada)is a consultancy running health-economics and real-world-evidencestudies for Pfizer, Bayer, Boehringer Ingelheim, Takeda, Madrigal,Alexion/AstraZeneca, Bristol-Myers Squibb, Sarepta, Taysha, Biohavenand others.- US patient PHI: Medicaid (11.3M rows: DOB, race, diagnoses, NDCdrugs, payments), Veradigm/Allscripts EHR tables, licensed IBMMarketScan / Optum Clinformatics data.- Production Alexiondb (PostgreSQL): schema + claims rows.- Live SQL Server credentials of client Taysha Gene Therapies(production DB irsf-n",
+   "permalink": "https://www.ransomware.live/id/QnJvYWRzdHJlZXQgSEVPUkByaHlzaWRh",
+   "press": "",
+   "infostealer": true,
+   "id": "QnJvYWRzdHJlZXQgSEVPUkByaHlzaWRh",
+   "chemical": true
+  },
   {
    "victim": "Meleghy Automotive & Cie. GmbH",
    "group": "aurora",
