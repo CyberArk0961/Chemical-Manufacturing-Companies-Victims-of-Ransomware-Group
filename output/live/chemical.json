@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-28T17:25:49.426Z",
+ "last_updated": "2026-10-28T21:55:09.627Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1834,
+ "count": 1835,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 162,
+ "chemical_matches": 163,
  "victims": [
+  {
+   "victim": "Fortrex",
+   "group": "Wallstreet",
+   "discovered": "2026-10-28T21:31:10.907978+00:00",
+   "attackdate": "2026-10-28T20:40:22+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Fortrex is the premier provider of food safety solutions in North America, offering comprehensive sanitation services, chemical products and intervention solutions for food processing facilities. Our team of skilled food sanitors, microbiologists, technical experts and engineers are committed to keeping USDA, FDA, and CFIA processing facilities clean, safe, and audit-ready",
+   "permalink": "https://www.ransomware.live/id/Rm9ydHJleEBXYWxsc3RyZWV0",
+   "press": "",
+   "infostealer": false,
+   "id": "Rm9ydHJleEBXYWxsc3RyZWV0",
+   "chemical": true
+  },
   {
    "victim": "Hauhinco",
    "group": "payload",
