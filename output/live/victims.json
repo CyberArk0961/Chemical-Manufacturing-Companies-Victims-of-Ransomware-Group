@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-28T00:04:03.184Z",
+ "last_updated": "2026-10-28T05:46:50.279Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "wagyu.xyz unfairness",
+   "group": "Whitearmor",
+   "discovered": "2026-10-28T02:10:42.771753+00:00",
+   "attackdate": "2026-10-28T00:46:00+00:00",
+   "country": "",
+   "activity": "Other",
+   "website": "",
+   "description": "wagyu.xyz runs two rigged systems, both proven by the evidence:\n\n1. Rigged coinflip. The site advertises \"48% win chance, 4% house edge\" (coinflip-public-claim.txt, coinflip-public-terms.json), but server settings aimed for a 4.00% expected edge and the distribution of outcomes is measurably shifted against players: of 2,852 provably-fair-verified flips, 1,417 fell in the 0-48000 band versus 1,325 above 52000, with only 110 in the dead zone (coinflip-measured-odds.json, result_bins). The provably-fair HMAC checks all pass (coinflip-fairness-verify.py, coinflip-sample-seed-chain.json), which on",
+   "permalink": "https://www.ransomware.live/id/d2FneXUueHl6IHVuZmFpcm5lc3NAV2hpdGVhcm1vcg",
+   "press": "",
+   "infostealer": false,
+   "id": "d2FneXUueHl6IHVuZmFpcm5lc3NAV2hpdGVhcm1vcg"
+  },
+  {
+   "victim": "Echo.com",
+   "group": "Whitearmor",
+   "discovered": "2026-10-28T02:10:02.050465+00:00",
+   "attackdate": "2026-10-28T01:05:00+00:00",
+   "country": "DE",
+   "activity": "Technology",
+   "website": "Echo.com",
+   "description": "Echo Global Logistics is a Chicago-based, technology-enabled third-party logistics provider offering freight brokerage and integrated supply chain services, including truckload, LTL, warehousing, and cross-border shipping across North America.\n\nWe hold Echo Global Logistics data: 2.06M claims rows, 153,727 freight loads, 261,440 quotes ($705M buy volume), 136,273 tenderings, 59,607 tracking records, 3,890 employee identity mappings with emails, 2,418 customers, 9,122 carriers, and warehouse geodata.\n\nWe suggest you pay a small ransom demand of $10,000,000 in BTC and move on with your lives.\n\nE",
+   "permalink": "https://www.ransomware.live/id/RWNoby5jb21AV2hpdGVhcm1vcg",
+   "press": "",
+   "infostealer": false,
+   "id": "RWNoby5jb21AV2hpdGVhcm1vcg"
+  },
+  {
+   "victim": "Ryder",
+   "group": "Whitearmor",
+   "discovered": "2026-10-28T01:09:16.806823+00:00",
+   "attackdate": "2026-10-27T22:26:00+00:00",
+   "country": "US",
+   "activity": "Transportation",
+   "website": "",
+   "description": "Ryder is a Fortune 500 transportation and supply chain management company providing fleet management, dedicated transportation, and logistics solutions.\n\nWhat we hold: 18.75M rows, 328 CSVs,  consumer names, phones, emails, driver/associate PII, cleartext API keys, LMS credentials, FTP/telematics configs from RyderView, RLM, EFT.\n\nOur demand is only $20M in BTC... i swear.\n\nSamples can be found below.\n\nEmails with instructions will be sent to Ryder shortly, and no we did not buy access from 'shadowbyte' or whatever the niggas name is on pwnforums.\n\nContact if you do not receive the instruction",
+   "permalink": "https://www.ransomware.live/id/UnlkZXJAV2hpdGVhcm1vcg",
+   "press": "",
+   "infostealer": false,
+   "id": "UnlkZXJAV2hpdGVhcm1vcg"
+  },
   {
    "victim": "https://t.me/whitearmorxd",
    "group": "Whitearmor",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "QW5kcmV3cyBBZHZpc29yeSBHcm91cCBMTENATjBu"
-  },
-  {
-   "victim": "AB InBev",
-   "group": "emperador",
-   "discovered": "2026-10-25T03:22:10.246426+00:00",
-   "attackdate": "2026-10-25T01:51:00+00:00",
-   "country": "BE",
-   "activity": "Agriculture and Food Production",
-   "website": "ab-inbev.be",
-   "description": "AB InBev is the world's largest brewer, headquartered in Belgium, known for Budweiser, Corona, and Stella Artois .\n\nWe hold 329,244 AB InBev social-listening alerts, 2,510 corporate emails across all subsidiaries, 19K access logs, GBS portal records, internal PKI certificates, and 3.2GB of Azure blob assets.\n\nOur demand is $1,000,000 in BTC. [Sector: Retail, Manufacturing]",
-   "permalink": "https://www.ransomware.live/id/QUIgSW5CZXZAZW1wZXJhZG9y",
-   "press": "",
-   "infostealer": false,
-   "id": "QUIgSW5CZXZAZW1wZXJhZG9y"
-  },
-  {
-   "victim": "Hisense",
-   "group": "Whitearmor",
-   "discovered": "2026-10-25T01:24:13.562658+00:00",
-   "attackdate": "2026-10-24T21:33:00+00:00",
-   "country": "CN",
-   "activity": "Technology",
-   "website": "Hisense.com",
-   "description": "Hisense is a Chinese multinational electronics and appliance manufacturer, founded in 1969, known globally for televisions and home appliances.\n\nWe hold Hisense's entire GCRM production document store, the full warranty-claims archive for Malaysia/Singapore: customer names, phones, emails, ID numbers, 2,549 suppliers, hundreds of invoices, payments, contracts, RMA forms, claim evidence, plus their internal CRM app binary.\n\nOur demand is $500,000 in BTC. Good luck.\n\nContact: whitearmorrxd@proton.me\nSession: 0547b7f96d469ecb332e89d0108e71c92df5bacff6c4ed5b9801ab5fffe872ee67",
-   "permalink": "https://www.ransomware.live/id/SGlzZW5zZUBXaGl0ZWFybW9y",
-   "press": "",
-   "infostealer": false,
-   "id": "SGlzZW5zZUBXaGl0ZWFybW9y"
-  },
-  {
-   "victim": "Newcomer Cremations, Funerals & Receptions",
-   "group": "anubis",
-   "discovered": "2026-10-25T00:31:56.643577+00:00",
-   "attackdate": "2026-10-25T00:31:20.927348+00:00",
-   "country": "US",
-   "activity": "Healthcare",
-   "website": "",
-   "description": "Customers' personal documents and the company's internal documents.",
-   "permalink": "https://www.ransomware.live/id/TmV3Y29tZXIgQ3JlbWF0aW9ucywgRnVuZXJhbHMgJiBSZWNlcHRpb25zQGFudWJpcw",
-   "press": "",
-   "infostealer": false,
-   "id": "TmV3Y29tZXIgQ3JlbWF0aW9ucywgRnVuZXJhbHMgJiBSZWNlcHRpb25zQGFudWJpcw"
   }
  ]
 }
