@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-27T05:10:25.705Z",
+ "last_updated": "2026-10-28T11:41:21.560Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1830,
+ "count": 1831,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 161,
  "victims": [
+  {
+   "victim": "Meleghy Automotive & Cie. GmbH",
+   "group": "aurora",
+   "discovered": "2026-10-28T10:05:41.800988+00:00",
+   "attackdate": "2026-10-28T00:00:00+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "Meleghy Automotive & Cie. GmbH",
+   "description": "[automotive] The exposed material includes:\n\nPassport/visa/student-admission dossiers\nTesla Model Y/Opal tooling, CAD and DFM tree\nEmployee contract and HR folders\n<redacted>\nMEB/BMW NCAR metrology and plant-layout trees\nPLC/SPS/robot backups and cross-reference DBs\nTISAX/IATF audit and corrective-action records\nRestricted management meeting/WLAN record\n<redacted>\nBrowser profile SQLite databases",
+   "permalink": "https://www.ransomware.live/id/TWVsZWdoeSBBdXRvbW90aXZlICYgQ2llLiBHbWJIQGF1cm9yYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "TWVsZWdoeSBBdXRvbW90aXZlICYgQ2llLiBHbWJIQGF1cm9yYQ",
+   "chemical": false
+  },
   {
    "victim": "Natuzzi",
    "group": "everest",

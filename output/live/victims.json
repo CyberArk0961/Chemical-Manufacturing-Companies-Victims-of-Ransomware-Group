@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-28T05:46:50.279Z",
+ "last_updated": "2026-10-28T11:41:21.533Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Meleghy Automotive & Cie. GmbH",
+   "group": "aurora",
+   "discovered": "2026-10-28T10:05:41.800988+00:00",
+   "attackdate": "2026-10-28T00:00:00+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "Meleghy Automotive & Cie. GmbH",
+   "description": "[automotive] The exposed material includes:\n\nPassport/visa/student-admission dossiers\nTesla Model Y/Opal tooling, CAD and DFM tree\nEmployee contract and HR folders\n<redacted>\nMEB/BMW NCAR metrology and plant-layout trees\nPLC/SPS/robot backups and cross-reference DBs\nTISAX/IATF audit and corrective-action records\nRestricted management meeting/WLAN record\n<redacted>\nBrowser profile SQLite databases",
+   "permalink": "https://www.ransomware.live/id/TWVsZWdoeSBBdXRvbW90aXZlICYgQ2llLiBHbWJIQGF1cm9yYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "TWVsZWdoeSBBdXRvbW90aXZlICYgQ2llLiBHbWJIQGF1cm9yYQ"
+  },
+  {
+   "victim": "Company #112",
+   "group": "N0n",
+   "discovered": "2026-10-28T07:53:44.722544+00:00",
+   "attackdate": "2026-10-28T07:53:30.006400+00:00",
+   "country": "MY",
+   "activity": "Not Found",
+   "website": "",
+   "description": "telecommunications services · Malaysia | [PENDING EXPOSURE: · settlement window open]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMTEyQE4wbg",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjMTEyQE4wbg"
+  },
   {
    "victim": "wagyu.xyz unfairness",
    "group": "Whitearmor",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "TWFjaCBMYXcgQVBDIChTYW4gRGllZ28gZmFtaWx5IGxhdyBhbmQgZGl2b3JjZSBwcmFjdGljZSlATjBu"
-  },
-  {
-   "victim": "Keidel Supply Company Incorporated",
-   "group": "N0n",
-   "discovered": "2026-10-25T06:54:40.120560+00:00",
-   "attackdate": "2026-10-25T06:54:22.741950+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "plumbing and kitchen products distribution · Cincinnati, Ohio, United States | Sales orders with customer names, item numbers and product descriptions; Customer and order detail files with over 16,000 records; A full backup image of the main application library | [NOT PAID — EXPOSED]",
-   "permalink": "https://www.ransomware.live/id/S2VpZGVsIFN1cHBseSBDb21wYW55IEluY29ycG9yYXRlZEBOMG4",
-   "press": "",
-   "infostealer": false,
-   "id": "S2VpZGVsIFN1cHBseSBDb21wYW55IEluY29ycG9yYXRlZEBOMG4"
-  },
-  {
-   "victim": "Andrews Advisory Group LLC",
-   "group": "N0n",
-   "discovered": "2026-10-25T06:54:11.761633+00:00",
-   "attackdate": "2026-10-25T06:53:52.121712+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "",
-   "description": "Financial Advisory & Restructuring (US) · Chicago, Illinois, USA | Patient records with names and dates of birth from the patient database backup of December 2025 (3,698 records), taken from the office network; The complete patient database backup history, 2018 through 2025; More than 13,000 patient eye examination records with full ocular, medical and social history; OCT eye scan files from the imaging server on the network; Workstation profiles of office staff including stored system credentials | [NOT PAID — EXPOSED]",
-   "permalink": "https://www.ransomware.live/id/QW5kcmV3cyBBZHZpc29yeSBHcm91cCBMTENATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "QW5kcmV3cyBBZHZpc29yeSBHcm91cCBMTENATjBu"
   }
  ]
 }
