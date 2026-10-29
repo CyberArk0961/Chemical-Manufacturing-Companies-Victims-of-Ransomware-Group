@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-10-28T21:55:09.603Z",
+ "last_updated": "2026-10-29T01:50:13.585Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Santiam Hospital & Clinics",
+   "group": "anubis",
+   "discovered": "2026-10-28T23:32:38.524137+00:00",
+   "attackdate": "2026-10-28T23:31:54.432809+00:00",
+   "country": "US",
+   "activity": "Healthcare",
+   "website": "",
+   "description": "A major medical data breach.",
+   "permalink": "https://www.ransomware.live/id/U2FudGlhbSBIb3NwaXRhbCAmIENsaW5pY3NAYW51Ymlz",
+   "press": "",
+   "infostealer": false,
+   "id": "U2FudGlhbSBIb3NwaXRhbCAmIENsaW5pY3NAYW51Ymlz"
+  },
+  {
+   "victim": "Lowenstein Sandler LLP",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-10-28T23:30:55.412982+00:00",
+   "attackdate": "2026-10-28T23:30:54.144910+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Founded in 1961 and headquartered in New York City, New York, Lowenstein Sandler is a national law fir…",
+   "permalink": "https://www.ransomware.live/id/TG93ZW5zdGVpbiBTYW5kbGVyIExMUEBTaWxlbnRSYW5zb21Hcm91cA",
+   "press": "",
+   "infostealer": false,
+   "id": "TG93ZW5zdGVpbiBTYW5kbGVyIExMUEBTaWxlbnRSYW5zb21Hcm91cA"
+  },
+  {
+   "victim": "Cyrious Software",
+   "group": "pear",
+   "discovered": "2026-10-28T21:53:55.380069+00:00",
+   "attackdate": "2026-10-26T00:00:00+00:00",
+   "country": "US",
+   "activity": "Technology",
+   "website": "cyrious.com",
+   "description": "Specialized business management software designed for sign, graphics, and print providers",
+   "permalink": "https://www.ransomware.live/id/Q3lyaW91cyBTb2Z0d2FyZUBwZWFy",
+   "press": "",
+   "infostealer": true,
+   "id": "Q3lyaW91cyBTb2Z0d2FyZUBwZWFy"
+  },
   {
    "victim": "Fortrex",
    "group": "Wallstreet",
@@ -226,20 +268,6 @@
    "press": "https://www.newsoresund.se/fehmarn-balt-bygget-drabbat-av-cyberattack/",
    "infostealer": false,
    "id": "RmVtZXJuIExpbmsgQ29udHJhY3RvcnNAQmFycmFjdWRh"
-  },
-  {
-   "victim": "Broadstreet HEOR",
-   "group": "rhysida",
-   "discovered": "2026-10-28T12:28:36.839608+00:00",
-   "attackdate": "2026-10-28T12:28:11.974277+00:00",
-   "country": "",
-   "activity": "Professional Services",
-   "website": "broadstreetheor.com",
-   "description": "Broadstreet HEOR Broadstreet Health Economics & Outcomes Research (Vancouver, Canada)is a consultancy running health-economics and real-world-evidencestudies for Pfizer, Bayer, Boehringer Ingelheim, Takeda, Madrigal,Alexion/AstraZeneca, Bristol-Myers Squibb, Sarepta, Taysha, Biohavenand others.- US patient PHI: Medicaid (11.3M rows: DOB, race, diagnoses, NDCdrugs, payments), Veradigm/Allscripts EHR tables, licensed IBMMarketScan / Optum Clinformatics data.- Production Alexiondb (PostgreSQL): schema + claims rows.- Live SQL Server credentials of client Taysha Gene Therapies(production DB irsf-n",
-   "permalink": "https://www.ransomware.live/id/QnJvYWRzdHJlZXQgSEVPUkByaHlzaWRh",
-   "press": "",
-   "infostealer": true,
-   "id": "QnJvYWRzdHJlZXQgSEVPUkByaHlzaWRh"
   },
   {
    "victim": "Meleghy Automotive & Cie. GmbH",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "R2zDvGNrYXVmLVZlcm1lc3N1bmcgR21iSEBwYXlsb2Fk"
-  },
-  {
-   "victim": "Miletic GmbH",
-   "group": "payload",
-   "discovered": "2026-10-26T00:23:12.630470+00:00",
-   "attackdate": "2026-10-26T00:22:17.335654+00:00",
-   "country": "DE",
-   "activity": "Not Found",
-   "website": "",
-   "description": "Miletic GmbH is a German specialized contractor headquartered in Bad Schönborn that has been operating in the construction sector since 1989. The company's core business focuses on construction and repair work for ecologically sensitive industrial facilities, including gas stations, tank farms, and operations governed by German water protection laws (WHG Class LAU facilities). Its service portfolio includes joint sealing and remediation, the application of chemical-resistant protective coatings, concrete construction, and related earthworks.",
-   "permalink": "https://www.ransomware.live/id/TWlsZXRpYyBHbWJIQHBheWxvYWQ",
-   "press": "",
-   "infostealer": false,
-   "id": "TWlsZXRpYyBHbWJIQHBheWxvYWQ"
-  },
-  {
-   "victim": "Edelstahl-Mechanik GmbH",
-   "group": "payload",
-   "discovered": "2026-10-26T00:21:58.628410+00:00",
-   "attackdate": "2026-10-26T00:21:03.322103+00:00",
-   "country": "DE",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "Edelstahl-Mechanik GmbH is a German manufacturing company based in Göppingen. The company specializes in laser metal processing, including 2D and 3D laser cutting and welding, as well as structural sheet metal fabrication. Its products and services are applied in industries such as mechanical engineering, the automotive sector, construction, medical technology, and the food industry.",
-   "permalink": "https://www.ransomware.live/id/RWRlbHN0YWhsLU1lY2hhbmlrIEdtYkhAcGF5bG9hZA",
-   "press": "",
-   "infostealer": false,
-   "id": "RWRlbHN0YWhsLU1lY2hhbmlrIEdtYkhAcGF5bG9hZA"
   }
  ]
 }

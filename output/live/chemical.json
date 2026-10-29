@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-10-28T21:55:09.627Z",
+ "last_updated": "2026-10-29T01:50:13.606Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1835,
+ "count": 1833,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 163,
+ "chemical_matches": 161,
  "victims": [
   {
    "victim": "Fortrex",
@@ -52,21 +52,6 @@
    "infostealer": false,
    "id": "TWFyYnJlIERlc2lnbkBwYXlsb2Fk",
    "chemical": false
-  },
-  {
-   "victim": "Broadstreet HEOR",
-   "group": "rhysida",
-   "discovered": "2026-10-28T12:28:36.839608+00:00",
-   "attackdate": "2026-10-28T12:28:11.974277+00:00",
-   "country": "",
-   "activity": "Professional Services",
-   "website": "broadstreetheor.com",
-   "description": "Broadstreet HEOR Broadstreet Health Economics & Outcomes Research (Vancouver, Canada)is a consultancy running health-economics and real-world-evidencestudies for Pfizer, Bayer, Boehringer Ingelheim, Takeda, Madrigal,Alexion/AstraZeneca, Bristol-Myers Squibb, Sarepta, Taysha, Biohavenand others.- US patient PHI: Medicaid (11.3M rows: DOB, race, diagnoses, NDCdrugs, payments), Veradigm/Allscripts EHR tables, licensed IBMMarketScan / Optum Clinformatics data.- Production Alexiondb (PostgreSQL): schema + claims rows.- Live SQL Server credentials of client Taysha Gene Therapies(production DB irsf-n",
-   "permalink": "https://www.ransomware.live/id/QnJvYWRzdHJlZXQgSEVPUkByaHlzaWRh",
-   "press": "",
-   "infostealer": true,
-   "id": "QnJvYWRzdHJlZXQgSEVPUkByaHlzaWRh",
-   "chemical": true
   },
   {
    "victim": "Meleghy Automotive & Cie. GmbH",
@@ -201,21 +186,6 @@
    "press": "",
    "infostealer": true,
    "id": "bWFoc2luZy5jb20ubXlAU2NhcmxldHRncm91cA",
-   "chemical": true
-  },
-  {
-   "victim": "Miletic GmbH",
-   "group": "payload",
-   "discovered": "2026-10-26T00:23:12.630470+00:00",
-   "attackdate": "2026-10-26T00:22:17.335654+00:00",
-   "country": "DE",
-   "activity": "Not Found",
-   "website": "",
-   "description": "Miletic GmbH is a German specialized contractor headquartered in Bad Schönborn that has been operating in the construction sector since 1989. The company's core business focuses on construction and repair work for ecologically sensitive industrial facilities, including gas stations, tank farms, and operations governed by German water protection laws (WHG Class LAU facilities). Its service portfolio includes joint sealing and remediation, the application of chemical-resistant protective coatings, concrete construction, and related earthworks.",
-   "permalink": "https://www.ransomware.live/id/TWlsZXRpYyBHbWJIQHBheWxvYWQ",
-   "press": "",
-   "infostealer": false,
-   "id": "TWlsZXRpYyBHbWJIQHBheWxvYWQ",
    "chemical": true
   },
   {
