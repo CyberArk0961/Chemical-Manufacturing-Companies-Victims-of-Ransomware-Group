@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-10-30T13:38:06.548Z",
+ "last_updated": "2026-10-30T18:53:36.192Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1835,
+ "count": 1838,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 161,
  "victims": [
+  {
+   "victim": "Cipsa Industrias Sa De Cv",
+   "group": "rhysida",
+   "discovered": "2026-10-30T18:43:09.038702+00:00",
+   "attackdate": "2026-10-30T18:42:39.856179+00:00",
+   "country": "MX",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Cipsa Industrias Sa De Cv Compania Industrial Papelera Poblana, S.A. de C.V. (CIPPSA) and Tubos y Empaques de Puebla, S.A. de C.V. (TEPSA / KJAS TEPSA), a Mexican corrugated cardboard, packaging and paper-tube manufacturer. Complete employee HR records: names, dates of birth, home addresses, phone numbers, personal and corporate email addresses, CURP, RFC, IMSS numbers, salaries and employee badge photographs.Payroll records, tax data, fiscal validation files and HSBC payroll-bank files containing employee account and CLABE data.Information showing executive compensation through an **honorario",
+   "permalink": "https://www.ransomware.live/id/Q2lwc2EgSW5kdXN0cmlhcyBTYSBEZSBDdkByaHlzaWRh",
+   "press": "",
+   "infostealer": false,
+   "id": "Q2lwc2EgSW5kdXN0cmlhcyBTYSBEZSBDdkByaHlzaWRh",
+   "chemical": false
+  },
+  {
+   "victim": "Rapid Manufacturing",
+   "group": "aurora",
+   "discovered": "2026-10-30T15:03:11.683950+00:00",
+   "attackdate": "2026-10-30T00:00:00+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "Rapid Manufacturing",
+   "description": "[manufacturer] Rapid Manufacturing — a 50-year-old electronics contract manufacturer in Anaheim, California with operations in Ensenada, Mexico.\nRapid Manufacturing is not a household name. But it is a critical Tier-1 supplier to SpaceX (Falcon & Starship programs), Anduril, Northrop Grumman, Rocket Lab, L3Harris, Collins Aerospace (RTX), and Millennium Space (Boeing). It builds the wire harnesses, electro-mechanical assemblies, and box builds that go inside rockets, missiles, and satellites.\n\nThe exposed material includes:\n\n<redacted>>\nITAR-controlled engineering drawings and manufacturing pr",
+   "permalink": "https://www.ransomware.live/id/UmFwaWQgTWFudWZhY3R1cmluZ0BhdXJvcmE",
+   "press": "",
+   "infostealer": false,
+   "id": "UmFwaWQgTWFudWZhY3R1cmluZ0BhdXJvcmE",
+   "chemical": false
+  },
+  {
+   "victim": "Hudson & Hudson Sign Products",
+   "group": "akira",
+   "discovered": "2026-10-30T14:07:54.040565+00:00",
+   "attackdate": "2026-10-30T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Hudson & Hudson is a second generation sign company, located in the heart of Houston. From its \nhumble beginnings, in the back of a garage near downtown Houston, it has grown to one of the pr\nemier sign manufacturing facilities in the US.\n\nWe will upload 14gb of corporate data soon. Employee information, contracts and agreements, cli\nent information, financials, drawings and so on.\n",
+   "permalink": "https://www.ransomware.live/id/SHVkc29uICYgSHVkc29uIFNpZ24gUHJvZHVjdHNAYWtpcmE",
+   "press": "",
+   "infostealer": false,
+   "id": "SHVkc29uICYgSHVkc29uIFNpZ24gUHJvZHVjdHNAYWtpcmE",
+   "chemical": false
+  },
   {
    "victim": "CP Manufacturing, Inc.",
    "group": "aurora",
