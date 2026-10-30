@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-10-30T00:27:18.643Z",
+ "last_updated": "2026-10-30T06:30:52.604Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Minutes Quick Services",
+   "group": "N0n",
+   "discovered": "2026-10-30T05:53:58.343512+00:00",
+   "attackdate": "2026-10-30T05:53:45.485197+00:00",
+   "country": "AE",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "retail and facility services · United Arab Emirates | 15,832 salary transfer records with full names, Emirates ID numbers, bank account numbers and monthly salaries, including a September 2026 payroll of 450 staff and AED 1,768,100; Employee master records of 966 staff with names, dates of birth, nationalities, designations, branches and bank account details; Identity document records: passport, visa, labour card and Emirates ID numbers with issue and expiry dates; A listing of 348 employee document scan files including named passport scans; 2,002,922 biometric attendance records spanning the ",
+   "permalink": "https://www.ransomware.live/id/TWludXRlcyBRdWljayBTZXJ2aWNlc0BOMG4",
+   "press": "",
+   "infostealer": false,
+   "id": "TWludXRlcyBRdWljayBTZXJ2aWNlc0BOMG4"
+  },
   {
    "victim": "Susman Godfrey LLP",
    "group": "SilentRansomGroup",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "QWZmbGVsb3VAZW1wZXJhZG9y"
-  },
-  {
-   "victim": "University of New Mexico",
-   "group": "BYOD",
-   "discovered": "2026-10-26T20:52:51.596489+00:00",
-   "attackdate": "2026-10-26T00:00:00+00:00",
-   "country": "US",
-   "activity": "Education",
-   "website": "",
-   "description": "36,000 Machines Compromised, both AD forests (Main Campus + Hospital Sector(with appointments, patient information + research)) With GPOs, Two Oracle databases, every student + employee PII (including SSNs), research information, entire Entra Tenant, Oracle HR + Payroll + Banner Student Records, Internal Emails, Cerner EHR rosters. This is your entire network and infrastructure compromised, the entire university COMPLETELY. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours.",
-   "permalink": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBvZiBOZXcgTWV4aWNvQEJZT0Q",
-   "press": "",
-   "infostealer": false,
-   "id": "VW5pdmVyc2l0eSBvZiBOZXcgTWV4aWNvQEJZT0Q"
   }
  ]
 }
