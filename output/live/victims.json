@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-29T20:40:03.363Z",
+ "last_updated": "2026-10-30T00:27:18.643Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Susman Godfrey LLP",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-10-30T00:02:22.816559+00:00",
+   "attackdate": "2026-10-30T00:02:21.477082+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Susman Godfrey L.L.P. is a premier litigation firm recognized for its exceptional courtroom talent and…",
+   "permalink": "https://www.ransomware.live/id/U3VzbWFuIEdvZGZyZXkgTExQQFNpbGVudFJhbnNvbUdyb3Vw",
+   "press": "",
+   "infostealer": false,
+   "id": "U3VzbWFuIEdvZGZyZXkgTExQQFNpbGVudFJhbnNvbUdyb3Vw"
+  },
+  {
+   "victim": "TDS Telecommunications LLC.",
+   "group": "Global Secret Group",
+   "discovered": "2026-10-29T21:54:07.712704+00:00",
+   "attackdate": "2026-10-29T21:53:22.986061+00:00",
+   "country": "US",
+   "activity": "Energy & Utilities",
+   "website": "tdstelecom.com",
+   "description": "Country: Madison, Wisconsin, US |\nWebsite: tdstelecom.com |\nRevenue: $1.30 Billion |\nIndustry: Telecommunications, Internet Service Providers |\nEmployees: 3,000-5,000 |\nProperties: 27.4 GB (79,679 Files, 1,943 Folders)",
+   "permalink": "https://www.ransomware.live/id/VERTIFRlbGVjb21tdW5pY2F0aW9ucyBMTEMuQEdsb2JhbCBTZWNyZXQgR3JvdXA",
+   "press": "",
+   "infostealer": true,
+   "id": "VERTIFRlbGVjb21tdW5pY2F0aW9ucyBMTEMuQEdsb2JhbCBTZWNyZXQgR3JvdXA"
+  },
+  {
+   "victim": "IT Foods Industries",
+   "group": "Shiba",
+   "discovered": "2026-10-29T20:36:55.631822+00:00",
+   "attackdate": "2026-10-29T20:36:54.572208+00:00",
+   "country": "",
+   "activity": "Agriculture and Food Production",
+   "website": "",
+   "description": "Manufacturing",
+   "permalink": "https://www.ransomware.live/id/SVQgRm9vZHMgSW5kdXN0cmllc0BTaGliYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "SVQgRm9vZHMgSW5kdXN0cmllc0BTaGliYQ"
+  },
+  {
+   "victim": "Friendly Senior Living",
+   "group": "Shiba",
+   "discovered": "2026-10-29T20:36:36.107929+00:00",
+   "attackdate": "2026-10-29T20:36:35.098593+00:00",
+   "country": "",
+   "activity": "Healthcare",
+   "website": "",
+   "description": "Hospitals & Physicians Clinics",
+   "permalink": "https://www.ransomware.live/id/RnJpZW5kbHkgU2VuaW9yIExpdmluZ0BTaGliYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "RnJpZW5kbHkgU2VuaW9yIExpdmluZ0BTaGliYQ"
+  },
   {
    "victim": "Morgan White Group",
    "group": "Shiba",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "VW5pdmVyc2l0eSBvZiBOZXcgTWV4aWNvQEJZT0Q"
-  },
-  {
-   "victim": "MISC Group",
-   "group": "rhysida",
-   "discovered": "2026-10-26T20:27:18.651315+00:00",
-   "attackdate": "2026-10-26T20:26:45.941160+00:00",
-   "country": "MY",
-   "activity": "Energy & Utilities",
-   "website": "",
-   "description": "MISC Group Incorporated in 1968, MISC Group is a world leading provider of international energy-related maritime solutions and services.29,841 files , 28.4 GBComplete command workstations: Master, Chief Officer and Bridge user folders - 16,918 files / 15.5 GB, including PST mail archives;Crew personal data (PDPA breach): IMO FAL Form 5 crew lists for ~30 seafarers with passport numbers (Malaysia/Philippines/Indonesia/India), Seafarer Employment Agreements with DOB, home addresses and salaries, a full scan of the 4th Officer's PRC passport;Every ship's password: ECDIS, CCTV, AIS, fire & gas ala",
-   "permalink": "https://www.ransomware.live/id/TUlTQyBHcm91cEByaHlzaWRh",
-   "press": "",
-   "infostealer": false,
-   "id": "TUlTQyBHcm91cEByaHlzaWRh"
-  },
-  {
-   "victim": "Ingelectus Innovative Electrical Solutions S.L.",
-   "group": "N0n",
-   "discovered": "2026-10-26T18:57:11.389460+00:00",
-   "attackdate": "2026-10-26T18:56:53.931744+00:00",
-   "country": "ES",
-   "activity": "Energy & Utilities",
-   "website": "",
-   "description": "smart grid engineering firm · Spain | Live electrical telemetry sampled from the plant control network, with voltage, current and energy readings recorded on 23 October 2026; Complete inventory of 49 network devices including substation switches, remote terminal units, power meters and server management controllers, with locations and firmware details; Full maps of the internal control network segments and message broker metrics that carry the plant data | [NOT PAID — EXPOSED]",
-   "permalink": "https://www.ransomware.live/id/SW5nZWxlY3R1cyBJbm5vdmF0aXZlIEVsZWN0cmljYWwgU29sdXRpb25zIFMuTC5ATjBu",
-   "press": "",
-   "infostealer": false,
-   "id": "SW5nZWxlY3R1cyBJbm5vdmF0aXZlIEVsZWN0cmljYWwgU29sdXRpb25zIFMuTC5ATjBu"
-  },
-  {
-   "victim": "Gamdom",
-   "group": "Whitearmor",
-   "discovered": "2026-10-26T18:00:10.433408+00:00",
-   "attackdate": "2026-10-26T16:45:00+00:00",
-   "country": "",
-   "activity": "Other",
-   "website": "",
-   "description": "Gamdom is an unregulated crypto casino and sportsbook founded in 2016. It recently suffered a hot-wallet breach, with founder Felix Romer reporting over $3 million in losses, though on-chain analysts estimate the damage closer to $4.2 million.\n\nWe hold Gamdom's full user database, 15,420,003 accounts with 146 columns, with Gamdom's total combined profit value exceeding $1 billion.\n\nThe way in was something internal, a machine account that was already sitting in their admin side (Metawin). \nIssued years back, nobody ever rotated it. Never meant to leave the building. \nIt had admin reach, and ev",
-   "permalink": "https://www.ransomware.live/id/R2FtZG9tQFdoaXRlYXJtb3I",
-   "press": "",
-   "infostealer": false,
-   "id": "R2FtZG9tQFdoaXRlYXJtb3I"
-  },
-  {
-   "victim": "Beasley Allen Law Firm",
-   "group": "Falcon",
-   "discovered": "2026-10-26T16:54:28.340940+00:00",
-   "attackdate": "2026-10-26T16:53:26.015814+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "",
-   "description": "Plaintiff litigation law firm - Our 214 GB extraction includes executed agreements, final settlement participation agreements, court-signed stipulations regarding net worth, privileged internal memos, detailed litigation strategies, rough trial transcripts, comprehensive staff FAQs and much more.",
-   "permalink": "https://www.ransomware.live/id/QmVhc2xleSBBbGxlbiBMYXcgRmlybUBGYWxjb24",
-   "press": "",
-   "infostealer": false,
-   "id": "QmVhc2xleSBBbGxlbiBMYXcgRmlybUBGYWxjb24"
   }
  ]
 }
