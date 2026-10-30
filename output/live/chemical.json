@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-10-29T20:40:03.387Z",
+ "last_updated": "2026-10-30T13:38:06.548Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1834,
+ "count": 1835,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 161,
  "victims": [
+  {
+   "victim": "CP Manufacturing, Inc.",
+   "group": "aurora",
+   "discovered": "2026-10-30T13:08:15.042063+00:00",
+   "attackdate": "2026-10-30T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "CP Manufacturing, Inc.",
+   "description": "[manufacturer] CP Manufacturing, Inc. — a San Diego-based industrial manufacturer of waste sorting and recycling equipment (MRF systems) operating since the 1970s under\nthe CP Group / CPG Sorting Technologies brand, with subsidiaries MSS Inc. (Nashville, TN), IMS Electronics Recycling, IMS Logistics, IMS Recycling Services,\nMaterial Sales, HMM, and UK partner Recycleye.\n\nThe dataset includes complete server mirrors from HR, finance, engineering, legal, operations, and sales infrastructure, capturing the company's entire digital\nfootprint:\n\nSage/Epicor ERP accounting system for 8 entities (CPM,",
+   "permalink": "https://www.ransomware.live/id/Q1AgTWFudWZhY3R1cmluZywgSW5jLkBhdXJvcmE",
+   "press": "",
+   "infostealer": false,
+   "id": "Q1AgTWFudWZhY3R1cmluZywgSW5jLkBhdXJvcmE",
+   "chemical": false
+  },
   {
    "victim": "in*****s.com",
    "group": "everstake",
