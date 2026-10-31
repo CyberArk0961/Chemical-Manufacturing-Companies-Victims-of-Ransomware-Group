@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-10-30T22:59:44.199Z",
+ "last_updated": "2026-10-31T02:26:15.696Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "chicagolawyer.com",
+   "group": "incransom",
+   "discovered": "2026-10-31T00:01:20.224552+00:00",
+   "attackdate": "2026-10-30T23:00:00+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "chicagolawyer.com",
+   "description": "Chicago Personal Injury Lawyers Award-Winning Injury Lawyers At Staver Accident Injury Lawyers, we face powerful insurance companies head-on, using our decades of experience to help injury victims like you get the compensation you deserve. SAIL to victory with our winning team.",
+   "permalink": "https://www.ransomware.live/id/Y2hpY2Fnb2xhd3llci5jb21AaW5jcmFuc29t",
+   "press": "",
+   "infostealer": false,
+   "id": "Y2hpY2Fnb2xhd3llci5jb21AaW5jcmFuc29t"
+  },
+  {
+   "victim": "sp*****g.com",
+   "group": "everstake",
+   "discovered": "2026-10-30T23:55:36.898357+00:00",
+   "attackdate": "2026-10-30T23:55:13.508832+00:00",
+   "country": "",
+   "activity": "Not Found",
+   "website": "",
+   "description": "Manufacturing",
+   "permalink": "https://www.ransomware.live/id/c3AqKioqKmcuY29tQGV2ZXJzdGFrZQ",
+   "press": "",
+   "infostealer": false,
+   "id": "c3AqKioqKmcuY29tQGV2ZXJzdGFrZQ"
+  },
+  {
+   "victim": "ArentFox Schiff",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-10-30T23:39:46.923961+00:00",
+   "attackdate": "2026-10-30T23:39:45.610251+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "ArentFox Schiff LLP is a prominent national law firm and lobbying firm formed on March 1, 2022, throug…",
+   "permalink": "https://www.ransomware.live/id/QXJlbnRGb3ggU2NoaWZmQFNpbGVudFJhbnNvbUdyb3Vw",
+   "press": "",
+   "infostealer": false,
+   "id": "QXJlbnRGb3ggU2NoaWZmQFNpbGVudFJhbnNvbUdyb3Vw"
+  },
+  {
+   "victim": "Studio Stelitano e Associati",
+   "group": "emperador",
+   "discovered": "2026-10-30T23:27:04.311896+00:00",
+   "attackdate": "2026-10-30T21:44:00+00:00",
+   "country": "IT",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Studio Stelitano e Associati\nItalian professional consulting firm based in Bologna (Italy)\nLabor Law and HR Administration\nThe archive contains the most important personal data and customer data [Sector: Finance]",
+   "permalink": "https://www.ransomware.live/id/U3R1ZGlvIFN0ZWxpdGFubyBlIEFzc29jaWF0aUBlbXBlcmFkb3I",
+   "press": "",
+   "infostealer": false,
+   "id": "U3R1ZGlvIFN0ZWxpdGFubyBlIEFzc29jaWF0aUBlbXBlcmFkb3I"
+  },
   {
    "victim": "Acclaim Companies / JCJ Investment",
    "group": "genesis",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "VGFpbG9ybWFkZSBMb2dpc3RpY3NAcGxheQ"
-  },
-  {
-   "victim": "Coast 2 Coast",
-   "group": "play",
-   "discovered": "2026-10-27T19:51:00.885314+00:00",
-   "attackdate": "2026-10-27T19:50:27.533407+00:00",
-   "country": "US",
-   "activity": "Retail & E-Commerce",
-   "website": "www.c2cescrow.com",
-   "description": "United States",
-   "permalink": "https://www.ransomware.live/id/Q29hc3QgMiBDb2FzdEBwbGF5",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29hc3QgMiBDb2FzdEBwbGF5"
-  },
-  {
-   "victim": "VPC Builders",
-   "group": "play",
-   "discovered": "2026-10-27T19:50:08.859781+00:00",
-   "attackdate": "2026-10-27T19:49:34.930278+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "www.vpcbuilders.com",
-   "description": "United States",
-   "permalink": "https://www.ransomware.live/id/VlBDIEJ1aWxkZXJzQHBsYXk",
-   "press": "",
-   "infostealer": false,
-   "id": "VlBDIEJ1aWxkZXJzQHBsYXk"
-  },
-  {
-   "victim": "UPDATE: UNM",
-   "group": "BYOD",
-   "discovered": "2026-10-27T18:50:58.721566+00:00",
-   "attackdate": "2026-10-27T00:00:00+00:00",
-   "country": "",
-   "activity": "Education",
-   "website": "",
-   "description": "We are offering the decryption key for the remaining of locked devices for free (ONLY for the hospital sector) we did not know that it was running machines related to assisting patients in real-time, (we would keep it locked if it was appointments, patient information + research data only), we are still going to keep the data, but we will provide the decryption key for the hospital sector only. Feel free to contact us on Session. To any patient that was affected, please provide us proof, and we will pay you up to $2500 each for the inconvenience. We are sorry once again. We have morals and we ",
-   "permalink": "https://www.ransomware.live/id/VVBEQVRFOiBVTk1AQllPRA",
-   "press": "",
-   "infostealer": false,
-   "id": "VVBEQVRFOiBVTk1AQllPRA"
-  },
-  {
-   "victim": "Hygiena",
-   "group": "play",
-   "discovered": "2026-10-27T18:27:11.459416+00:00",
-   "attackdate": "2026-10-27T18:26:53.307872+00:00",
-   "country": "US",
-   "activity": "Healthcare",
-   "website": "www.hygiena.com",
-   "description": "United States",
-   "permalink": "https://www.ransomware.live/id/SHlnaWVuYUBwbGF5",
-   "press": "",
-   "infostealer": false,
-   "id": "SHlnaWVuYUBwbGF5"
   }
  ]
 }
