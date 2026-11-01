@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-11-01T16:26:30.181Z",
+ "last_updated": "2026-11-01T20:51:21.186Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "synergy.co.id",
+   "group": "lockbit5",
+   "discovered": "2026-11-01T19:27:52.959212+00:00",
+   "attackdate": "2026-11-01T14:55:00+00:00",
+   "country": "ID",
+   "activity": "Not Found",
+   "website": "synergy.co.id",
+   "description": "PT Synergy Risk Management Consultants (“SYNERGY”), an independent company, established in  London,...",
+   "permalink": "https://www.ransomware.live/id/c3luZXJneS5jby5pZEBsb2NrYml0NQ",
+   "press": "",
+   "infostealer": true,
+   "id": "c3luZXJneS5jby5pZEBsb2NrYml0NQ"
+  },
+  {
+   "victim": "Tema Hwt",
+   "group": "Shiba",
+   "discovered": "2026-11-01T18:03:35.740611+00:00",
+   "attackdate": "2026-11-01T18:03:34.415175+00:00",
+   "country": "DE",
+   "activity": "Not Found",
+   "website": "tema-hwt.de",
+   "description": "TEMA Heizung Berlin is a company that provides heating services in Berlin. They offer a range of heating options including heating pumps, maintenance, and optimization. They also provide services for existing oil/gas heating.",
+   "permalink": "https://www.ransomware.live/id/VGVtYSBId3RAU2hpYmE",
+   "press": "",
+   "infostealer": false,
+   "id": "VGVtYSBId3RAU2hpYmE"
+  },
+  {
+   "victim": "fzmb GmbH, Forschungszentrum für Medizintechnik und Biotechnologie",
+   "group": "qilin",
+   "discovered": "2026-11-01T17:33:12.469171+00:00",
+   "attackdate": "2026-11-01T00:00:00+00:00",
+   "country": "DE",
+   "activity": "Healthcare",
+   "website": "www.fzmb.de",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/ZnptYiBHbWJILCBGb3JzY2h1bmdzemVudHJ1bSBmw7xyIE1lZGl6aW50ZWNobmlrIHVuZCBCaW90ZWNobm9sb2dpZUBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "ZnptYiBHbWJILCBGb3JzY2h1bmdzemVudHJ1bSBmw7xyIE1lZGl6aW50ZWNobmlrIHVuZCBCaW90ZWNobm9sb2dpZUBxaWxpbg"
+  },
   {
    "victim": "Global Holding",
    "group": "qilin",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Y2hpY2Fnb2xhd3llci5jb21AaW5jcmFuc29t"
-  },
-  {
-   "victim": "sp*****g.com",
-   "group": "everstake",
-   "discovered": "2026-10-30T23:55:36.898357+00:00",
-   "attackdate": "2026-10-30T23:55:13.508832+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "Manufacturing",
-   "permalink": "https://www.ransomware.live/id/c3AqKioqKmcuY29tQGV2ZXJzdGFrZQ",
-   "press": "",
-   "infostealer": false,
-   "id": "c3AqKioqKmcuY29tQGV2ZXJzdGFrZQ"
-  },
-  {
-   "victim": "ArentFox Schiff",
-   "group": "SilentRansomGroup",
-   "discovered": "2026-10-30T23:39:46.923961+00:00",
-   "attackdate": "2026-10-30T23:39:45.610251+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "",
-   "description": "ArentFox Schiff LLP is a prominent national law firm and lobbying firm formed on March 1, 2022, throug…",
-   "permalink": "https://www.ransomware.live/id/QXJlbnRGb3ggU2NoaWZmQFNpbGVudFJhbnNvbUdyb3Vw",
-   "press": "",
-   "infostealer": false,
-   "id": "QXJlbnRGb3ggU2NoaWZmQFNpbGVudFJhbnNvbUdyb3Vw"
-  },
-  {
-   "victim": "Studio Stelitano e Associati",
-   "group": "emperador",
-   "discovered": "2026-10-30T23:27:04.311896+00:00",
-   "attackdate": "2026-10-30T21:44:00+00:00",
-   "country": "IT",
-   "activity": "Professional Services",
-   "website": "",
-   "description": "Studio Stelitano e Associati\nItalian professional consulting firm based in Bologna (Italy)\nLabor Law and HR Administration\nThe archive contains the most important personal data and customer data [Sector: Finance]",
-   "permalink": "https://www.ransomware.live/id/U3R1ZGlvIFN0ZWxpdGFubyBlIEFzc29jaWF0aUBlbXBlcmFkb3I",
-   "press": "",
-   "infostealer": false,
-   "id": "U3R1ZGlvIFN0ZWxpdGFubyBlIEFzc29jaWF0aUBlbXBlcmFkb3I"
   }
  ]
 }
