@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-10-31T19:34:22.296Z",
+ "last_updated": "2026-11-01T02:15:31.485Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "EVINOKS",
+   "group": "Barracuda",
+   "discovered": "2026-11-01T01:50:47.238640+00:00",
+   "attackdate": "2026-11-01T01:50:30.711414+00:00",
+   "country": "TR",
+   "activity": "Technology",
+   "website": "",
+   "description": "Evinoks is a Turkish company that produces and sells various products for hotel and restaurant service, such as trolleys, chairs, tables, buffet units, furniture and hygiene equipment. It has a wide range of customers and partners around the world and aims to provide innovative, aesthetic and quality.\n\nWe are beginning to release unsold data for free; it will remain available for one month, so be sure to download all the files to your own storage.\nOur storage: http://qr6uopkqxmq254osyct3oibil32xp3qsimkkbqdscsrsb4zqbagnifad.onion/ | Status: free | FREE",
+   "permalink": "https://www.ransomware.live/id/RVZJTk9LU0BCYXJyYWN1ZGE",
+   "press": "",
+   "infostealer": false,
+   "id": "RVZJTk9LU0BCYXJyYWN1ZGE"
+  },
+  {
+   "victim": "Danser",
+   "group": "qilin",
+   "discovered": "2026-11-01T00:39:08.118503+00:00",
+   "attackdate": "2026-11-01T00:00:00+00:00",
+   "country": "US",
+   "activity": "Other",
+   "website": "www.danserinc.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/RGFuc2VyQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "RGFuc2VyQHFpbGlu"
+  },
   {
    "victim": "System Soft",
    "group": "Vexy Ransomware",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "TW9yaXR0IEhvY2sgJiBIYW1yb2ZmIExMUEBTaWxlbnRSYW5zb21Hcm91cA"
-  },
-  {
-   "victim": "P...",
-   "group": "SilentRansomGroup",
-   "discovered": "2026-10-30T21:37:30.043766+00:00",
-   "attackdate": "2026-10-30T21:37:25.367108+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
-   "permalink": "https://www.ransomware.live/id/UC4uLkBTaWxlbnRSYW5zb21Hcm91cA",
-   "press": "",
-   "infostealer": false,
-   "id": "UC4uLkBTaWxlbnRSYW5zb21Hcm91cA"
-  },
-  {
-   "victim": "TRAUCO AG",
-   "group": "qilin",
-   "discovered": "2026-10-30T20:59:51.812328+00:00",
-   "attackdate": "2026-10-30T00:00:00+00:00",
-   "country": "DE",
-   "activity": "Manufacturing",
-   "website": "trauco.de",
-   "description": "N/A",
-   "permalink": "https://www.ransomware.live/id/VFJBVUNPIEFHQHFpbGlu",
-   "press": "",
-   "infostealer": true,
-   "id": "VFJBVUNPIEFHQHFpbGlu"
   }
  ]
 }
