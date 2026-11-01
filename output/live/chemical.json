@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-11-01T02:15:31.508Z",
+ "last_updated": "2026-11-01T16:26:30.201Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1698,
+ "count": 1699,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "hitech group",
+   "group": "HYFLOCK",
+   "discovered": "2026-11-01T12:51:59.138258+00:00",
+   "attackdate": "2026-11-01T12:50:15+00:00",
+   "country": "US",
+   "activity": "Technology",
+   "website": "hitechgroup.com",
+   "description": "Hitech Group (HaiTai Group) Quick Info: Headquarters: Mumbai Founded: 1991, by Ashwin Dani (late, co-founder and former vice-chairman of Asian Paints) Type: Indian diversified business group with multiple companies under the \"Hitech\" brand, over 1000 employees, operating at 15 locations in India, also has a DSIR (Department of Scientific and Industrial Research) certified tech center Main Activities: Hard Plastic Packaging (core business, operated through Hitech Corporation Ltd.) — plastic jars, bottles, drums, industrial containers serving paint & coatings, personal care, construction, chemic",
+   "permalink": "https://www.ransomware.live/id/aGl0ZWNoIGdyb3VwQEhZRkxPQ0s",
+   "press": "",
+   "infostealer": true,
+   "id": "aGl0ZWNoIGdyb3VwQEhZRkxPQ0s",
+   "chemical": true
+  },
+  {
+   "victim": "Shibata Co., Ltd.",
+   "group": "qilin",
+   "discovered": "2026-11-01T12:25:55.065188+00:00",
+   "attackdate": "2026-11-01T00:00:00+00:00",
+   "country": "JP",
+   "activity": "Manufacturing",
+   "website": "www.shibata.co.jp",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/U2hpYmF0YSBDby4sIEx0ZC5AcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "U2hpYmF0YSBDby4sIEx0ZC5AcWlsaW4",
+   "chemical": false
+  },
   {
    "victim": "Straze Garden Center",
    "group": "payload",
@@ -246,21 +276,6 @@
    "press": "",
    "infostealer": true,
    "id": "QmkgTGlua0B0aGVnZW50bGVtZW4",
-   "chemical": true
-  },
-  {
-   "victim": "Facts N Figures",
-   "group": "genesis",
-   "discovered": "2026-10-30T22:00:51.148039+00:00",
-   "attackdate": "2026-10-30T00:00:00+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "factsnfiguresinc.com",
-   "description": "A consumer insights research company.",
-   "permalink": "https://www.ransomware.live/id/RmFjdHMgTiBGaWd1cmVzQGdlbmVzaXM",
-   "press": "",
-   "infostealer": true,
-   "id": "RmFjdHMgTiBGaWd1cmVzQGdlbmVzaXM",
    "chemical": true
   },
   {
