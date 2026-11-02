@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-11-01T16:26:30.201Z",
+ "last_updated": "2026-11-02T07:42:27.675Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1699,
+ "count": 1698,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 154,
+ "chemical_matches": 153,
  "victims": [
   {
    "victim": "hitech group",
@@ -261,21 +261,6 @@
    "press": "",
    "infostealer": false,
    "id": "U0sgQ2FwaXRhbCBQYXJ0bmVyc0B0aGVnZW50bGVtZW4",
-   "chemical": true
-  },
-  {
-   "victim": "Bi Link",
-   "group": "thegentlemen",
-   "discovered": "2026-10-31T07:18:47.943645+00:00",
-   "attackdate": "2026-10-31T06:21:09+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "bi-link.com",
-   "description": "bi-link.com Revenue $380.2 Million  Bi-Link US precision manufacturer founded in 1961 (HQ Bloomingdale, IL), making metal stampings and injection-molded plastics with in-house tooling and assembly for automotive, medical, wireless, and consumer electronics OEMs. It owns plants in Shanghai, Nanning, Mexico (Juárez), and a new Vietnam site (2024), offering prototype-to-production under one roof. Revenue isn't reliably public — broker estimates range wildly from ~$10M to $50M, but a TaiPEX filing suggests ~$5M+/month after consolidation. The critical development: in October 2025 family owners agr",
-   "permalink": "https://www.ransomware.live/id/QmkgTGlua0B0aGVnZW50bGVtZW4",
-   "press": "",
-   "infostealer": true,
-   "id": "QmkgTGlua0B0aGVnZW50bGVtZW4",
    "chemical": true
   },
   {
