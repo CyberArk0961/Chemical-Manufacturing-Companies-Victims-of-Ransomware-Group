@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-11-02T07:42:27.675Z",
+ "last_updated": "2026-11-02T17:27:31.926Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1698,
+ "count": 1699,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 153,
+ "chemical_matches": 152,
  "victims": [
+  {
+   "victim": "Astino Berhad",
+   "group": "qilin",
+   "discovered": "2026-11-02T15:21:52.780394+00:00",
+   "attackdate": "2026-11-02T00:00:00+00:00",
+   "country": "MY",
+   "activity": "Manufacturing",
+   "website": "www.astino.com.my",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/QXN0aW5vIEJlcmhhZEBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "QXN0aW5vIEJlcmhhZEBxaWxpbg",
+   "chemical": false
+  },
+  {
+   "victim": "Ateşsan Ambalaj",
+   "group": "HYFLOCK",
+   "discovered": "2026-11-02T10:52:11.020018+00:00",
+   "attackdate": "2026-11-02T10:00:00+00:00",
+   "country": "TR",
+   "activity": "Manufacturing",
+   "website": "atessan.com.tr",
+   "description": "Ateşsan Ambalaj A.Ş. (Ateşsan Oluklu Mukavva) is a long-established, industry-leading manufacturer of corrugated boxes and packaging in Turkey, founded in 1972. Below is a comprehensive overview of the company: 🏢 Company Profile and Scale History: With over 50 years of industry experience, it is one of the earliest corrugated cardboard factories established in Turkey. Production Capacity: Annual output and production capacity reach up to 150,000 metric tons. Facility Area: It operates a 36,000-square-meter enclosed production area. Industrial Strength: Ranked 231st on the “Top 500 Industrial ",
+   "permalink": "https://www.ransomware.live/id/QXRlxZ9zYW4gQW1iYWxhakBIWUZMT0NL",
+   "press": "",
+   "infostealer": false,
+   "id": "QXRlxZ9zYW4gQW1iYWxhakBIWUZMT0NL",
+   "chemical": false
+  },
   {
    "victim": "hitech group",
    "group": "HYFLOCK",
@@ -247,21 +277,6 @@
    "infostealer": false,
    "id": "QW5nZWxlcyBDb250cmFjdG9yQHRoZWdlbnRsZW1lbg",
    "chemical": false
-  },
-  {
-   "victim": "SK Capital Partners",
-   "group": "thegentlemen",
-   "discovered": "2026-10-31T07:20:54.297273+00:00",
-   "attackdate": "2026-10-28T07:12:39+00:00",
-   "country": "US",
-   "activity": "Financial Services",
-   "website": "skcapitalpartners.com",
-   "description": "skcapitalpartners.com Revenue $63 Million SK Capital Partners is a New York-based private equity firm founded in 2007 as a spinoff from Apax Partners, managing approximately 10 billion dollars across 60 plus investments in specialty chemicals, pharmaceuticals and ingredients. Led by co-founder Barry Siadat, it targets control investments in companies with 100 million to 1 billion dollars in revenue and has built platforms like Advansix, Sartomer and Cura Particles through buy-and-build strategies. Its portfolio companies employ over 12,000 people and generate more than 5 billion dollars in ann",
-   "permalink": "https://www.ransomware.live/id/U0sgQ2FwaXRhbCBQYXJ0bmVyc0B0aGVnZW50bGVtZW4",
-   "press": "",
-   "infostealer": false,
-   "id": "U0sgQ2FwaXRhbCBQYXJ0bmVyc0B0aGVnZW50bGVtZW4",
-   "chemical": true
   },
   {
    "victim": "Louisiana Crane & Construction",
