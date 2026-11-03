@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-11-03T06:52:38.101Z",
+ "last_updated": "2026-11-03T15:12:47.634Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1700,
+ "count": 1703,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 151,
+ "chemical_matches": 152,
  "victims": [
+  {
+   "victim": "Pelham Plastics",
+   "group": "akira",
+   "discovered": "2026-11-03T14:22:55.446972+00:00",
+   "attackdate": "2026-11-03T00:00:00+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Pelham Plastics is a custom plastic engineering company that specializes in high-quality inject\nion molds and custom equipment. They focus on understanding their customers' needs and solving \nchallenges, particularly for medical applications.\n\nWe will upload 30gb of corporate data soon. Employee personal information (passports, drivers l\nicenses and so on), confidential files, contracts and agreements, client information, NDAs and \nso on.\n",
+   "permalink": "https://www.ransomware.live/id/UGVsaGFtIFBsYXN0aWNzQGFraXJh",
+   "press": "",
+   "infostealer": false,
+   "id": "UGVsaGFtIFBsYXN0aWNzQGFraXJh",
+   "chemical": true
+  },
+  {
+   "victim": "DROUIN SAS",
+   "group": "Booba Project",
+   "discovered": "2026-11-03T12:20:41.591331+00:00",
+   "attackdate": "2026-11-03T12:19:11.324000+00:00",
+   "country": "FR",
+   "activity": "Manufacturing",
+   "website": "www.drouin.fr",
+   "description": "Wood Product Manufacturing Stolen data: 20 GB.",
+   "permalink": "https://www.ransomware.live/id/RFJPVUlOIFNBU0BCb29iYSBQcm9qZWN0",
+   "press": "",
+   "infostealer": false,
+   "id": "RFJPVUlOIFNBU0BCb29iYSBQcm9qZWN0",
+   "chemical": false
+  },
+  {
+   "victim": "MARDEC Berhad",
+   "group": "Orova",
+   "discovered": "2026-11-03T07:06:15.205070+00:00",
+   "attackdate": "2026-11-02T00:00:00+00:00",
+   "country": "MY",
+   "activity": "Manufacturing",
+   "website": "www.mardec.com.my",
+   "description": "MARDEC Berhad (formerly known as the Malaysian Rubber Development Corporation or MRDC) was established on 20th September 1969 as a fully–owned government company. MARDEC’s main purpose then was to upgrade the quality of smallholders‘ rubber to meet international requirements, and to provide them with an assured and fair marketing outlet.",
+   "permalink": "https://www.ransomware.live/id/TUFSREVDIEJlcmhhZEBPcm92YQ",
+   "press": "",
+   "infostealer": false,
+   "id": "TUFSREVDIEJlcmhhZEBPcm92YQ",
+   "chemical": false
+  },
   {
    "victim": "Stahlbau Mann GmbH",
    "group": "payload",
