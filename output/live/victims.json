@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-11-03T15:12:47.615Z",
+ "last_updated": "2026-11-03T21:03:00.399Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Project Trojan Horse",
+   "group": "Whitearmor",
+   "discovered": "2026-11-03T20:28:58.460193+00:00",
+   "attackdate": "2026-11-03T19:22:00+00:00",
+   "country": "",
+   "activity": "Other",
+   "website": "",
+   "description": "DM us to sell your IA on $/%, working with all kinds of accesses depending on said target. \n\nRules :\n- No companies under $500kk\n- No companies in the CIS conglomerate \n- Okta, Azure, IAM Root, CRM tools , Jenkins & VPN access (Forti, Anyconnect, Citrix, Sonicwall)\n\n\nWe are also recruiting employees/insiders at various companies!\n\nIf you work at a company in the following sectors, please inquire us : \n- Education (Technology/Software, EdTech platforms, K-12 Management)\n- Software (Entreprise-grade, CRM, SaaS, HR Software, CyberSec, Productivity)\n- Insurance (Globally)\n- Hotels (Worldwide hotel",
+   "permalink": "https://www.ransomware.live/id/UHJvamVjdCBUcm9qYW4gSG9yc2VAV2hpdGVhcm1vcg",
+   "press": "",
+   "infostealer": false,
+   "id": "UHJvamVjdCBUcm9qYW4gSG9yc2VAV2hpdGVhcm1vcg"
+  },
+  {
+   "victim": "Buchanan Ingersoll & Rooney PC",
+   "group": "Falcon",
+   "discovered": "2026-11-03T20:21:16.784607+00:00",
+   "attackdate": "2026-11-03T20:21:13.282721+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Full-service law firm - Our 260 GB extraction includes full DynamicCRM export with account, contact and campaignresponse (includes names, emails, numbers), privileged attorney-client communications, detailed cost and damages analyses, strategic settlement communications, executed M&A documents, signed NDAs with clients, internal board presentations, shareholder meeting materials, firm financial projections, attorney rate sheets, detailed client revenue lists, credential and identity directory exports, tax returns, internal personnel alerts, regulatory correspondence with FDA and DOJ and much m",
+   "permalink": "https://www.ransomware.live/id/QnVjaGFuYW4gSW5nZXJzb2xsICYgUm9vbmV5IFBDQEZhbGNvbg",
+   "press": "",
+   "infostealer": false,
+   "id": "QnVjaGFuYW4gSW5nZXJzb2xsICYgUm9vbmV5IFBDQEZhbGNvbg"
+  },
+  {
+   "victim": "marlo-inc.com",
+   "group": "settra",
+   "discovered": "2026-11-03T17:17:32.956536+00:00",
+   "attackdate": "2026-10-07T00:00:00+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "marlo-inc.com",
+   "description": "Racine, Wisconsin. Marlo Incorporated (marlo-inc.com) manufactures industrial water treatment systems — softeners, carbon filters, reverse osmosis units, deionization vessels — and supplies them to data centers, steel mills, and chemical plants across the United States.",
+   "permalink": "https://www.ransomware.live/id/bWFybG8taW5jLmNvbUBzZXR0cmE",
+   "press": "",
+   "infostealer": false,
+   "id": "bWFybG8taW5jLmNvbUBzZXR0cmE"
+  },
+  {
+   "victim": "Arthur Chapman Kettering Smetak Pikala PA",
+   "group": "qilin",
+   "discovered": "2026-11-03T15:16:48.739925+00:00",
+   "attackdate": "2026-11-03T00:00:00+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "www.arthurchapman.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/QXJ0aHVyIENoYXBtYW4gS2V0dGVyaW5nIFNtZXRhayBQaWthbGEgUEFAcWlsaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "QXJ0aHVyIENoYXBtYW4gS2V0dGVyaW5nIFNtZXRhayBQaWthbGEgUEFAcWlsaW4"
+  },
   {
    "victim": "Bison Bag",
    "group": "akira",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "ZXZlcm9uLmNvbS5hckBzYWZlcGF5"
-  },
-  {
-   "victim": "goldencrops.com.tw",
-   "group": "safepay",
-   "discovered": "2026-10-31T08:00:42.784467+00:00",
-   "attackdate": "2026-10-31T08:00:29.149059+00:00",
-   "country": "TW",
-   "activity": "Agriculture and Food Production",
-   "website": "goldencrops.com.tw",
-   "description": "The company specializes in grain-based foods, nutritional products, plant-based foods and customized food manufacturing services. It operates three factories in …",
-   "permalink": "https://www.ransomware.live/id/Z29sZGVuY3JvcHMuY29tLnR3QHNhZmVwYXk",
-   "press": "",
-   "infostealer": false,
-   "id": "Z29sZGVuY3JvcHMuY29tLnR3QHNhZmVwYXk"
-  },
-  {
-   "victim": "layam.com",
-   "group": "safepay",
-   "discovered": "2026-10-31T08:00:09.488761+00:00",
-   "attackdate": "2026-10-31T07:59:55.684983+00:00",
-   "country": "IL",
-   "activity": "Not Found",
-   "website": "layam.com",
-   "description": "Its product portfolio includes food and provisions, beverages, tobacco products, perfumes, cosmetics, electronics, confectionery, gifts and other duty-free merchandise. The …",
-   "permalink": "https://www.ransomware.live/id/bGF5YW0uY29tQHNhZmVwYXk",
-   "press": "",
-   "infostealer": true,
-   "id": "bGF5YW0uY29tQHNhZmVwYXk"
-  },
-  {
-   "victim": "uaa.mx",
-   "group": "safepay",
-   "discovered": "2026-10-31T07:59:35.931824+00:00",
-   "attackdate": "2026-10-31T07:59:21.298190+00:00",
-   "country": "MX",
-   "activity": "Education",
-   "website": "uaa.mx",
-   "description": "It provides undergraduate and postgraduate education across a broad range of academic disciplines, including engineering, natural sciences, health sciences, social …",
-   "permalink": "https://www.ransomware.live/id/dWFhLm14QHNhZmVwYXk",
-   "press": "",
-   "infostealer": true,
-   "id": "dWFhLm14QHNhZmVwYXk"
-  },
-  {
-   "victim": "Digital Triumph",
-   "group": "N0n",
-   "discovered": "2026-10-31T07:58:16.924529+00:00",
-   "attackdate": "2026-10-31T07:57:54.818319+00:00",
-   "country": "MY",
-   "activity": "Technology",
-   "website": "",
-   "description": "telecommunications services · Malaysia | Employee payroll records with names, national identity numbers and wages, statutory filings 2016 to 2025; Audited financial statements, tax filings and company bank account numbers; 2,552 customer invoices and delivery orders; The full customer service data room covering 309 organizations including banks, an embassy and government offices; The CRM customer database and the company mail archive, 8,700+ verified business emails with customer correspondence | [NOT PAID — EXPOSED]",
-   "permalink": "https://www.ransomware.live/id/RGlnaXRhbCBUcml1bXBoQE4wbg",
-   "press": "",
-   "infostealer": false,
-   "id": "RGlnaXRhbCBUcml1bXBoQE4wbg"
   }
  ]
 }

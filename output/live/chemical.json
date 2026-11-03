@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-03T15:12:47.634Z",
+ "last_updated": "2026-11-03T21:03:00.416Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1703,
+ "count": 1704,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 152,
+ "chemical_matches": 153,
  "victims": [
+  {
+   "victim": "marlo-inc.com",
+   "group": "settra",
+   "discovered": "2026-11-03T17:17:32.956536+00:00",
+   "attackdate": "2026-10-07T00:00:00+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "marlo-inc.com",
+   "description": "Racine, Wisconsin. Marlo Incorporated (marlo-inc.com) manufactures industrial water treatment systems — softeners, carbon filters, reverse osmosis units, deionization vessels — and supplies them to data centers, steel mills, and chemical plants across the United States.",
+   "permalink": "https://www.ransomware.live/id/bWFybG8taW5jLmNvbUBzZXR0cmE",
+   "press": "",
+   "infostealer": false,
+   "id": "bWFybG8taW5jLmNvbUBzZXR0cmE",
+   "chemical": true
+  },
   {
    "victim": "Pelham Plastics",
    "group": "akira",
