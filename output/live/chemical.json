@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-11-04T01:25:33.071Z",
+ "last_updated": "2026-11-04T16:21:21.350Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1706,
+ "count": 1708,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 154,
+ "chemical_matches": 153,
  "victims": [
+  {
+   "victim": "Erowa",
+   "group": "akira",
+   "discovered": "2026-11-04T14:30:04.286448+00:00",
+   "attackdate": "2026-11-04T00:00:00+00:00",
+   "country": "CH",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "EROWA Systems specializes in manufacturing automation and clamping technology, offering modular\nclamping systems, zero-point clamping, and integrated automation solutions. Their products cat\ner to various industries including medical technology, aerospace, automotive, semiconductor, mo\nld and tool making, mechanical engineering, and energy technology.\n\nWe will upload 538gb of corporate data soon. Employee and personal information (passports, addr\nesses, phones and other docs), contracts and agreements, client information, projects, NDAs and\nso on.\n",
+   "permalink": "https://www.ransomware.live/id/RXJvd2FAYWtpcmE",
+   "press": "",
+   "infostealer": false,
+   "id": "RXJvd2FAYWtpcmE",
+   "chemical": false
+  },
+  {
+   "victim": "sigsauer.com",
+   "group": "Scarlettgroup",
+   "discovered": "2026-11-04T08:30:41.479687+00:00",
+   "attackdate": "2026-11-04T05:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "sigsauer.com",
+   "description": "SIG SAUER is a leading firearms manufacturer specializing in pistols, rifles, ammunition, optics, and accessories for civilian, law enforcement, and military use.",
+   "permalink": "https://www.ransomware.live/id/c2lnc2F1ZXIuY29tQFNjYXJsZXR0Z3JvdXA",
+   "press": "",
+   "infostealer": true,
+   "id": "c2lnc2F1ZXIuY29tQFNjYXJsZXR0Z3JvdXA",
+   "chemical": false
+  },
+  {
+   "victim": "ASLAN TEKSTİL ve KONFEKSİYON San.ve Tic. A.Ş.",
+   "group": "Doommageddon",
+   "discovered": "2026-11-04T08:21:21.424054+00:00",
+   "attackdate": "2026-11-04T00:00:00+00:00",
+   "country": "TR",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Status: leaked | Data size: 3.27 GB | Files: 6457 files | Deadline: 2026-11-04T00:00:00Z",
+   "permalink": "https://www.ransomware.live/id/QVNMQU4gVEVLU1TEsEwgdmUgS09ORkVLU8SwWU9OIFNhbi52ZSBUaWMuIEEuxZ4uQERvb21tYWdlZGRvbg",
+   "press": "",
+   "infostealer": false,
+   "id": "QVNMQU4gVEVLU1TEsEwgdmUgS09ORkVLU8SwWU9OIFNhbi52ZSBUaWMuIEEuxZ4uQERvb21tYWdlZGRvbg",
+   "chemical": false
+  },
   {
    "victim": "SILIKO d.o.o.",
    "group": "Aoqin",
@@ -187,21 +232,6 @@
    "infostealer": false,
    "id": "U2hpYmF0YSBDby4sIEx0ZC5AcWlsaW4",
    "chemical": false
-  },
-  {
-   "victim": "Straze Garden Center",
-   "group": "payload",
-   "discovered": "2026-10-31T14:31:26.317572+00:00",
-   "attackdate": "2026-10-31T14:30:23.872003+00:00",
-   "country": "",
-   "activity": "Retail & E-Commerce",
-   "website": "",
-   "description": "Straze Garden Center is a German company operating a garden center and an online store for gardening supplies. The business specializes in selling indoor and outdoor plants, planting materials, soils, fertilizers, and garden tools. It provides on-site retail sales as well as order delivery across Germany.",
-   "permalink": "https://www.ransomware.live/id/U3RyYXplIEdhcmRlbiBDZW50ZXJAcGF5bG9hZA",
-   "press": "",
-   "infostealer": false,
-   "id": "U3RyYXplIEdhcmRlbiBDZW50ZXJAcGF5bG9hZA",
-   "chemical": true
   },
   {
    "victim": "Cabka",
