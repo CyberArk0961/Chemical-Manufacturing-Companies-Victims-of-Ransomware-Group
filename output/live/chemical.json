@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-11-03T21:03:00.416Z",
+ "last_updated": "2026-11-04T01:25:33.071Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1704,
+ "count": 1706,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 153,
+ "chemical_matches": 154,
  "victims": [
+  {
+   "victim": "SILIKO d.o.o.",
+   "group": "Aoqin",
+   "discovered": "2026-11-04T00:54:26.315826+00:00",
+   "attackdate": "2026-11-04T00:54:13.250999+00:00",
+   "country": "SI",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Siliko d.o.o. is a development supplier and manufacturer of technical products made of elastomers and thermoplastics with over 30 years of tradition. During this period, production program expanded substantially and nowadays includes activities which offer customers a comprehensive range of services from draft design and construction to tool making and mass production. 70 percent of our production is being exported to the European Union markets, predominantly to buyers from the German automotive industry. At the same time, we are an important supplier for the household appliances industry on t",
+   "permalink": "https://www.ransomware.live/id/U0lMSUtPIGQuby5vLkBBb3Fpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "U0lMSUtPIGQuby5vLkBBb3Fpbg",
+   "chemical": true
+  },
+  {
+   "victim": "darrequipment.com",
+   "group": "chaos",
+   "discovered": "2026-11-03T21:44:06.006241+00:00",
+   "attackdate": "2026-11-03T21:43:48.668323+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "darrequipment.com",
+   "description": "Darr Equipment Co. is a family-owned, service first, industrial equipment supplier specializing in providing customized solutions to meet our clients' specific goals. Darr provides new and used forklift, material handling, earthmoving, and construction equipment to construction and industrial market…",
+   "permalink": "https://www.ransomware.live/id/ZGFycmVxdWlwbWVudC5jb21AY2hhb3M",
+   "press": "",
+   "infostealer": false,
+   "id": "ZGFycmVxdWlwbWVudC5jb21AY2hhb3M",
+   "chemical": false
+  },
   {
    "victim": "marlo-inc.com",
    "group": "settra",
