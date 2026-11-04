@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-11-04T01:25:33.049Z",
+ "last_updated": "2026-11-04T08:04:21.817Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "IHG Hotels & Resorts (Estate)",
+   "group": "BYOD",
+   "discovered": "2026-11-04T01:26:31.478812+00:00",
+   "attackdate": "2026-11-03T00:00:00+00:00",
+   "country": "GB",
+   "activity": "Hospitality",
+   "website": "",
+   "description": "Nice LDAP Binding Password being '123'. Rotating things won't really save you casue it's not hard to hop back on your network. Anyways, we now have; Customer Data, AWS Keys, Full Access to CyberArk, Complete Employee PII, Booking information included but not limited to, guest name, billing address, company, rate code, room charges, taxes, spend, property & stay dates. We also have the loyalty data store. Additionally we have reservation and payment ledgers for the folio reservation (guest name, address, phone, email, arrival and departure, rate, property) with Access to the AD + All Financial ",
+   "permalink": "https://www.ransomware.live/id/SUhHIEhvdGVscyAmIFJlc29ydHMgKEVzdGF0ZSlAQllPRA",
+   "press": "",
+   "infostealer": false,
+   "id": "SUhHIEhvdGVscyAmIFJlc29ydHMgKEVzdGF0ZSlAQllPRA"
+  },
   {
    "victim": "SILIKO d.o.o.",
    "group": "Aoqin",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q2Fia2FAQXVkaXRUZWFt"
-  },
-  {
-   "victim": "Pe***CT",
-   "group": "AuditTeam",
-   "discovered": "2026-10-31T10:53:29.900531+00:00",
-   "attackdate": "2026-10-31T00:00:00+00:00",
-   "country": "NL",
-   "activity": "Not Found",
-   "website": "",
-   "description": "",
-   "permalink": "https://www.ransomware.live/id/UGUqKipDVEBBdWRpdFRlYW0",
-   "press": "",
-   "infostealer": false,
-   "id": "UGUqKipDVEBBdWRpdFRlYW0"
   }
  ]
 }
