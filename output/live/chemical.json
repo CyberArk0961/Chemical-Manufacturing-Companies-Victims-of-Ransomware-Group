@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-11-04T22:14:28.087Z",
+ "last_updated": "2026-11-05T02:33:18.488Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1712,
+ "count": 1715,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 152,
+ "chemical_matches": 153,
  "victims": [
+  {
+   "victim": "Vinitgloves",
+   "group": "medusalocker",
+   "discovered": "2026-11-04T22:25:19.459966+00:00",
+   "attackdate": "2026-11-04T22:25:06.623975+00:00",
+   "country": "IN",
+   "activity": "Manufacturing",
+   "website": "vinitgloves.com",
+   "description": "Organization with 1029 emails extracted. Domain: vinitgloves.com",
+   "permalink": "https://www.ransomware.live/id/VmluaXRnbG92ZXNAbWVkdXNhbG9ja2Vy",
+   "press": "",
+   "infostealer": true,
+   "id": "VmluaXRnbG92ZXNAbWVkdXNhbG9ja2Vy",
+   "chemical": false
+  },
+  {
+   "victim": "Ruixiang Jidian",
+   "group": "medusalocker",
+   "discovered": "2026-11-04T22:23:43.682060+00:00",
+   "attackdate": "2026-11-04T22:23:31.023382+00:00",
+   "country": "",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Elevator manufacturer, brand Yinhai. Produces machine-room-less (MRL) passenger elevators and OEMs elevator components (car top/bottom, car wall panels, COP, doors) for OTIS, KONE, Hitachi, Toshiba, TKS. Export business (project DUBROVSKIY-2, customer Saibo). Infrastructure: Synology NAS (admin), IT dept with Epson L1118. | China, Jiangsu Province (Limin North Road)",
+   "permalink": "https://www.ransomware.live/id/UnVpeGlhbmcgSmlkaWFuQG1lZHVzYWxvY2tlcg",
+   "press": "",
+   "infostealer": false,
+   "id": "UnVpeGlhbmcgSmlkaWFuQG1lZHVzYWxvY2tlcg",
+   "chemical": false
+  },
+  {
+   "victim": "Interativa Plasticos (Interplast)",
+   "group": "medusalocker",
+   "discovered": "2026-11-04T22:19:30.447149+00:00",
+   "attackdate": "2026-11-04T22:19:17.714282+00:00",
+   "country": "BR",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Interativa Plasticos (Interplast brand, interativaplasticos.com.br) is a Brazilian plastics processor (HDPE/PEAD and PP compounds): commercial proposals, price lists (incl. scrap trade), NFe XML/PDF invoices, production and laboratory report templates (laudos), pigment-change records, and export tax spreadsheets.",
+   "permalink": "https://www.ransomware.live/id/SW50ZXJhdGl2YSBQbGFzdGljb3MgKEludGVycGxhc3QpQG1lZHVzYWxvY2tlcg",
+   "press": "",
+   "infostealer": false,
+   "id": "SW50ZXJhdGl2YSBQbGFzdGljb3MgKEludGVycGxhc3QpQG1lZHVzYWxvY2tlcg",
+   "chemical": true
+  },
   {
    "victim": "Aripack",
    "group": "play",
