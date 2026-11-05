@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-05T09:52:05.859Z",
+ "last_updated": "2026-11-05T18:02:57.050Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1721,
+ "count": 1722,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 156,
  "victims": [
+  {
+   "victim": "Bridgestone HosePower, LLC",
+   "group": "pear",
+   "discovered": "2026-11-05T11:15:36.279502+00:00",
+   "attackdate": "2026-11-03T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "hosepower.com",
+   "description": "A distributor for Flextral Hydraulic Hose and Industrial Hose Products",
+   "permalink": "https://www.ransomware.live/id/QnJpZGdlc3RvbmUgSG9zZVBvd2VyLCBMTENAcGVhcg",
+   "press": "",
+   "infostealer": false,
+   "id": "QnJpZGdlc3RvbmUgSG9zZVBvd2VyLCBMTENAcGVhcg",
+   "chemical": false
+  },
   {
    "victim": "Grupo Lorrio",
    "group": "thegentlemen",
