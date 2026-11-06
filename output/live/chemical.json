@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-11-05T18:02:57.050Z",
+ "last_updated": "2026-11-06T18:30:28.988Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1722,
+ "count": 1725,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 156,
  "victims": [
+  {
+   "victim": "metalloidcorp.com",
+   "group": "settra",
+   "discovered": "2026-11-06T16:47:16.448965+00:00",
+   "attackdate": "2026-10-16T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "metalloidcorp.com",
+   "description": "On April 7, 2025, the IRS issued Metalloid a final demand, LT11: $3,567.31 on a 2022 civil penalty, with a threat of property seizure and a federal tax lien. The same day, in a separate letter, the IRS revoked the company's Form 637 excise registration \"AL\" (No. 2013-002535-AL) — for a \"failure to maintain a satisfactory payment, deposit and/or filing history for all federal taxes.\" In its 2024 return the company claimed an overpayment of $271,980 — the IRS computed $256,688, assessed $4,695.60 in penalties and $5,051.01 in interest. In 2019, the insurer paid $110,000 on a claim from the Sycam",
+   "permalink": "https://www.ransomware.live/id/bWV0YWxsb2lkY29ycC5jb21Ac2V0dHJh",
+   "press": "",
+   "infostealer": false,
+   "id": "bWV0YWxsb2lkY29ycC5jb21Ac2V0dHJh",
+   "chemical": false
+  },
+  {
+   "victim": "Houston Machine and Thread",
+   "group": "akira",
+   "discovered": "2026-11-06T15:33:21.442182+00:00",
+   "attackdate": "2026-11-06T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Houston Machine and Thread was founded by industry veterans in 2024 to bring a simplified, high\nquality experience to the procurement and manufacturing of studs, tap ends, and machined parts\n.\n\nWe will upload 10gb of corporate data soon. Employee personal information (passport, DLs, SSNs,\nI9  complete forms and so on), contracts and agreements, financial, confidential agreement, ND\nAs and so on.\n",
+   "permalink": "https://www.ransomware.live/id/SG91c3RvbiBNYWNoaW5lIGFuZCBUaHJlYWRAYWtpcmE",
+   "press": "",
+   "infostealer": false,
+   "id": "SG91c3RvbiBNYWNoaW5lIGFuZCBUaHJlYWRAYWtpcmE",
+   "chemical": false
+  },
+  {
+   "victim": "Hudson & Hudson SignProducts",
+   "group": "akira",
+   "discovered": "2026-11-06T12:01:13.271975+00:00",
+   "attackdate": "2026-11-06T12:01:12.045314+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Hudson & Hudson is a second generation sign company, located in the heart of Houston. From its\nhumble beginnings, in the back of a garage near downtown Houston, it has grown to one of the \npremier sign manufacturing facilities in the US.\n\nHere is the access to 14gb of corporate data. Employee information, contracts and agreements, \nclient information, financials, drawings and so on.\n\nClick the download button.\n\nYou will find several password-free archives. Click on any of them to start the download.\n",
+   "permalink": "https://www.ransomware.live/id/SHVkc29uICYgSHVkc29uIFNpZ25Qcm9kdWN0c0Bha2lyYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "SHVkc29uICYgSHVkc29uIFNpZ25Qcm9kdWN0c0Bha2lyYQ",
+   "chemical": false
+  },
   {
    "victim": "Bridgestone HosePower, LLC",
    "group": "pear",
