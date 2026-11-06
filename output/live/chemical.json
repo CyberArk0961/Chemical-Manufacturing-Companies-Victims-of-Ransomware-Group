@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-11-06T18:30:28.988Z",
+ "last_updated": "2026-11-06T23:32:16.606Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1725,
+ "count": 1727,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 156,
  "victims": [
+  {
+   "victim": "Mutares.com",
+   "group": "BrainCipher",
+   "discovered": "2026-11-06T21:21:28.464004+00:00",
+   "attackdate": "2026-11-06T21:21:10.767642+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "Mutares.com",
+   "description": "[AI generated] Mutares SE & Co. KGaA is a German-based private equity holding company headquartered in Munich. It specializes in acquiring and turning around underperforming or non-core businesses divested by larger corporations, operating across sectors such as automotive, engineering, goods & services, and retail. The company operates internationally across Europe and North America, focusing on restructuring and sustainably developing acquired businesses.",
+   "permalink": "https://www.ransomware.live/id/TXV0YXJlcy5jb21AQnJhaW5DaXBoZXI",
+   "press": "",
+   "infostealer": false,
+   "id": "TXV0YXJlcy5jb21AQnJhaW5DaXBoZXI",
+   "chemical": false
+  },
+  {
+   "victim": "Xinos Construction",
+   "group": "genesis",
+   "discovered": "2026-11-06T20:46:11.665511+00:00",
+   "attackdate": "2026-11-06T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "xinosconstructioncorp.com",
+   "description": "A construction management company.",
+   "permalink": "https://www.ransomware.live/id/WGlub3MgQ29uc3RydWN0aW9uQGdlbmVzaXM",
+   "press": "",
+   "infostealer": false,
+   "id": "WGlub3MgQ29uc3RydWN0aW9uQGdlbmVzaXM",
+   "chemical": false
+  },
   {
    "victim": "metalloidcorp.com",
    "group": "settra",
