@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-11-06T23:32:16.606Z",
+ "last_updated": "2026-11-07T03:15:00.441Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1727,
+ "count": 1729,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 156,
+ "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "Acondistec",
+   "group": "qilin",
+   "discovered": "2026-11-07T01:34:21.307146+00:00",
+   "attackdate": "2026-11-06T00:00:00+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "acondistec.de",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/QWNvbmRpc3RlY0BxaWxpbg",
+   "press": "",
+   "infostealer": true,
+   "id": "QWNvbmRpc3RlY0BxaWxpbg",
+   "chemical": false
+  },
+  {
+   "victim": "Kahler Automation",
+   "group": "anubis",
+   "discovered": "2026-11-07T01:08:56.613436+00:00",
+   "attackdate": "2026-11-07T01:08:09.527018+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Fertilizer, grain and exposed data.",
+   "permalink": "https://www.ransomware.live/id/S2FobGVyIEF1dG9tYXRpb25AYW51Ymlz",
+   "press": "",
+   "infostealer": false,
+   "id": "S2FobGVyIEF1dG9tYXRpb25AYW51Ymlz",
+   "chemical": true
+  },
   {
    "victim": "Mutares.com",
    "group": "BrainCipher",

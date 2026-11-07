@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-11-06T23:32:16.590Z",
+ "last_updated": "2026-11-07T03:15:00.426Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Acondistec",
+   "group": "qilin",
+   "discovered": "2026-11-07T01:34:21.307146+00:00",
+   "attackdate": "2026-11-06T00:00:00+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "acondistec.de",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/QWNvbmRpc3RlY0BxaWxpbg",
+   "press": "",
+   "infostealer": true,
+   "id": "QWNvbmRpc3RlY0BxaWxpbg"
+  },
+  {
+   "victim": "Kahler Automation",
+   "group": "anubis",
+   "discovered": "2026-11-07T01:08:56.613436+00:00",
+   "attackdate": "2026-11-07T01:08:09.527018+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Fertilizer, grain and exposed data.",
+   "permalink": "https://www.ransomware.live/id/S2FobGVyIEF1dG9tYXRpb25AYW51Ymlz",
+   "press": "",
+   "infostealer": false,
+   "id": "S2FobGVyIEF1dG9tYXRpb25AYW51Ymlz"
+  },
+  {
+   "victim": "Benesch Law",
+   "group": "SilentRansomGroup",
+   "discovered": "2026-11-07T01:07:11.580830+00:00",
+   "attackdate": "2026-11-07T01:07:08.151538+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "[AI generated] Benesch Law, formally Benesch, Friedlander, Coplan & Aronoff LLP, is a United States-based law firm headquartered in Cleveland, Ohio. It operates in the legal services industry, providing counsel across practice areas including corporate law, litigation, intellectual property, labor and employment, real estate, transportation and logistics, and healthcare. The firm serves businesses, financial institutions, and individual clients nationwide.",
+   "permalink": "https://www.ransomware.live/id/QmVuZXNjaCBMYXdAU2lsZW50UmFuc29tR3JvdXA",
+   "press": "",
+   "infostealer": false,
+   "id": "QmVuZXNjaCBMYXdAU2lsZW50UmFuc29tR3JvdXA"
+  },
+  {
+   "victim": "1da9100e55aqf21eb651eNea",
+   "group": "incransom",
+   "discovered": "2026-11-07T00:15:21.235992+00:00",
+   "attackdate": "2026-11-06T23:58:45.159000+00:00",
+   "country": "AL",
+   "activity": "Not Found",
+   "website": "",
+   "description": "1da9100e55aqf21eb651eNea",
+   "permalink": "https://www.ransomware.live/id/MWRhOTEwMGU1NWFxZjIxZWI2NTFlTmVhQGluY3JhbnNvbQ",
+   "press": "",
+   "infostealer": false,
+   "id": "MWRhOTEwMGU1NWFxZjIxZWI2NTFlTmVhQGluY3JhbnNvbQ"
+  },
   {
    "victim": "Mutares.com",
    "group": "BrainCipher",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "VGhlIENvdXJpZXIgR3V5QG1lZHVzYWxvY2tlcg"
-  },
-  {
-   "victim": "bataaab",
-   "group": "medusalocker",
-   "discovered": "2026-11-04T22:18:26.974124+00:00",
-   "attackdate": "2026-11-04T22:18:13.686310+00:00",
-   "country": "",
-   "activity": "Other",
-   "website": "",
-   "description": "[AI generated] N/A",
-   "permalink": "https://www.ransomware.live/id/YmF0YWFhYkBtZWR1c2Fsb2NrZXI",
-   "press": "",
-   "infostealer": false,
-   "id": "YmF0YWFhYkBtZWR1c2Fsb2NrZXI"
-  },
-  {
-   "victim": "bamawat",
-   "group": "medusalocker",
-   "discovered": "2026-11-04T22:17:55.060144+00:00",
-   "attackdate": "2026-11-04T22:17:39.181630+00:00",
-   "country": "",
-   "activity": "Other",
-   "website": "",
-   "description": "[AI generated] N/A\n\nI don't have reliable, verifiable information about a company called \"bamawat.\" I'm not able to confirm its existence, industry, operations, or country of registration from credible sources. To avoid providing fabricated or inaccurate threat intelligence, I'm reporting this as unknown rather than guessing details that could be incorrect.",
-   "permalink": "https://www.ransomware.live/id/YmFtYXdhdEBtZWR1c2Fsb2NrZXI",
-   "press": "",
-   "infostealer": false,
-   "id": "YmFtYXdhdEBtZWR1c2Fsb2NrZXI"
-  },
-  {
-   "victim": "K... R...",
-   "group": "SilentRansomGroup",
-   "discovered": "2026-11-04T22:01:53.026831+00:00",
-   "attackdate": "2026-11-04T22:01:48.933205+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "Redacted entry - full company name pending disclosure (FULL DATA TIMER active).",
-   "permalink": "https://www.ransomware.live/id/Sy4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw",
-   "press": "",
-   "infostealer": false,
-   "id": "Sy4uLiBSLi4uQFNpbGVudFJhbnNvbUdyb3Vw"
-  },
-  {
-   "victim": "fbc.ca",
-   "group": "BrainCipher",
-   "discovered": "2026-11-04T21:52:15.392074+00:00",
-   "attackdate": "2026-11-04T21:52:00.393950+00:00",
-   "country": "CA",
-   "activity": "Financial Services",
-   "website": "fbc.ca",
-   "description": "[AI generated] N/A",
-   "permalink": "https://www.ransomware.live/id/ZmJjLmNhQEJyYWluQ2lwaGVy",
-   "press": "",
-   "infostealer": true,
-   "id": "ZmJjLmNhQEJyYWluQ2lwaGVy"
   }
  ]
 }
