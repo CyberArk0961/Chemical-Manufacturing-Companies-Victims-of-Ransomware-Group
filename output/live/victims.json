@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-11-08T18:31:09.621Z",
+ "last_updated": "2026-11-08T22:30:28.731Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Fidex",
+   "group": "Deadlock",
+   "discovered": "2026-11-08T19:51:54.679870+00:00",
+   "attackdate": "2026-11-08T19:51:53.588719+00:00",
+   "country": "MX",
+   "activity": "Not Found",
+   "website": "www.fidex.com.mx",
+   "description": "Fidex Seguros y Fianzas is a prominent Mexican insurance broker and risk management advisory firm. Established in 2002, the company specializes in tailored corporate and personal insurance solutions, bond underwriting, and corporate employee benefits management.",
+   "permalink": "https://www.ransomware.live/id/RmlkZXhARGVhZGxvY2s",
+   "press": "",
+   "infostealer": false,
+   "id": "RmlkZXhARGVhZGxvY2s"
+  },
+  {
+   "victim": "NoseTea",
+   "group": "Deadlock",
+   "discovered": "2026-11-08T19:51:32.761876+00:00",
+   "attackdate": "2026-11-08T19:51:31.443447+00:00",
+   "country": "US",
+   "activity": "Retail & E-Commerce",
+   "website": "home.nosetea.com",
+   "description": "NOSE TEA (THAILAND) CO LTD. is a highly popular premium cheese tea brand from Thailand. Known locally as \"ชาจมูกเขียว\" (Green Nose Tea), the brand specializes in fruit infusions and milk teas paired with its signature rich, velvety cream cheese topping. Manufacturing and retailing of non-alcoholic beverages, tea, coffee, bakery, and ice cream",
+   "permalink": "https://www.ransomware.live/id/Tm9zZVRlYUBEZWFkbG9jaw",
+   "press": "",
+   "infostealer": false,
+   "id": "Tm9zZVRlYUBEZWFkbG9jaw"
+  },
   {
    "victim": "Coopebis",
    "group": "Deadlock",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "U291cmNlIEVuZXJneSBTZXJ2aWNlc0Bha2lyYQ"
-  },
-  {
-   "victim": "Sistel",
-   "group": "Aoqin",
-   "discovered": "2026-11-05T11:20:37.780181+00:00",
-   "attackdate": "2026-11-05T11:20:20.085439+00:00",
-   "country": "BR",
-   "activity": "Technology",
-   "website": "",
-   "description": "Fundação Sistel de Seguridade Social offers a range of services including previdência (pension plans) and assistência médica (medical assistance) aimed at providing social security solutions. Their intended clients include individuals seeking financial security and healthcare support. The company also provides additional services such as loan simulations and preventive health packages. With a focus on user experience, they ensure access to a network of accredited healthcare professionals and facilities. Status: Not paid. Data publication: 2026-11-12 11:00 UTC. Revenue: $16M. Employees: 1. Data",
-   "permalink": "https://www.ransomware.live/id/U2lzdGVsQEFvcWlu",
-   "press": "",
-   "infostealer": false,
-   "id": "U2lzdGVsQEFvcWlu"
-  },
-  {
-   "victim": "Bridgestone HosePower, LLC",
-   "group": "pear",
-   "discovered": "2026-11-05T11:15:36.279502+00:00",
-   "attackdate": "2026-11-03T00:00:00+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "hosepower.com",
-   "description": "A distributor for Flextral Hydraulic Hose and Industrial Hose Products",
-   "permalink": "https://www.ransomware.live/id/QnJpZGdlc3RvbmUgSG9zZVBvd2VyLCBMTENAcGVhcg",
-   "press": "",
-   "infostealer": false,
-   "id": "QnJpZGdlc3RvbmUgSG9zZVBvd2VyLCBMTENAcGVhcg"
   }
  ]
 }
