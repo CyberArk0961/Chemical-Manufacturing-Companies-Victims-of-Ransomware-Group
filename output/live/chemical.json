@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-09T09:51:31.545Z",
+ "last_updated": "2026-11-09T20:47:01.239Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 1740,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 158,
+ "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "M.C.S. Steel Public Company Limited",
+   "group": "rhysida",
+   "discovered": "2026-11-09T17:27:39.431342+00:00",
+   "attackdate": "2026-11-09T17:27:13.431792+00:00",
+   "country": "TH",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "M.C.S. Steel Public Company Limited M.C.S. Steel Public Company Limited - largest structural-steel fabricatorin Thailand, SET-listed (ticker MCS).Total files: 2,314,625Total volume: 4.2 TB'Senior Advisor to Chairmen of the Board' paid 800,000 JPY/month viaTrust Engineering K.K. (Tokyo) to Keiyo Bank Chiba account 5376091,term Nov-2025..Oct-2027 - while Mr. Yokoyama Yukio also sits on MCSpayroll. Related-party flow outside SET disclosures.Chairman & CEO Dr. Naiyuan Chi carries a PAYROLL 'advisor' gross of12.92M THB/yr (2023-2026); lifetime net receipts ~79M THB (2015-2026).Advisor/consultant co",
+   "permalink": "https://www.ransomware.live/id/TS5DLlMuIFN0ZWVsIFB1YmxpYyBDb21wYW55IExpbWl0ZWRAcmh5c2lkYQ",
+   "press": "",
+   "infostealer": false,
+   "id": "TS5DLlMuIFN0ZWVsIFB1YmxpYyBDb21wYW55IExpbWl0ZWRAcmh5c2lkYQ",
+   "chemical": false
+  },
   {
    "victim": "roycegroup",
    "group": "AuditTeam",
@@ -52,21 +67,6 @@
    "infostealer": true,
    "id": "Z3J1cG90ZWxsZXMuY29tQGxvY2tiaXQ1",
    "chemical": false
-  },
-  {
-   "victim": "ADG Blatt",
-   "group": "Barracuda",
-   "discovered": "2026-11-08T22:50:42.119031+00:00",
-   "attackdate": "2026-11-08T22:50:34.342564+00:00",
-   "country": "DE",
-   "activity": "Other",
-   "website": "",
-   "description": "\"ADG Blatt is committed to providing creative solutions in planning, design, and program management services that respond to each unique client's needs, budget, and schedule.\"\nWe have stolen all files from main file server, including blueprints, schematics, coordinates, and a complete list of all architectural and construction projects, as well as contracts and agreements with clients that reveal critical confidential information.\n\nTarget website: https://adgblatt.com/ | Status: selling | $50,000",
-   "permalink": "https://www.ransomware.live/id/QURHIEJsYXR0QEJhcnJhY3VkYQ",
-   "press": "",
-   "infostealer": false,
-   "id": "QURHIEJsYXR0QEJhcnJhY3VkYQ",
-   "chemical": true
   },
   {
    "victim": "Calmont Wire & Cable",
