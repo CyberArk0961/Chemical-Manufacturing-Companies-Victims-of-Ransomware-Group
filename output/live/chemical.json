@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-09T02:00:42.751Z",
+ "last_updated": "2026-11-09T09:51:31.545Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1739,
+ "count": 1740,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "roycegroup",
+   "group": "AuditTeam",
+   "discovered": "2026-11-09T09:21:01.312191+00:00",
+   "attackdate": "2026-10-31T00:00:00+00:00",
+   "country": "PH",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "No data breaches",
+   "permalink": "https://www.ransomware.live/id/cm95Y2Vncm91cEBBdWRpdFRlYW0",
+   "press": "",
+   "infostealer": false,
+   "id": "cm95Y2Vncm91cEBBdWRpdFRlYW0",
+   "chemical": false
+  },
   {
    "victim": "IE & E Industries",
    "group": "Orova",
