@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-11-10T11:17:23.435Z",
+ "last_updated": "2026-11-10T18:52:28.933Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1746,
+ "count": 1748,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "Toyota",
+   "group": "BYOD",
+   "discovered": "2026-11-10T18:20:50.838235+00:00",
+   "attackdate": "2026-11-10T00:00:00+00:00",
+   "country": "JP",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Full Names, Emails, Addresses, Phone Numbers DOB, & Kiosk Devices. A lot was actually isolated, good job, however there was a few cracks we managed to slip through. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours.",
+   "permalink": "https://www.ransomware.live/id/VG95b3RhQEJZT0Q",
+   "press": "",
+   "infostealer": false,
+   "id": "VG95b3RhQEJZT0Q",
+   "chemical": false
+  },
+  {
+   "victim": "Herminio India Precision Technology",
+   "group": "Orova",
+   "discovered": "2026-11-10T16:58:23.194946+00:00",
+   "attackdate": "2026-11-10T00:00:00+00:00",
+   "country": "IN",
+   "activity": "Manufacturing",
+   "website": "herminiogroup.com",
+   "description": "HERMINIO is a leading manufacturer of precision components catering to different segments including Automobiles, Refrigeration, Air Conditioning, Brake, Air & Gas.",
+   "permalink": "https://www.ransomware.live/id/SGVybWluaW8gSW5kaWEgUHJlY2lzaW9uIFRlY2hub2xvZ3lAT3JvdmE",
+   "press": "",
+   "infostealer": false,
+   "id": "SGVybWluaW8gSW5kaWEgUHJlY2lzaW9uIFRlY2hub2xvZ3lAT3JvdmE",
+   "chemical": false
+  },
   {
    "victim": "Andersen Construction",
    "group": "Vortex",
@@ -2283,7 +2313,7 @@
    "website": "pedigo-usa.com",
    "description": "Pedigo Products, Inc. is a privately held American manufacturer of stainless steel and chromium medical equipment for the healthcare industry. It disregards its own security, as well as that of its customers and employees, and makes no attempt to negotiate agreements to prevent data leaks. As a result, we provide you with 1.3 TB of sensitive corporate data, such as: carrier account numbers, customer-specific pricing, commission adjustments, customs/MDEL identifiers and customer/employee contact information, customer contracts, price and discount schedules, shipping and routing instructions, em",
    "permalink": "https://www.ransomware.live/id/UGVkaWdvIFByb2R1Y3RzLCBJbmMuQGludGVybG9jaw",
-   "press": "",
+   "press": "https://www.claimdepot.com/data-breach/pedigo-2026",
    "infostealer": false,
    "id": "UGVkaWdvIFByb2R1Y3RzLCBJbmMuQGludGVybG9jaw",
    "chemical": false
