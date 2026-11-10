@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-09T20:47:01.239Z",
+ "last_updated": "2026-11-10T02:58:54.255Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 1740,
  "months": 12,
@@ -1902,7 +1902,7 @@
    "victim": "New Tec Tool Limited",
    "group": "play",
    "discovered": "2026-10-16T20:40:05.254581+00:00",
-   "attackdate": "2026-10-16T20:39:48.963918+00:00",
+   "attackdate": "2026-10-09T00:00:00+00:00",
    "country": "HK",
    "activity": "Manufacturing",
    "website": "www.newtectool.com",
