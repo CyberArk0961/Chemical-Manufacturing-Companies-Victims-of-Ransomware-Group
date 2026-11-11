@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-10T18:52:28.933Z",
+ "last_updated": "2026-11-11T00:04:17.846Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1748,
+ "count": 1749,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 157,
  "victims": [
+  {
+   "victim": "MTM&O Gold Refinery DMCC",
+   "group": "Dark Project",
+   "discovered": "2026-11-10T19:52:18.703488+00:00",
+   "attackdate": "2026-11-10T18:27:44.869357+00:00",
+   "country": "AE",
+   "activity": "Manufacturing",
+   "website": "mtm-o.com",
+   "description": "About MTM&O Gold Refinery DMCC MTM&O Gold Refinery DMCC is one of the largest refineries in the region and is a leader in terms of customer service, reliability, efficiency and quality. As a result of a hacker attack on one of the region’s largest gold refineries, documents were stolen. These included employee passports and other documents, as well as the company’s know-how and technologies, and confidential information totaling more than 43 GB.",
+   "permalink": "https://www.ransomware.live/id/TVRNJk8gR29sZCBSZWZpbmVyeSBETUNDQERhcmsgUHJvamVjdA",
+   "press": "",
+   "infostealer": false,
+   "id": "TVRNJk8gR29sZCBSZWZpbmVyeSBETUNDQERhcmsgUHJvamVjdA",
+   "chemical": false
+  },
   {
    "victim": "Toyota",
    "group": "BYOD",
