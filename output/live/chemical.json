@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-11T14:44:14.505Z",
+ "last_updated": "2026-11-11T21:35:22.018Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1753,
+ "count": 1754,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 157,
+ "chemical_matches": 158,
  "victims": [
+  {
+   "victim": "sacheminc.com",
+   "group": "Curious Worm",
+   "discovered": "2026-11-11T17:13:08.721193+00:00",
+   "attackdate": "2026-11-11T17:12:53.909294+00:00",
+   "country": "CA",
+   "activity": "Manufacturing",
+   "website": "sacheminc.com",
+   "description": "Status: Leaked | Revenue: $225M | SACHEM, Inc. is a global leader in high-purity chemical solutions, specializing in the production of precise and pure products for various applications. The company offers a wide range of products including electronic materials, specialty chemicals, and energy materials, catering to clients in Europe, Asia, and America. SACHEM also provides customized manufacturing, R&D support, and consulting services to meet the specific needs of its customers. With advanced laboratories and a strong regional support system, SACHEM is committed to delivering high-quality sol",
+   "permalink": "https://www.ransomware.live/id/c2FjaGVtaW5jLmNvbUBDdXJpb3VzIFdvcm0",
+   "press": "",
+   "infostealer": false,
+   "id": "c2FjaGVtaW5jLmNvbUBDdXJpb3VzIFdvcm0",
+   "chemical": true
+  },
   {
    "victim": "Leware Construction Company ofFlorida",
    "group": "akira",
