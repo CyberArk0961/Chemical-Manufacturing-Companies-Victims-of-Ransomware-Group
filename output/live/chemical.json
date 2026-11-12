@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-11T21:35:22.018Z",
+ "last_updated": "2026-11-12T02:32:25.899Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 1754,
  "months": 12,
@@ -672,7 +672,7 @@
    "victim": "Standard Sand & Silica",
    "group": "play",
    "discovered": "2026-11-04T21:19:51.163758+00:00",
-   "attackdate": "2026-11-04T21:19:34.207337+00:00",
+   "attackdate": "2026-09-21T00:00:00+00:00",
    "country": "US",
    "activity": "Manufacturing",
    "website": "www.standardsand.com",

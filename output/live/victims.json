@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-11-11T21:35:21.994Z",
+ "last_updated": "2026-11-12T02:32:25.883Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Dep",
+   "group": "medusalocker",
+   "discovered": "2026-11-11T22:01:37.377000+00:00",
+   "attackdate": "2026-11-11T22:01:23.348675+00:00",
+   "country": "",
+   "activity": "Not Found",
+   "website": "",
+   "description": "THERMO GROUP, C.A. wholesales pharmaceutical products and medical supplies, as evidenced by its financial transactions with FarmaTodo, C.A., including sales commission reports and income tax withholdings (ISLR).",
+   "permalink": "https://www.ransomware.live/id/RGVwQG1lZHVzYWxvY2tlcg",
+   "press": "",
+   "infostealer": false,
+   "id": "RGVwQG1lZHVzYWxvY2tlcg"
+  },
   {
    "victim": "Minor League Baseball",
    "group": "play",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "VGllbmRhbGVvbkBDbGltYXggSW5j"
-  },
-  {
-   "victim": "Texmo Group",
-   "group": "Climax Inc",
-   "discovered": "2026-11-10T04:43:53.195399+00:00",
-   "attackdate": "2026-10-21T00:00:00+00:00",
-   "country": "IN",
-   "activity": "Manufacturing",
-   "website": "texmo.com",
-   "description": "Sector: Manufacturer\nStatus: Published",
-   "permalink": "https://www.ransomware.live/id/VGV4bW8gR3JvdXBAQ2xpbWF4IEluYw",
-   "press": "",
-   "infostealer": true,
-   "id": "VGV4bW8gR3JvdXBAQ2xpbWF4IEluYw"
   }
  ]
 }
