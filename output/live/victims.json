@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-11-12T23:53:41.214Z",
+ "last_updated": "2026-11-13T06:50:44.935Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Company #216",
+   "group": "N0n",
+   "discovered": "2026-11-13T03:28:24.431546+00:00",
+   "attackdate": "2026-11-13T03:27:52.834211+00:00",
+   "country": "BW",
+   "activity": "Not Found",
+   "website": "",
+   "description": "prepaid utilities and airtime platform · Botswana | [PENDING EXPOSURE]",
+   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMjE2QE4wbg",
+   "press": "",
+   "infostealer": false,
+   "id": "Q29tcGFueSAjMjE2QE4wbg"
+  },
   {
    "victim": "Franc-Oil",
    "group": "Vexy Ransomware",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "WW9yayBVbml2ZXJzaXR5QHFpbGlu"
-  },
-  {
-   "victim": "Dep",
-   "group": "medusalocker",
-   "discovered": "2026-11-11T22:01:37.377000+00:00",
-   "attackdate": "2026-11-11T22:01:23.348675+00:00",
-   "country": "",
-   "activity": "Not Found",
-   "website": "",
-   "description": "THERMO GROUP, C.A. wholesales pharmaceutical products and medical supplies, as evidenced by its financial transactions with FarmaTodo, C.A., including sales commission reports and income tax withholdings (ISLR).",
-   "permalink": "https://www.ransomware.live/id/RGVwQG1lZHVzYWxvY2tlcg",
-   "press": "",
-   "infostealer": false,
-   "id": "RGVwQG1lZHVzYWxvY2tlcg"
   }
  ]
 }
