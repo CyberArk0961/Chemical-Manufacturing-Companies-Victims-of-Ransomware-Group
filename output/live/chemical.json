@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-11-13T15:26:00.695Z",
+ "last_updated": "2026-11-13T21:40:04.649Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1772,
+ "count": 1771,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 163,
+ "chemical_matches": 162,
  "victims": [
   {
    "victim": "World Wide Fittings",
@@ -232,21 +232,6 @@
    "infostealer": false,
    "id": "QWxhbiBNb2sgRW5naW5lZXJpbmdAdGhlZ2VudGxlbWVu",
    "chemical": false
-  },
-  {
-   "victim": "Vinson",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:50:16.113409+00:00",
-   "attackdate": "2026-11-11T18:23:04+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "vinsonprocess.com",
-   "description": "vinsonprocess.com Revenue $296.3 Million Vinson Process Systems Company is an American process equipment and engineering firm founded in 1972 in Tulsa, Oklahoma, with over 54 years of experience serving the oil, gas, chemical and petrochemical industries. With approximately 300 to 500 employees across 10 offices in major US energy basins including Houston, Midland, Denver and Williston, it provides separation, heat transfer, compression, pumping and water treatment systems. The company partners with over 50 equipment manufacturers including Emerson, Ariel, Flowserve and Cameron to deliver turn",
-   "permalink": "https://www.ransomware.live/id/Vmluc29uQHRoZWdlbnRsZW1lbg",
-   "press": "",
-   "infostealer": false,
-   "id": "Vmluc29uQHRoZWdlbnRsZW1lbg",
-   "chemical": true
   },
   {
    "victim": "SIFLOOR",
