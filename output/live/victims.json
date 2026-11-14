@@ -1,8 +1,64 @@
 {
- "last_updated": "2026-11-13T21:40:04.633Z",
+ "last_updated": "2026-11-14T01:50:50.036Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "I****** A*****",
+   "group": "netrunner",
+   "discovered": "2026-11-14T01:30:50.924965+00:00",
+   "attackdate": "2026-11-14T01:30:50.207644+00:00",
+   "country": "KW",
+   "activity": "Not Found",
+   "website": "i***************.c**",
+   "description": "",
+   "permalink": "https://www.ransomware.live/id/SSoqKioqKiBBKioqKipAbmV0cnVubmVy",
+   "press": "",
+   "infostealer": false,
+   "id": "SSoqKioqKiBBKioqKipAbmV0cnVubmVy"
+  },
+  {
+   "victim": "K&A Industries",
+   "group": "interlock",
+   "discovered": "2026-11-13T22:46:01.680491+00:00",
+   "attackdate": "2026-11-13T22:45:29.654984+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "kaindustries.com",
+   "description": "K&A Industries is a \"secure identity architecture\" company that manages the entire authentication lifecycle for government and enterprise clients. As a result, their own security weaknesses led to the compromise of sensitive personal data, biometric templates, and government contract data. K&A also provides PIV credentials to government agencies, such as the Los Alamos National Laboratory, which involves processing the personal data of federal employees. A breach of this data would trigger a cascade of legal, financial, and operational crises, leading to breach notification obligations under G",
+   "permalink": "https://www.ransomware.live/id/SyZBIEluZHVzdHJpZXNAaW50ZXJsb2Nr",
+   "press": "",
+   "infostealer": false,
+   "id": "SyZBIEluZHVzdHJpZXNAaW50ZXJsb2Nr"
+  },
+  {
+   "victim": "Final Notice Before Publication",
+   "group": "everest",
+   "discovered": "2026-11-13T22:44:12.215915+00:00",
+   "attackdate": "2026-11-13T21:40:32.385307+00:00",
+   "country": "",
+   "activity": "Other",
+   "website": "",
+   "description": "[AI generated] N/A\n\n\"Final Notice Before Publication\" does not correspond to a known company. This phrase is commonly used in extortion or double-extortion ransomware campaigns, where threat actors threaten to publish stolen data unless a ransom is paid. If you encountered this term in a specific context, please share more details so I can assist further.",
+   "permalink": "https://www.ransomware.live/id/RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0",
+   "press": "",
+   "infostealer": false,
+   "id": "RmluYWwgTm90aWNlIEJlZm9yZSBQdWJsaWNhdGlvbkBldmVyZXN0"
+  },
+  {
+   "victim": "RE/MAX Germany",
+   "group": "Panzer",
+   "discovered": "2026-11-13T21:51:51.251717+00:00",
+   "attackdate": "2026-11-13T15:00:13+00:00",
+   "country": "DE",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Company internal records financial, Broker, Customers purchase, Invoice, Passwords, and 86GB of Outlook archive [eislingen@remax.de, t.maier@1-goeppinger-sv.de, thorsten.maier@remax.de, and other] RE/MAX Germany specializes in real estate services, including the buying, selling, and renting of residential and commercial properties. They also offer opportunities for individuals to become real estate agents or franchisees, emphasizing professional training and a strong support network. Their unique digital offering, DAVEit, aims to provide transparent and fair pricing for buyers and sellers. Wit",
+   "permalink": "https://www.ransomware.live/id/UkUvTUFYIEdlcm1hbnlAUGFuemVy",
+   "press": "",
+   "infostealer": false,
+   "id": "UkUvTUFYIEdlcm1hbnlAUGFuemVy"
+  },
   {
    "victim": "i*t*r***t.com",
    "group": "Curious Worm",
@@ -1346,62 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "U2llbGtlQHRoZWdlbnRsZW1lbg"
-  },
-  {
-   "victim": "imas",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:53:02.732013+00:00",
-   "attackdate": "2026-11-11T13:11:13+00:00",
-   "country": "ES",
-   "activity": "Not Found",
-   "website": "imas.es",
-   "description": "imas.es I-Mas Informatica S.L. is a Spanish IT services company founded in 2002 in Sabadell, Barcelona, specializing in custom software development, cloud solutions, ERP implementation, cybersecurity and managed IT services. With 50 to 120 employees and estimated revenue of 3 to 8 million euro, it serves small and medium businesses, industrial companies and public sector clients across Catalonia and Spain. Its technology stack includes SAP, Odoo, Microsoft Dynamics, AWS, Azure, React, Java and Python. Services span web and mobile development, cloud migration, business intelligence, network man",
-   "permalink": "https://www.ransomware.live/id/aW1hc0B0aGVnZW50bGVtZW4",
-   "press": "",
-   "infostealer": true,
-   "id": "aW1hc0B0aGVnZW50bGVtZW4"
-  },
-  {
-   "victim": "National Investments Company",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:52:41.989630+00:00",
-   "attackdate": "2026-11-11T13:14:38+00:00",
-   "country": "SA",
-   "activity": "Financial Services",
-   "website": "ninv.com",
-   "description": "ninv.com National Investments Company (NIC) is one of Kuwait's leading investment firms, founded in 1987 and listed on Boursa Kuwait as NINV, managing 4.3 billion dollars in assets across four segments: investment, treasury, real estate and asset management. Led by CEO Fahad Abdul Al Mukhaizim, it employs 161 people across its Kuwait City headquarters and Dubai DIFC office. In 2026 it reported net profit of KWD 10.6 million for the first 9 months with AUM reaching KWD 1.4 billion and total return of 545 percent since 2019 versus 122 percent for the Kuwait index. It executed the Trolley General",
-   "permalink": "https://www.ransomware.live/id/TmF0aW9uYWwgSW52ZXN0bWVudHMgQ29tcGFueUB0aGVnZW50bGVtZW4",
-   "press": "",
-   "infostealer": false,
-   "id": "TmF0aW9uYWwgSW52ZXN0bWVudHMgQ29tcGFueUB0aGVnZW50bGVtZW4"
-  },
-  {
-   "victim": "Triad Architects",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:52:21.249885+00:00",
-   "attackdate": "2026-11-11T13:27:35+00:00",
-   "country": "KE",
-   "activity": "Professional Services",
-   "website": "triad.co.ke",
-   "description": "triad.co.ke Triad Group is a Kenyan digital marketing and technology company founded in 1993 in Nairobi, making it one of the oldest and largest digital agencies in East Africa with 200 plus employees and 500 plus clients. It operates across five divisions: digital marketing, creative and design, technology, strategy and media, with offices in Kenya, Tanzania and Uganda. Its client roster includes major multinational brands like Unilever, Coca-Cola, Safaricom, KCB and Toyota alongside government agencies and NGOs. Services span branding, video production, SEO, social media, software developmen",
-   "permalink": "https://www.ransomware.live/id/VHJpYWQgQXJjaGl0ZWN0c0B0aGVnZW50bGVtZW4",
-   "press": "",
-   "infostealer": true,
-   "id": "VHJpYWQgQXJjaGl0ZWN0c0B0aGVnZW50bGVtZW4"
-  },
-  {
-   "victim": "Alan Mok Engineering",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:52:00.413887+00:00",
-   "attackdate": "2026-11-11T13:40:34+00:00",
-   "country": "HK",
-   "activity": "Manufacturing",
-   "website": "alanmokengineering.com",
-   "description": "alanmokengineering.com Alan Mok Engineering Pte Ltd is a Singapore-based mechanical and electrical engineering contractor founded in 2000, providing HVAC, plumbing, fire protection, electrical and low voltage systems for commercial, industrial, marine and institutional projects. With 100 to 200 employees and estimated revenue of 10 to 30 million Singapore dollars, it delivers full-cycle M&E services from design through commissioning and maintenance. Its specializations include chillers, ducting, sprinkler systems, electrical distribution, lightning protection and marine HVAC. The company holds",
-   "permalink": "https://www.ransomware.live/id/QWxhbiBNb2sgRW5naW5lZXJpbmdAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": false,
-   "id": "QWxhbiBNb2sgRW5naW5lZXJpbmdAdGhlZ2VudGxlbWVu"
   }
  ]
 }
