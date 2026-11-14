@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-11-14T15:50:42.545Z",
+ "last_updated": "2026-11-14T20:44:59.535Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "fittleworth.com",
+   "group": "Scarlettgroup",
+   "discovered": "2026-11-14T18:16:18.167053+00:00",
+   "attackdate": "2026-11-14T05:00:00+00:00",
+   "country": "GB",
+   "activity": "Retail & E-Commerce",
+   "website": "fittleworth.com",
+   "description": "Fittleworth is a UK healthcare company providing home delivery of medical supplies and support for people with stomas, continence needs, and wounds.",
+   "permalink": "https://www.ransomware.live/id/Zml0dGxld29ydGguY29tQFNjYXJsZXR0Z3JvdXA",
+   "press": "",
+   "infostealer": true,
+   "id": "Zml0dGxld29ydGguY29tQFNjYXJsZXR0Z3JvdXA"
+  },
+  {
+   "victim": "FINSA",
+   "group": "Barracuda",
+   "discovered": "2026-11-14T17:50:40.941619+00:00",
+   "attackdate": "2026-11-14T17:50:34.970977+00:00",
+   "country": "ES",
+   "activity": "Financial Services",
+   "website": "",
+   "description": "During an audit of FINSA—a multi-billion-dollar wood processing company—numerous violations in data storage and infrastructure security were identified.\nWe extracted all confidential and production files from their servers, totaling 800 GB. Following this, we completely halted operations by attacking the company’s virtualization.\n\nAmong the extracted data is now available:\n\n    Internal production information across FINSA’s facilities\n    Financial documents, databases, and reports\n    Full employee information\n    Wood processing materials and technologies\n    Contracts with partners and thei",
+   "permalink": "https://www.ransomware.live/id/RklOU0FAQmFycmFjdWRh",
+   "press": "",
+   "infostealer": false,
+   "id": "RklOU0FAQmFycmFjdWRh"
+  },
+  {
+   "victim": "F***** G****** C********** C***",
+   "group": "netrunner",
+   "discovered": "2026-11-14T17:27:01.418558+00:00",
+   "attackdate": "2026-11-14T17:27:00.764833+00:00",
+   "country": "US",
+   "activity": "Not Found",
+   "website": "w**.f*******.c**",
+   "description": "",
+   "permalink": "https://www.ransomware.live/id/RioqKioqIEcqKioqKiogQyoqKioqKioqKiogQyoqKkBuZXRydW5uZXI",
+   "press": "",
+   "infostealer": false,
+   "id": "RioqKioqIEcqKioqKiogQyoqKioqKioqKiogQyoqKkBuZXRydW5uZXI"
+  },
   {
    "victim": "Momentum Telecom",
    "group": "EndZone",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q2l0eSBvZiBIdW1ib2xkdEB0aGVnZW50bGVtZW4"
-  },
-  {
-   "victim": "Reso Tech Laurentides",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:55:08.446273+00:00",
-   "attackdate": "2026-11-11T12:55:49+00:00",
-   "country": "CA",
-   "activity": "Technology",
-   "website": "resotechlaurentides.com",
-   "description": "resotechlaurentides.com Reso & Tech Laurentides is a Canadian industrial engineering company founded in 2001 in Saint-Jérôme, Quebec, specializing in the design and manufacture of specialized machinery, automation systems and robotic cells for automotive, aerospace, pharmaceutical and food industries. With approximately 150 employees and over 1,500 completed projects exported to more than 20 countries, it offers full-cycle services from concept design through manufacturing, commissioning and maintenance. Its capabilities span PLC and SCADA automation, industrial robotics, machine vision, test ",
-   "permalink": "https://www.ransomware.live/id/UmVzbyBUZWNoIExhdXJlbnRpZGVzQHRoZWdlbnRsZW1lbg",
-   "press": "",
-   "infostealer": false,
-   "id": "UmVzbyBUZWNoIExhdXJlbnRpZGVzQHRoZWdlbnRsZW1lbg"
-  },
-  {
-   "victim": "Darr Equipment",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:54:47.351790+00:00",
-   "attackdate": "2026-11-11T12:57:29+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "darrequipment.com",
-   "description": "darrequipment.com Revenue $304.6 Mil Darreq Equipment is a specialty equipment rental company founded in 2010 in Denver, Colorado, with a second office in Bozeman, Montana, serving the Mountain West region including Colorado, Wyoming and Montana. With 50 to 100 employees and estimated revenue of 10 to 25 million dollars, it provides mobile generators, transformers, chillers, dehumidifiers, compressors, light towers and temporary infrastructure for construction, oil and gas, mining, healthcare and data center clients. It distinguishes itself from mass-market rental companies like United Rentals",
-   "permalink": "https://www.ransomware.live/id/RGFyciBFcXVpcG1lbnRAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": false,
-   "id": "RGFyciBFcXVpcG1lbnRAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Municipalidad de Cieneguilla",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:54:26.634048+00:00",
-   "attackdate": "2026-11-11T13:01:04+00:00",
-   "country": "PE",
-   "activity": "Government & Defense",
-   "website": "municieneguilla.gob.pe",
-   "description": "municieneguilla.gob.pe Municipalidad Distrital de Cieneguilla is the local government of the Cieneguilla district in Lima Province, Peru, serving approximately 100,000 residents in a growing agricultural and tourism area along the Río Lurín. Led by Mayor Emilio Alberto Chávez Huaringa with 42 employees, it operates a digital services platform including virtual document submission, property tax queries, pet registration and sports facility booking. Key projects include the 2027–2029 Multi-Year Investment Plan, participatory budgeting and an inter-agency initiative to recover the Río Lurín ecosy",
-   "permalink": "https://www.ransomware.live/id/TXVuaWNpcGFsaWRhZCBkZSBDaWVuZWd1aWxsYUB0aGVnZW50bGVtZW4",
-   "press": "",
-   "infostealer": true,
-   "id": "TXVuaWNpcGFsaWRhZCBkZSBDaWVuZWd1aWxsYUB0aGVnZW50bGVtZW4"
   }
  ]
 }
