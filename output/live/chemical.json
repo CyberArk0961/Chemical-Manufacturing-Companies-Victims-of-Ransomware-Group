@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-13T21:40:04.649Z",
+ "last_updated": "2026-11-14T09:00:24.232Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1771,
+ "count": 1772,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 162,
  "victims": [
+  {
+   "victim": "Grundbaulabor Trier GmbH",
+   "group": "everest",
+   "discovered": "2026-11-14T03:32:50.190997+00:00",
+   "attackdate": "2026-11-14T00:42:18.757321+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "[AI generated] N/A\n\nI don't have verified, reliable information about a specific company called \"Grundbaulabor Trier GmbH.\" While the name suggests a geotechnical or soil mechanics testing laboratory (Grundbau relates to foundation engineering) based in Trier, Germany, I cannot confirm details about this specific entity's operations, services, or corporate status with sufficient confidence to provide an accurate factual description.",
+   "permalink": "https://www.ransomware.live/id/R3J1bmRiYXVsYWJvciBUcmllciBHbWJIQGV2ZXJlc3Q",
+   "press": "",
+   "infostealer": false,
+   "id": "R3J1bmRiYXVsYWJvciBUcmllciBHbWJIQGV2ZXJlc3Q",
+   "chemical": false
+  },
   {
    "victim": "World Wide Fittings",
    "group": "bravox",

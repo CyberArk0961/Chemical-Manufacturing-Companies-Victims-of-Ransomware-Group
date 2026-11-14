@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-11-14T01:50:50.036Z",
+ "last_updated": "2026-11-14T09:00:24.213Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Grundbaulabor Trier GmbH",
+   "group": "everest",
+   "discovered": "2026-11-14T03:32:50.190997+00:00",
+   "attackdate": "2026-11-14T00:42:18.757321+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "[AI generated] N/A\n\nI don't have verified, reliable information about a specific company called \"Grundbaulabor Trier GmbH.\" While the name suggests a geotechnical or soil mechanics testing laboratory (Grundbau relates to foundation engineering) based in Trier, Germany, I cannot confirm details about this specific entity's operations, services, or corporate status with sufficient confidence to provide an accurate factual description.",
+   "permalink": "https://www.ransomware.live/id/R3J1bmRiYXVsYWJvciBUcmllciBHbWJIQGV2ZXJlc3Q",
+   "press": "",
+   "infostealer": false,
+   "id": "R3J1bmRiYXVsYWJvciBUcmllciBHbWJIQGV2ZXJlc3Q"
+  },
   {
    "victim": "I****** A*****",
    "group": "netrunner",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "R3JvdXBlIEFsdGVybmFuY2VAdGhlZ2VudGxlbWVu"
-  },
-  {
-   "victim": "Sielke",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:53:23.606109+00:00",
-   "attackdate": "2026-11-11T13:08:24+00:00",
-   "country": "DE",
-   "activity": "Not Found",
-   "website": "sielke.com",
-   "description": "sielke.com Sielke is a German family company founded in 2002 in Hamburg, operating two brands: Sielke Papier for paper, packaging and office supplies, and Sielke Home for stylish home and living products. Headquartered at Dynamowerk 1 in Hamburg-Harburg, it has been serving businesses and consumers for 23 years. Sielke Papier provides a full range from printing and kraft paper to custom packaging solutions with sustainable FSC-certified options. Sielke Home offers decoration, kitchen, bath, wellness and gift products under the motto You Are Home. The company is estimated at 2 to 10 million eur",
-   "permalink": "https://www.ransomware.live/id/U2llbGtlQHRoZWdlbnRsZW1lbg",
-   "press": "",
-   "infostealer": false,
-   "id": "U2llbGtlQHRoZWdlbnRsZW1lbg"
   }
  ]
 }
