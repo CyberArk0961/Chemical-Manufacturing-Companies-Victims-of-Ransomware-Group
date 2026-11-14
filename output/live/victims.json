@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-11-14T09:00:24.213Z",
+ "last_updated": "2026-11-14T15:50:42.545Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Momentum Telecom",
+   "group": "EndZone",
+   "discovered": "2026-11-14T12:25:18.758864+00:00",
+   "attackdate": "2026-11-14T12:25:17.593205+00:00",
+   "country": "",
+   "activity": "Technology",
+   "website": "abc4.com",
+   "description": "Revenue: $221.7 million\n\nMomentum is a telecommunications company founded in 2001 that provides cloud-based communication solutions for businesses, specializing in cloud voice services, managed networks, SD-WAN solutions, and Microsoft Teams Phone integration. We gained access to a diagnostic and provisioning tool used by Momentum through a compromised Multi-Service Operator (MSO). Upon reconnaissance, we identified multiple critical vulnerabilities throughout the system. This tool controls internet and voice services for millions of users across global markets. We successfully accessed user d",
+   "permalink": "https://www.ransomware.live/id/TW9tZW50dW0gVGVsZWNvbUBFbmRab25l",
+   "press": "",
+   "infostealer": true,
+   "id": "TW9tZW50dW0gVGVsZWNvbUBFbmRab25l"
+  },
+  {
+   "victim": "Absolute Bail Bonds",
+   "group": "EndZone",
+   "discovered": "2026-11-14T12:24:57.389262+00:00",
+   "attackdate": "2026-11-14T12:24:56.175704+00:00",
+   "country": "US",
+   "activity": "Financial Services",
+   "website": "",
+   "description": "Revenue: $15.1 million\n\nAbsolute Bail Bonds is a surety bail bond agency that has provided 24/7 pretrial release services across California since 1987. Founded in Lancaster and headquartered in Los Angeles, the company operates statewide through a network of local branch offices and licensed bail agents. We successfully exfiltrated 5GB of Database Files and Source Code plus 3.5TB encrypted on the DC including backups.",
+   "permalink": "https://www.ransomware.live/id/QWJzb2x1dGUgQmFpbCBCb25kc0BFbmRab25l",
+   "press": "",
+   "infostealer": false,
+   "id": "QWJzb2x1dGUgQmFpbCBCb25kc0BFbmRab25l"
+  },
   {
    "victim": "Grundbaulabor Trier GmbH",
    "group": "everest",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "TXVuaWNpcGFsaWRhZCBkZSBDaWVuZWd1aWxsYUB0aGVnZW50bGVtZW4"
-  },
-  {
-   "victim": "Grupo San Cristobal",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:54:05.436455+00:00",
-   "attackdate": "2026-11-11T13:03:32+00:00",
-   "country": "MX",
-   "activity": "Other",
-   "website": "gruposancristobal.com.mx",
-   "description": "gruposancristobal.com.mx Grupo San Cristóbal is a Mexican group of companies based in Mexico City, founded by Cristian Montalvo Flores, offering property management, accounting, construction, insurance and legal services across 10 plus business units. With over 250 employees, 500 clients and 2,800 properties under management, it provides full-cycle services for property owners and businesses. Its property management division handles condominium administration, maintenance, security, budgeting and owner meetings. Accounting services include bookkeeping, tax filings, payroll and audits for Mexic",
-   "permalink": "https://www.ransomware.live/id/R3J1cG8gU2FuIENyaXN0b2JhbEB0aGVnZW50bGVtZW4",
-   "press": "",
-   "infostealer": true,
-   "id": "R3J1cG8gU2FuIENyaXN0b2JhbEB0aGVnZW50bGVtZW4"
-  },
-  {
-   "victim": "Groupe Alternance",
-   "group": "thegentlemen",
-   "discovered": "2026-11-12T09:53:44.415306+00:00",
-   "attackdate": "2026-11-11T00:00:00+00:00",
-   "country": "FR",
-   "activity": "Professional Services",
-   "website": "groupe-alternance.com",
-   "description": "groupe-alternance.com Groupe Alternance is a French private education group founded in 2008 in Paris, offering work-study (alternance) programs across 5 schools with 10,000 plus students, 300 plus staff and 1,200 plus partner companies. Its model lets students earn a salary while their employer pays for their education, covering Bachelor, BTS and MBA programs in management, marketing, finance, HR, logistics, tourism and sport management. Key schools include ESAM, EFB, ECE, IPAC and the Institut de Management International, with campuses in Paris, Lyon, Marseille, Toulouse, Lille, Bordeaux and ",
-   "permalink": "https://www.ransomware.live/id/R3JvdXBlIEFsdGVybmFuY2VAdGhlZ2VudGxlbWVu",
-   "press": "",
-   "infostealer": true,
-   "id": "R3JvdXBlIEFsdGVybmFuY2VAdGhlZ2VudGxlbWVu"
   }
  ]
 }
