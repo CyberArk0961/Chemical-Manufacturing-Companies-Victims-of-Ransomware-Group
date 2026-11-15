@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-15T00:23:28.870Z",
+ "last_updated": "2026-11-15T14:49:55.083Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 1772,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 160,
+ "chemical_matches": 159,
  "victims": [
+  {
+   "victim": "Eagle Fire Extinguisher Company",
+   "group": "PixelLeaks",
+   "discovered": "2026-11-15T09:02:11.829614+00:00",
+   "attackdate": "2026-11-15T09:02:10.882423+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "This disclosure concerns a verified set of records from an organization in the Fire protection (extinguisher sales and service) sector. The material scheduled for publication comprises a set of business records, including client, legal, and operational material.\nDeadline: 2026-11-16 11:45 UTC",
+   "permalink": "https://www.ransomware.live/id/RWFnbGUgRmlyZSBFeHRpbmd1aXNoZXIgQ29tcGFueUBQaXhlbExlYWtz",
+   "press": "",
+   "infostealer": false,
+   "id": "RWFnbGUgRmlyZSBFeHRpbmd1aXNoZXIgQ29tcGFueUBQaXhlbExlYWtz",
+   "chemical": false
+  },
   {
    "victim": "Airport Appliance, Inc.",
    "group": "N0n",
@@ -202,21 +217,6 @@
    "infostealer": false,
    "id": "RC5MLiBTdGVpbmVyLCBJbmNAaW5jcmFuc29t",
    "chemical": false
-  },
-  {
-   "victim": "PANAX Group",
-   "group": "incransom",
-   "discovered": "2026-11-12T10:07:02.541469+00:00",
-   "attackdate": "2026-11-02T10:10:00+00:00",
-   "country": "KR",
-   "activity": "Other",
-   "website": "",
-   "description": "# PANAX GROUP / UKSEUNG Chemical (욱성화학) — South Korea\r\n\r\n**Industry:** Chemical Manufacturing, Industrial Automation (SCADA/PCS7), Nuclear Infrastructure Supplier\r\n**Revenue:** ~$141M USD/year (Group Total)\r\n**Headquarters:** Busan, South Korea\r\n**Websites:** ukseung.co.kr | panaxworld.com | panaxholdings.co.kr\r\n**Employees:** 679 (Active Directory)\r\n\r\n---\r\n\r\n## About\r\n\r\nPANAX GROUP is a South Korean industrial conglomerate based in Busan, operating since 1969. The group consists of 6 subsidiaries spanning chemical manufacturing, polymer production, industrial automation, and international tra",
-   "permalink": "https://www.ransomware.live/id/UEFOQVggR3JvdXBAaW5jcmFuc29t",
-   "press": "",
-   "infostealer": false,
-   "id": "UEFOQVggR3JvdXBAaW5jcmFuc29t",
-   "chemical": true
   },
   {
    "victim": "Darr Equipment",
