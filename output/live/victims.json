@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-11-16T00:24:37.973Z",
+ "last_updated": "2026-11-16T07:19:57.134Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Culinary Specialties",
+   "group": "Aoqin",
+   "discovered": "2026-11-16T02:50:36.695962+00:00",
+   "attackdate": "2026-11-16T02:50:19.294428+00:00",
+   "country": "US",
+   "activity": "Retail & E-Commerce",
+   "website": "",
+   "description": "CULINARY SPECIALTIES was started in April of 1996 by Chris Schragner working with non perishable food items out of his guest room. Due to increasing demand of the products, the business was moved into a warehouse where a few months later Patrick O'Farrell joined the operation. Still relying on outsourcing all products, and because of numerous inquiries by local chefs for customized appetizers, the company moved again into a USDA approved facility north of San Diego. Initially, the company only served the San Diego market, but word spread about the company's quality and the willingness to work ",
+   "permalink": "https://www.ransomware.live/id/Q3VsaW5hcnkgU3BlY2lhbHRpZXNAQW9xaW4",
+   "press": "",
+   "infostealer": false,
+   "id": "Q3VsaW5hcnkgU3BlY2lhbHRpZXNAQW9xaW4"
+  },
+  {
+   "victim": "Michigan State University - New DL",
+   "group": "BYOD",
+   "discovered": "2026-11-16T00:22:06.013361+00:00",
+   "attackdate": "2026-11-15T00:00:00+00:00",
+   "country": "US",
+   "activity": "Education",
+   "website": "",
+   "description": "Full Personal Identifiable Information for 1.03 million current and ex students as well as the full team in relations to MSU, we also have current and ex passwords, you were given the chance to the make the right choice. You reached out to us once and failed to maintain communications, you don't care. Shoutout to Nicholas Oas (the current chair of the Incident Response Team at Michigan State University) who ignored us after reaching out. Feel free to take a gander at it yourself, don't be shy, we (and them) certainly aren't stopping you.",
+   "permalink": "https://www.ransomware.live/id/TWljaGlnYW4gU3RhdGUgVW5pdmVyc2l0eSAtIE5ldyBETEBCWU9E",
+   "press": "",
+   "infostealer": false,
+   "id": "TWljaGlnYW4gU3RhdGUgVW5pdmVyc2l0eSAtIE5ldyBETEBCWU9E"
+  },
+  {
+   "victim": "Texas HHSC - Final Warning & Sample",
+   "group": "BYOD",
+   "discovered": "2026-11-16T00:21:46.182760+00:00",
+   "attackdate": "2026-11-15T00:00:00+00:00",
+   "country": "US",
+   "activity": "Government & Defense",
+   "website": "",
+   "description": "So much for firing your enployees for leaking ~94k records, the true flaw remained in your system leading to the whole program being compromised, it's actually laughable, 2 Million Texas Citizens, Medicaid, Banking Information, SNAP, TANF, Disaster Assistance, well, like stated it is not just that, yet, the whole program. Yikes. Anyways, you know where to find us (contact tab). We will take you down when communication has been established between our team and yours.",
+   "permalink": "https://www.ransomware.live/id/VGV4YXMgSEhTQyAtIEZpbmFsIFdhcm5pbmcgJiBTYW1wbGVAQllPRA",
+   "press": "",
+   "infostealer": false,
+   "id": "VGV4YXMgSEhTQyAtIEZpbmFsIFdhcm5pbmcgJiBTYW1wbGVAQllPRA"
+  },
   {
    "victim": "PlasmaGen Biosciences Pvt Ltd (plasmagen.co.in)",
    "group": "PixelLeaks",
@@ -1360,48 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "T25taW9uIExMQyAoTGFrZSBDb25ub3IgUGFyaywgUG9ydCBTdXNhbiBDYW1waW5nIENsdWIsIEN1cmVkIGJ5IFZpc2NvbnRpKUBpbmNyYW5zb20"
-  },
-  {
-   "victim": "Nandan Terry Pvt",
-   "group": "incransom",
-   "discovered": "2026-11-12T10:17:02.633835+00:00",
-   "attackdate": "2026-10-02T03:46:00+00:00",
-   "country": "IN",
-   "activity": "Not Found",
-   "website": "",
-   "description": "# NANDAN TERRY LTD — DATA BREACH ANNOUNCEMENT\r\n\r\n**Industry:** Textile Manufacturing (Terry Towels, Bathrobes)  \r\n**HQ:** Dholka, Ahmedabad, Gujarat, India  \r\n**Group:** Chiripal Group  \r\n**Website:** nandanterry.com  \r\n**Revenue:** ~$23M USD (₹194 Crore)  \r\n**Employees:** 500+  \r\n\r\n---\r\n\r\n## WHAT WE HAVE\r\n\r\nNandan Terry Limited's entire corporate infrastructure has been compromised. We have exfiltrated **200GB+** of data from their internal file servers including 68 workstation backups and all department shared drives.\r\n\r\n---\r\n\r\n### 🔑 CREDENTIALS & ACCESS (46+ accounts)\r\n\r\nLogin credentials ",
-   "permalink": "https://www.ransomware.live/id/TmFuZGFuIFRlcnJ5IFB2dEBpbmNyYW5zb20",
-   "press": "",
-   "infostealer": false,
-   "id": "TmFuZGFuIFRlcnJ5IFB2dEBpbmNyYW5zb20"
-  },
-  {
-   "victim": "La Filipina Uy Gongco",
-   "group": "incransom",
-   "discovered": "2026-11-12T10:16:43.606761+00:00",
-   "attackdate": "2026-10-07T02:39:00+00:00",
-   "country": "PH",
-   "activity": "Agriculture and Food Production",
-   "website": "",
-   "description": "# La Filipina Uy Gongco Corporation (LFUGGOC) — Philippines\r\n\r\n**Published:** [DATE]\r\n**Data Volume:** 278,594 files\r\n\r\n\r\n---\r\n\r\n## Company Overview\r\n\r\n**La Filipina Uy Gongco Group of Companies (LFUGGOC)** is a major Philippine conglomerate operating across multiple industries including food manufacturing, flour milling, animal feed production, sugar processing, livestock farming, port operations, logistics, and real estate.\r\n\r\n**Website:** foodgroup.ph\r\n**Headquarters:** Taguig City (BGC), Metro Manila, Philippines\r\n**Employees:** 1,500+\r\n**Annual Revenue:** Estimated PHP 15-20 billion ($270",
-   "permalink": "https://www.ransomware.live/id/TGEgRmlsaXBpbmEgVXkgR29uZ2NvQGluY3JhbnNvbQ",
-   "press": "",
-   "infostealer": false,
-   "id": "TGEgRmlsaXBpbmEgVXkgR29uZ2NvQGluY3JhbnNvbQ"
-  },
-  {
-   "victim": "ZIRNET LLC (mmplumbingny.com alpha1usa.com askconstruction.com mmplumbingny.com tristate-s...",
-   "group": "incransom",
-   "discovered": "2026-11-12T10:16:24.481110+00:00",
-   "attackdate": "2026-10-08T08:57:00+00:00",
-   "country": "US",
-   "activity": "Other",
-   "website": "",
-   "description": "# ZIRNET LLC — Managed Service Provider — FULL BREACH\r\n\r\n**Published:** October 2026\r\n**Sector:** Information Technology / Managed Services (MSP)\r\n**Location:** Port Washington, New York, USA\r\n**Website:** zirnet.com\r\n\r\n---\r\n\r\n## Summary\r\n\r\nZIRNET LLC is a Managed Service Provider (MSP) based in Long Island, New York, providing IT management, cloud services, VoIP, and network infrastructure to over 20 small and mid-size businesses across New York, New Jersey, and Florida.\r\n\r\nWe have obtained **complete access** to ZIRNET's internal servers, including **all client data they manage**. This repre",
-   "permalink": "https://www.ransomware.live/id/WklSTkVUIExMQyAobW1wbHVtYmluZ255LmNvbSBhbHBoYTF1c2EuY29tIGFza2NvbnN0cnVjdGlvbi5jb20gbW1wbHVtYmluZ255LmNvbSB0cmlzdGF0ZS1zLi4uQGluY3JhbnNvbQ",
-   "press": "",
-   "infostealer": false,
-   "id": "WklSTkVUIExMQyAobW1wbHVtYmluZ255LmNvbSBhbHBoYTF1c2EuY29tIGFza2NvbnN0cnVjdGlvbi5jb20gbW1wbHVtYmluZ255LmNvbSB0cmlzdGF0ZS1zLi4uQGluY3JhbnNvbQ"
   }
  ]
 }
