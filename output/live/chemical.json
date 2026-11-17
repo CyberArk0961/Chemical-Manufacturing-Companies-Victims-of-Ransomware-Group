@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-11-16T17:28:51.992Z",
+ "last_updated": "2026-11-17T01:06:03.069Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1788,
+ "count": 1790,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 161,
+ "chemical_matches": 160,
  "victims": [
+  {
+   "victim": "Chin Fong Machine Industrial",
+   "group": "incransom",
+   "discovered": "2026-11-17T00:14:49.002638+00:00",
+   "attackdate": "2026-11-09T22:47:00+00:00",
+   "country": "TW",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "client data, contracts, etc.",
+   "permalink": "https://www.ransomware.live/id/Q2hpbiBGb25nIE1hY2hpbmUgSW5kdXN0cmlhbEBpbmNyYW5zb20",
+   "press": "",
+   "infostealer": false,
+   "id": "Q2hpbiBGb25nIE1hY2hpbmUgSW5kdXN0cmlhbEBpbmNyYW5zb20",
+   "chemical": false
+  },
+  {
+   "victim": "IMS Messsysteme",
+   "group": "qilin",
+   "discovered": "2026-11-16T19:53:02.091502+00:00",
+   "attackdate": "2026-11-16T00:00:00+00:00",
+   "country": "DE",
+   "activity": "Manufacturing",
+   "website": "www.ims-gmbh.de",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/SU1TIE1lc3NzeXN0ZW1lQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "SU1TIE1lc3NzeXN0ZW1lQHFpbGlu",
+   "chemical": false
+  },
+  {
+   "victim": "RICK HINDERER KNOVES LLC",
+   "group": "Global Secret Group",
+   "discovered": "2026-11-16T19:22:48.648940+00:00",
+   "attackdate": "2026-11-16T19:22:04.602901+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "rickhindererknives.com",
+   "description": "Country: Columbus Rd, Shreve, US |\nWebsite: rickhindererknives.com |\nRevenue: $5-10 Million |\nIndustry: Sporting Goods Manufacturing, Retail (knives) |\nEmployees: 10-50 |\nProperties: 69.8 GB (38,636 Files, 6,103 Folders)",
+   "permalink": "https://www.ransomware.live/id/UklDSyBISU5ERVJFUiBLTk9WRVMgTExDQEdsb2JhbCBTZWNyZXQgR3JvdXA",
+   "press": "",
+   "infostealer": true,
+   "id": "UklDSyBISU5ERVJFUiBLTk9WRVMgTExDQEdsb2JhbCBTZWNyZXQgR3JvdXA",
+   "chemical": false
+  },
   {
    "victim": "Chemipharm",
    "group": "ransomhouse",
@@ -142,21 +187,6 @@
    "infostealer": false,
    "id": "U0VLSVNVSSBIT1VTRSwgTFREQG1ldGFlbmNyeXB0b3I",
    "chemical": false
-  },
-  {
-   "victim": "University of British Columbia",
-   "group": "ShadowByt3$",
-   "discovered": "2026-11-16T08:35:09.536210+00:00",
-   "attackdate": "2026-11-16T08:34:46.610720+00:00",
-   "country": "CA",
-   "activity": "Education",
-   "website": "ubc.ca",
-   "description": "We are ShadowByt3$ 2.0. We have hacked you. Contact us and negotiate or we will leak the following and our contact is below:\n\ncontact: ShadowByt3S@proton.me\n\n- Administrator: The registered admin email belongs to markturin@gmail.com.\n\n2. WordPress Database Infrastructure\nThe file outlines the creation schema and raw data blocks for several standard database tables using the ap_2_ prefix:\n\n- ap_2_options: The largest chunk of the file, containing core site settings, active plugin configurations, serialized widget spaces, security notifications, and cron schedules.\n\n- ap_2_comments & ap_2_commen",
-   "permalink": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBvZiBCcml0aXNoIENvbHVtYmlhQFNoYWRvd0J5dDMk",
-   "press": "",
-   "infostealer": true,
-   "id": "VW5pdmVyc2l0eSBvZiBCcml0aXNoIENvbHVtYmlhQFNoYWRvd0J5dDMk",
-   "chemical": true
   },
   {
    "victim": "Gorcon Construction Inc",
