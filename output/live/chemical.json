@@ -1,13 +1,43 @@
 {
- "last_updated": "2026-11-17T18:38:53.690Z",
+ "last_updated": "2026-11-18T01:19:52.888Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1787,
+ "count": 1788,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 166,
+ "chemical_matches": 165,
  "victims": [
+  {
+   "victim": "Veritiv",
+   "group": "Helix",
+   "discovered": "2026-11-18T00:51:25.437023+00:00",
+   "attackdate": "2026-11-18T00:51:23.287435+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Veritiv. Yearly revenue ~$7.1 billion yearly. 94,846,458 record rows (68.65 GB) · 309,953 files (258.52 GB). All T1 through T4 GoFile archives are live.",
+   "permalink": "https://www.ransomware.live/id/VmVyaXRpdkBIZWxpeA",
+   "press": "",
+   "infostealer": false,
+   "id": "VmVyaXRpdkBIZWxpeA",
+   "chemical": false
+  },
+  {
+   "victim": "Sonoco",
+   "group": "Helix",
+   "discovered": "2026-11-17T19:22:15.183182+00:00",
+   "attackdate": "2026-11-17T19:22:13.415263+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "Sonoco. Yearly revenue ~$6.8 billion yearly. 578,129 files (602.96 GB) across T1 through T4 GoFile archives are live.",
+   "permalink": "https://www.ransomware.live/id/U29ub2NvQEhlbGl4",
+   "press": "",
+   "infostealer": false,
+   "id": "U29ub2NvQEhlbGl4",
+   "chemical": false
+  },
   {
    "victim": "Esco Optics",
    "group": "Aoqin",
@@ -337,21 +367,6 @@
    "infostealer": false,
    "id": "U0VLSVNVSSBIT1VTRSwgTFREQG1ldGFlbmNyeXB0b3I",
    "chemical": false
-  },
-  {
-   "victim": "University of British Columbia",
-   "group": "ShadowByt3$",
-   "discovered": "2026-11-16T08:35:09.536210+00:00",
-   "attackdate": "2026-11-16T08:34:46.610720+00:00",
-   "country": "CA",
-   "activity": "Education",
-   "website": "ubc.ca",
-   "description": "We are ShadowByt3$ 2.0. We have hacked you. Contact us and negotiate or we will leak the following and our contact is below:\n\ncontact: ShadowByt3S@proton.me\n\n- Administrator: The registered admin email belongs to markturin@gmail.com.\n\n2. WordPress Database Infrastructure\nThe file outlines the creation schema and raw data blocks for several standard database tables using the ap_2_ prefix:\n\n- ap_2_options: The largest chunk of the file, containing core site settings, active plugin configurations, serialized widget spaces, security notifications, and cron schedules.\n\n- ap_2_comments & ap_2_commen",
-   "permalink": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBvZiBCcml0aXNoIENvbHVtYmlhQFNoYWRvd0J5dDMk",
-   "press": "",
-   "infostealer": true,
-   "id": "VW5pdmVyc2l0eSBvZiBCcml0aXNoIENvbHVtYmlhQFNoYWRvd0J5dDMk",
-   "chemical": true
   },
   {
    "victim": "Gorcon Construction Inc",
