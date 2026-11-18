@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-18T01:19:52.888Z",
+ "last_updated": "2026-11-18T09:12:36.788Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1788,
+ "count": 1789,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 165,
  "victims": [
+  {
+   "victim": "Wei Tai Leather Viet Nam Co., Ltd (weitai-leather.com)",
+   "group": "PixelLeaks",
+   "discovered": "2026-11-18T05:37:41.792708+00:00",
+   "attackdate": "2026-11-18T05:37:40.755123+00:00",
+   "country": "VN",
+   "activity": "Manufacturing",
+   "website": "weitai-leather.com",
+   "description": "This disclosure concerns a verified set of records from an organization in the Leather manufacturing (sports-brand supply chain) sector. The material scheduled for publication comprises a set of business records, including personnel, client, and operational material.\nDeadline: 2026-11-22 04:33 UTC",
+   "permalink": "https://www.ransomware.live/id/V2VpIFRhaSBMZWF0aGVyIFZpZXQgTmFtIENvLiwgTHRkICh3ZWl0YWktbGVhdGhlci5jb20pQFBpeGVsTGVha3M",
+   "press": "",
+   "infostealer": false,
+   "id": "V2VpIFRhaSBMZWF0aGVyIFZpZXQgTmFtIENvLiwgTHRkICh3ZWl0YWktbGVhdGhlci5jb20pQFBpeGVsTGVha3M",
+   "chemical": false
+  },
   {
    "victim": "Veritiv",
    "group": "Helix",
