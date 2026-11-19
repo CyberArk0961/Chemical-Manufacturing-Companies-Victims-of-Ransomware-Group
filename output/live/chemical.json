@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-19T17:24:24.803Z",
+ "last_updated": "2026-11-19T23:53:09.646Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1821,
+ "count": 1822,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 166,
  "victims": [
+  {
+   "victim": "Smith & Wesson",
+   "group": "Handsome Boy Hacking Club",
+   "discovered": "2026-11-19T17:17:11.704733+00:00",
+   "attackdate": "2026-11-19T17:16:53.594784+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "smith-wesson.com",
+   "description": "Smith & Wesson is an American company founded in 1852, best known for manufacturing firearms, including handguns, revolvers, and rifles. Headquartered in Maryville, Tennessee, the company is one of the oldest and most recognized firearms manufacturers in the United States. Smith & Wesson serves law enforcement, military, civilian, and sporting markets worldwide.\nIndustry: Weapons Manufacturing\nStatus: Countdown Active\nDeadline: 2026-11-20:16:00Z",
+   "permalink": "https://www.ransomware.live/id/U21pdGggJiBXZXNzb25ASGFuZHNvbWUgQm95IEhhY2tpbmcgQ2x1Yg",
+   "press": "",
+   "infostealer": true,
+   "id": "U21pdGggJiBXZXNzb25ASGFuZHNvbWUgQm95IEhhY2tpbmcgQ2x1Yg",
+   "chemical": false
+  },
   {
    "victim": "SHOPBOT TOOLS, INC.",
    "group": "SoulGroup",
