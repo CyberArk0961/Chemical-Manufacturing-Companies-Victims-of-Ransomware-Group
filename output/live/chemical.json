@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-18T18:08:01.549Z",
+ "last_updated": "2026-11-19T00:26:08.334Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1809,
+ "count": 1810,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 165,
  "victims": [
+  {
+   "victim": "Osaki",
+   "group": "qilin",
+   "discovered": "2026-11-18T21:41:45.075827+00:00",
+   "attackdate": "2026-11-18T00:00:00+00:00",
+   "country": "JP",
+   "activity": "Manufacturing",
+   "website": "www.osaki.co.jp",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/T3Nha2lAcWlsaW4",
+   "press": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582902/",
+   "infostealer": false,
+   "id": "T3Nha2lAcWlsaW4",
+   "chemical": false
+  },
   {
    "victim": "powersandsons.com",
    "group": "settra",
