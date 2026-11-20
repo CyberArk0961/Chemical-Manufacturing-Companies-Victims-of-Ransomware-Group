@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-19T23:53:09.646Z",
+ "last_updated": "2026-11-20T07:21:49.722Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1822,
+ "count": 1823,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 166,
  "victims": [
+  {
+   "victim": "SDJ Design Engineering Limited",
+   "group": "spacebears",
+   "discovered": "2026-11-20T03:55:17.506791+00:00",
+   "attackdate": "2026-11-20T03:54:55.696926+00:00",
+   "country": "GB",
+   "activity": "Manufacturing",
+   "website": "www.sdjeng.com",
+   "description": "Independent engineering consultancy specialising in the offshore energy sector.They provide design, build management and commissioning services for equipment used in the oil & gas and renewable energy industries.Practical experience combined with technical expertise — delivering solutions from concept through to fully engineered equipment.Once the timer expires, the files will be available for sale — submit your request to the operator. http://www.sdjeng.com/",
+   "permalink": "https://www.ransomware.live/id/U0RKIERlc2lnbiBFbmdpbmVlcmluZyBMaW1pdGVkQHNwYWNlYmVhcnM",
+   "press": "",
+   "infostealer": false,
+   "id": "U0RKIERlc2lnbiBFbmdpbmVlcmluZyBMaW1pdGVkQHNwYWNlYmVhcnM",
+   "chemical": false
+  },
   {
    "victim": "Smith & Wesson",
    "group": "Handsome Boy Hacking Club",
