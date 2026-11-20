@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-20T16:23:44.404Z",
+ "last_updated": "2026-11-20T22:49:44.121Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1826,
+ "count": 1827,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 168,
+ "chemical_matches": 169,
  "victims": [
+  {
+   "victim": "Calvatis GmbH",
+   "group": "aurora",
+   "discovered": "2026-11-20T18:47:53.190173+00:00",
+   "attackdate": "2026-11-20T00:00:00+00:00",
+   "country": "DE",
+   "activity": "Professional Services",
+   "website": "Calvatis GmbH",
+   "description": "[manufacturer] Calvatis GmbH — a Ladenburg, Germany-based chemical manufacturer operating since the mid-20th century, specializing in industrial cleaning and disinfection products for the food & beverage, dairy, brewing, and pharmaceutical sectors. The company operates through subsidiaries in Austria (Wels), Switzerland (Zurich), France (Sarcelles), Netherlands, Croatia/Adriatic, and maintains operations across 12+ international locations including Poland, UK, Hungary, Italy, and Spain.\n\nThe dataset comprises approximately 693 GB exfiltrated from corporate file servers, capturing IT infrastruc",
+   "permalink": "https://www.ransomware.live/id/Q2FsdmF0aXMgR21iSEBhdXJvcmE",
+   "press": "",
+   "infostealer": false,
+   "id": "Q2FsdmF0aXMgR21iSEBhdXJvcmE",
+   "chemical": true
+  },
   {
    "victim": "William Cook Holdings Limited",
    "group": "aurora",
