@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-21T03:59:54.354Z",
+ "last_updated": "2026-11-21T12:42:08.785Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 1828,
  "months": 12,
@@ -9,17 +9,32 @@
  "chemical_matches": 169,
  "victims": [
   {
+   "victim": "Vegely Welding Inc.",
+   "group": "pear",
+   "discovered": "2026-11-21T07:27:07.922834+00:00",
+   "attackdate": "2026-11-10T00:00:00+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "vegelywelding.net",
+   "description": "Specialize in the maintenance of steel structures and cranes, shipbuilding welding, on-site fabrication, manual welding, and much more",
+   "permalink": "https://www.ransomware.live/id/VmVnZWx5IFdlbGRpbmcgSW5jLkBwZWFy",
+   "press": "",
+   "infostealer": false,
+   "id": "VmVnZWx5IFdlbGRpbmcgSW5jLkBwZWFy",
+   "chemical": false
+  },
+  {
    "victim": "Lucid Motors",
    "group": "Inception",
    "discovered": "2026-11-21T02:51:53.714936+00:00",
    "attackdate": "2026-11-21T02:51:37.644393+00:00",
    "country": "US",
    "activity": "Manufacturing",
-   "website": "",
+   "website": "lucidmotors.com",
    "description": "SAP service-user IDs + email distribution lists (SDES), SAP access-provisioning process docs for non-production systems, SAP VENDOR_2 data-migration template with supplier tax IDs (SSNs), HR benefits documentation (Kaiser, VSP, Ceridian/Dayforce), Fidelity NetBenefits 401(k) contact and enrollment material, Employee equity-management (stock) office-hours material, Lithium-ion battery recycling/scrap cost estimates (trade secrets), Purchase-requisition and indirect-procurement workflows, Lucid Air test-fleet VINs, Live Atlassian API token (username + token in conf.py), Supplier network: 30+ ven",
    "permalink": "https://www.ransomware.live/id/THVjaWQgTW90b3JzQEluY2VwdGlvbg",
    "press": "",
-   "infostealer": false,
+   "infostealer": true,
    "id": "THVjaWQgTW90b3JzQEluY2VwdGlvbg",
    "chemical": false
   },
@@ -217,21 +232,6 @@
    "infostealer": false,
    "id": "R2lua2dvIEJpb3dvcmtzQGZ1bGNydW1zZWM",
    "chemical": true
-  },
-  {
-   "victim": "Samtec - 103,494,376 records",
-   "group": "Vortex",
-   "discovered": "2026-11-19T11:00:30.087475+00:00",
-   "attackdate": "2026-11-02T00:00:00+00:00",
-   "country": "US",
-   "activity": "Manufacturing",
-   "website": "",
-   "description": "Type: data held\nSalesforce org — complete: 103,494,376 records, 1,907 CSV parts, 28.53 GB (per-object rows verified by full CSV parse)\n- Order and pricing history: 16,913,059 o...",
-   "permalink": "https://www.ransomware.live/id/U2FtdGVjIC0gMTAzLDQ5NCwzNzYgcmVjb3Jkc0BWb3J0ZXg",
-   "press": "",
-   "infostealer": false,
-   "id": "U2FtdGVjIC0gMTAzLDQ5NCwzNzYgcmVjb3Jkc0BWb3J0ZXg",
-   "chemical": false
   },
   {
    "victim": "M.N. Textiles (Pvt) Ltd",
@@ -564,7 +564,7 @@
    "chemical": false
   },
   {
-   "victim": "Molex (Koch) - 16,448,279 records",
+   "victim": "Molex (Koch)",
    "group": "Vortex",
    "discovered": "2026-11-17T02:32:30.271274+00:00",
    "attackdate": "2026-11-17T02:32:14.724235+00:00",
@@ -572,10 +572,10 @@
    "activity": "Manufacturing",
    "website": "molex.com",
    "description": "Deadline: 2026-11-19T03:55:16Z",
-   "permalink": "https://www.ransomware.live/id/TW9sZXggKEtvY2gpIC0gMTYsNDQ4LDI3OSByZWNvcmRzQFZvcnRleA",
+   "permalink": "https://www.ransomware.live/id/TW9sZXggKEtvY2gpQFZvcnRleA",
    "press": "",
    "infostealer": true,
-   "id": "TW9sZXggKEtvY2gpIC0gMTYsNDQ4LDI3OSByZWNvcmRzQFZvcnRleA",
+   "id": "TW9sZXggKEtvY2gpQFZvcnRleA",
    "chemical": false
   },
   {
