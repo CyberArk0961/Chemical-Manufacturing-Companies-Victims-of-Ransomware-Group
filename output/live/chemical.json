@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-20T22:49:44.121Z",
+ "last_updated": "2026-11-21T03:59:54.354Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1827,
+ "count": 1828,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 169,
  "victims": [
+  {
+   "victim": "Lucid Motors",
+   "group": "Inception",
+   "discovered": "2026-11-21T02:51:53.714936+00:00",
+   "attackdate": "2026-11-21T02:51:37.644393+00:00",
+   "country": "US",
+   "activity": "Manufacturing",
+   "website": "",
+   "description": "SAP service-user IDs + email distribution lists (SDES), SAP access-provisioning process docs for non-production systems, SAP VENDOR_2 data-migration template with supplier tax IDs (SSNs), HR benefits documentation (Kaiser, VSP, Ceridian/Dayforce), Fidelity NetBenefits 401(k) contact and enrollment material, Employee equity-management (stock) office-hours material, Lithium-ion battery recycling/scrap cost estimates (trade secrets), Purchase-requisition and indirect-procurement workflows, Lucid Air test-fleet VINs, Live Atlassian API token (username + token in conf.py), Supplier network: 30+ ven",
+   "permalink": "https://www.ransomware.live/id/THVjaWQgTW90b3JzQEluY2VwdGlvbg",
+   "press": "",
+   "infostealer": false,
+   "id": "THVjaWQgTW90b3JzQEluY2VwdGlvbg",
+   "chemical": false
+  },
   {
    "victim": "Calvatis GmbH",
    "group": "aurora",
