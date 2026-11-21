@@ -1,13 +1,58 @@
 {
- "last_updated": "2026-11-21T12:42:08.785Z",
+ "last_updated": "2026-11-21T19:49:14.151Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1828,
+ "count": 1831,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 169,
+ "chemical_matches": 172,
  "victims": [
+  {
+   "victim": "tiic.com.ph",
+   "group": "safepay",
+   "discovered": "2026-11-21T18:34:09.356004+00:00",
+   "attackdate": "2026-11-21T18:33:07.087314+00:00",
+   "country": "PH",
+   "activity": "Other",
+   "website": "tiic.com.ph",
+   "description": "Established in the 1950s, the company has developed into an established manufacturer and supplier of industrial chemicals, paints, construction materials, …",
+   "permalink": "https://www.ransomware.live/id/dGlpYy5jb20ucGhAc2FmZXBheQ",
+   "press": "",
+   "infostealer": true,
+   "id": "dGlpYy5jb20ucGhAc2FmZXBheQ",
+   "chemical": true
+  },
+  {
+   "victim": "threeroyal.com",
+   "group": "safepay",
+   "discovered": "2026-11-21T18:32:47.204185+00:00",
+   "attackdate": "2026-11-21T18:31:59.630293+00:00",
+   "country": "TW",
+   "activity": "Other",
+   "website": "threeroyal.com",
+   "description": "The company specializes in the chemical manufacturing industry, particularly in the development and production of UV-curable materials, adhesives, coatings, and …",
+   "permalink": "https://www.ransomware.live/id/dGhyZWVyb3lhbC5jb21Ac2FmZXBheQ",
+   "press": "",
+   "infostealer": false,
+   "id": "dGhyZWVyb3lhbC5jb21Ac2FmZXBheQ",
+   "chemical": true
+  },
+  {
+   "victim": "pacifico.com.ar",
+   "group": "safepay",
+   "discovered": "2026-11-21T18:29:55.300437+00:00",
+   "attackdate": "2026-11-21T18:29:39.158817+00:00",
+   "country": "AR",
+   "activity": "Financial Services",
+   "website": "pacifico.com.ar",
+   "description": "The company specializes in the national and international supply, distribution, and logistics of industrial raw materials, chemical products, and finished …",
+   "permalink": "https://www.ransomware.live/id/cGFjaWZpY28uY29tLmFyQHNhZmVwYXk",
+   "press": "",
+   "infostealer": false,
+   "id": "cGFjaWZpY28uY29tLmFyQHNhZmVwYXk",
+   "chemical": true
+  },
   {
    "victim": "Vegely Welding Inc.",
    "group": "pear",
