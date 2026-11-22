@@ -1,8 +1,36 @@
 {
- "last_updated": "2026-11-22T00:21:54.540Z",
+ "last_updated": "2026-11-22T07:29:54.915Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Data Breach at O&M University in the Dominican Republic",
+   "group": "HYFLOCK",
+   "discovered": "2026-11-22T07:22:04.482665+00:00",
+   "attackdate": "2026-11-22T07:00:29+00:00",
+   "country": "DO",
+   "activity": "Education",
+   "website": "udoym.edu.do",
+   "description": "O&M University of the Dominican Republic (udoym.edu.do) is an institution of higher education in the Dominican Republic founded in 1966. The following is an overview of key information from the website: Campus Locations (Recintos) The university has multiple campuses and colleges throughout the Dominican Republic, including: • Main Campus: Sede Central (located at 200 Avenida de la Independencia, Santo Domingo) • School of Medicine: Escuela de Medicina O&MED • Branch Campuses: East Santo Domingo, West Santo Domingo, Santiago, La Romana, Puerto Plata, Moca, San José de Ocoa Academic Programs (O",
+   "permalink": "https://www.ransomware.live/id/RGF0YSBCcmVhY2ggYXQgTyZNIFVuaXZlcnNpdHkgaW4gdGhlIERvbWluaWNhbiBSZXB1YmxpY0BIWUZMT0NL",
+   "press": "",
+   "infostealer": true,
+   "id": "RGF0YSBCcmVhY2ggYXQgTyZNIFVuaXZlcnNpdHkgaW4gdGhlIERvbWluaWNhbiBSZXB1YmxpY0BIWUZMT0NL"
+  },
+  {
+   "victim": "Invicta Watch Group",
+   "group": "qilin",
+   "discovered": "2026-11-22T07:13:44.496203+00:00",
+   "attackdate": "2026-11-22T00:00:00+00:00",
+   "country": "US",
+   "activity": "Retail & E-Commerce",
+   "website": "www.invictawatch.com",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/SW52aWN0YSBXYXRjaCBHcm91cEBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "SW52aWN0YSBXYXRjaCBHcm91cEBxaWxpbg"
+  },
   {
    "victim": "F5A",
    "group": "medusalocker",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "QXVyb3JhIEhlYWx0aCBNYW5hZ2VtZW50QFNvdWxHcm91cA"
-  },
-  {
-   "victim": "Metro Tulsa Foot",
-   "group": "SoulGroup",
-   "discovered": "2026-11-19T14:05:18.977894+00:00",
-   "attackdate": "2026-11-19T14:04:52.654218+00:00",
-   "country": "US",
-   "activity": "Healthcare",
-   "website": "tulsafoot.com",
-   "description": "A comprehensive foot and ankle treatment center with five locations in the Tulsa Metro area. They offer a range of services including treatment for common foot pains, deformities, and injuries, and provide same-day appointments for urgent needs. Sector: Hospitals & Physicians Clinics. Location: Broken Arrow, Oklahoma. Revenue: $5.7 million. Employees: 11-50.",
-   "permalink": "https://www.ransomware.live/id/TWV0cm8gVHVsc2EgRm9vdEBTb3VsR3JvdXA",
-   "press": "",
-   "infostealer": false,
-   "id": "TWV0cm8gVHVsc2EgRm9vdEBTb3VsR3JvdXA"
-  },
-  {
-   "victim": "Clinica Pajonal - Clinica Urus - Clinica Putumayo - Clinicia Casanare | MoMentum Holding —...",
-   "group": "Whitearmor",
-   "discovered": "2026-11-19T14:04:46.389268+00:00",
-   "attackdate": "2026-11-19T12:30:00+00:00",
-   "country": "CO",
-   "activity": "Healthcare",
-   "website": "",
-   "description": "MoMentum Holding is the umbrella brand of the former Grupo Empresarial Uros: MoMentum Salud Renal, MoMentum Clínicas and MoMentum CFIM. Four private clinics in Colombia, medium and high complexity, all running the same in-house UROSOFT platform built and operated by ICT ZOMAC.\n\nLast time, with Clínica La Sagrada Familia, nobody answered. We are not playing.\n\nWe hold, in short: 488,059 patient identities with Colombian government IDs, 485,000+ admissions, 1,000,000+ invoices, 545M+ database rows, complete clinical histories, diagnoses, lab results, billing and CUFE invoices, and unsalted MD5 st",
-   "permalink": "https://www.ransomware.live/id/Q2xpbmljYSBQYWpvbmFsIC0gQ2xpbmljYSBVcnVzIC0gQ2xpbmljYSBQdXR1bWF5byAtIENsaW5pY2lhIENhc2FuYXJlIHwgTW9NZW50dW0gSG9sZGluZyDigJQuLi5AV2hpdGVhcm1vcg",
-   "press": "",
-   "infostealer": false,
-   "id": "Q2xpbmljYSBQYWpvbmFsIC0gQ2xpbmljYSBVcnVzIC0gQ2xpbmljYSBQdXR1bWF5byAtIENsaW5pY2lhIENhc2FuYXJlIHwgTW9NZW50dW0gSG9sZGluZyDigJQuLi5AV2hpdGVhcm1vcg"
   }
  ]
 }
