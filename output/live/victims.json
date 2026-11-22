@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-11-22T15:42:08.122Z",
+ "last_updated": "2026-11-22T21:17:50.994Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Viapan Group",
+   "group": "qilin",
+   "discovered": "2026-11-22T19:36:08.022823+00:00",
+   "attackdate": "2026-11-22T00:00:00+00:00",
+   "country": "HU",
+   "activity": "Other",
+   "website": "www.viapan.hu/hu",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/VmlhcGFuIEdyb3VwQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "VmlhcGFuIEdyb3VwQHFpbGlu"
+  },
   {
    "victim": "persistent.com",
    "group": "incransom",
@@ -204,7 +218,7 @@
    "group": "thegentlemen",
    "discovered": "2026-11-21T20:12:41.191962+00:00",
    "attackdate": "2026-11-18T21:37:19+00:00",
-   "country": "SG",
+   "country": "TW",
    "activity": "Technology",
    "website": "micb2b.com",
    "description": "micb2b.com Revenue $1.8 Billion Marketech International Corp. (帆宣, TWSE: 6196), is a Taiwanese semiconductor facility engineering and equipment firm founded 27 December 1988 by Margaret Kao and Scott Lin, based at 6F, No. 3-2, Yuanqu Street, Nangang District, Taipei.\nIt runs four businesses: equipment and materials sales and service, automated gas and chemical supply systems, integrated MEP and cleanroom systems, and custom OEM/ODM equipment manufacturing.\n2025 brought NT$51.57 billion of revenue, NT$3.17 billion of net income and record EPS of NT$15.50 on a 10.96 percent gross margin.\nNine mo",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": true,
    "id": "TWlkLUN1bWJlcmxhbmQgSHVtYW4gUmVzb3VyY2UgQWdlbmN5QFNvdWxHcm91cA"
-  },
-  {
-   "victim": "The Vant Group",
-   "group": "SoulGroup",
-   "discovered": "2026-11-19T14:10:42.080526+00:00",
-   "attackdate": "2026-11-19T14:10:15.765616+00:00",
-   "country": "US",
-   "activity": "Professional Services",
-   "website": "thevantgroup.com",
-   "description": "The Vant Group, founded in 1999, is an M&A advisory firm serving businesses up to $250M in revenue. It provides valuations, sell/buy-side advisory, and employee/partner buyouts, leveraging experienced professionals. Clients are mainly entrepreneurs and owners. Sector: Business Services & Finance General. Location: Dallas, Texas. Revenue: $15.7 million. Employees: 11-50.",
-   "permalink": "https://www.ransomware.live/id/VGhlIFZhbnQgR3JvdXBAU291bEdyb3Vw",
-   "press": "",
-   "infostealer": false,
-   "id": "VGhlIFZhbnQgR3JvdXBAU291bEdyb3Vw"
   }
  ]
 }
