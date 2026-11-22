@@ -1,5 +1,5 @@
 {
- "last_updated": "2026-11-22T00:21:54.560Z",
+ "last_updated": "2026-11-22T15:42:08.141Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 1832,
  "months": 12,
@@ -21582,7 +21582,7 @@
    "victim": "LSA International",
    "group": "thegentlemen",
    "discovered": "2026-02-13T17:48:08.921268+00:00",
-   "attackdate": "2023-02-28T06:59:00+00:00",
+   "attackdate": "2026-02-13T17:48:08.921268+00:00",
    "country": "GB",
    "activity": "Manufacturing",
    "website": "lsa-international.com",
