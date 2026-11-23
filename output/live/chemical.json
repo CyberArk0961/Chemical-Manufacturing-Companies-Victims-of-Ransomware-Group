@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-11-22T21:17:51.013Z",
+ "last_updated": "2026-11-23T01:59:22.792Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1832,
+ "count": 1831,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 173,
+ "chemical_matches": 172,
  "victims": [
   {
    "victim": "Marketech International",
@@ -187,21 +187,6 @@
    "infostealer": true,
    "id": "U21pdGggJiBXZXNzb25ASGFuZHNvbWUgQm95IEhhY2tpbmcgQ2x1Yg",
    "chemical": false
-  },
-  {
-   "victim": "SHOPBOT TOOLS, INC.",
-   "group": "SoulGroup",
-   "discovered": "2026-11-19T14:15:17.233872+00:00",
-   "attackdate": "2026-11-19T14:14:51.536601+00:00",
-   "country": "US",
-   "activity": "Retail & E-Commerce",
-   "website": "shopbottools.com",
-   "description": "American machinery manufacturer specializing in CNC routers and computer-controlled cutting systems for woodworking, plastics, and other materials. Sector: Manufacturing Company. Location: Durham, North Carolina, USA. Revenue: $0.8 million. Employees: 11-50. Deadline: 2026-11-17 08:00 UTC.",
-   "permalink": "https://www.ransomware.live/id/U0hPUEJPVCBUT09MUywgSU5DLkBTb3VsR3JvdXA",
-   "press": "",
-   "infostealer": true,
-   "id": "U0hPUEJPVCBUT09MUywgSU5DLkBTb3VsR3JvdXA",
-   "chemical": true
   },
   {
    "victim": "Merritt Woodwork",
