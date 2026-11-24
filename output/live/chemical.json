@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-23T22:41:13.024Z",
+ "last_updated": "2026-11-24T06:27:17.419Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1840,
+ "count": 1841,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 169,
  "victims": [
+  {
+   "victim": "Toyota Chihuahua",
+   "group": "qilin",
+   "discovered": "2026-11-23T23:22:35.483911+00:00",
+   "attackdate": "2026-11-23T00:00:00+00:00",
+   "country": "MX",
+   "activity": "Manufacturing",
+   "website": "www.toyotahg.mx",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/VG95b3RhIENoaWh1YWh1YUBxaWxpbg",
+   "press": "",
+   "infostealer": false,
+   "id": "VG95b3RhIENoaWh1YWh1YUBxaWxpbg",
+   "chemical": false
+  },
   {
    "victim": "Kopron S.p.A.",
    "group": "aurora",
@@ -3627,7 +3642,7 @@
    "victim": "Saddlers Court MFG",
    "group": "play",
    "discovered": "2026-10-13T00:36:48.095988+00:00",
-   "attackdate": "2026-10-13T00:36:32.588329+00:00",
+   "attackdate": "2026-09-22T00:00:00+00:00",
    "country": "GB",
    "activity": "Manufacturing",
    "website": "www.saddlerscourtmfg.com",
