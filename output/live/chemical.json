@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-25T02:48:59.765Z",
+ "last_updated": "2026-11-25T13:01:04.319Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1848,
+ "count": 1849,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 165,
+ "chemical_matches": 166,
  "victims": [
+  {
+   "victim": "Camsons Pty Ltd",
+   "group": "spacebears",
+   "discovered": "2026-11-25T02:44:02.668592+00:00",
+   "attackdate": "2026-11-25T02:43:42.216103+00:00",
+   "country": "AU",
+   "activity": "Other",
+   "website": "camsons.com.au",
+   "description": "Camsons Pty Ltd is a 100% family-owned Australian bulk tipper transport company founded in the early 1950s. It specialises in the supply, delivery, and transport of quarry products, raw materials, feed, fertilisers, and contaminated materials across the Sydney Basin, regional NSW, and interstate. The company operates a modern fleet (Truck & Dog, semi-trailers, A-doubles) with an annual capacity exceeding 1.2 million tonnes and provides 24-hour service six days a week from its base in Minchinbury, Western Sydney.*once the timer expires, the files will be available for sale — submit your request",
+   "permalink": "https://www.ransomware.live/id/Q2Ftc29ucyBQdHkgTHRkQHNwYWNlYmVhcnM",
+   "press": "",
+   "infostealer": true,
+   "id": "Q2Ftc29ucyBQdHkgTHRkQHNwYWNlYmVhcnM",
+   "chemical": true
+  },
   {
    "victim": "Twyford International and Sunda Group/Inter",
    "group": "Climax Inc",
