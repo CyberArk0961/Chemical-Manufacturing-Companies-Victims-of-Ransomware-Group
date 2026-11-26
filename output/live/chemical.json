@@ -1,13 +1,28 @@
 {
- "last_updated": "2026-11-26T04:27:18.566Z",
+ "last_updated": "2026-11-26T14:30:21.276Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1857,
+ "count": 1858,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
  "chemical_matches": 166,
  "victims": [
+  {
+   "victim": "E Xing Precision Design",
+   "group": "Orova",
+   "discovered": "2026-11-26T13:54:08.057555+00:00",
+   "attackdate": "2026-11-26T00:00:00+00:00",
+   "country": "SG",
+   "activity": "Manufacturing",
+   "website": "exing.com.sg",
+   "description": "E Xing Precision Design Pte Ltd has been a trusted partner delivering cost-efficient and dynamic solutions. Our team is committed to designing, manufacturing, and distributing high-quality products that enhance customer success and competitiveness — with customization that never compromises on quality or efficiency.",
+   "permalink": "https://www.ransomware.live/id/RSBYaW5nIFByZWNpc2lvbiBEZXNpZ25AT3JvdmE",
+   "press": "",
+   "infostealer": false,
+   "id": "RSBYaW5nIFByZWNpc2lvbiBEZXNpZ25AT3JvdmE",
+   "chemical": false
+  },
   {
    "victim": "Koh Young Technology",
    "group": "everest",
@@ -45,11 +60,11 @@
    "attackdate": "2026-11-18T22:08:18.830505+00:00",
    "country": "US",
    "activity": "Manufacturing",
-   "website": "",
+   "website": "mattel.com",
    "description": "toys and family entertainment · United States | A staff directory with names and email addresses for 29 employees of a major toy manufacturer, including who holds storefront administration access across its brand storefronts; The storefront account census for the brand family | [NOT PAID — EXPOSED]\n\nInitially listed anonymously by N0n as \"Company #232\" on 2026-11-18.",
    "permalink": "https://www.ransomware.live/id/TWF0dGVsQE4wbg",
    "press": "",
-   "infostealer": false,
+   "infostealer": true,
    "id": "TWF0dGVsQE4wbg",
    "chemical": false
   },
