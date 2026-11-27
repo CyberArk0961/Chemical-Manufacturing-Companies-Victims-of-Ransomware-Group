@@ -1,8 +1,50 @@
 {
- "last_updated": "2026-11-27T15:37:44.014Z",
+ "last_updated": "2026-11-27T23:45:03.912Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Samlut and Company, P.A.",
+   "group": "incransom",
+   "discovered": "2026-11-27T23:00:19.875313+00:00",
+   "attackdate": "2026-11-27T21:40:00+00:00",
+   "country": "US",
+   "activity": "Professional Services",
+   "website": "",
+   "description": "Samlut & Company, PA is an American accounting and auditing firm founded in 1997.",
+   "permalink": "https://www.ransomware.live/id/U2FtbHV0IGFuZCBDb21wYW55LCBQLkEuQGluY3JhbnNvbQ",
+   "press": "",
+   "infostealer": false,
+   "id": "U2FtbHV0IGFuZCBDb21wYW55LCBQLkEuQGluY3JhbnNvbQ"
+  },
+  {
+   "victim": "Cinelandia S.p.A",
+   "group": "incransom",
+   "discovered": "2026-11-27T21:46:09.068678+00:00",
+   "attackdate": "2026-11-27T20:31:00+00:00",
+   "country": "IT",
+   "activity": "Hospitality",
+   "website": "",
+   "description": "Cinelandia S.p.A. is an Italian company that owns a large chain of modern multiplex cinemas and entertainment centers.",
+   "permalink": "https://www.ransomware.live/id/Q2luZWxhbmRpYSBTLnAuQUBpbmNyYW5zb20",
+   "press": "",
+   "infostealer": false,
+   "id": "Q2luZWxhbmRpYSBTLnAuQUBpbmNyYW5zb20"
+  },
+  {
+   "victim": "Brit Ltd / Brit Insurance (britinsurance.com)",
+   "group": "incransom",
+   "discovered": "2026-11-27T16:10:45.427021+00:00",
+   "attackdate": "2026-11-27T15:28:00+00:00",
+   "country": "GB",
+   "activity": "Financial Services",
+   "website": "britinsurance.com",
+   "description": "Brit Group Holdings Limited is a large international group operating in the commercial insurance and reinsurance sector, with its headquarters in London, United Kingdom.",
+   "permalink": "https://www.ransomware.live/id/QnJpdCBMdGQgLyBCcml0IEluc3VyYW5jZSAoYnJpdGluc3VyYW5jZS5jb20pQGluY3JhbnNvbQ",
+   "press": "",
+   "infostealer": true,
+   "id": "QnJpdCBMdGQgLyBCcml0IEluc3VyYW5jZSAoYnJpdGluc3VyYW5jZS5jb20pQGluY3JhbnNvbQ"
+  },
   {
    "victim": "rogers-group",
    "group": "iah6477",
@@ -774,20 +816,6 @@
    "id": "U2NyYXBib29rLmNvbUBOMG4"
   },
   {
-   "victim": "Scanbuy",
-   "group": "N0n",
-   "discovered": "2026-11-25T22:35:05.723812+00:00",
-   "attackdate": "2026-11-18T22:10:18.086259+00:00",
-   "country": "US",
-   "activity": "Technology",
-   "website": "scanbuy.com",
-   "description": "mobile engagement and QR code technology · United States | iOS device demographics with IP addresses and age ranges, July 2023: 3,285,337 records; Android device demographics with IP addresses and age ranges, July 2023: 3,089,614 records; iOS device matchkeys with hashed identifier crosswalks, July 2023: 620,885 records | [NOT PAID — EXPOSED]\n\nInitially listed anonymously by N0n as \"Company #235\" on 2026-11-18.",
-   "permalink": "https://www.ransomware.live/id/U2NhbmJ1eUBOMG4",
-   "press": "",
-   "infostealer": false,
-   "id": "U2NhbmJ1eUBOMG4"
-  },
-  {
    "victim": "Primary Arms",
    "group": "N0n",
    "discovered": "2026-11-25T22:34:22.075570+00:00",
@@ -1374,34 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q29tcGFueSAjMjgxQE4wbg"
-  },
-  {
-   "victim": "Company #280",
-   "group": "N0n",
-   "discovered": "2026-11-25T13:54:13.022397+00:00",
-   "attackdate": "2026-11-25T13:53:53.590106+00:00",
-   "country": "US",
-   "activity": "Not Found",
-   "website": "",
-   "description": "electronics manufacturing · United States | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMjgwQE4wbg",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjMjgwQE4wbg"
-  },
-  {
-   "victim": "Company #279",
-   "group": "N0n",
-   "discovered": "2026-11-25T13:53:34.715533+00:00",
-   "attackdate": "2026-11-25T13:53:15.395737+00:00",
-   "country": "NO",
-   "activity": "Not Found",
-   "website": "",
-   "description": "renewable energy and fiber infrastructure · Norway | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMjc5QE4wbg",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjMjc5QE4wbg"
   }
  ]
 }
