@@ -1,12 +1,12 @@
 {
- "last_updated": "2026-11-26T23:21:22.940Z",
+ "last_updated": "2026-11-27T05:24:00.444Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
- "count": 1859,
+ "count": 1857,
  "months": 12,
  "sectors": [
   "Manufacturing"
  ],
- "chemical_matches": 166,
+ "chemical_matches": 165,
  "victims": [
   {
    "victim": "Mattel",
@@ -157,21 +157,6 @@
    "infostealer": false,
    "id": "RWxwcm8gR21iSEBhdXJvcmE",
    "chemical": false
-  },
-  {
-   "victim": "Camsons Pty Ltd",
-   "group": "spacebears",
-   "discovered": "2026-11-25T02:44:02.668592+00:00",
-   "attackdate": "2026-11-25T02:43:42.216103+00:00",
-   "country": "AU",
-   "activity": "Other",
-   "website": "camsons.com.au",
-   "description": "Camsons Pty Ltd is a 100% family-owned Australian bulk tipper transport company founded in the early 1950s. It specialises in the supply, delivery, and transport of quarry products, raw materials, feed, fertilisers, and contaminated materials across the Sydney Basin, regional NSW, and interstate. The company operates a modern fleet (Truck & Dog, semi-trailers, A-doubles) with an annual capacity exceeding 1.2 million tonnes and provides 24-hour service six days a week from its base in Minchinbury, Western Sydney.*once the timer expires, the files will be available for sale — submit your request",
-   "permalink": "https://www.ransomware.live/id/Q2Ftc29ucyBQdHkgTHRkQHNwYWNlYmVhcnM",
-   "press": "",
-   "infostealer": true,
-   "id": "Q2Ftc29ucyBQdHkgTHRkQHNwYWNlYmVhcnM",
-   "chemical": true
   },
   {
    "victim": "Twyford International and Sunda Group/Inter",
@@ -666,21 +651,6 @@
    "press": "",
    "infostealer": false,
    "id": "RWd5cHRpYW4gU3RlZWwgQ29tcGFueUBTb3VsR3JvdXA",
-   "chemical": false
-  },
-  {
-   "victim": "OSWALD Elektromotoren GmbH",
-   "group": "ransomhouse",
-   "discovered": "2026-11-19T12:22:12.281739+00:00",
-   "attackdate": "2026-10-23T00:00:00+00:00",
-   "country": "DE",
-   "activity": "Manufacturing",
-   "website": "www.oswald.de",
-   "description": "Oswald Elektromotoren GmbH is a family-owned German company based in Miltenberg, Bavaria, founded in 1909 and now run by the fourth generation of the founding family. The company specializes in the engineering and manufacture of custom-built electric motors and generators with power ratings from 10 to 3,500 kW, serving a wide range of industries, including automotive, renewable energy, and shipbuilding. It is known for its innovative solutions — particularly in direct-drive torque motors delivering high torque, a segment in which it is one of the world's leading manufacturers. All products are",
-   "permalink": "https://www.ransomware.live/id/T1NXQUxEIEVsZWt0cm9tb3RvcmVuIEdtYkhAcmFuc29taG91c2U",
-   "press": "",
-   "infostealer": false,
-   "id": "T1NXQUxEIEVsZWt0cm9tb3RvcmVuIEdtYkhAcmFuc29taG91c2U",
    "chemical": false
   },
   {
