@@ -1,8 +1,22 @@
 {
- "last_updated": "2026-11-27T23:45:03.912Z",
+ "last_updated": "2026-11-28T05:00:51.773Z",
  "source": "ransomware.live API PRO – https://www.ransomware.live (leak-site claims, not confirmed incidents)",
  "count": 100,
  "victims": [
+  {
+   "victim": "Thomas More University of Applied Sciences",
+   "group": "qilin",
+   "discovered": "2026-11-28T03:44:02.468503+00:00",
+   "attackdate": "2026-11-27T00:00:00+00:00",
+   "country": "BE",
+   "activity": "Education",
+   "website": "www.thomasmore.be",
+   "description": "N/A",
+   "permalink": "https://www.ransomware.live/id/VGhvbWFzIE1vcmUgVW5pdmVyc2l0eSBvZiBBcHBsaWVkIFNjaWVuY2VzQHFpbGlu",
+   "press": "",
+   "infostealer": false,
+   "id": "VGhvbWFzIE1vcmUgVW5pdmVyc2l0eSBvZiBBcHBsaWVkIFNjaWVuY2VzQHFpbGlu"
+  },
   {
    "victim": "Samlut and Company, P.A.",
    "group": "incransom",
@@ -1388,20 +1402,6 @@
    "press": "",
    "infostealer": false,
    "id": "Q29tcGFueSAjMjgyQE4wbg"
-  },
-  {
-   "victim": "Company #281",
-   "group": "N0n",
-   "discovered": "2026-11-25T13:54:52.694862+00:00",
-   "attackdate": "2026-11-25T13:54:31.619632+00:00",
-   "country": "DE",
-   "activity": "Not Found",
-   "website": "",
-   "description": "printing, lettershop and social services · Germany | [PENDING EXPOSURE]",
-   "permalink": "https://www.ransomware.live/id/Q29tcGFueSAjMjgxQE4wbg",
-   "press": "",
-   "infostealer": false,
-   "id": "Q29tcGFueSAjMjgxQE4wbg"
   }
  ]
 }
